@@ -1,1 +1,4 @@
-Empty homepage
+- <span style="color:rgb(255, 0, 0)">Red font is used for notes to myself (meaning, things like "add source", or to write out something I am confused about and need to do additional research into).</span>
+- <span style="color:rgb(112, 48, 160)">Purple font is sometimes used when I am presenting an example of something </span>
+- <span style="color:rgb(255, 192, 0)">Yellow is used to present a counterargument to the original point being discussed</span>
+- <span style="color:rgb(146, 208, 80)">Green is used to counter the counterpoints. Think of it like the yellow font is one side, fighting against the original point, and the green font is defending the original point.</span>
