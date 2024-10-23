@@ -324,7 +324,7 @@
 [^3]: Rav Aharon Lopiansky : Litta Trip Shiur #11
 [^4]: [Wikipedia : Volozhin Yeshiva (specific location in article)](https://en.wikipedia.org/wiki/Volozhin_Yeshiva#:~:text=The%20Volozhin%20Yeshiva%20was%20founded%20around%201803%5B1%5D%5B2%5D%20(potentially%2C%20as%20late%20as%201807)%5B5%5D%20by%20Rabbi%20%E1%B8%A4ayyim%20Volozhiner.)
 [^5]: [2000 Years of Jewish History, by Rabbi Chaim Schloss : pg 301](https://books.google.com/books?id=OV9jKGJzg3QC&pg=PA301#v=onepage&q&f=false)
-[^6]: [Wikipedia : Rav Itzelle Volozhiner (specific location in article)](https://en.wikipedia.org/wiki/Yitzhak_of_Volozhin#:~:text=Died-,16%20June%201849,-(aged%C2%A068%E2%80%9369)
+[^6]: [Wikipedia : Rav Itzelle Volozhiner (specific location in article)](https://en.wikipedia.org/wiki/Yitzhak_of_Volozhin#:~:text=Died-,16%20June%201849,-(aged%C2%A068%E2%80%9369))
 [^7]: [Wikipedia : Volozhin Yeshiva (specific location in article)](https://en.wikipedia.org/wiki/Volozhin_Yeshiva#:~:text=Rabbi%20Eliezer%20Fried,after%2C%20in%201854)
 [^8]: [JewishHistory.org : Legendary Court Case: Who Would Lead The Volozhin Yeshiva? (specific location in article)](https://www.jewishhistory.org/legendary-court-case-who-would-lead-the-volozhin-yeshiva/#:~:text=which%20left%20open,objective%20third%20party.)
 [^9]:  [JewishHistory.org : Legendary Court Case: Who Would Lead The Volozhin Yeshiva? (specific location in article)](https://www.jewishhistory.org/legendary-court-case-who-would-lead-the-volozhin-yeshiva/#:~:text=The%20final%20decision%20defied%20expectations%3A%20the%20Netziv%20would%20be%20the%20head%20of%20the%20yeshiva.)
