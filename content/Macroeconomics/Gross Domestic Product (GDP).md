@@ -1,4 +1,4 @@
-*Note: Unless otherwise indicated, GDP refers to [[#Real GDP|real GDP]], not [[#Nominal GDP|nominal GDP]].*
+*Note: Unless otherwise indicated, "GDP" refers to [[#Real GDP|real GDP]], not [[#Nominal GDP|nominal GDP]].*
 # Basic Definition
 1. The market value of all finished goods and services produced within a country, in a year.[^1]
 # Explanation
@@ -83,11 +83,10 @@
 1. Even countries the lowest GDP per capita today are doing better than many countries in years past in a variety of ways, such as:
 	1. Life expectancy.
 	   <span style="color:rgb(112, 48, 160)">Example:</span> In 2024, Nigeria was the country with the lowest life expectancy,[^8] at 54 years.[^9] In 1820, the average life expectancy in the countries with the highest life expectancy was just over 40 years.[^10]
-	   This is because of things increased technology which led to better access to food and clean drinking water, as well as advances in sanitation and medical care.[^11]
+	   This is because of increased technology which lead to better access to food and clean drinking water, as well as advances in sanitation and medical care.[^11]
 # GDP Growth
 1. GDP in the United States has grown at a steady rate since the 1800s: about 2% a year.[^11]
-## Rule of 70
-1. A good way to estimate how long it will take for a  
+2. This means that the US GDP has doubled approximately once every 35 years.[^11] (This can be easily estimated using the [[Estimating Doubling Time#Rule of 70|Rule of 70]].)
 # Footnotes
 
 [^1]: [Marginal Revolution University : What is GDP?](https://mru.org/courses/principles-economics-macroeconomics/gross-domestic-product-definition-what-is-gdp)

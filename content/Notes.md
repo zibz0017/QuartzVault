@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 - One needs to destroy their chametz to be mekayem the mitzva of tashbisu.[^1]
 - The preferable method for destroying chametz is by burning it. This is because according to one shitah, we learn the destruction of chametz from the destruction of nossar, which was done through burning. This is certainly so if one finds chametz after the zman issur {<span style="color:rgb(255, 0, 0)">link to that</span>} or on yom tov itself.[^2] (meaning that at this point, the person is not able to be mefkir the chametz as discussed {<span style="color:rgb(255, 0, 0)">link to that</span>} and so one has to especially makpid to destory the chametz.)
 - When one burns chametz, it needs to be burned down to coal[^3] (or ash, I assume).
@@ -58,15 +62,15 @@
 - You can hint to a goy on erev shabbos to do something on shabbos. One can not hint to a goy on shabbos itself.[^30]
 - Even in this case, though, a Jew may only get hanah from the action if is a דבר שאין גוף הישראל נהנה, for example, if there is a light on in a room and the goy lights another light {<span style="color:rgb(255, 0, 0)">Link to an explanation</span>}. If not, a Jew may not get hanah from the action of the goy until after shabbos.[^31]
 - You can tell a goy to buy something for himself on shabbos and that you might buy it from the goy after shabbos, even if this convinces the goy that you will actually buy it from him.[^32] (Does this apply to additional cases other than buying and selling?)
-- You can tell a goy on erev shabbos to do something if you do not tell him when you want him to do it, even if the goy ends up doing it on shabbos.[^34]
-- If the only day that it is reasonably possible for the goy to do what he was asked is on shabbos (for example, you ask the goy to buy something for you and the only market day is shabbos), then this is as if you explicitly told the goy to buy the thing for you on shabbos and is assur.[^33]
-- However, if it is slightly reasonable for the goy to do it on a different day (for example, there is a smaller market day on a different day), then this is muttar.[^33] (Practically, one should probably speak to a rov about what exactly is considered "slightly reasonable".)
-- You also can't make it obvious that you need the goy to do the melacha on shabbos without explicitly telling him (for example, if the market is open on multiple days, but you tell the goy that you are leaving on motzai shabbos).[^33]
-- It is a machlokes if one is allowed to get hanah from the item if the goy decides to do the melacha on shabbos (meaning, in a case that the Jew properly didn't tell the goy to do the mekacha on shabbos and that it is at least reasonable that the goy would be able to do the melacha on a different day).[^33]
+- You can tell a goy on erev shabbos to do something if you do not tell him when you want him to do it, even if the goy ends up doing it on shabbos.[^33]
+- If the only day that it is reasonably possible for the goy to do what he was asked is on shabbos (for example, you ask the goy to buy something for you and the only market day is shabbos), then this is as if you explicitly told the goy to buy the thing for you on shabbos and is assur.[^34]
+- However, if it is slightly reasonable for the goy to do it on a different day (for example, there is a smaller market day on a different day), then this is muttar.[^34] (Practically, one should probably speak to a rov about what exactly is considered "slightly reasonable".)
+- You also can't make it obvious that you need the goy to do the melacha on shabbos without explicitly telling him (for example, if the market is open on multiple days, but you tell the goy that you are leaving on motzai shabbos).[^34]
+- It is a machlokes if one is allowed to get hanah from the item if the goy decides to do the melacha on shabbos (meaning, in a case that the Jew properly didn't tell the goy to do the mekacha on shabbos and that it is at least reasonable that the goy would be able to do the melacha on a different day).[^34]
 - See Siman 252 (and the end of Siman 307 Sif 2) about having a goy sell something for a Jew on shabbos.
 ---
 - Amirah liakum by dirabanans:
-- You may tell a goy to do an issur dirabanan if there is a kitzas choleh, a tzorech harbei, or for the sake of a mitzvah.[^35] (This is called a שבות דשבות במקום... חולה\צריך הרבה\מצוה.)
+- You may tell a goy to do an issur dirabanan if there is a kitzas choleh, a tzorech harbei, for the sake of a mitzvah,[^35] or for darchei shalom.[^36] (This is called a שבות דשבות במקום... חולה\צריך הרבה\מצוה, or a שבות דשבות מפני דרכי שלום).
 - (It seems that extends שבות דשבות may extend beyond amirah liakum. {<span style="color:rgb(255, 0, 0)">Need source</span>})
 - A goy may not violate a dioraysa for the sake of a mitzvah.[^37]
 - A tzorech harbei is a significant loss of money or someone in somewhat intense physical pain.[^38]
@@ -97,6 +101,7 @@
 - It is a maclokes if one can hand food to a goy (as opposed to just putting it in front of him) when the goy is inside the rishus hayachid because he may bring it out of the rishus hayachid and so it would be as if the Jew did the akirah part of the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 - The Jew may allow the goy to take the food from him if the goy planned on eating it in the rishus hayachid. At this point, even if he takes it out to the rishus harabim, it is not considered like the Jew did the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 - If the goy is in the rishus harabim and he extended his hand into the rishus hayachid, then according to anyone, even if the goy took the food (or any item) from the Jew, or the Jew put it on the ground in front of the goy, this is assur as this looks like the Jew told the goy to do something on his behalf. This is even if the items belong to the goy.[^58] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
+- 
 
 # Footnotes
 
@@ -132,9 +137,10 @@
 [^30]: Siman 307 Sif 22 (This isn't a mistake) Sif Katan 10
 [^31]: Siman 307 Sif Katan 11
 [^32]: Siman 307 Sif 3 Sif Katan 13
-[^33]: Siman 307 Sif 4 Sif Katan 15
-[^34]: Siman 307 Sif 4
+[^33]: Siman 307 Sif 4
+[^34]: Siman 307 Sif 4 Sif Katan 15
 [^35]: Siman 307 Sif 5
+[^36]: Siman 325 Sif 2 Sif Katan 11
 [^37]: Siman 307 Sif Katan 19
 [^38]: Siman 307 Sif Katan 22, Shaar Hatzion 24
 [^39]: Siman 307 Sif 5 Sif Katan 23
