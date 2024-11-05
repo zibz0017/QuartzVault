@@ -32,6 +32,10 @@
 2. This is even if one purposely left his original location, knowing that he did not bentch/make a brach achrona yet.[^18]
 3. If one needs to bentch, making a mezonos in the new location does not help.[^16]
 4. If one already waited so long that he lost can't make a bentch/make a bracha achrona anymore (as [[#How Long One Can Wait Before Making a Bracha Achrona|discussed]]), then obviously this trick doesn't work and you would have to make a new bracha rishona.[^19]
+# Repeating Bentching
+1. If one is not full after eating, then bentching is only a dirbanan. As such, if one is unsure if they bentched, they do not bentch becuase of safeik brachos lihakeil.[^20]
+2. If one is full then they do need to bentch if they are unsure if they bentched. One needs to repeat the whole bentching (even the brachos which are only dirabanan).[^21]
+3. A yarei shamayim should wash without a bracha {<span style="color:rgb(255, 0, 0)">Need to link to the halachos of washing</span>}, eat a kizayis, and then bentch.[^22]
 
 
 # Footnotes
@@ -55,3 +59,6 @@
 [^17]: Siman 184 Sif 2
 [^18]: Siman 184 Sif Katan 8
 [^19]: Siman 184 Sif Katan 10
+[^20]: Siman 184 Sif Katan 15
+[^21]: Siman 184 Sif 4 Sif Katan 13
+[^22]: Siman 184 Sif Katan 15 Dirshu footnote 11 bringing down Siman 179 Sif Katan 9

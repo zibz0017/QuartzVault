@@ -7,7 +7,7 @@
 # Rule of 72
 1. Almost exactly like the [[#Rule of 70]], except you divide the growth rate by 72 instead of 70.[^1]
 2. Quite accurate for growth rates between 2% and 15% (and is nearly spot-on for 8%). Here is a chart:[^2]
-   ![[Pasted image 20241030230425.png]]
+3. ![[Pasted image 20241030230425.png]]
 # Rule of 70 vs Rule of 72
 ## Advantages to the Rule of 70
 1. 70 is a decently easy number to divide by in your head as it is a multiple of ten.

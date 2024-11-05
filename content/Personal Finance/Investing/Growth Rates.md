@@ -1,0 +1,1 @@
+See [here](https://zibz0017.github.io/QuartzVault/Growth-Rates/)

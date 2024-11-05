@@ -1,0 +1,6 @@
+1. Even slight changes in growth rate can make a tremendous difference in the long run.
+   <span style="color:rgb(112, 48, 160)">Example 1:</span> The US GDP has grown about 2% a year since 1800. As such, by around 2010, the GDP was 64 times higher than it was in 1800, as discussed [[Gross Domestic Product (GDP)#GDP Growth|here]]. If the GDP would have grown only 1% since 1800, the current GDP would have only been 8 times higher in 2010 than it was in 1800, or one eighth the size of our current GDP.[^1]
+   <span style="color:rgb(112, 48, 160)">Example 2:</span> If someone invests $1,000 into an investment that returns 10% a year, after 25 years, they will have about $9,850. If someone invests $1000 into an investment that returns 15% a year, after 25 years they will have abut $28,500, about 2.9 times more than the 10% return.
+# Footnotes
+
+[^1]: [Marginal Revolution University : Growth Rates Are Crucial](https://mru.org/courses/principles-economics-macroeconomics/growth-rate-real-gdp-per-capita)

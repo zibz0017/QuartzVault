@@ -75,18 +75,65 @@
 	4. Average income.[^6]
 	   It is important to keep in mind that this is just an average, meaning, that in one country, most people can be pretty well off, while in another, most people are poor, with a small class of mega-rich people.[^5]
 	5. Average income amongst poor people (meaning, it's not that the rich people of the countries are gaining all the wealth in the high GDP per capita countries. The poor people in high GDP per capital countries are more wealthy on average than their counterparts in countries with low GDP per capita.)[^5]
-# Comparing GDP in Different Countries
+# Not All "Poor Countries" are the Same
 1. Sometimes, from an American, we think of all non-first-world countries as poor. However, this is obviously wrong.
    <span style="color:rgb(112, 48, 160)">Example:</span> The GDP per capital in Mexico is about 30% of the GDP per capital in the US in 2024, but is still about 23 times higher than the GDP per capita in the Central African Republic.[^7]
-## Quality of Life Today vs Historically
-{<span style="color:rgb(255, 0, 0)">Not sure if this section belongs here exactly. I have to figure out where to put this.</span>}
-1. Even countries the lowest GDP per capita today are doing better than many countries in years past in a variety of ways, such as:
-	1. Life expectancy.
-	   <span style="color:rgb(112, 48, 160)">Example:</span> In 2024, Nigeria was the country with the lowest life expectancy,[^8] at 54 years.[^9] In 1820, the average life expectancy in the countries with the highest life expectancy was just over 40 years.[^10]
-	   This is because of increased technology which lead to better access to food and clean drinking water, as well as advances in sanitation and medical care.[^11]
 # GDP Growth
-1. GDP in the United States has grown at a steady rate since the 1800s: about 2% a year.[^11]
-2. This means that the US GDP has doubled approximately once every 35 years.[^11] (This can be easily estimated using the [[Estimating Doubling Time#Rule of 70|Rule of 70]].)
+1. GDP in the United States has grown at a steady rate since the 1800s: about 2% a year.[^8]
+2. This means that the US GDP has doubled approximately once every 35 years.[^8] (This can be easily estimated using the [[Estimating Doubling Time#Rule of 70|Rule of 70]].)
+3. This means that the economy has doubled approximately 6 times between 1800 and 2010, which means that the GDP in 2010 was approximately 64 times the GDP in 1800 (2<sup>6</sup> = 64).
+## Quality of Life Today vs Historically
+1. Quality of life has improved in many ways over life in years, such as:
+	1. Life expectancy. In 2024, Nigeria was the country with the lowest life expectancy,[^9] at 54 years.[^10] In 1820, the average life expectancy in the countries with the highest life expectancy was just over 40 years.[^11]
+	2. Child Mortality. Before the Industrial Revolution, one in four children would die before the age of five. Now, in developed countries, that number is around one in 200. {<span style="color:rgb(255, 0, 0)">Need source</span>}
+	3. Better nutrition. {<span style="color:rgb(255, 0, 0)">Need source</span>}
+	4. More products available to the masses. {<span style="color:rgb(255, 0, 0)">Need source</span>}
+2. This is because of increased technology which lead to better access to food and clean drinking water, as well as advances in sanitation and medical care.[^8]
+3. There was relatively little development until the Industrial Revolution. Since then, there has been a tremendous amount of inventions, technological improvements and economic development. This is sometimes referred to as the "Hockey Stick" of Human Development.[^12]
+   ![[Pasted image 20241103124316.png]][^13]
+3. Until that point in history, there was very little development. Most people in most societies throughout history were farmers.[^12]
+## Reasons for Such Development
+1. It is impossible to know the exact causes but some of the theories are:
+	1. [[#Good Institutions|Good institutions]] (see below).
+	2. Better education.[^12]
+	3. Better energy sources. For example, coal was discovered in Britain.[^12]
+	4. People started looking up to inventors and business people rather than conquerors and Emperors.[^12]
+2. It is obviously of extreme importance to try and get this right so that way we can help underdeveloped countries also make progress.[^12]
+### Good Institutions
+1. This refers to rule of law, secure property rights, non-corrupt courts and government,[^12] property rights, and political stability.[^14]
+## Growth Miracles and Growth Disasters
+1. Some countries, like South Korea, Japan, and China, have had tremendous growth in a relatively short time. All of these countries have had tremendous . They are catching up to the developed countries.[^15]
+2. Other countries, such as Nigeria and Chad, never had any growth at all.[^15]
+### North Korea vs South Korea
+1. Before the divide between North and South Korea, the two parts of the country were largely similar. They had similar people and economies.[^14]
+2. After the countries split after WWII, South Korea became a prosperous country. This is because the country became a [[#Good Incentives Created by Capitalism|capitalist economy, which leads to good incentives]].[^14]
+
+## Factors that Lead to High GDP
+### {<span style="color:rgb(255, 0, 0)">Need a Heading Title Here</span>}
+1. Some countries have more productive workers than others. This is because:
+	1. Some countries have better physical capital than others. This includes anything from tools and tractors to laptops and access to electricity.
+	2. Better educated and trained workers. Also, perhaps some countries have people with better genetics.[^16]
+	3. Better organization, meaning, people who put the physical capital and workers together to create things (usually entrepreneurs).
+2. Why do some countries have better physical capital, education and training than others? This is because of better incentives (meaning, reasons for one to work hard and ed)
+3. Some countries have better from better economic structures.
+	1. In a capitalist economy:
+		1.  People want to work hard, and try to build and create because people are allowed to keep the profits from their labor.[^14]
+		2. Money is reallocated based on the success of companies through the free market. The companies which are ran well and fill the needs of what the people want, survive. Companies that do not do this close down. The resources that were used on these companies (like good employees and money from consumers that would use these companies) are reallocated to the successful companies.[^14]
+	2. 
+### Good Incentives of Capitalism vs Bad Incentives of Communism
+1. Capitalism leads to good incentives, such as:
+	1. People want to work hard, and try to build and create because people are allowed to keep the profits from their labor.[^14]
+	2. Money is reallocated based on the success of companies through the free market. The companies which are ran well and fill the needs of what the people want, survive. Companies that do not do this close down. The resources that were used on these companies (like good employees and money from consumers that would use these companies) are reallocated to the successful companies.[^14]
+2. Communism leads to bad incentives, such as:
+	1. People can't keep their own profits, and so there is no financial incentive to work hard.[^14]
+	2. In addition, there are no property rights. As such, one may get their property taken away at any time, further leading to a lack of incentive to work hard.[^14]
+	3. Things are centrally planned. As such, it isn't success that decides which companies stay open, it is the government. And the government decides these things at least to some degree (if not to a large degree) based on bribery and that kind of thing.[^14]
+### Geographical Factors
+1. Having access to coasts helps with GDP as it reduces the cost of trade (importing and exporting goods).[^17]
+2. Africa has a relatively large land mass to coast ratio (meaning, that there is a lot of land in Africa, but not a lot of coast). This means that there is less access to coastlines in Africa. This may be part of why the countries in Africa are relatively poor.[^17]
+3. This is perhaps an argument against tariffs. A lack of coast is like a natural tariff. It increases the cost of trade.[^17] {<span style="color:rgb(255, 0, 0)">Need to move this to a discussion on tarrifs</span>}
+	1. <span style="color:rgb(255, 192, 0)">Counter:</span> A lack of coastal access increase the costs of both imports and exports. Tariffs only increase the cost of imports, not exports.[^16]
+	2. <span style="color:rgb(255, 192, 0)">Counter:</span> A lack of coastal access increase the costs of trade within a country, not just with other countries.[^16]
 # Footnotes
 
 [^1]: [Marginal Revolution University : What is GDP?](https://mru.org/courses/principles-economics-macroeconomics/gross-domestic-product-definition-what-is-gdp)
@@ -96,7 +143,13 @@
 [^5]: [Marginal Revolution University : Real GDP Per Capita and the Standard of Living](https://mru.org/courses/principles-economics-macroeconomics/gdp-per-capita-standard-of-living)
 [^6]: Obvious
 [^7]: [International Monetary Fund : GDP per Capita](https://www.imf.org/external/datamapper/PPPPC@WEO/OEMDC/ADVEC/WEOWORLD)
-[^8]: [Worldometers.info : Life Expectancy](https://www.worldometers.info/demographics/life-expectancy/)
-[^9]: [Worldometers.info : Nigeria](https://www.worldometers.info/demographics/nigeria-demographics/#:~:text=BOTH%20SEXES-,54.6%20years,-(life%20expectancy%20at)
-[^10]: [Statista : Average Life Expectancy from Birth in the World and Selected Countries or Regions in Years Between 1820 and 2020](https://www.statista.com/statistics/1302736/global-life-expectancy-by-region-country-historical/)
-[^11]: [Marginal Revolution University : Growth Rates Are Crucial](https://mru.org/courses/principles-economics-macroeconomics/growth-rate-real-gdp-per-capita)
+[^8]: [Marginal Revolution University : Growth Rates Are Crucial](https://mru.org/courses/principles-economics-macroeconomics/growth-rate-real-gdp-per-capita)
+[^9]: [Worldometers.info : Life Expectancy](https://www.worldometers.info/demographics/life-expectancy/)
+[^10]: [Worldometers.info : Nigeria](https://www.worldometers.info/demographics/nigeria-demographics/#:~:text=BOTH%20SEXES-,54.6%20years,-(life%20expectancy%20at)
+[^11]: [Statista : Average Life Expectancy from Birth in the World and Selected Countries or Regions in Years Between 1820 and 2020](https://www.statista.com/statistics/1302736/global-life-expectancy-by-region-country-historical/)
+[^12]: [Marginal Revolution University : What Caused the Industrial Revolution?](https://mru.org/courses/principles-economics-macroeconomics/hockey-stick-prosperity-innovation-and-entrepreneurship)
+[^13]: [Freiheit Naumann Foundation : Progress](https://www.freiheit.org/iaf/20-progress)
+[^14]: [Marginal Revolution University : The Importance of Institutions](https://mru.org/courses/principles-economics-macroeconomics/north-korea-and-south-korea-institutions)
+[^15]: [Marginal Revolution University : Growth Miracles and Growth Disasters](https://mru.org/courses/principles-economics-macroeconomics/economic-growth-miracle-and-disaster)
+[^16]: Own thoughts
+[^17]: [Marginal Revolution University : Geography and Economic Growth](https://mru.org/courses/principles-economics-macroeconomics/geography-and-economic-growth)

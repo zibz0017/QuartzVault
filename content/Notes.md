@@ -1,9 +1,8 @@
 ---
 draft: "true"
 ---
-
 - One needs to destroy their chametz to be mekayem the mitzva of tashbisu.[^1]
-- The preferable method for destroying chametz is by burning it. This is because according to one shitah, we learn the destruction of chametz from the destruction of nossar, which was done through burning. This is certainly so if one finds chametz after the zman issur {<span style="color:rgb(255, 0, 0)">link to that</span>} or on yom tov itself.[^2] (meaning that at this point, the person is not able to be mefkir the chametz as discussed {<span style="color:rgb(255, 0, 0)">link to that</span>} and so one has to especially makpid to destory the chametz.)
+- The preferable method for destroying chametz is by burning it. This is because according to one shitah, we learn the destruction of chametz from the destruction of nossar, which was done through burning. This is certainly so if one finds chametz after the zman issur {<span style="color:rgb(255, 0, 0)">link to that</span>} or on yom tov itself.[^2] (meaning that at this point, the person is not able to be mafkir the chametz as discussed {<span style="color:rgb(255, 0, 0)">link to that</span>} and so one has to especially makpid to destory the chametz.)
 - When one burns chametz, it needs to be burned down to coal[^3] (or ash, I assume).
 - One can also crumble the chametz up and toss it to the wind (make sure that the chametz is small enough that if one finds it they will not get hanah from it)[^4] or throw it to the sea. If one does throw it into the sea, they should make sure to crumble it up, especially if it is something hard, like stale bread, which may not break down in the water so easily.[^5]
 - One can also mix chametz with something disgusting, like feces.[^6]
@@ -101,8 +100,100 @@ draft: "true"
 - It is a maclokes if one can hand food to a goy (as opposed to just putting it in front of him) when the goy is inside the rishus hayachid because he may bring it out of the rishus hayachid and so it would be as if the Jew did the akirah part of the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 - The Jew may allow the goy to take the food from him if the goy planned on eating it in the rishus hayachid. At this point, even if he takes it out to the rishus harabim, it is not considered like the Jew did the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 - If the goy is in the rishus harabim and he extended his hand into the rishus hayachid, then according to anyone, even if the goy took the food (or any item) from the Jew, or the Jew put it on the ground in front of the goy, this is assur as this looks like the Jew told the goy to do something on his behalf. This is even if the items belong to the goy.[^58] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
-- 
-
+---
+- After the mabul, Noach waited for Hashem to tell him to leave the teivah. Since Hashem told Noach to go into the teivah, it was proper respect for Noach to wait for Hashem to tell him to leave.[^59][^60]
+- It was extremely difficult to manage the teivah. Rav Yudan said he would not have been able to do what Noach did. Nonetheless, Noach still stood steadfast and did not leave the teivah until Hashem told him to.[^61]
+- It was obvious that Hashem wanted Noach to come out of the teivah. Hashem put Noach in the teivah to survive the mabul. Now the mabul was over, so it was obviously time to go out. How much disrespect could that have been for Noach to go out when it was obviously time for him to do so?[^62]
+- We see the importance of even a small measure of a lack of respect.[^62]
+- Nebuchadnezzar had Chanya, Mishael, and Azarya thrown into a kivshan haeish for refusing to bow down to an idol. Hashem made a neis and they lived. However, they did not leave the fire until Nebuchadnezzar told them to leave the fire, as they learned from Noach that since Nebuchadnezzar told them to go into the fire, it was not respectful to leave without waiting for him to tell them to.[^60]
+- Well, of course Nebuchadnezzar didn't tell them to leave the fire. He didn't think that would survive, obviously. So how much disrespect would it have been to leave the fire without waiting for him to tell them to do so?[^62]
+- In addition, Chanaya, Mishael, and Azaria had a lot of other thoughts and emotions at that time. Obviously, they were tremendously grateful that they survived. In addition, they were probably thinking about the large kiddush Hashem that this created. How could they be thinking about some small lack of respect.[^62]
+- Also, Nebuchadnezzar was a tremendous rashah, who threw Chanaya, Mishael, and Azaria into a kivshan haeish for not bowing down to avodah zara. It doesn't seem that Nebuchadnezzar deserves much kaovd.[^62]
+- Also, Hashem is keeping this neis going as long as they are standing in the fire. Perhaps they shouldn't cause the neis to be extended more than the neis needs to be. Also, in a sense they are putting their lives on the line that they were right.[^62]
+- We see how important it is to avoid even a small lack of kavod. Nebuchadnezzar was a king, and so despite he wickedness, he did deserve kavod. And Chanaya, Mishael, and Azaria knew that this was the correct thing to do, and so they knew that Hashem would extend the neis for this purpose.[^62]
+- Perhaps this is specific to a king or to Hashem himself, though. Perhaps we treat the violation of respect to a king and certainly to Hashem, more stringently than we treat other violations of respect.[^7]
+---
+- When Moshe Rabbeinu was in shamayim, Hashem made a neis that Moshe did not need to eat or drink. This was because when one is somewhere, they are supposed to do what the people of that place do. Since the beings in shomayim do not eat, Hashem made a neis for Moshe to not have to eat. When the malachim came to earth by Avraham, they ate, or at least appeared to eat, to follow the what the creatures on Earth do.[^63]
+- It is obviously no small thing for Hashem to make a neis. Yet we see Hashem making a neis for Moshe to not have to eat to not have this small violation of derech eretz.[^62]
+- We see the importance of not having even a small violation of derech eretz.[^62]
+---
+- Antoninus {<span style="color:rgb(255, 0, 0)">Need to confirm this</span>} built a secret tunnel so he could sneak to Rebbi's house and learn Torah from him.[^64]
+- One day, Rav Chanina Bar Chama was by Rebbi when Antoninus arrived there.[^64]
+- Antoninus told Rav Chanina Bar Chama to go into the cave and call the servant that was there.[^64]
+- Rav Chanina Bar Chama went into the cave and he saw that the servant was dead.[^64]
+- Rav Chanina Bar Chama wasn't sure what to do. He didn't want to go back and tell Antoninus that the servant was dead as one is not supposed to be the bearer of bad news. At the same time, he couldn't just leave because that would have been a disgrace to Antoninus.[^64]
+- As such, Rav Chanina Bar Chama performed techias hameisim and brought the servant back to life and brought him in to Antoninus.[^64]
+- (There are other details in the gemara which I don't think are necessarily so relevant to the shmuz.)
+- While it is not good for one to be the bearer of bad news, it doesn't appear to be such a major thing.[^62]
+- Obviously, doing techias hameisim is only done in extreme circumstances.[^62]
+- {<span style="color:rgb(255, 0, 0)">I don't really get the shmuz. It seems like it is saying that bringing bad news is actually something that is a pretty bad thing to do, but I think rebbi said that it is not such a bad thing.</span>}
+---
+- Heshem created Chava from the rib of Adam because it is a part of the body that always remains tznius (I don't get how this works but I don't think that that is relevant).[^65]
+- Hashem did not create Woman from other parts of the body for a variety of reasons. For example, Hashem did not create Woman from the mouth because Hashem did not want Woman to talk too much, or from ear because Hashem did not want Woman to eavesdrop.[^65]
+- However, despite this, different women in history have violated some of these very things that Hashem wanted to avoid, undoing Hashem's efforts, in a sense.[^65]
+- In regards to eavesdropping, we see this with Sarah. She listened to the malach tell Avraham that they were going to have a baby.[^65]
+- Listening to malachim is no small feat. Obviously, only the greatest of people can listen to malachim and it is something that testifies to their greatness.[^62]
+- In addition, the lashon is pretty harsh. It sounds like this action undid Hashem's efforts, in a sense.[^62]
+- We see that even mixed in with an act of tremendous greatness, there could be something which is powerfully wrong.[^62]
+---
+- Dina followed what her mother Leah did and "went out". This is because Leah, Dina's mother also showed a similar slight lack of tznius by going out to Yaakov.[^66]
+- This act of "going out" by Leah was when she "bought" the right to be with Yaakov that night. Because it was done in purity, she was zoche to conceive Yisachar from that night. Clearly the action was largely a positive and pure action.[^62]
+- In addition, Dina had many other positive influences from her parents. It would seem that this one action by Leah would get lost amongst so many other positive influences that Dina received over her like.[^62]
+- We see that even mixed in with an act of tremendous greatness, there could be something which is powerfully wrong.[^62]
+---
+- The unemployment rate is the ratio of people who are part of the labor force who are not employed, divided by the whole labor force (unemployed vs employed). It can be viewed as: unemployed / (unemployed + employed).[^67]
+- To be considered part of the labor force, one has to be an adult, non-institutionalized, civilian, without a job, and actively looking for a job (taken a step to find a job in the previous four weeks).[^67] (I don't get why all points are necessary. If someone isn't looking for a job, that would seem to exclude anyone in the other categories as well.)
+- Examples of people who are excluded from the labor force based on these criteria are children, retirees, prisoners, and people who are simply not looking for a job (like students, for example).[^67]
+- This means that there are many more people (like the examples just mentioned) who are unemployed but are not considered to be part of the labor force and are therefore not considered "unemployed" when discussed in economic terms, as the economic term "unemployed" refers to people part of the labor force who do not have a job.[^67]
+- Some people object to the definition. They feel that if someone is able to look for a job and decides not to, that should not exclude them from being counted as unemployed.[^68]
+- There are other definitions of unemployment that are sometimes used as well (like perhaps only counting someone as unemployed if they have been out of a job for some period of time, for example). The [St. Louis Bank Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/series/UNRATE) actually measures six different measures of unemployment.[^68]
+- Even though all the measures give different numbers, they do tend to follow each other closely, meaning, when one is going up, the rest are generally going up at the same rate, and the same going down.[^68]
+- As such, if you want to get a feel for the state of the economy, they are largely interchangable.[^68]
+- The only important thing is to be consistent over time; don't use different measures of unemployment at different times.[^68]
+- Frictional unemployment: Caused by people moving from one job to another, or from college to the workforce.[^69]
+- Getting a job can take time. During this time, the people looking for jobs are considered unemployed.[^69]
+- This is a normal part of a healthy economy and isn't really considered to be much of an issue.[^69]
+- Structural unemployment: This refers to persistent, long-term unemployment. This means that a certain percentage of people don't have jobs for a while (long-term) and this situation has lasted many years (persistent).[^70]
+- This is caused by sudden, powerful, and permanent changes in the economy, for example, the creation of the internet. It takes time for people to adjust to the change.[^70]
+- Structural unemployment is higher in Europe than in America. It is difficult to know why this is exactly but there here are two potential reasons:[^70]
+- There are more restrictive labor laws in Europe which make it harder to fire employees (one may need to have a "just cause" and have the government or a labor union approve a decision to fire an employee). As such, people are more cautious about hiring employees. In America, an employee can quit at any time for any reason and and employer can fire an employee at any time, for any reason (excluding things like race, sex and things like that, as well if it is explicitly stated in the contract).[^70]
+- Unemployment insurance also pays more money in Europe than in America. As such, people in Europe are less desperate to try and get a new job.[^70] {<span style="color:rgb(255, 0, 0)">I don't know if this refers to unemployment benefits from the government or if this is something else.</span>}
+- Restrictive labor laws can disproportionately affect immigrants and young people as people perceive them as worse employees (not that they necessarily are so). If firing a bad employee is now more difficult, people are less likely to take a risk on hiring someone who may not work out.[^70]
+- Groups are trying to change these restrictive labor laws in Europe but there has not been much success so far.[^70]
+---
+- Rav Dovid would "fight" with his talmidim with back-and-forths and questions-and-answers.[^71]
+- Rav Dovid felt that one shouldn't just "accept" what he is told. He should think about it and challenge until he has it clearly in his grasp.[^72]
+- This has to be trained into people from when they are young and naturally curious and inquisitive. One does this by allowing children to think about something themselves and treating the questions they ask with respect.[^73]
+- This doesn't only apply to learning. This applies to all areas of one's avodah Hashem.[^74]
+- The hashkafa of the yeshiva is to spend more time focusing on musar of bein adam lachaveiro rather than bein adam lamakom for a few reasons:
+- It's terribly inappropriate to try to act respectfully with Hashem while at the same time, treating our friends and family poorly.[^74]
+- It's not feasible for one to have poor middos with people that one interacts with in a very real and physical way but have proper middos with Hashem, who only exists in one's mind.[^74]
+- It is much more logical for one to work on one's middos with people that one has physical interactions with and use that as a springboard to develop one's middos that they use bein adam lamakom.[^74]
+- See Rashi Shabbos 31 A ד"ה דעלך and רבינו בחיי ריש פרשת פקודי.
+- Obviously, one also needs to work on one's bein adam lamakom as well.[^74]
+---
+- Cyclical unemployment: The market goes through business cycles {<span style="color:rgb(255, 0, 0)">add link</span>}. Unemployment is affected by these cycles. During recessions {<span style="color:rgb(255, 0, 0)">add link</span>}, businesses downsize and lay off workers.[^75]
+- After a recession, it can take a while for the unemployment rate to get back to normal, even though the market is long out of the recession.[^75]
+- Part of the reason is that wages are "sticky". By most products, if there is excess supply it drives down the cost (think of classic supply and demand graphs). This isn't true by wages, though. When there are "excess workers" (meaning, people who are unemployed), people are not so ready to take a lower salary.[^75]
+- Part of this is that it gets people really upset to take a lower salary, especially when there is a direct person behind it (like one's boss).[^75]
+- Also, people may not want to take a "low class" job, even if they can get one if they are used to a "higher class" job (a lawyer wouldn't want to get a job as a plumber, even if he could get such a job).[^75]
+- Unions and minimum wage laws may also not allow wages to fall.[^75]
+- Natural unemployment: Frictional unemployment plus structural unemployment.[^75]
+- This value is important because government fiscal policy can help with cyclical unemployment, but not with structural and frictional unemployment.[^75]
+- As such, when the actual unemployment rate is close to the natural unemployment rate (meaning, there is very little cyclical unemployment), there is little the government can do to help with unemployment.[^75]
+- (We can only estimate the natural unemployment rate. We can't actually know for sure what it is.)[^75]
+- Labor force participation rate: total labor force (employed + unemployed) / total adult population (excluding people in the military and prisoners).
+- The labor force participation rate steadily rose between 1950 and 2000 and then fell off a little after that.[^76]
+- The rise was because woman started working more.[^76]
+- After 2000, women started working a bit less.[^76]
+- Men's participation rate has declined consistently since 1950.[^76]
+- Part of this is because of the shift away from low skill manufacturing jobs. These jobs were largely male. Over time, there became less manufacturing jobs and the few that are left are high skill (like programmers).[^77]
+- Some of these workers could not find other work and, after some time, stopped looking for a job altogether, leaving the workforce (since, they stopped looking for a job, they are not counted as unemployed as discussed before {<span style="color:rgb(255, 0, 0)">add link</span>}).[^77]
+- In addition, there has been a shift into more service type jobs, which are mostly female.
+- Despite this, there is still about a 12% higher labor participation rate among men than among women.[^76]
+- People in their primes (between mid-20s and mid-50s) are most likely to be working (meaning, young adults are in college, and older people are retiring).[^77]
+- As such, the labor force participation rate is decently correlated with the ratio of the different ages of people in the work force.[^77]
+- By around year 2000, baby boomers were retiring. Since they were a massive percentage of the population, this led to a decline in labor force participation rate.[^77]
 # Footnotes
 
 [^1]: Siman 445 Sif 1 Sif Katan 3
@@ -163,3 +254,22 @@ draft: "true"
 [^56]: Siman 325 Sif 1 Sif Katan 4
 [^57]: Siman 325 Sif 1 Sif Katan 3
 [^58]: Siman 325 Sif 1 Sif Katan 5-7
+[^59]: ילקוט שמעוני רמז נט (ח טו)
+[^60]: בראשית ח יד רבינו בחיי ד"ה יבשה הארץ
+[^61]: ילקוט שמעוני רמז נט (ח טו) (With Rabbi Harris's explanation, which I assume was from the mefarshim there)
+[^62]: Shmuz 8512 Rabbi Harris 11/1/24 Motzai Shabbos Shmuz
+[^63]: שמות רבה סדר כי תשא מז ה (לד כח) (With Rabbi Harris's explanation, which I assume was from the mefarshim there)
+[^64]: :גמרא ע"ז י
+[^65]: בראשית רבה סדר בראשית יח ב (ב כב)
+[^66]: בראשית לד א רש"י ד"ה בת לאה
+[^67]: [Marginal Revolution University : Defining the Unemployment Rate](https://mru.org/courses/principles-economics-macroeconomics/labor-force-unemployment-rate)
+[^68]: [Marginal Revolution University : Is Unemployment Undercounted?](https://mru.org/courses/principles-economics-macroeconomics/us-unemployment-rate-undercounted)
+[^69]: [Marginal Revolution University : Frictional Unemployment](https://mru.org/courses/principles-economics-macroeconomics/us-frictional-unemployment)
+[^70]: [Marginal Revolution University : Structural Unemployment](https://mru.org/courses/principles-economics-macroeconomics/us-europe-structural-unemployment)
+[^71]: Tiferes Dovid Chapter 5 page 57
+[^72]: Tiferes Dovid Chapter 5 page 58
+[^73]: Tiferes Dovid Chapter 5 footnote 62
+[^74]: Tiferes Dovid Chapter 5 footnote 63
+[^75]: [Marginal Revolution University : Cyclical Unemployment](https://mru.org/courses/principles-economics-macroeconomics/business-cycle-cyclical-unemployment)
+[^76]: [St. Louis Federal Reserve Economic Data : Labor Force Participation Rate](https://fred.stlouisfed.org/series/CIVPART) (Rates for men and women can be added in by clicking on "edit graph", then "add line")
+[^77]: [Marginal Revolution University : Labor Force Participation](https://mru.org/courses/principles-economics-macroeconomics/labor-force-participation-rate-formula)
