@@ -13,6 +13,7 @@
 2. The legality of using white phosphorus is tricky. It seems that it is technically legal to use but it is difficult to do so in a legal way. {<font color="#ff0000">Need source</font>}
 	1. <span style="color:rgb(255, 192, 0)">Counter:</span> Israel is using it for illumination purposes which is legal. [^2]
 	2. <span style="color:rgb(146, 208, 80)">Counter:</span> Israel has been sometimes using white phosphorus during the day, so it would seem that at least sometimes they are not using white phosphorus for illumination purposes. [^2]
+	3. <span style="color:rgb(255, 192, 0)">Possible Counter:</span> Israel may have been using it for a smokescreen which is also legal. {<span style="color:rgb(255, 0, 0)">Need source</span>}
 ### Israeli leaders use Genocidal language
 1. Israeli leaders used genocidal language when referring to the Palestinians at the beginning of the 2023 Gaza War. ("Treat them like animals."; "No water, no food, no electricity.") {<font color="#ff0000">Need source. South Africa claim of genocide against Israel has a lot of quotes.</font>}
 	1. <span style="color:rgb(255, 192, 0)">Counter:</span> Some of the quotes may be referring to Hamas particularly, even if they say "Gaza" or "Gazans" (the same way a Ukrainian might discuss fighting the "Russians" even though he is only talking about the Russian army, not the Russian people).

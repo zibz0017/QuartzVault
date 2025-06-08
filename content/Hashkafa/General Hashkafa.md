@@ -116,26 +116,90 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 3. Kids of various levels end up there. Meaning, some kids might be struggling with high school, while others have long been kicked out and are doing much worse things. And now these struggling kids are getting exposed and developing relationships with these hardcore kids.[^21]
 # Agadita
 {<span style="color:rgb(255, 0, 0)">There are lots of Rishonim/Achronim brought down in this section, but I don't know where these come come from. It would definitely be nice to find the actual sources of these opinions.</span>}
+## Different Ways Things are Hidden
+1. Some things are hidden in what appears to be "wild stories", like [[#^35e4bc|the סוגיא דרבה בר בר חנה]].
+2. Sometimes, chazzal use "exaggerations", like chazzal may say that someone is "chayav binafsho", even if that is not the halacha.[^22] {<span style="color:rgb(255, 0, 0)">Need an explicit example of this</span>}
+## Specific Examples
+### סוגיא דרבה בר בר חנה (בבא בתרא עג. - עה.)
+   {<span style="color:rgb(255, 0, 0)">See https://drive.google.com/file/d/1exVOfC29_W4AIZy6-zEeTeYaaauPXZqu/view for a big discussion of this sugya</span>} ^35e4bc
+#### Basics
+{<span style="color:rgb(255, 0, 0)">Need to fill this in</span>}
+#### Explanation
+##### The Gra
+*(As presented by Rav Aharon Lopionsky[^22])*
+1. The deepest secrets of the Torah are found here.
+2. The corruption of the world has forced Hashem to hide the most precious parts of the Torah in what seems like fairy tales.
+### Machlokes between Rabbi Eliezer and the Rabbanan (Bava Metzia 59. - 59:)
+#### Basics
+1. Rabbi Eliezer had a machlokes with numerous other rabbanan about an whether a certain type of oven is ראוי לקבל טומעה.
+2. Rabbi Eliezer caused numerous nissim to happen to prove his prove his point, such as a nearby carob tree uprooted itself and moved away, a nearby river started flowing backward, the walls of the beis medrash started falling down, and a bas kol declared that Rabbi Eliezer was correct.
+#### Explanation
+##### Rabbeinu Chananel
+*(As presented by Rav Aharon Lopionsky[^22])*
+1. This sugya can be understood literally.
+2. The nissim discussed were done through the power of tefilah, not through the power of nevua, as there were no neviim anymore by that time.
+3. However, it is difficult to understand this way because one is not supposed to do nissim.
+4. As such, an alternative way to understand the gemara is that it was a dream.
+5. Usually, the gemara would state if a story was a dream, but it did not do so here because this dream was akin to nevua. (There are examples of a navi receiving nevua despite the fact that it is not explicitly mentioned that the navi reveived neva, such a Yehoshua with the malach outside of Yericho according to some mefarshim {<span style="color:rgb(255, 0, 0)">Need to get exact source</span>})
+### Man Grows Breasts (Shabbos 53:)
+#### Basics
+1. A mans' wife died and he was unable to afford a wet-nurse.
+2. He davened, and Hashem made a miracle for him.
+3. He grew breasts and was able to nurse his child.
+#### Explanation
+##### באר הגולה
+*(As presented by Rav Aharon Lopionsky[^22])*
+1. This sugya is not to be understood literally.
+2. The gemara simply means that the man found a way to feed his child.
+3. The reason why the gemara describes it as such a miraculous event is because it is a "tremendous miracle" for a father to be able to raise his child.
+### Explanation for Earthquakes (Berachos 59.)
+#### Basics
+1. Earthquakes are caused by the following: When Hashem remembers his children, He cries two tears.
+2. These tears land in the Mediterranean Sea and the sound is heard around the world.
+3. This is an earthquake.
+#### Explanation
+##### באר הגולה
+*(As presented by Rav Aharon Lopionsky[^22])*
+1. This gemara is not presenting the physical causes of the phenomenon.
+2. The gemara is presenting what the phenomenon represents.
+   <span style="color:rgb(112, 48, 160)">Examples:</span>
+1. If someone asks you what is a certain painting of, you may respond with the physical properties of the painting (for example, many people are standing together holding hands) or what is represented by the painting (the artist's yearning for world peace).
+   Both of these responses are true. It just depends on what the questioner was asking, exactly.
+2. People may describe a sunrise as bringing hope. Obviously, there is nothing about a sunrise that actually brings hope.
 ## Reading the Torah Literally
 {<span style="color:rgb(255, 0, 0)">I am not sure if this really belongs in this section.</span>}
 1. Rav Sadia Gaon writes that almost everything in the Torah should be taken literally with a few obvious exceptions such as:
 	1. Things about Hashem.[^22]
-	2. If there is a contradiction between two pisukim (obviously they can't both be literal.)[^22]
+	2. If there is a contradiction between two pesukim (obviously they can't both be literal.)[^22]
 	3. Obvious mashalim (like when it says that Hashem will cut out the arlas halev, that is not literal).[^22]
 	4. {<span style="color:rgb(255, 0, 0)">There was a fourth point as well, but I don't know what it is. It seems to be in the same vein of things that obviously shouldn't be taken literally.</span>}
-2. The Rashba writes very harshly about those who try to learn the Torah alegorically.[^22]
-## Why Agadita is Hidden
+2. The Rashba writes very harshly about those who try to learn the Torah allegorically.[^22]
+## Why Agadita is Hidden and How to Understand it
 1. The Ramchal {<span style="color:rgb(255, 0, 0)">I think</span>} writes that agadita is hidden in mashalim because:
 	1. Agadita deals with the deep secrets of the Torah, and the same way one may not want to share their deepest secrets, even if it isn't embarrassing or anything, it's just that it is extremely personal and so they are not appropriate to publicize.[^22]
 	2. People can make mistakes and these topics are extremely core to Yiddishkeit and so we can't have people make mistakes with them.[^22]
-2. The Gra writes on the Agadita Dirabba Bar Bar Chana that the deepest secrets of the Torah are found here. The corruption of the world has forced Hashem to hide the most precious parts of the Torah in what seems like fairy tales.[^22]
+2. Because of the "corruption of the world", Hashem hides deep secrets of the Torah, as [[#The Gra|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}
+3. The Ramchal writes that chazzal would "exaggerate", like by saying that someone is chayav binafsho for violating something because there is a certain sense in which the person is chayav. For example, if someone wounds someone else, in a sense, strict justice would require the person to receive that wound. Obviously, that is not the halacha for whatever reason (the Torah may have decided that that would be barbaric, for example).[^22]
+4. According to the Rashbam some agadita is supposed to be understood only allegorically, some only al pi pshat, and some both.[^22]
+5. Sometimes, agadita can be a dream, as [[#Rabbeinu Chananel|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}
+6. Sometimes, agadita can be giving the meaning behind a physical phenomenon, as [[#באר הגולה|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point. It is supposed to be for the באר הגולה by Explanation for Earthquakes (Berachos 59.)</span>}
 ## Where Agadita is Written
 1. Agadita is generally found in Shas, Midrashim with a mesorah (Midrash Rabbah, Tanchuma, and Pirkei Dirabbi Eliezer), and the Zohar.[^22]
 2. In addition, there are a few blatt in Bava Basra of extremely strange agadita (known as Agadita Dirabba Bar Bar Chana).[^22]
-## How to Understand Agadita
-1. According to the Rashbam some agadita is supposed to be understood only allegorically, some only al pi pshat, and some both.[^22]
 # Olam Habba Based on Subjective or Objective Measure
 1. At least to some degree, how much olam habba one earns is based on the object mitzvos one does, not just based on how much one fulfills their potential.[^23] {<span style="color:rgb(255, 0, 0)">I would like to come back to this and explain what the חובות הלבבות does say and then how I interpreted it.</span>}
+# Limiting Nissim
+1. Hashem only does nissim when they are necessary.[^24]
+# שכר מצוה מצוה
+1. This means that if a person does a mitzva in this world, they will be able to do the mitzva after techiyas hameisim.[^25] {<span style="color:rgb(255, 0, 0)">I don't know what this means</span>}
+# עולם הבא and תחית המתים
+1. <span style="visibility:hidden">l</span>עולם הבא refers to a time after תחית המתים. (It might also be before תחית המתים, but it is certainly after).
+## References from תנ"ך
+1. <span style="visibility:hidden">l</span>אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ….<span style="visibility:hidden">l</span>[^26] The literal translation is "Then Yehoshua *will build*…". The reference to the future is a reference to after תחית המתים.<span style="visibility:hidden">l</span>[^27]
+# Hashem may Affect Peoples' Decisions
+1. Hashem can sometimes put thoughts or strengthen certain emotions in people to cause certain results.
+## Specific Examples
+1. Hashem made סיסרא afraid of ברק. This caused him to gather his armies once he knew that ברק was approaching, even though he did not know that ברק was coming with an army, and even leave cities undefended. These panicked actions were a signal to ברק and דבורה that Hashem was involving Himself in the fight.[^28]
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8
@@ -161,3 +225,8 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^21]: Conversations with people
 [^22]: Rav Aharon Lopiansky : Shiur on Agadita
 [^23]: Based on חובות הלבבות שער עבודת אלקים פרק ו, paragraph beginning with "הענין השני" on page שפח in the blue ג פירושים version
+[^24]: Ralbag on Yehoshua, Toaliyos in Perek 8, Toeles 14
+[^25]: .ע"ז ה
+[^26]: Yehoshua 8:30
+[^27]: יהושע ח ל מנחה קטנה שם
+[^28]: שופטים ד יב-יד מנחה קטנה ד"ה ויגדו לסיסרא

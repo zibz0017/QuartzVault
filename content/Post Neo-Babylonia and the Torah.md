@@ -58,7 +58,7 @@
 2. According to the secular system, this works out nicely. This was the first year of rule for Seleucus.[^25]
 3. According to the Uruk king list, Alexander the Great ruled for 7 years, not 8 [[#^d791db|like is generally thought]].[^25] ^ace4b0
 4. In addition, there are only cuneiform tablets found with dates for 7 years of Alexander’s reign.[^25]
-5. This is crucial because if Alexander only ruled for 7 years and the reigns of Philip and  Antigonus remain the same (as they do according to the Uruk King List), then that means that Seleucus begins his reign in 310. That leaves us with the question of what happened in year 311 that was so special to begin a new counting system.[^25]
+5. This is crucial because if Alexander only ruled for 7 years and the reigns of Philip and  Antigonus remain the same (as they do according to the Uruk King List), then that means that Seleucus begins his reign in 312. That leaves us with the question of what happened in year 311 that was so special to begin a new counting system.[^25]
 ### Reign of Seleucus I
 1. According to conventional history, Seleucus died in the 6th month in his 31st year off reign. According to the Uruk King List, he ruled a full 31 years and died in the 10th month in the 32nd year of reign.[^25]
 2. The Uruk King List version is backed up by a cuneiform tablet that dates to the 32nd year and 10 month of Seleucus’s reign.[^25] ^08eb82
@@ -71,11 +71,12 @@
    This explanation would not explain the [[#Reign of Antiochus I|reign of Antiochus I]] problem as there is a two year discrepancy. As such, this response would have to rely on previous point.[^28]
    It doesn't appear that historians are bothered by most of these discrepancies as is implied from the note [here](https://www.livius.org/sources/content/uruk-king-list/#:~:text=7%27-,MU%2022note,-mAn%2Dti) as this point is the only point described as a scribal error.[^28]
 ## Consistency with Chazal
-1. If we start Alexander's reign from 318 BCE, consistent with Seder Olam {<font color="#ff0000">need to add link</font>}, and then count his rule as seven years [[#^ace4b0|like the Uruk King List]] we arrive at Alexander's reign coming to a close in year 311 BCE, which would explain why year 311 was a significant year. The rulership was being passed and the kingdom was divided at this time according to Chazal.[^25]
+1. If we start Alexander's reign from 317 BCE, consistent with Seder Olam {<font color="#ff0000">need to add link</font>}, and then count his rule as seven years [[#^ace4b0|like the Uruk King List]] we arrive at Alexander's reign coming to a close in year 311 BCE, which would explain why year 311 was a significant year. The rulership was being passed and the kingdom was divided at this time according to Chazal.[^25]
 2. According to the Babylonian dream diaries {<font color="#ff0000">not clear on this point. Need to go back and check</font>} a ruler "Antiochus" died in year 246 BCE. Conventional chronology assumes that this is Antiochus II. However, perhaps this is really Antiochus I. Using 318 as the starting year for Alexander as well as using the Uruk King List, this would line up as is displayed in the [[#^02a3ff|table]] (the years being discussed have been bolded).[^25]
 ### Realigning Conventional History with Chazal
 1. Conventional history and Chazal can realign by the end of the reign of Seleucus II.[^25]
 2. If you take the assumption that Antiochus II and Seleucus II had a coregency  (meaning, they both ruled at the same time) then the end of the reign of Seleucus II would be the same year according to Chazal and the conventional chronology as displayed in the [[#^02a3ff|table]].[^25]
+3. In addition, there is an astronomical diary entry in year 66 (or 246 BC) that says that "Antiochus" died and his son Seleucus took over. Conventional history assumes that this is Antiochus II. However, this may be referring to Antiochus I. This works if you take the length of reigns of the Uruk King list and start Alexander's reign in 318 (see [[#^02a3ff|table]]).[^25]
 #### Indications for a Coregency
 1. There were multiple capital cities in Babylonia at this time.[^25]
 2. Seleucus II had a brother named Antiochus.[^25]

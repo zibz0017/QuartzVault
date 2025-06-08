@@ -1,9 +1,10 @@
 # Learning
+See [[Tiferes Dovid]].
 ## Importance of Saying Chaburos
 1. Saying Chaburos is really important for one's growth.[^1]
 2. Saying a chabura forces one to push himself to the full extent of his abilities. The more one does this, the more they grow.[^1]
 3. In addition, saying chaburos give a certain pressure to have things clear, because if you do not, the people you are saying the chabura over to will tear into you.[^1]
-## Pilpul Shiur
+## Pilpul Shiurim
 1. Pilpul shiurim are very difficult. The growth comes from the difficulty.[^2]
 2. Even if one "drops out" before the shiur is over, the growth one gets from working and struggling to get whatever one was able to get from the pilpul shiur makes it worth it to have them, despite all of the early dropping out.[^2]
 ### General Advice

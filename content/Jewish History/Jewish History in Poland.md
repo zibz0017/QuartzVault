@@ -52,7 +52,7 @@
 2. In addition, the border became more difficult to cross, so people had to sneak their way over, or enter in through a 3rd country.[^15]
 3. WWII came and the Jews were decimated in Poland (85% - 95%). They have never had a large presence since. [^1]
 # Early Poland (1500s and 1600s)
-1. Includes a tremendous amount of gedolim, including [[#Rav Yaakov Pollak]], [[#Rav Shalom Shachna]], the [[#Maharshal]], the Rema (Rav Moshe Isserles 1530 – 1572 [^18]), the Maharshah (Rav Shmuel Eidels 1555 – 1631 [^19]), the [[#The Smah|Smah]], the Maharam (Rav Meir Lublin 1558 – 1616 [^20]), the Bach (Rav Yoel Sirkis 1561 – 1640. Father-in-law of the Taz [^21]), the Taz (David ha-Levi Segal 1586 – 1667 [^22]), the Shach (Rav Shabtai Hakohen 1621–1662 [^23]) the Beis Shmuel (Rav Shmuel ben Uri Shraga Phoebus 1625 or 1650 - 1701 [^24]), and others.
+1. Includes a tremendous amount of gedolim, including [[#Rav Yaakov Pollak]], [[#Rav Shalom Shachna]], the [[#Maharshal]], the Rema (Rav Moshe Isserles 1530 – 1572 [^18]), the Maharsha (Rav Shmuel Eidels 1555 – 1631 [^19]), the [[#The Smah|Smah]], the Maharam (Rav Meir Lublin 1558 – 1616 [^20]), the Bach (Rav Yoel Sirkis 1561 – 1640. Father-in-law of the Taz [^21]), the Taz (David ha-Levi Segal 1586 – 1667 [^22]), the Shach (Rav Shabtai Hakohen 1621–1662 [^23]) the Beis Shmuel (Rav Shmuel ben Uri Shraga Phoebus 1625 or 1650 - 1701 [^24]), and others.
 ## Rav Yaakov Pollak
 1. Rav Yaakov Pollak lived from 1460 or 70 - 1541. [^25]
 2. Was the rebbi of Rabbi Shalom Shachna of Lublin, Meïr of Padua (Maharam Padua) and the Maharal of Prague. [^25]

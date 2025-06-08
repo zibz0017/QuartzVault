@@ -9,7 +9,7 @@
 2. One should begin the bedika immediately after tzeis.[^5] One may wait some amount of time but nothing significant.[^6]
 ## Bedika Before the 14th
 1. One can do bedikas chametz at night before the night of the 14th if they are careful not to bring chametz in after they check. There is a chumrah to recheck on the night of the 14th.[^3]
-2. One may not check during the day before the 14th night. If one does, they are יוצא בדיעבד and do not need to check again. However, they should recheck one room on the 14th night. Checking by windows, skylights or an אכסדרה (room with only 3 sides[^7] or a room with a lot of windows[^8]) is fine, לכתחילה.[^9] (It seems that one does not make a bracha on this but this is not clear. The Mishna Berura says that if one checks by day in places that are well lit (will be discussed soon) or at night, then one does not make a bracha. But what if one checks in places that are not well lit during the daytime.)
+2. One may not check during the day before the 14th night. If one does, they are יוצא בדיעבד and do not need to check again. However, they should recheck one room on the 14th night. Checking by windows, skylights or an אכסדרה (room with only 3 sides[^7] or a room with a lot of windows[^8]) is fine, לכתחילה.<span style="visibility:hidden">l</span>[^9] (It seems that one does not make a bracha on this but this is not clear. The Mishna Berura says that if one checks by day in places that are well lit (will be discussed soon) or at night, then one does not make a bracha. But what if one checks in places that are not well lit during the daytime.)
 3. Two reasons why we are against doing a bedika by day:
 	1. Candles are less effective by day (and sweeping is never particularly effective as it does not reach into cracks.)[^10]
 	2. Once the first reason is true, chazal were mesaken it this way and once they are mesaken it this way, we want to stick to it.
@@ -31,11 +31,11 @@
 1. According to Rav Elyashiv,[^16] Rav Aharon Kotler, and Rav Moshe Feinstein[^17] one can do the bedika with a candle, lechatchila, if the beam is narrow enough to fit into cracks.
    Rav Moshe holds that it is in fact better to use a flashlight than it is to use a candle.[^17]
 2. Rav Shlomo Zalman Auerbach[^18] holds that it is preferable to use a candle because that is the way that chazal were mesaken bedika.
-3. According to Rav Nissin Korelitz[^19] and the אור לציון,[^20] one should not use a flashlight.
+3. According to Rav Nissin Korelitz[^19] and the אור לציון<span style="visibility:hidden">l</span>,[^20] one should not use a flashlight.
    According to Rav Korelitz, one can use the flashlight to assist, but in conjunction with the candle.[^19]
    According to the אור לציון, if one only has a flashlight, they should use it, but they should not make a bracha.[^20]
 ## Leaving the Ceiling Light on
-1. If it helps to leave the ceiling light on, according to the Shevet Levi,[^21] Rav Moshe Feinstein,[^22] Rav Elyashiv,[^16] Rav Nissin Korelitz,[^19] the Chazon Ish,[^16] Rav Yaakov Kanievsky,[^23] and Rav Shlomo Zalman Auerbach,[^24]
+1. If it helps to leave the ceiling light on, according to the Shevet Levi,[^21] Rav Moshe Feinstein,[^22] Rav Elyashiv,[^16] Rav Nissin Korelitz,[^19] the Chazon Ish,[^16] Rav Yaakov Kanievsky,[^23] and Rav Shlomo Zalman Auerbach,[^24] one should do so.
 # Before the Bedika
 ## What One may and may not do Before Bedika
 ### מְלָאכָה 
@@ -134,7 +134,6 @@
 2. בשעת הדחק, one can be meikel and not do a bedika.[^80]
 3. One should ask their LOR for how this halacha applies בזמן הזה (now that travel, even from distant places, is a lot more predictable than it was).[^39]
 # Pile on top of Chametz
-
 ## Man Made Pile
 1. If one would like to pile things in a room that may have chametz in it (to use the room for storage, for example), one must do this over 30 days before Pesach.[^81]
 2. It seems that the pile needs to be over three tefachim high to count. If it is less than 3 tefachim then one must uncover the pile and do a bedika.[^82]
@@ -149,63 +148,129 @@
 2. One cannot be mevatel someone else's chametz for them without their express permission. Even if one was appointed by the owner to do the bedika, this does not allow one to do the bitul.[^89]
 3. A wife can be mevatel the chametz of her husband. She should say כל חמירא דאיכא" *ברשות בעלי דידע ביה*". One should not rely on this lechatchilah (as it is the husband's chametz and it is not so simple that a person's wife can be mevatel it).[^90]
 # Getting Rid of Chametz
-1. You may throw your chametz into rishus harabim and be mevatel it.[^91][^116][^115]
+1. You may throw your chametz into rishus harabim and be mevatel it.[^91][^92][^93]
 2. Hiding chametz (like burying it in your rishus) does not help. If the chametz gets buried on its own (a wall fell down onto the chametz), it is a machlokes if this is a problem on a dioraysa level.[^1]
-3. One cannot put chametz into an inaccebile location and then be mevatel it.[^92]
+3. One cannot put chametz into an inaccebile location and then be mevatel it.[^94]
 # If Bedika was not Done Before Yom Tov
 ## On Yom Tov
-1. If one did not do a bedika before yom tov, if the chametz was mevatel, then one should wait until chol hamoed to do the bedika.[^93]
-2. If there was no bittul, one should do the bedika on yom tov itself.[^93]
-3. One would make a bracha on this bedika, whether they were mevatel the chametz before Pesach or not.[^94]
-4. One shouldn't touch the chametz. Rather one should flip a כלי upside-down over the chametz.[^93] {<font color="#ff0000">this should link to some halacha in siman 446</font>}
+1. If one did not do a bedika before yom tov, if the chametz was mevatel, then one should wait until chol hamoed to do the bedika.[^95]
+2. If there was no bittul, one should do the bedika on yom tov itself.[^95]
+3. One would make a bracha on this bedika, whether they were mevatel the chametz before Pesach or not.[^96]
+4. One shouldn't touch the chametz. Rather one should flip a כלי upside-down over the chametz.[^95] {<font color="#ff0000">this should link to some halacha in siman 446</font>}
 ## After Yom Tov
-1. If one didn't even do the bedika on Pesach, they should do a bedika after Pesach to get rid of the chametz because one is not allowed to get הֲנָאָה from the chametz שעבר עליו פסח.[^95]
-2. One would not make a bracha on this bedika.[^94]
+1. If one didn't even do the bedika on Pesach, they should do a bedika after Pesach to get rid of the chametz because one is not allowed to get הֲנָאָה from the chametz שעבר עליו פסח.[^97]
+2. One would not make a bracha on this bedika.[^96]
 # Finding Chametz on Pesach
 ## Making a Bracha
-1. One would not make any bracha if one finds and gets rid of chametz on Pesach if they did a bedika before Pesach.[^94]
+1. One would not make any bracha if one finds and gets rid of chametz on Pesach if they did a bedika before Pesach.[^96]
 # Finding Chametz After Doing the Bedika
-1. If one finds chametz after doing the bedika, he does not need to be concerned that there is more chametz that he missed.[^96]
+1. If one finds chametz after doing the bedika, he does not need to be concerned that there is more chametz that he missed.[^98]
 # Renting a Living Location
 ## Renting From a Goy
-Background: A person has a chiyuv to do a bedika, not just to make sure that they are not ovver on Bal Yeirah or to keep themselves from accidentally eating chametz.[^97]
-1. If someone is renting from a goy and leaving within 30 days of Pesach, they don't need to do a bedika because the chametz is mafkired and so we view it likeמשליח אותו ברחוב and they'll do a bedika on the house they move into.[^97]
-2. If they move into a house with a Jewish owner who already did a bedika, they still don't need to do a bedika on the house they left because we view the Jewish owner like the shliach of the tenant so it is as if the tenant did a bedika.[^98]
-3. Similarly, if another Jew is going to move into the house of this goy after the original Jew left, the Jew who left does not need to do a bedika because the Jew moving in after him has to do a bedika and we view him like a shliach for the Jew leaving.[^99]
-   If this Jew moving in afterwards is not going to do the bedika (he is not shomer mitzvos) then the Jew leaving will have to do a bedika.[^100]
-4. If the Jew leaving is not going to be living anywhere else at all (like if they are traveling over Pesach), and nobody is moving in after him, then he does need to do a bedika.[^97]
-   However, if the goyish owner of the house is going to move back into the house after the Jew leaves but before Pesach, then they Jew does not need to do a bedika.[^101] {<font color="#ff0000">I don't understand why this is.</font>}
+Background: A person has a chiyuv to do a bedika, not just to make sure that they are not ovver on Bal Yeirah or to keep themselves from accidentally eating chametz.[^99]
+1. If someone is renting from a goy and leaving within 30 days of Pesach, they don't need to do a bedika because the chametz is mafkired and so we view it likeמשליח אותו ברחוב and they'll do a bedika on the house they move into.[^99]
+2. If they move into a house with a Jewish owner who already did a bedika, they still don't need to do a bedika on the house they left because we view the Jewish owner like the shliach of the tenant so it is as if the tenant did a bedika.[^100]
+3. Similarly, if another Jew is going to move into the house of this goy after the original Jew left, the Jew who left does not need to do a bedika because the Jew moving in after him has to do a bedika and we view him like a shliach for the Jew leaving.[^101]
+   If this Jew moving in afterwards is not going to do the bedika (he is not shomer mitzvos) then the Jew leaving will have to do a bedika.[^102]
+4. If the Jew leaving is not going to be living anywhere else at all (like if they are traveling over Pesach), and nobody is moving in after him, then he does need to do a bedika.[^99]
+   However, if the goyish owner of the house is going to move back into the house after the Jew leaves but before Pesach, then they Jew does not need to do a bedika.[^103] {<font color="#ff0000">I don't understand why this is.</font>}
 ## Renting From a Yid
 ### Who Needs to Do the Bedika
 #### Renting from Before the 14th
-1. If the tenant has the key and did a maaseh kinyan before the night of the 14th began, he is required to do the bedika.[^102] {<font color="#ff0000">This halacha may apply to renting a house from non-Jewish</font>}
-2. If the owner of the house has the and no maaseh kinyan was done, then it is on the owner to do the bedika.[^102]
-3. If the tenant received the key before the beginning of the night of the 14th, but did not make a maaseh kinyan, then both the tenant and the owner need to do the bedika (or one can appoint the other to be his shliach).[^103]
+1. If the tenant has the key and did a maaseh kinyan before the night of the 14th began, he is required to do the bedika.[^104] {<font color="#ff0000">This halacha may apply to renting a house from non-Jewish</font>}
+2. If the owner of the house has the and no maaseh kinyan was done, then it is on the owner to do the bedika.[^104]
+3. If the tenant received the key before the beginning of the night of the 14th, but did not make a maaseh kinyan, then both the tenant and the owner need to do the bedika (or one can appoint the other to be his shliach).[^105]
    The lashon of the mishan berurah (in Sif Katan 2) sounds more like the chiyuv is on the owner rather than the tenant, so perhaps the tenant has more of a right to make the owner be the shliach to do the bedika rather than the other way around.[^39]
    {<span style="color:rgb(255, 0, 0)">What happens if there is a maaseh kinyan but the key was not given over?</span>}
-4. Once the night begins, the chiyuv to do the bedika is on the owner. Giving the key over to the tenant after the night began does not make a difference.[^104]
+4. Once the night begins, the chiyuv to do the bedika is on the owner. Giving the key over to the tenant after the night began does not make a difference.[^106]
 #### Renting on the 14th
-1. If the house was rented on the 14th by day or in middle of the night and there isn't enough time to do the bedika, the tenant should ask the owner if the bedika has already been done yet.[^105]
-2. If the tenant can't get in touch with the owner, he can ask the wife or children (even under bar or bas mitzva) if the bedika has been done.[^105]
-3. If the tenant can't get in touch with anyone assume that the bedika has already been done. As such, the tenant would not have to do a bedika.[^106]
-4. If the owner of the house is not frum, then it would seem that the tenant would not be able to rely on the owner having done a bedika, perhaps even if the owner explicitly told him that it was bodek.[^107] See [[#If Bedika was not Done Before Yom Tov|here]] about what one should do in this situation.
+1. If the house was rented on the 14th by day or in middle of the night and there isn't enough time to do the bedika, the tenant should ask the owner if the bedika has already been done yet.[^107]
+2. If the tenant can't get in touch with the owner, he can ask the wife or children (even under bar or bas mitzva) if the bedika has been done.[^107]
+3. If the tenant can't get in touch with anyone assume that the bedika has already been done. As such, the tenant would not have to do a bedika.[^108]
+4. If the owner of the house is not frum, then it would seem that the tenant would not be able to rely on the owner having done a bedika, perhaps even if the owner explicitly told him that it was bodek.[^109] See [[#If Bedika was not Done Before Yom Tov|here]] about what one should do in this situation.
 #### The Owner Agreed to do the Bedika
-1. If the tenant and owner agreed that the owner would do the bedika, and it turns out that the owner did not take follow through with his word, the tenant would have to take care of the bedika.[^108]
+1. If the tenant and owner agreed that the owner would do the bedika, and it turns out that the owner did not take follow through with his word, the tenant would have to take care of the bedika.[^110]
    {<span style="color:rgb(255, 0, 0)">If the owner is around, it may perhaps be his responsibility to do the bedika. I need to look into this more.</span>}
 2. Even if the tenant paid extra for the bedika to be done, the tenant cannot claim that the rental was a מקח טעות or even get a refund on the extra amount that was paid.
-   This is because bedikas chametz is a mitzvah and so we don't view it as a negative that the tenant has an extra opportunity to do a mitzvah.[^109] {<span style="color:rgb(255, 0, 0)">Even so, perhaps the owner should give the money back anyway. Need to look into this.</span>}
+   This is because bedikas chametz is a mitzvah and so we don't view it as a negative that the tenant has an extra opportunity to do a mitzvah.[^111] {<span style="color:rgb(255, 0, 0)">Even so, perhaps the owner should give the money back anyway. Need to look into this.</span>}
 ### Bitul
-1. In all cases, the owner should do a bitul.[^110]
+1. In all cases, the owner should do a bitul.[^112]
    If none of the chametz in the house was the owner's (like if the owner did not live in the house since the previous Pesach), then perhaps a bitul is not required.[^39]
-2. Once the tenant receives the key, according to some people, he is koneh the chametz in the house. As such, if he receives the key before yom tov, he should do a bitul, even if he is not staying there over Pesach.[^110]
-   However, if the tenant knows that the owner was mevatel the chametz, then the tenant would not need to do a bittul.[^111]
+2. Once the tenant receives the key, according to some people, he is koneh the chametz in the house. As such, if he receives the key before yom tov, he should do a bitul, even if he is not staying there over Pesach.[^112]
+   However, if the tenant knows that the owner was mevatel the chametz, then the tenant would not need to do a bittul.[^113]
 # Relying on Women and Ketanim for Bedika
-1. A woman and a katan are relied upon if they said that they did a bedika in a situation that one is mevatel as well (as this makes the chiyuv to do the bedika only a derabanan).[^112] However, this is not lechatchila.[^113] {<span style="color:rgb(255, 0, 0)">I assume that the katan needs to have reached the age of chinuch.</span>}
-2. Even a divorced woman should have a man do the bedika for her, if possible.[^114]
-3. {<span style="color:rgb(255, 0, 0)">It seems hard to imagine that this applies nizman hazeh. However, the previous halacha (about a divorced women having men do the bedika is from Rav Elyashiv.</span>}
+1. A woman and a katan are relied upon if they said that they did a bedika in a situation that one is mevatel as well (as this makes the chiyuv to do the bedika only a derabanan).[^114] However, this is not lechatchila.[^115] {<span style="color:rgb(255, 0, 0)">I assume that the katan needs to have reached the age of chinuch.</span>}
+2. Even a divorced woman should have a man do the bedika for her, if possible.[^116]
+3. {<span style="color:rgb(255, 0, 0)">It seems hard to imagine that this applies nizman hazeh. However, the previous halacha (about a divorced women having men do the bedika) is from Rav Elyashiv.</span>}
+# Relying on Sfeikos
+{<span style="color:rgb(255, 0, 0)">I don't know in what practical case these halachos are relevent. Maybe if someone is not sure if he did a bedika?</span>}
+## Safeik Dirabanan
+1. We do not rely on a safeik dirabanan when it comes to bedika. The whole chiyuv of bedika after the bittul is a situation of a safeik dirabanan and yet chazal were mesakein that one needs to do the bedika.[^117]
+2. As such, it is clear that when it comes to bedika chametz, chazal did not want one to rely on a safeik dirabanan.[^117]
+3. Despite this, there are some exceptions to this and we actually would rely on a safeik dirabanan.[^118]
+## Sfek Sfeika
+1. We rely on sfek sfeika, even for dioraysas.[^119]
+2. If one can, one should try to make the situation into a dirabanan situation (by being mevatel the chametz) as it is better to rely on a sfek sfeika dirabanan.[^119]
+# Bittul Birov
+{<span style="color:rgb(255, 0, 0)">I don't know in what practical case these halachos are relevent.</span>}
+1. If we have a majority of bags of matza and a minority of bags of chametz, and a rat snatches one and hides it in a house, we treat it like the rat took a bag of chametz as we say כל קבוע כמחצא על מחצא.[^120] {<span style="color:rgb(255, 0, 0)">Need to fix footnote allignment</span>}
+2. If the bags were mixed around, then we do not say that the rat took from a קבוע and so we revert to כל דפריש מרובא פריש.[^121]
+3. If we did not see the rat take the chametz, then we say follow the rov and assume that the rat took matza as we say כל דפריש מרובא פריש.[^120] {<span style="color:rgb(255, 0, 0)">Need to fix footnote allignment</span>}
 # Selling Chametz to a Goy
-1. It is preferable for the sale of chametz to a goy to go into effect on the 13th day rather than on the 14th night. However, it is okay if not.[^101]
-2. When selling chametz, one should be more inclusive when discussing the chametz that is being sold, rather than more specific. For example, a person should say that all the chametz in a certain room is being sold, rather than specify that the package of cookies or whatever is being sold. This is preferable because it will include chametz that one didn't find.[^101]
+1. It is preferable for the sale of chametz to a goy to go into effect on the 13th day rather than on the 14th night. However, it is okay if not.[^103]
+2. When selling chametz, one should be more inclusive when discussing the chametz that is being sold, rather than more specific. For example, a person should say that all the chametz in a certain room is being sold, rather than specify that the package of cookies or whatever is being sold. This is preferable because it will include chametz that one didn't find.[^103]
+# Chametz of Another in a Jewish Home
+{<span style="color:rgb(255, 0, 0)">I don't know in what practical case these halachos are relevent. Perhaps this applies to chametz part of the mechiras chametz </span>}
+## Chametz of a Goy
+### Basic Halacha
+#### Jew Accepted Responsibility
+1. If a Jew has the chametz of a goy in his possession and the Jew accepted responsibility for it:[^122]
+	1. Preferably, the Jew should make sure to return the chametz to the goy.[^123]
+	2. If the Jew can't, he should sell the chametz (and do bittul).[^123]
+	3. If the Jew did not do this, he has to do biur on the chametz at the time of biur chametz.[^122] {<span style="color:rgb(255, 0, 0)">Add link to discussion of when the time to do biur chametz is</span>}
+##### Why the Jew may Destroy the Chametz
+Two reasons:
+	1. While it is assur to steal from a goy, it is muttar to damage a goy.[^124]
+	2. Something that a Jew is watching for a goy is considered ownerless regarding that Jew if it will cause him to be ovver on an aveirah.[^125]
+#### Jew Did not Accept Responsibility
+1. If the Jew did not accept responsibility then there is no problem.[^126] However, if the goy asks the Jew on Pesach, it is preferable for the Jew not to watch it, even though he is not accepting responsibility.[^127]
+##### Goy Brings His Own Chametz
+1. A goy can bring his own chametz into the house of a Jew.[^128] There is no concern that the Jew will eat the chametz because the goy is watching it. Also, Baal Yeirah is only for one's own chametz.[^129]
+2. The Jew may not eat with the goy eating chametz, even if both have placemats (which works for basar vichalav).[^130]
+3. The table the goy eats on must be cleaned well afterwards and the goy takes his food with him.[^131]
+### How to Keep the Chametz
+1. If the chametz is in the Jews house, the Jew must make a mechitza that is at least 10 tefachim high between him and the chametz to keep the person from accidentally eating the chametz.[^132]
+2. The mechitza must be solid material (not cloth).[^132]
+3. One cannot place an upside-down keli over the chametz as we are concerned that someone may accidentally use the keli, exposing the chametz.[^133]
+4. {<span style="color:rgb(255, 0, 0)">It seems that this is how one who sold chametz to a goy should keep it. Add a link to this point.</span>}
+### If One did not get Rid of the Chametz Before the Zman Issur
+{<span style="color:rgb(255, 0, 0)">Combine with section [[#If the Jew Did not Destroy the Chametz]]. I need to check the sources. From Sif Katan 8, it sounds like the food is not assur bihanna only if the Jew only accepted responsibility for pshia. In Sif Katan 5, it sounds like even in the Jew accepted responsibility for more than that.</span>}
+1. If the Jew did not do biur, if the Jew only accepted responsibility for pshia, the Jew can rely on the opinion that says that these halachos only apply when the person accepts responsibility for gineiva and aveida.[^123]
+2. He would then return it to the goy as soon as he could, even on Pesach.[^123]
+3. In this situation, the Jew can't touch the chametz.[^123]
+4. The chametz is not assur bihana.[^123]
+### Possible Additional Cases
+#### Jew Only Accepted Responsibility for Pshia
+1. Some say that this is even if the Jew only accepted responsibility for pshia (negligence. Meaning, he is a shomer chinam). We are choshesh for this opinion.[^134]
+#### The Goy is Intimidating
+1. According to some, if the goy is a powerful personal and can hold the Jew responsible, even if the Jew didn't officially accept responsibility. One should be choshesh for this opinion.[^135]
+2. Others argue that this is only if the Jew actually does a maaseh kinyan to accept acrayis.[^136]
+#### Jew Rents Location of Chametz to a Goy
+1. Even if the Jew lends or rents out the location of the goy's chametz, the Jew still needs to do biur on the chametz as the Jew is still the owner of the location.[^137]
+#### Jew Transfers Responsibility to a Goy
+1. Even if the Jew gives the chametz to a goy to watch, according to most people this is still a problem.[^138]
+#### Non-Jewish Tenant
+1. A Jew does not need to destroy the chametz of a non-Jewish tenant.[^139]
+#### If the Jew Did not Destroy the Chametz
+1. If the Jew did not destory the chametz, after Pesach, he may return it to the goy and get hanna from the chametz.[^140]
+#### Goy Places Chametz on Jew's Property Against the Jew's Will
+1. If this occurred before Pesach or on chol hamoed, the Jew must put it behind a wall (assuming the Jew can't get rid of it) [[#How to Keep the Chametz|as discussed]].[^141]
+2. If it was on Pesach, then the Jew covers it with a keli {<span style="color:rgb(255, 0, 0)">add link</span>}.[^141] (I am not sure why the Jew can't bring a wall (like a mechitza) to block the chometz. Perhaps this is because this wall is considered to have halachic significance and so that would be considered building a wall, similar to the halachos of boneh on shabbos (Siman 315 Sif 1 with Sif Katans {<span style="color:rgb(255, 0, 0)">add link</span>}.[^39])
+## Chametz of a Jew
+1. The owner of the chametz is ovver on the issur.[^142]
+2. If the property owner accepted responsibility, he is ovver on the issur, as well ([[#Jew Accepted Responsibility|as we said by a goy]]).[^142]
+3. (Perhaps relevant if a Jew is renting storage space from another Jew.)
+
 # Footnotes
 
 [^1]: Siman 433 Sif Katan 38
@@ -274,7 +339,7 @@ Background: A person has a chiyuv to do a bedika, not just to make sure that the
 [^64]: Siman 436 Sif 1
 [^65]: Siman 436 Sif Katan 2 Shaar Hatzion Sif 2
 [^66]: I don't understand the connection between these two points. Why is it that just because one should begin learning the halachos of Pesach at this time does that mean that the chiyuv for the bedika begins at this time as well?
-[^77]: Siman 436 Sif 1 Sif Katan 3
+[^67]: Siman 436 Sif 1
 [^68]: Siman 436 Sif Katan 3
 [^69]: Siman 436 Sif 1 Sif Katan 4
 [^70]: Siman 436 Sif Katan 6
@@ -284,7 +349,7 @@ Background: A person has a chiyuv to do a bedika, not just to make sure that the
 [^74]: Siman 436 Sif Katan 16
 [^75]: It seems from Siman 436 Sif Katan 23 that the halachos are the same by both cases.
 [^76]: Own thoughts. This is also mashma from the mishna berura because in the mishna berura does not make mention of being mevatel the chametz when discussing this case, while by the case of of one appointing a shliach (brought down in Siman 436 Sif Katan 3), the mishna berura does mention that one should be mevatel the chametz.
-[^67]: Siman 436 Sif 1
+[^77]: Siman 436 Sif 1 Sif Katan 3
 [^78]: Siman 436 Sif Katan 20
 [^79]: Sima 436 Sif Katan 9
 [^80]: Siman 436 Sif Katan 23
@@ -299,28 +364,54 @@ Background: A person has a chiyuv to do a bedika, not just to make sure that the
 [^89]: Siman 434 Sif Katan 14, 15
 [^90]: Siman 434 Sif Katan 18, 19
 [^91]: Siman 433 Sif Katan 28
-[^92]: Siman 438 Sif Katan 15
-[^93]: Siman 435 Sif Katan 3
-[^94]: Siman 435 Sif Katan 5
-[^95]: Siman 435 Sif 1
-[^96]: Siman 438 Sif 4
-[^97]: Siman 436 Sif 3 Sif Katan 27
-[^98]: Siman 436 Sif Katan 28
-[^99]: Siman 436 Sif Katan 29 Shaar Hatzion 29
-[^100]: Siman 436 Dirshu footnote 18 (no source)
-[^101]: Siman 436 Sif Katan 32
-[^102]: Siman 437 Sif 1 Sif Katan 2
-[^103]: Siman 437 Sif Katan 2
-[^104]: Siman 437 Sif Katan 3
-[^105]: Siman 437 Sif 2
-[^106]: Siman 437 Sif 2 Sif Katan 7-9
-[^107]: Based on Siman 437 Sif Katan 9
-[^108]: Siman 437 Sif 3 Sif Katan 11, 12
-[^109]: Siman 437 Sif 3 Sif Katan 12-15
-[^110]: Siman 437 Sif Katan 6
-[^111]: Siman 437 ב"ה ד"ה שועלו
-[^112]: Siman 437 Sif 4 Sif Katan 16-19
-[^113]: Siman 437 Sif Katan 18
-[^114]: Siman 437 Dirshu footnote 15
-[^115]: Siman 445 Sif 3 Sif Katan 17, 18
-[^116]: Siman 433 באר הגולה על ס' ו
+[^92]: Siman 433 באר הגולה על ס' ו
+[^93]: Siman 445 Sif 3 Sif Katan 17, 18
+[^94]: Siman 438 Sif Katan 15
+[^95]: Siman 435 Sif Katan 3
+[^96]: Siman 435 Sif Katan 5
+[^97]: Siman 435 Sif 1
+[^98]: Siman 438 Sif 4
+[^99]: Siman 436 Sif 3 Sif Katan 27
+[^100]: Siman 436 Sif Katan 28
+[^101]: Siman 436 Sif Katan 29 Shaar Hatzion 29
+[^102]: Siman 436 Dirshu footnote 18 (no source)
+[^103]: Siman 436 Sif Katan 32
+[^104]: Siman 437 Sif 1 Sif Katan 2
+[^105]: Siman 437 Sif Katan 2
+[^106]: Siman 437 Sif Katan 3
+[^107]: Siman 437 Sif 2
+[^108]: Siman 437 Sif 2 Sif Katan 7-9
+[^109]: Based on Siman 437 Sif Katan 9
+[^110]: Siman 437 Sif 3 Sif Katan 11, 12
+[^111]: Siman 437 Sif 3 Sif Katan 12-15
+[^112]: Siman 437 Sif Katan 6
+[^113]: Siman 437 ב"ה ד"ה שועלו
+[^114]: Siman 437 Sif 4 Sif Katan 16-19
+[^115]: Siman 437 Sif Katan 18
+[^116]: Siman 437 Dirshu footnote 15
+[^117]: Siman 439 Sif Katan 2
+[^118]: Siman 439 Sif 2 Sif Katan 7 with Dirshu footnote 5
+[^119]: Siman 439 Sif Katan 3
+[^120]: Siman 439 Sif 1 Sif Katan 1
+[^121]: Siman 439 Sif Katan 4
+[^122]: Siman 440 Sif Katan 2, 4
+[^123]: Siman 440 Sif Katan 8
+[^124]: מנחת חינוך מצוה יא אות ז בקומץ המנחה brought down by Siman 440 Dirshu footnote 8
+[^125]: Siman 118 Sif Katan 5 brought down by Siman 440 Dirshu footnote 8
+[^126]: Siman 440 Sif 1
+[^127]: Siman 440 Sif Katan 10
+[^128]: Siman 440 Sif 3
+[^129]: Siman 440 Sif Katan 16
+[^130]: Siman 440 Sif Katan 17, 18
+[^131]: Siman 440 Sif Katan 18
+[^132]: Siman 440 Sif 2 Sif Katan 12
+[^133]: Siman 440 Sif 2 Sif Katan 13
+[^134]: Siman 440 Sif 1 Sif Katan 8
+[^135]: Siman 440 Sif 1 Sif Katan 9
+[^136]: Siman 440 Sif Katan 2
+[^137]: Siman 440 Sif Katan 3
+[^138]: Siman 440 Sif 1 Sif Katan 6
+[^139]: Siman 440 Sif Katan 11
+[^140]: Siman 440 Sif Katan 5
+[^141]: Siman 440 Sif 2 Sif Katan 14, 15
+[^142]: Siman 440 Sif 4 Sif Katan 19

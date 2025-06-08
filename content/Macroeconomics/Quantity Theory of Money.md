@@ -1,7 +1,7 @@
 # Formula
 1. M \* V = P \* Y
 2. M = Money in an economy.
-   V = Velocity (amount of times a dollar is on average over a period of time (usually a year)).
+   V = Velocity (amount of times a dollar is spent, on average, over a period of time (usually a year)).
    P = Average price level (inflation). {<font color="#ff0000">Need to link this to the article with GDP</font>}
    Y = Real GDP. {<font color="#ff0000">Need to link this to the article with GDP</font>}
 # Explanation

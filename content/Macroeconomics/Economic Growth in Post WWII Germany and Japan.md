@@ -1,0 +1,8 @@
+1. After World War II, Germany and Japan had incredible rates of production, despite having considerable losses of physical capital and labor (many young men from these countries were soldiers who were killed during the war).[^1]
+	1. <span style="color:rgb(255, 192, 0)">Counter:</span> This high rate of production increased during the 1950s and beyond, as opposed to what is predicted by the theory, which is immediate large gains, which slow down over time. In addition, the high growth rates lasted a very long time, as opposed to what the theory predicts which is that the steady-state should be reached somewhat quickly. There are a few other problems with this theory as it relates to Germany and Japan, as well.[^2]
+	2. <span style="color:rgb(146, 208, 80)">Possible Counter:</span> Perhaps initial slow growth makes sense, as discussed [[Gross Domestic Product (GDP)#^2deee7|here]], especially considering the fact that these countries lost a lot of prime age men.
+
+{<span style="color:rgb(255, 0, 0)">Need to do more research about this topic.</span>}
+
+[^1]: [Marginal Revolution University : Introduction to the Solow Model](https://mru.org/courses/principles-economics-macroeconomics/solow-model-economic-growth)
+[^2]: [Federal Reserve Publications : Transition Dynamics in Vintage Capital Models: Explaining the Postwar Catch-Up of Germany and Japan](https://www.federalreserve.gov/pubs/feds/2001/200107/200107pap.pdf) (pg 2)

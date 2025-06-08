@@ -1,0 +1,11 @@
+---
+draft: "true"
+---
+- [[Notes#^9afec3]]
+- [[Notes#^e6334d]]
+- [[Notes#^cc43d7]] (and next few bullets)
+- [[Notes#^ae8c6d]] (and next few bullets)
+- [[Notes#^697ef2]] (and next few bullets)
+- [[Notes#^b251dd]] (and next few bullets)
+- [[Notes#^e94161]] (and next bullet)
+- [[Notes#^c640a0]]
