@@ -8,11 +8,9 @@ Average of the distance of all of the numbers from the mean (with all distances 
 ## Calculating MAD Example
 Set of numbers: 4, 7, 13, 23, 18, -2
 Find the mean:
-
 $$
 \frac{4+7+13+23+18+\text{-}2}{6} \Rightarrow \frac{63}{6} = 10.5
 $$
-
 Find how far every number is from the mean (and make them all positive):
 
 $$
@@ -38,19 +36,14 @@ $$
 $$
 |10.5-(-2)|=12.5
 $$
-
 Add up all of the distances:
-
 $$
 6.5+3.5+2.5+12.5+7.5+12.5=45
 $$
-
 Divide by the amount of numbers:
-
 $$
 \frac{47}{6} = \textbf{7.5}
 $$
-
 # Variance
 ## Symbol
 Population variance: $σ^2$ (lowercase sigma squared)
