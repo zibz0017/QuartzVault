@@ -66,40 +66,91 @@ So the steps are:
 ### Population Variance Example
 Set of numbers: 4, 7, 13, 23, 18, -2
 Find the mean:
-$$\frac{4+7+13+23+18+\text{-}2}{6} \Rightarrow \frac{63}{6}= 10.5$$
+$$
+\frac{4+7+13+23+18+\text{-}2}{6} \Rightarrow \frac{63}{6}= 10.5
+$$
 Find the squared distances from the mean:
-$$(10.5-4)^2=42.25$$
-$$(10.5-7)^2=12.25$$
-$$(10.5-13)^2=6.25$$
-$$(10.5-23)^2=156.25$$
-$$(10.5-18)^2=56.25$$
-$$(10.5-\text{-}2)^2=156.25$$
+$$
+(10.5-4)^2=42.25
+$$
+
+$$
+(10.5-7)^2=12.25
+$$
+
+$$
+(10.5-13)^2=6.25
+$$
+
+$$
+(10.5-23)^2=156.25
+$$
+
+$$
+(10.5-18)^2=56.25
+$$
+
+$$
+(10.5-\text{-}2)^2=156.25
+$$
 Add up all of the squared distances:
-$$42.25+12.25+6.25+156.25+56.25+156.25=429.5$$
+$$
+42.25+12.25+6.25+156.25+56.25+156.25=429.5
+$$
 Divide by the amount of numbers:
-$$\frac{429.5}{6} \approx \textbf{71.583}$$
+$$
+\frac{429.5}{6} \approx \textbf{71.583}
+$$
 ### Sample Variance Example
 If the above set was a sample from a larger set, we would do the exact same thing until the last step. As such, we do:
 
 Find the mean:
-$$\frac{4+7+13+23+18+\text{-}2}{6} \Rightarrow \frac{63}{6}= 10.5$$
+$$
+\frac{4+7+13+23+18+\text{-}2}{6} \Rightarrow \frac{63}{6}= 10.5
+$$
 Find the squared distances from the mean:
-$$(10.5-4)^2=42.25$$
-$$(10.5-7)^2=12.25$$
-$$(10.5-13)^2=6.25$$
-$$(10.5-23)^2=156.25$$
-$$(10.5-18)^2=56.25$$
-$$(10.5-\text{-}2)^2=156.25$$
+$$
+(10.5-4)^2=42.25
+$$
+
+$$
+(10.5-7)^2=12.25
+$$
+
+$$
+(10.5-13)^2=6.25
+$$
+
+$$
+(10.5-23)^2=156.25
+$$
+
+$$
+(10.5-18)^2=56.25
+$$
+
+$$
+(10.5-\text{-}2)^2=156.25
+$$
+
 Add up all of the squared distances:
-$$42.25+12.25+6.25+156.25+56.25+156.25=429.5$$
+$$
+42.25+12.25+6.25+156.25+56.25+156.25=429.5
+$$
 Divide by the amount of numbers *minus 1*:
-$$\frac{429.5}{(6-1)} \Rightarrow \frac{429.5}{5} = \textbf{85.9}$$
+$$
+\frac{429.5}{(6-1)} \Rightarrow \frac{429.5}{5} = \textbf{85.9}
+$$
 ## Why There is a Different Calculation for the Population Variance and the Sample Variance
 {<span style="color:rgb(255, 0, 0)">This section is important and I think it can use more work</span>}
 The sample variance is obviously supposed to be an estimate of the population variance. However, it comes out lower.
+
 This is because the sample variance is not based on the real mean of the whole set. It is based on the mean of the sample. At times, this sample mean may be quite accurate (and if the sample is large enough, it will usually be so), but many times, it will not be.
+
 For the most part, the sample data will generally not include the less extreme data so the data will generally be clustered together and the variance will be lower.
+
 Even when there are extreme cases, the sample mean will be "pulled" toward the sample data, making the extreme data make less of difference. As such, even though some samples will have a higher variance, these relatively few cases will not have a high enough variance to counter the lower variance from most of the samples (which will generally contain largely non-extreme numbers).
+
 To counter this "bias", we subtract 1 from the denominator in the final step to increase the sample variance to give us a better estimate of the actual variance.
 ## Additional Point
 The sample mean and the variance are largely not correlated. On average, the variance of the sample (using n, not n-1) is lower than the population variance, regardless of what the sample mean is.
@@ -141,17 +192,27 @@ These measures will tell this to us.
 Units come out weird with variance, while they come out useful with MAD and SD. With variance, the units come out in units squared. With MAD and SD, they are just regular units.
 
 For example, let's say the numbers given in the above data set are measurements in inches of some things. In [[#Calculating Variance Example|example given where we calculate the variance]], we said that:
-$$(10.5-4)^2=42.25$$
+$$
+(10.5-4)^2=42.25
+$$
 If these were measurements in inches, for example, it really is:
-$$(10.5 \space in -4 \space in)^2=42.25 \space in^2$$
+$$
+(10.5 \space in -4 \space in)^2=42.25 \space in^2
+$$
 (The same is true for all of the calculations. I just picked one to illustrate.)
 
 *in<sup>2</sup>* is an odd unit and not very useful. We don't square anything in the calculations to find the MAD, so the units are normal. 
 
 For MAD:
-$$|10.5 \space in-4 \space in|=6.5 \space in$$
+$$
+|10.5 \space in-4 \space in|=6.5 \space in
+$$
 For the SD, we do square the units, but then we find the square root, so the units are turned back into the normal units. So in the above example, the variance ends up being:
-$$\frac{42.25 \space in^2 +12.25 \space in^2 +6.25 \space in^2 +156.25 \space in^2 +56.25 \space in^2 +156.25 \space in^2}{6} \Rightarrow \frac{429.5 \space in^2} {6}  \approx 71.583 \space in^2$$
+$$
+\frac{42.25 \space in^2 +12.25 \space in^2 +6.25 \space in^2 +156.25 \space in^2 +56.25 \space in^2 +156.25 \space in^2}{6} \Rightarrow \frac{429.5 \space in^2} {6} \approx 71.583 \space in^2
+$$
 We then take the square root of that to find the SD:
-$$\sqrt{71.583 \space in^2} \approx 8.46  \space in $$
+$$
+\sqrt{71.583 \space in^2} \approx 8.46  \space in
+$$
 The units are *in*, not *in<sup>2</sup>*.
