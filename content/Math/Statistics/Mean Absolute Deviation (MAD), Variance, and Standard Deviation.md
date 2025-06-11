@@ -163,6 +163,7 @@ The square root of the [[#Variance|variance]]. In other words, the square root o
 ## Steps to Find Standard Deviation
 ### Steps to Find Population Standard Deviation
 *Note: This is slightly different than finding the a sample standard deviation. How to [[#Steps to Find Sample Standard Deviation|calculate the sample standard deviation]] will be explained later and [[#Why There is a Different Calculation for the Population Variance and the Sample Variance|why the population and sample standard deviations are different]] is the same reason why there is a difference between the population variance and the sample variance.*
+
 Find the variance, and then take the square root. To break it down:
 1. Find the mean.
 2. Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.
@@ -172,26 +173,29 @@ Find the variance, and then take the square root. To break it down:
 In the above example, the population variance is 85.9 . The population standard deviation of is the square root of that, so it is around **8.46**.
 ### Steps to Find Sample Standard Deviation
 The exact same as finding the population standard deviation, except instead of dividing using the sample variance. As such, most of the steps are the same, except that we divide the total squared distance from the mean by the the amount of numbers used *minus 1*.
+
 To lay it all out, we do the following:
 1. Find the mean.
 2. Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.
 3. Add them all up together, then divide by the amount of numbers in the sample *minus one*.
 4. Find the square root of that number.
+
 In the above example, the sample variance is around 71.583. The population standard deviation of is the square root of that, so it is around **9.27**.
 # Purpose of These Measures
 These measures are for measuring how far dispersed data in a set is. The higher the number, the more dispersed. The lower the number, the less dispersed.
-
 ## Example
 Data set 1: 1, 2, 3, 4, 5
+
 Data set 2: -1,1, 3, 5, 7
 
 Both of these sets have a mean and median of 3, but the numbers in the first set are bunched closer together.
+
 These measures will tell this to us.
 # Advantages to Different Measures
 ## Advantage of MAD and SD over Variance
 Units come out weird with variance, while they come out useful with MAD and SD. With variance, the units come out in units squared. With MAD and SD, they are just regular units.
 
-For example, let's say the numbers given in the above data set are measurements in inches of some things. In [[#Calculating Variance Example|example given where we calculate the variance]], we said that:
+For example, let's say the numbers given in the above data set are measurements in inches of some things. In the [[#Calculating Variance Example|example where we calculate the variance]], we said that:
 $$
 (10.5-4)^2=42.25
 $$
