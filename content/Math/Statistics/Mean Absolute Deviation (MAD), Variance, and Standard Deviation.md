@@ -36,7 +36,7 @@ $$
 $$
 
 $$
-|10.5-\text{-}2|=12.5
+|10.5-(-2)|=12.5
 $$
 
 Add up all of the distances:
