@@ -5375,17 +5375,17 @@
 - The US proposed the Marshall Plan. This was a plan to give supplies to European countries. The Eastern Bloc countries were included in countries that were supposed to receive the supplies.[^1087] Stalin, however, was concerned about Western influence spreading into the Eastern Bloc countries and so he forced the Eastern Bloc countries to reject it.[^1089]
 - The SU created their own economic assistance plan to counter the Marshall Plan called the Molotov Plan (and later, the Comicon).[^1090]
 - It was successful at limiting Western influence into the Eastern Bloc. However, it didn't foster economic growth in many of the Eastern Bloc countries.[^1091]
-- The US was concerned that the SU would want to expand, so they continued creating and testing atomic bombs on islands in the Pacific.[^1093]
-- The SU did not allow people to leave the Eastern Bloc. they had land mines and electrified fences.[^1093]
-- People tried anyway, some using creative means. Some were successful.[^1093]
-- Journalists tried getting stories about what life was like in the Eastern Bloc. Many were arrested.[^1093]
-- Communist military groups in Greece tried to overthrow the government and make the countries communist. They were backed up by the SU supplies.[^1093]
-- The US then sent supplies to back up the help defend the Greek government.[^1093]
-- The US may have been particularly concerned about the potential for communist influence to expand from their across the Mediterranean and into North Africa.[^1093]
-- Greece becomes the first proxy war of the Cold War. This became known as the Greek Civil War.[^1093]
-- It lasted from 1946-1949, when the communists were defeated.[^1092]
-- The war devastated the country. Many were forced to flee from the communist forces.[^1093]
-- It is quite likely that the Greek government would not have been able to win without US help.[^1093]
+- The US was concerned that the SU would want to expand, so they continued creating and testing atomic bombs on islands in the Pacific.[^1092]
+- The SU did not allow people to leave the Eastern Bloc. they had land mines and electrified fences.[^1092]
+- People tried anyway, some using creative means. Some were successful.[^1092]
+- Journalists tried getting stories about what life was like in the Eastern Bloc. Many were arrested.[^1092]
+- Communist military groups in Greece tried to overthrow the government and make the countries communist. They were backed up by the SU supplies.[^1092]
+- The US then sent supplies to back up the help defend the Greek government.[^1092]
+- The US may have been particularly concerned about the potential for communist influence to expand from their across the Mediterranean and into North Africa.[^1092]
+- Greece becomes the first proxy war of the Cold War. This became known as the Greek Civil War.[^1092]
+- It lasted from 1946-1949, when the communists were defeated.[^1093]
+- The war devastated the country. Many were forced to flee from the communist forces.[^1092]
+- It is quite likely that the Greek government would not have been able to win without US help.[^1092]
 - There was a civil war in China between Shanghai Shek and the Nationalists against Mao Zedong and the communists (The Chinese Communist Party, or the CCP).[^1094]
 - Life was hard under the current government so communism was popular.[^1094]
 - The US gave support to the Nationalists. The SU gave support to the communists.[^1094]
@@ -6492,6 +6492,6 @@
 [^1089]: [The University of North Carolina at Chapel Hill : Center for European Studies : The Cold War / Part 2 (specific location in article)](https://europe.unc.edu/iron-curtain/history/the-cold-war-part-2/#:~:text=Since%20Marshall%20Plan%20aid%20was%20extended%20to%20all%20countries%20in%20Europe%2C%20including%20those%20aligned%20with%20the%20Soviet%20Union%2C%20Stalin%20was%20worried%20that%20his%20communist%20allies%20would%20be%20pulled%20into%20strong%20economic%20relations%20with%20the%20West%20and%20created%20his%20own%20economic%20assistance%20plan%20to%20keep%20them%20in%20line.)
 [^1090]: [Wikipedia : Molotov Plan (specific location in article)](https://en.wikipedia.org/wiki/Molotov_Plan#:~:text=The%20Molotov%20Plan%20was,become%20the%20Comecon.)
 [^1091]: [Fiveable : Molotov Plan (specific location in article)](https://library.fiveable.me/key-terms/united-states-history-since-1945/molotov-plan#:~:text=While%20the%20Molotov,command%20economy%20framework.)
-[^1092]: [Wikipedia : Greek Civil War (specific location in article)](https://en.wikipedia.org/wiki/Greek_Civil_War#:~:text=The%20Greek%20Civil,forces%20ultimately%20prevailed.)
-[^1093]: [YouTube : Timeline - World History Documentaries : How The First Nuclear Bombs Ignited The Cold War | M.A.D. World](https://www.youtube.com/watch?v=JntJFBeFYQo) (18:00-36:50)
+[^1092]: [YouTube : Timeline - World History Documentaries : How The First Nuclear Bombs Ignited The Cold War | M.A.D. World](https://www.youtube.com/watch?v=JntJFBeFYQo) (18:00-36:50)
+[^1093]: [Wikipedia : Greek Civil War (specific location in article)](https://en.wikipedia.org/wiki/Greek_Civil_War#:~:text=The%20Greek%20Civil,forces%20ultimately%20prevailed.)
 [^1094]: [YouTube : Timeline - World History Documentaries : How The First Nuclear Bombs Ignited The Cold War | M.A.D. World](https://www.youtube.com/watch?v=JntJFBeFYQo) (36:50-end)

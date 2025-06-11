@@ -3,7 +3,7 @@
 # Natural Amount of Brachos One Makes in a Day
 ## Weekdays
 1. On weekdays, one makes over 100 brachos.[^3]
-2. The cheshbon is as follows: Hamapil (1), Al Netilas Yadayim (1), Asher Yatzar (1), Birchas HaTorah (3),[^4] birchas hashachar with hamaavir Sheina and Elokai neshama (16), Tallis/Tzitzis (1), Tefillin (2), Baruch Sheamar (1), Yishtabach (1), Birchas Krias Shema by Shacharis and by Maariv (8), Shemona Esrei three times (3 * 19 = 57), two meals in which one washes and makes an al netilas yadayim (2 * 1 = 2), makes hamotzi (2 * 1 = 2), bentches (4 * 2 = 8), on a cup of wine (2 * 1 = 2), and makes an Al Hagefen (2 * 1 = 2).[^3] ^971701
+2. The cheshbon is as follows: Hamapil (1), Al Netilas Yadayim (1), Asher Yatzar (1), Birchas HaTorah (3),[^4] birchas hashachar with hamaavir Sheina and Elokai neshama (16), Tallis/Tzitzis (1), Tefillin (2), Baruch Sheamar (1), Yishtabach (1), Birchas Krias Shema by Shacharis and by Maariv (8), Shemona Esrei three times (3 \* 19 = 57), two meals in which one washes and makes an al netilas yadayim (2 \* 1 = 2), makes hamotzi (2 \* 1 = 2), bentches (4 \* 2 = 8), on a cup of wine (2 \* 1 = 2), and makes an Al Hagefen (2 \* 1 = 2).[^3] ^971701
 3. This adds up to 108.
 4. Bizman Hazeh, many people do not eat two bread meals a day (and certainly without bentching on a cup of wine), and some only make one bracha on tefillin, so if we remove the brachos for the meals and one bracha on tefilin, we are down to 91 brachos.[^5] ^5f3326
 5. However, even if we have three non-washing meals in a day, and we average three brachos per meal (2 different brachos rishonos and a borei nefashos), we would be back to 100. This would not include additional brachos for eating snack or asher yotzar for going to the bathroom.[^5]

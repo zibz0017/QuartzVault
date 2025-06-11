@@ -1,7 +1,5 @@
 # Yeshivos
-
 ## Shpitziness in European Yeshivos
-
 Some yeshivos in Europe (such as Yeshiva Chachmei Lublin, Slabodka, Radin, and Volozhin) had their bochurim dressed nicely (walking with silver walking sticks), had beautiful buildings as well as pay the townspeople to make food for the bochurim instead of relying on tzedakah from them. This was for a few reasons:
 
 1. In terms of dressing nicely and having beautiful buildings, during this time, universities were on the rise. Their students looked sophisticated (dressed nicely, clean shaven, etc.) as well as acted sophisticated (analyzed and thought deeply about things). Yeshiva bochurim needed to keep up with them for a few reasons:
@@ -97,7 +95,8 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 3. If some people do aveiros, Hashem may remove his direct hashgacha from Klal Yisroel and allow the "natural course" of events to occur. This can result in random people suffering.[^14][^17]
 # Physical Proximity Affects Zechusim of Tazadikim
 1. Klal Yisroel lost the battle of עי partially because Yehoshua needed to go with the soldiers for his zechusim to have a positive affect.[^18]
-   It seems that the affect of Yehoshua's zechusim was tied to his physical location.[^19]   
+   It seems that the affect of Yehoshua's zechusim was tied to his physical location.[^19]
+   {<span style="color:rgb(255, 0, 0)">This may be because if Yehoshua was there then he would be in danger as well. I don't know if that is much of a chiddush. Of course Hashem is more likely to act to save a tzaddik then if a tzaddik is not in danger. However, in this situation, the tzaddik voluntarily put himself in danger so perhaps it is reasonable that Hashem wouldn't save the tzaddik. A difference is that does this only apply to situations where the tzaddik is in danger, or in any situation that a tzaddik is nearby.</span>}
 # The Mussar Movement 
 1. The mussar movement started getting involved in yeshivos because of Rav Yisroel. Rav Yisroel originally wanted the movement to target the masses but he was able to pivot when he saw it would be more effective to have the movement in yeshivos.[^3]
 2. Volozhin was not part of the mussar movement. However, after Volozhin, most yeshivos became part of it.[^4]
@@ -199,7 +198,8 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 # Hashem may Affect Peoples' Decisions
 1. Hashem can sometimes put thoughts or strengthen certain emotions in people to cause certain results.
 ## Specific Examples
-1. Hashem made סיסרא afraid of ברק. This caused him to gather his armies once he knew that ברק was approaching, even though he did not know that ברק was coming with an army, and even leave cities undefended. These panicked actions were a signal to ברק and דבורה that Hashem was involving Himself in the fight.[^28]
+1. According to some, Hashem put the idea into the minds of Klal Yisroel to cut off the large fingers and toes of אדני בזק (a king in Eretz Canaan). This was because Hashem wanted to punish him מידה כנגד מידה for doing the same to people he had defeated in battle.[^29]
+2. Hashem caused סיסרא to march out and fight against Klal Yisroel. {<span style="color:rgb(255, 0, 0)">Need source</span>}
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8
@@ -230,3 +230,4 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^26]: Yehoshua 8:30
 [^27]: יהושע ח ל מנחה קטנה שם
 [^28]: שופטים ד יב-יד מנחה קטנה ד"ה ויגדו לסיסרא
+[^29]: שופטים א ו-ז רלב"ג ומלבי"ם שם

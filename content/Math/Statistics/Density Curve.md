@@ -1,0 +1,51 @@
+# Definition
+{<span style="color:rgb(255, 0, 0)">Need to come back to this</span>}
+# Different Types of Distributions
+## Normal Distribution
+This is the "standard", "bell-shaped" distribution of data. It is symmetrical. It rises in the middle, goes down on the sides, and then trails off on the right and left.
+
+Example of a normal distribution:
+![[Pasted image 20250610221007.png]][^1]
+### Empirical Rule (68-95-99.7 Rule)
+In a perfect normal distribution, a certain percentage of the data will fall within a certain amount of [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation|standard deviations]] from the mean. In real life there is basically no such thing as a *perfect* normal distribution, but this still a good approximation.
+
+Around 68% of the data is found within one standard deviation of the mean. Around 95% of the data is found within two standard deviations. And around 99.7% is found with three standard deviations.
+
+![[Pasted_image_20250610215901_optimized.png]][^2]
+### Z-Table
+Similarly, a certain percentage of the data is below a point that a is certain amount of standard deviations above or below the mean. These amounts are found on a z-table (such as the one [here](https://en.wikipedia.org/wiki/Standard_normal_table#Cumulative_(less_than_Z))).
+
+The way to read the z-table is that you go down the table to find the whole number and the first number of the decimal (the tenths spot). You then go across the list to find the second number of the decimal (the hundredths spot).
+
+For example, to find what percentage of data is below 1.43 standard deviations, you would go down the table to the row with 1.4, and then you would go across until the column with .03.
+
+![[Screenshot_2025-06-10_235951_optimized.png]]
+
+As can be seen, around 92.4% of the data lies below the 1.43 standard deviations.
+
+One can use these table to find out how much of the data is above a point that is a certain amount of standard deviations, or is between two different points at different standard deviations.
+## Bimodal Distribution
+Similar to a normal distribution except the data peaks in two different places, with a small valley between, and trails off to both sides.
+
+This may occur in data that has normally distributed, but there is one piece of information that makes a major difference in the value of the data.
+
+For example, if we took the weight of many different adults, this should have a normal distribution. However, if the person is male or female makes a big difference.
+
+An example of a bimodal distribution:
+![[Pasted image 20250610213834.png]][^3]
+## Skewed Distribution
+One side of the distribution is much steeper. The other side extends in a long tail. If the tail is to the left, it is called left-skewed. If it is toward the right, it is right skewed.
+
+The mean is closer to the side with the tail than the median. The reason is because the median is the point where there is an equal number of points on either side. It doesn't matter how far away any of the points are.
+
+The mean is affected by how far away points are. Since the "tail side" of the graph has points which are far away, this pulls the mean toward that side.
+
+A way to think of the mean is like the point that balances both halves of the graph. Small amounts farther away pull their side down just as hard as many points closer to the fulcrum.
+
+![[Pasted image 20250610233028.png]][^4]
+# Footnotes
+
+[^1]: [University of Illinois : Data Science Discovery : Normal Distribution](https://discovery.cs.illinois.edu/learn/Simulation-and-Distributions/Normal-Distribution/)
+[^2]: [Dr Dawn Wright : Empirical Rule and z-score Probability](https://www.drdawnwright.com/empirical-rule-and-z-score-probability/)
+[^3]: [Wikipedia : Multimodal Distribution](https://en.wikipedia.org/wiki/Multimodal_distribution)
+[^4]: [Statistics How To : Skewed Distribution](https://www.statisticshowto.com/probability-and-statistics/skewed-distribution/)

@@ -3,6 +3,7 @@
 ## Bal Yeirah Uval Yimatzei
 1. On a dioraysa level, owning chametz on Pesach alone does not violate an issur. The problem is finding this chametz.[^1]
 2. On a dioraysa level, one does not violate an issur if they did the bedika, even if they did not do the bittul. However, you do violate an issur if you find a nice piece of chametz and delay in going to burn it.[^2]
+3. See [[#Mixtures of Chametz and non-Chametz on Pesach]] for additional violations of Bal Yeirah Uval Yimatzei.
 # When to be Bodek
 ## The Ideal Time
 1. One should check on the night of the 14th. Chazal were mesaken this because people are home, and the light of a candle shines more clearly at night. This is important for checking in cracks. Once Chazal were mesaken the night of the 14th, that becomes an additional svarah to check on the 14th night.[^3][^4]
@@ -147,7 +148,7 @@
 1. One should not use a shliach to be mevatel their chametz.[^88]
 2. One cannot be mevatel someone else's chametz for them without their express permission. Even if one was appointed by the owner to do the bedika, this does not allow one to do the bitul.[^89]
 3. A wife can be mevatel the chametz of her husband. She should say כל חמירא דאיכא" *ברשות בעלי דידע ביה*". One should not rely on this lechatchilah (as it is the husband's chametz and it is not so simple that a person's wife can be mevatel it).[^90]
-# Getting Rid of Chametz
+# How to (and not to) Get Rid of Chametz
 1. You may throw your chametz into rishus harabim and be mevatel it.[^91][^92][^93]
 2. Hiding chametz (like burying it in your rishus) does not help. If the chametz gets buried on its own (a wall fell down onto the chametz), it is a machlokes if this is a problem on a dioraysa level.[^1]
 3. One cannot put chametz into an inaccebile location and then be mevatel it.[^94]
@@ -270,7 +271,21 @@ Two reasons:
 1. The owner of the chametz is ovver on the issur.[^142]
 2. If the property owner accepted responsibility, he is ovver on the issur, as well ([[#Jew Accepted Responsibility|as we said by a goy]]).[^142]
 3. (Perhaps relevant if a Jew is renting storage space from another Jew.)
-
+# Mixtures of Chametz and non-Chametz on Pesach
+## All Mixtures
+1. If one eats less than a כזית within כדי אכילת פרס, they are ovver on the lav of Bal Yeirah Uval Yimatzei.[^143]
+2. If one eats a כזית within כדי אכילת פרס then they are ovver on a kares.[^143]
+3. Midirabanan, one can't eat any mixture that has chametz in it, even if the chametz is mevatel midioraysa. As such, one would have to destroy such a mixture.[^143]
+## Min Bishe'eino Mino
+1. If there is 60x non-chametz to chametz, one is not ovver on on an aveirah midioraysa (as the chametz is batel).[^143]
+## Min Bimino
+1. If the non-chametz is more than the chametz then one is not ovver on an aveirah midioraysa (as the chametz is batel).[^143]
+## Cooked Mixtures
+1. If one cooks a mixture with a bit chametz with non-chametz, to the point that the chametz cooks out, the taste still remains. As such, one is ovver on a lav for eating it, but not ovver on Bal Yeirah Uval Yimatzei.[^143] ^64bc71
+# Chametz After Pesach
+1. If chametz was left over until after Pesach, if there was a chiyuv dioraysa to destory the chametz, one may not get hanah from it.[^143]
+2. If the chiyuv was only dirabanan, one may get hanah.[^143]
+3. If there is a lav for eating the chametz, but not bal yeirah uval yimatzei (like [[#^64bc71|in this case]]) then it is a machlokes if one can get hanah from the food after Pesach. One can be meikel if there will be a large loss. Regardless, one should not eat it.[^143] ^54decf
 # Footnotes
 
 [^1]: Siman 433 Sif Katan 38
@@ -415,3 +430,4 @@ Two reasons:
 [^140]: Siman 440 Sif Katan 5
 [^141]: Siman 440 Sif 2 Sif Katan 14, 15
 [^142]: Siman 440 Sif 4 Sif Katan 19
+[^143]: Siman 442 Sif Katan 1
