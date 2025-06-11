@@ -67,7 +67,7 @@ So the steps are:
 Set of numbers: 4, 7, 13, 23, 18, -2
 Find the mean:
 $$
-\frac{4+7+13+23+18+\text{-}2}{6} \Rightarrow \frac{63}{6}= 10.5
+\frac{4+7+13+23+18+(-2)}{6} \Rightarrow \frac{63}{6}= 10.5
 $$
 Find the squared distances from the mean:
 $$
@@ -106,7 +106,7 @@ If the above set was a sample from a larger set, we would do the exact same thin
 
 Find the mean:
 $$
-\frac{4+7+13+23+18+\text{-}2}{6} \Rightarrow \frac{63}{6}= 10.5
+\frac{4+7+13+23+18+(-2)}{6} \Rightarrow \frac{63}{6}= 10.5
 $$
 Find the squared distances from the mean:
 $$
