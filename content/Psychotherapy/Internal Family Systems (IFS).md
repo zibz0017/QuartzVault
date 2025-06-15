@@ -51,8 +51,25 @@
 - Parts are innate in every person. Even babies have them (although many are dormant, or develop later).[^6]
 - Parts provide qualities (like joy and sensitivity), and resources (the ability to focus and problem-solving).[^6]
 - Parts (which are burdened) can hurt you in many ways. Constantly berate you, push you to take care of others to an extreme, cause nightmares, psychosomatic disorders, and others (many are what are listed in the DSM).[^6]
-- A therapist can get the patient to be in touch with a part by picturing a themselves in a particular episode that they want to work through, and try to find that "you" inside yourself. Like if someone was bullied in high school, try to find that bullied highschooler in you. Then, engage with him.
-- Sometimes, a person may feel multiple emotions from one event (fear, anxiety, and anger). The person may have to work on all of them.
+- A therapist can get the patient to be in touch with a part by picturing a themselves in a particular episode that they want to work through, and try to find that "you" inside yourself. Like if someone was bullied in high school, try to find that bullied highschooler in you. Then, engage with him.[^7]
+- Sometimes, a person may feel multiple emotions from one event (fear, anxiety, and anger). The person may have to work on all of them.[^7]
+- Sometimes parts step in when you are trying to work on a different part. These stepping in parts can negatively affect how you feel about and deal with this part you are working on. These stepping in parts can make you angry at this part you are working on, or they can try to not let you get close to this part. You have to ask them to give you some space so you can work on this part.[^7]
+- You sit with the part you are working on to try to empathize with it, assuming it wants to share its emotions with you. This makes you close with the part.[^7]
+- You can then bring the part to a safe place. That can be wherever it wants. You can then reassure the part that it no longer has to worry about the issue that was causing problems.[^7]
+- These stepping in parts (called protectors) can now get new roles now that they don't have to deal with working on this part themselves or protecting the Self.[^7]
+- Sometimes it takes some time for protectors to trust the patient or the therapist.[^7]
+- Sometimes, with the patient's permission, the therapist can talk directly to a part, usually to try and get it to give some space.[^7]
+- Manny men develop a tough-guy part to deal with vulnerability.[^7]
+- When parts are unburdened, they trust the Self more. They connect with the Self more and with other parts.[^8]
+- Sometimes, parts have their own Self and their own parts. And it may go even deeper than that.[^8]
+- The Self is the real you. This can be hard to internalize (one may identify with a part and its burdens), but is very important.[^8]
+- When making a decision, parts can take different sides and fight with each other. You need to get the parts to trust you (have one part wait, and speak to the other. Be curious and compassionate about what's bothering it).[^8]
+- If both parts trust you, you can ask them to talk to each other.[^8]
+- If they agree, you get them to try to talk and understand the other. You mediate the conversation. Don't take a side. Remind them that they are both parts of you. Tell the parts that they can meet more regularly.[^8]
+- Ask the parts if they can leave decision making to you, and they'll just advise you rather then take over.[^8]
+- Getting to know your parts may take some time. Parts may not be ready to trust you.[^8]
+- Also, parts may give you psychosomatic responses when trying to do these self mediations to get to know the parts because they don't want to let you get to know them. This is okay. Don't fight them. Try to understand why they don't want to let you do this.[^8]
+- It can be difficult to feel compassion and curious about some challenging parts (like a critical part), but it is important. Take your time and be patient with the part if it is not forthcoming.[^8]
 # Footnotes
 
 [^1]: No Bad Parts, by Richard Schwartz : Chapter 1 (pg 8-17)
@@ -61,3 +78,5 @@
 [^4]: No Bad Parts, by Richard Schwartz : Chapter 2 (pg 29-32)
 [^5]: No Bad Parts, by Richard Schwartz : Chapter 2 (pg 32-35)
 [^6]: No Bad Parts, by Richard Schwartz : Chapter 2 (pg 36-39)
+[^7]: No Bad Parts, by Richard Schwartz : Chapter 2 (pg 39-48)
+[^8]: No Bad Parts, by Richard Schwartz : Chapter 3 (pg 49-57)

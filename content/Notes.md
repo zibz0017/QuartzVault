@@ -5373,7 +5373,7 @@
 - The Cold War was a battle of ideologies: communism and totalitarian government vs capitalism and democracy.[^1087]
 - Influence of the West and the SU over Europe was decided at the Yalta Conference. The SU pledged to allow for democracies in the countries under their control. That did not happen. They rigged many of the elections that were held.[^1087]
 - The US proposed the Marshall Plan. This was a plan to give supplies to European countries. The Eastern Bloc countries were included in countries that were supposed to receive the supplies.[^1087] Stalin, however, was concerned about Western influence spreading into the Eastern Bloc countries and so he forced the Eastern Bloc countries to reject it.[^1089]
-- The SU created their own economic assistance plan to counter the Marshall Plan called the Molotov Plan (and later, the Comicon).[^1090]
+- The SU already had their own economic assistance plan (since 1945), which came to counter the Marshall Plan. This was called the Molotov Plan (and later, the Comicon).[^1090]
 - It was successful at limiting Western influence into the Eastern Bloc. However, it didn't foster economic growth in many of the Eastern Bloc countries.[^1091]
 - The US was concerned that the SU would want to expand, so they continued creating and testing atomic bombs on islands in the Pacific.[^1092]
 - The SU did not allow people to leave the Eastern Bloc. they had land mines and electrified fences.[^1092]
@@ -5399,6 +5399,11 @@
 - This was difficult as planes had relatively limited ability to carry supplies in those days. In addition, some pilots were killed in crashes.[^1094]
 - The US stationed some B-29 bombers in the UK, in range of Moscow, to threaten the SU. The B-29 was capable of carrying atomic bombs. People were worried the US would drop another on Moscow and bring on WWIII.[^1094]
 - The SU ended the blockade in May 1949. Stalin had realized that this was fruitless.[^1094]
+- The SU had the largest army after WWII. People were scared that they would want to expand across Europe. People believed that the US atom bomb deterred them.[^1095]
+- In April 1949, Western countries formed NATO. It was (and is) a mutual defense pact. This means that if any NATO country is attacked, all of the countries come to its defense. The US army (especially with its superior technology that it shared) was the backbone of NATO.[^1095]
+- The SU viewed this as an act of aggression.[^1095]
+- In August 1949, the SU developed its own atom bomb. This led to fear in the West.[^1095]
+- Spies helped the SU develop the bomb far faster than they otherwise would have. Some spies helped the SU because they thought the world would be a safer place if there wasn't just one country with atom bombs. The two countries would deter each other.[^1095]
 # Footnotes
 
 [^1]: Siman 445 Sif 1 Sif Katan 3
@@ -6495,3 +6500,4 @@
 [^1092]: [YouTube : Timeline - World History Documentaries : How The First Nuclear Bombs Ignited The Cold War | M.A.D. World](https://www.youtube.com/watch?v=JntJFBeFYQo) (18:00-36:50)
 [^1093]: [Wikipedia : Greek Civil War (specific location in article)](https://en.wikipedia.org/wiki/Greek_Civil_War#:~:text=The%20Greek%20Civil,forces%20ultimately%20prevailed.)
 [^1094]: [YouTube : Timeline - World History Documentaries : How The First Nuclear Bombs Ignited The Cold War | M.A.D. World](https://www.youtube.com/watch?v=JntJFBeFYQo) (36:50-end)
+[^1095]: [YouTube : Timeline - World History Documentaries : Nuclear Nightmare: The H-Bomb's Power to Destroy Civilization](https://www.youtube.com/watch?v=2aNUnBxNOjw) (beg-10:15)

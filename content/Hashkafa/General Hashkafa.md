@@ -93,9 +93,12 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 1. There is an idea that Hashem doesn't always punish people because they deserve punishment. Hashem may indirectly punish people. An example might be that someone does an aveirah and so they lose their money. Their innocent child now does not have that money.[^14][^15] (This would seem to argue on the idea of the Chovos Halivavos that nobody can help you or hurt you if it is not ordained by Hashem.)[^16]
 2. Hashem might punish someone to get them to not do something. For example, if someone's parents do certain aveiros and the child also does those same aveiros, the child might need a more forceful knock to get rid of the negative middah now that it had been so inculcated into the child. In a sense, this can actually be viewed as a chesed from Hashem (because, hopefully, the person was not nichshal).[^14]
 3. If some people do aveiros, Hashem may remove his direct hashgacha from Klal Yisroel and allow the "natural course" of events to occur. This can result in random people suffering.[^14][^17]
+## Hashem's Chesed During Punishment
+1. Hashem punishes Klal Yisroel a little at a time so the punishment is not overwhelming, and so that it inspires teshuva.[^18]
+2. Hashem "saves up" the punishment for the other nations and "pays them back" all at once.
 # Physical Proximity Affects Zechusim of Tazadikim
-1. Klal Yisroel lost the battle of עי partially because Yehoshua needed to go with the soldiers for his zechusim to have a positive affect.[^18]
-   It seems that the affect of Yehoshua's zechusim was tied to his physical location.[^19]
+1. Klal Yisroel lost the battle of עי partially because Yehoshua needed to go with the soldiers for his zechusim to have a positive affect.[^19]
+   It seems that the affect of Yehoshua's zechusim was tied to his physical location.[^20]
    {<span style="color:rgb(255, 0, 0)">This may be because if Yehoshua was there then he would be in danger as well. I don't know if that is much of a chiddush. Of course Hashem is more likely to act to save a tzaddik then if a tzaddik is not in danger. However, in this situation, the tzaddik voluntarily put himself in danger so perhaps it is reasonable that Hashem wouldn't save the tzaddik. A difference is that does this only apply to situations where the tzaddik is in danger, or in any situation that a tzaddik is nearby.</span>}
 # The Mussar Movement 
 1. The mussar movement started getting involved in yeshivos because of Rav Yisroel. Rav Yisroel originally wanted the movement to target the masses but he was able to pivot when he saw it would be more effective to have the movement in yeshivos.[^3]
@@ -106,18 +109,18 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 4. It gave a lot of the power to the mashgiach (taking away a lot of the power from the main person with the daas Torah in the yeshiva, namely, the Rosh Yeshiva of the yeshiva.)[^3]
 # NCSY
 ## History
-1. Started in the 1950s by Rabbi Stolper.[^20]
-2. Originally targeted kids in out-of-town communities with little to no exposure to Torah (most, if not nearly all, of the kids were in public school).[^20]
+1. Started in the 1950s by Rabbi Stolper.[^21]
+2. Originally targeted kids in out-of-town communities with little to no exposure to Torah (most, if not nearly all, of the kids were in public school).[^21]
 ## Current
 ### Negative Perception of NCSY
-1. There seems to be some negative sentiment toward NCSY now. This is because the organization can sometimes lower the aspirations of those going there. NCSY has a strong emphasis on marrying Jewish, which of course is extremely important, but it seems that many times they do not push beyond that. Many of the kids who go there would seem to benefit from having higher aspirations. This is more of a problem now then when the program started as many kids who go to NCSY are exposed to Judaism in other ways and so there perhaps is more to work with, as opposed to the public school kids that largely made up the NCSY students in the past.[^21]
-2. NCSY has become a place for girls and boys to hang out. Once again, I feel like this might be a bigger problem now that many kids who go to NCSY are in non-coed Jewish schools. As such, kids are hanging out with the opposite gender perhaps considerably more than they would otherwise. In addition, this may create mixed massaging: teachers and rabbeim at school are telling kids not to hang out with the opposite gender and NCSY seems to imply that it is not so bad.[^21]
-3. Kids of various levels end up there. Meaning, some kids might be struggling with high school, while others have long been kicked out and are doing much worse things. And now these struggling kids are getting exposed and developing relationships with these hardcore kids.[^21]
+1. There seems to be some negative sentiment toward NCSY now. This is because the organization can sometimes lower the aspirations of those going there. NCSY has a strong emphasis on marrying Jewish, which of course is extremely important, but it seems that many times they do not push beyond that. Many of the kids who go there would seem to benefit from having higher aspirations. This is more of a problem now then when the program started as many kids who go to NCSY are exposed to Judaism in other ways and so there perhaps is more to work with, as opposed to the public school kids that largely made up the NCSY students in the past.[^22]
+2. NCSY has become a place for girls and boys to hang out. Once again, I feel like this might be a bigger problem now that many kids who go to NCSY are in non-coed Jewish schools. As such, kids are hanging out with the opposite gender perhaps considerably more than they would otherwise. In addition, this may create mixed massaging: teachers and rabbeim at school are telling kids not to hang out with the opposite gender and NCSY seems to imply that it is not so bad.[^22]
+3. Kids of various levels end up there. Meaning, some kids might be struggling with high school, while others have long been kicked out and are doing much worse things. And now these struggling kids are getting exposed and developing relationships with these hardcore kids.[^22]
 # Agadita
 {<span style="color:rgb(255, 0, 0)">There are lots of Rishonim/Achronim brought down in this section, but I don't know where these come come from. It would definitely be nice to find the actual sources of these opinions.</span>}
 ## Different Ways Things are Hidden
 1. Some things are hidden in what appears to be "wild stories", like [[#^35e4bc|the סוגיא דרבה בר בר חנה]].
-2. Sometimes, chazzal use "exaggerations", like chazzal may say that someone is "chayav binafsho", even if that is not the halacha.[^22] {<span style="color:rgb(255, 0, 0)">Need an explicit example of this</span>}
+2. Sometimes, chazzal use "exaggerations", like chazzal may say that someone is "chayav binafsho", even if that is not the halacha.[^23] {<span style="color:rgb(255, 0, 0)">Need an explicit example of this</span>}
 ## Specific Examples
 ### סוגיא דרבה בר בר חנה (בבא בתרא עג. - עה.)
    {<span style="color:rgb(255, 0, 0)">See https://drive.google.com/file/d/1exVOfC29_W4AIZy6-zEeTeYaaauPXZqu/view for a big discussion of this sugya</span>} ^35e4bc
@@ -125,7 +128,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 {<span style="color:rgb(255, 0, 0)">Need to fill this in</span>}
 #### Explanation
 ##### The Gra
-*(As presented by Rav Aharon Lopionsky[^22])*
+*(As presented by Rav Aharon Lopionsky[^23])*
 1. The deepest secrets of the Torah are found here.
 2. The corruption of the world has forced Hashem to hide the most precious parts of the Torah in what seems like fairy tales.
 ### Machlokes between Rabbi Eliezer and the Rabbanan (Bava Metzia 59. - 59:)
@@ -134,7 +137,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. Rabbi Eliezer caused numerous nissim to happen to prove his prove his point, such as a nearby carob tree uprooted itself and moved away, a nearby river started flowing backward, the walls of the beis medrash started falling down, and a bas kol declared that Rabbi Eliezer was correct.
 #### Explanation
 ##### Rabbeinu Chananel
-*(As presented by Rav Aharon Lopionsky[^22])*
+*(As presented by Rav Aharon Lopionsky[^23])*
 1. This sugya can be understood literally.
 2. The nissim discussed were done through the power of tefilah, not through the power of nevua, as there were no neviim anymore by that time.
 3. However, it is difficult to understand this way because one is not supposed to do nissim.
@@ -147,7 +150,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 3. He grew breasts and was able to nurse his child.
 #### Explanation
 ##### באר הגולה
-*(As presented by Rav Aharon Lopionsky[^22])*
+*(As presented by Rav Aharon Lopionsky[^23])*
 1. This sugya is not to be understood literally.
 2. The gemara simply means that the man found a way to feed his child.
 3. The reason why the gemara describes it as such a miraculous event is because it is a "tremendous miracle" for a father to be able to raise his child.
@@ -158,7 +161,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 3. This is an earthquake.
 #### Explanation
 ##### באר הגולה
-*(As presented by Rav Aharon Lopionsky[^22])*
+*(As presented by Rav Aharon Lopionsky[^23])*
 1. This gemara is not presenting the physical causes of the phenomenon.
 2. The gemara is presenting what the phenomenon represents.
    <span style="color:rgb(112, 48, 160)">Examples:</span>
@@ -168,38 +171,40 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 ## Reading the Torah Literally
 {<span style="color:rgb(255, 0, 0)">I am not sure if this really belongs in this section.</span>}
 1. Rav Sadia Gaon writes that almost everything in the Torah should be taken literally with a few obvious exceptions such as:
-	1. Things about Hashem.[^22]
-	2. If there is a contradiction between two pesukim (obviously they can't both be literal.)[^22]
-	3. Obvious mashalim (like when it says that Hashem will cut out the arlas halev, that is not literal).[^22]
+	1. Things about Hashem.[^23]
+	2. If there is a contradiction between two pesukim (obviously they can't both be literal.)[^23]
+	3. Obvious mashalim (like when it says that Hashem will cut out the arlas halev, that is not literal).[^23]
 	4. {<span style="color:rgb(255, 0, 0)">There was a fourth point as well, but I don't know what it is. It seems to be in the same vein of things that obviously shouldn't be taken literally.</span>}
-2. The Rashba writes very harshly about those who try to learn the Torah allegorically.[^22]
+2. The Rashba writes very harshly about those who try to learn the Torah allegorically.[^23]
 ## Why Agadita is Hidden and How to Understand it
 1. The Ramchal {<span style="color:rgb(255, 0, 0)">I think</span>} writes that agadita is hidden in mashalim because:
-	1. Agadita deals with the deep secrets of the Torah, and the same way one may not want to share their deepest secrets, even if it isn't embarrassing or anything, it's just that it is extremely personal and so they are not appropriate to publicize.[^22]
-	2. People can make mistakes and these topics are extremely core to Yiddishkeit and so we can't have people make mistakes with them.[^22]
+	1. Agadita deals with the deep secrets of the Torah, and the same way one may not want to share their deepest secrets, even if it isn't embarrassing or anything, it's just that it is extremely personal and so they are not appropriate to publicize.[^23]
+	2. People can make mistakes and these topics are extremely core to Yiddishkeit and so we can't have people make mistakes with them.[^23]
 2. Because of the "corruption of the world", Hashem hides deep secrets of the Torah, as [[#The Gra|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}
-3. The Ramchal writes that chazzal would "exaggerate", like by saying that someone is chayav binafsho for violating something because there is a certain sense in which the person is chayav. For example, if someone wounds someone else, in a sense, strict justice would require the person to receive that wound. Obviously, that is not the halacha for whatever reason (the Torah may have decided that that would be barbaric, for example).[^22]
-4. According to the Rashbam some agadita is supposed to be understood only allegorically, some only al pi pshat, and some both.[^22]
+3. The Ramchal writes that chazzal would "exaggerate", like by saying that someone is chayav binafsho for violating something because there is a certain sense in which the person is chayav. For example, if someone wounds someone else, in a sense, strict justice would require the person to receive that wound. Obviously, that is not the halacha for whatever reason (the Torah may have decided that that would be barbaric, for example).[^23]
+4. According to the Rashbam some agadita is supposed to be understood only allegorically, some only al pi pshat, and some both.[^23]
 5. Sometimes, agadita can be a dream, as [[#Rabbeinu Chananel|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}
 6. Sometimes, agadita can be giving the meaning behind a physical phenomenon, as [[#באר הגולה|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point. It is supposed to be for the באר הגולה by Explanation for Earthquakes (Berachos 59.)</span>}
 ## Where Agadita is Written
-1. Agadita is generally found in Shas, Midrashim with a mesorah (Midrash Rabbah, Tanchuma, and Pirkei Dirabbi Eliezer), and the Zohar.[^22]
-2. In addition, there are a few blatt in Bava Basra of extremely strange agadita (known as Agadita Dirabba Bar Bar Chana).[^22]
+1. Agadita is generally found in Shas, Midrashim with a mesorah (Midrash Rabbah, Tanchuma, and Pirkei Dirabbi Eliezer), and the Zohar.[^23]
+2. In addition, there are a few blatt in Bava Basra of extremely strange agadita (known as Agadita Dirabba Bar Bar Chana).[^23]
 # Olam Habba Based on Subjective or Objective Measure
-1. At least to some degree, how much olam habba one earns is based on the object mitzvos one does, not just based on how much one fulfills their potential.[^23] {<span style="color:rgb(255, 0, 0)">I would like to come back to this and explain what the חובות הלבבות does say and then how I interpreted it.</span>}
+1. At least to some degree, how much olam habba one earns is based on the object mitzvos one does, not just based on how much one fulfills their potential.[^24] {<span style="color:rgb(255, 0, 0)">I would like to come back to this and explain what the חובות הלבבות does say and then how I interpreted it.</span>}
 # Limiting Nissim
-1. Hashem only does nissim when they are necessary.[^24]
+1. Hashem only does nissim when they are necessary.[^25]
+2. In addition, Hashem keeps the neis in line with nature as much as possible.[^26]
 # שכר מצוה מצוה
-1. This means that if a person does a mitzva in this world, they will be able to do the mitzva after techiyas hameisim.[^25] {<span style="color:rgb(255, 0, 0)">I don't know what this means</span>}
+1. This means that if a person does a mitzva in this world, they will be able to do the mitzva after techiyas hameisim.[^27] {<span style="color:rgb(255, 0, 0)">I don't know what this means</span>}
 # עולם הבא and תחית המתים
 1. <span style="visibility:hidden">l</span>עולם הבא refers to a time after תחית המתים. (It might also be before תחית המתים, but it is certainly after).
 ## References from תנ"ך
-1. <span style="visibility:hidden">l</span>אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ….<span style="visibility:hidden">l</span>[^26] The literal translation is "Then Yehoshua *will build*…". The reference to the future is a reference to after תחית המתים.<span style="visibility:hidden">l</span>[^27]
+1. <span style="visibility:hidden">l</span>אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ….<span style="visibility:hidden">l</span>[^28] The literal translation is "Then Yehoshua *will build*…". The reference to the future is a reference to after תחית המתים.<span style="visibility:hidden">l</span>[^29]
 # Hashem may Affect Peoples' Decisions
 1. Hashem can sometimes put thoughts or strengthen certain emotions in people to cause certain results.
 ## Specific Examples
-1. According to some, Hashem put the idea into the minds of Klal Yisroel to cut off the large fingers and toes of אדני בזק (a king in Eretz Canaan). This was because Hashem wanted to punish him מידה כנגד מידה for doing the same to people he had defeated in battle.[^29]
-2. Hashem caused סיסרא to march out and fight against Klal Yisroel. {<span style="color:rgb(255, 0, 0)">Need source</span>}
+1. According to some, Hashem put the idea into the minds of Klal Yisroel to cut off the large fingers and toes of אדני בזק (a king in Eretz Canaan). This was because Hashem wanted to punish him מידה כנגד מידה for doing the same to people he had defeated in battle.[^30]
+2. Hashem caused סיסרא to march out and fight against Klal Yisroel. {<span style="color:rgb(255, 0, 0)">See meforshim on שופטים ד יב-יד</span>}
+3. Hashem put it into the minds of Klal Yisroel to go and fight סיסרא.[^31]
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8
@@ -219,15 +224,17 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^15]: The Ralbag explicitly says that this is not a violation of fairness, as opposed to directly punishing someone if they did not do something wrong, which is obviously unfair.
 [^16]: If the Ralbag really meant that the child really did deserve it, then I feel like he should have said it.
 [^17]: Malbim on Yehoshua 7:1 ד"ה וימעלו based off the Abarbanel
-[^18]: 'יהושע ז י מנחה קטנה ד"ה ויאמר ה
-[^19]: Own thoughts based on the ma'areh makom
-[^20]: The World That Was: America 1900-1945: Transmitting the Torah Legacy to America : The NCSY Miracle
-[^21]: Conversations with people
-[^22]: Rav Aharon Lopiansky : Shiur on Agadita
-[^23]: Based on חובות הלבבות שער עבודת אלקים פרק ו, paragraph beginning with "הענין השני" on page שפח in the blue ג פירושים version
-[^24]: Ralbag on Yehoshua, Toaliyos in Perek 8, Toeles 14
-[^25]: .ע"ז ה
-[^26]: Yehoshua 8:30
-[^27]: יהושע ח ל מנחה קטנה שם
-[^28]: שופטים ד יב-יד מנחה קטנה ד"ה ויגדו לסיסרא
-[^29]: שופטים א ו-ז רלב"ג ומלבי"ם שם
+[^18]: שופטים ה ב חומת אנך ד"ה בפרע פרעות
+[^19]: 'יהושע ז י מנחה קטנה ד"ה ויאמר ה
+[^20]: Own thoughts based on the ma'areh makom
+[^21]: The World That Was: America 1900-1945: Transmitting the Torah Legacy to America : The NCSY Miracle
+[^22]: Conversations with people
+[^23]: Rav Aharon Lopiansky : Shiur on Agadita
+[^24]: Based on חובות הלבבות שער עבודת אלקים פרק ו, paragraph beginning with "הענין השני" on page שפח in the blue ג פירושים version
+[^25]: Ralbag on Yehoshua, Toaliyos in Perek 8, Toeles 14; Ralbag on Shoftim, Toaliyos in Perek 5, Toeles 1
+[^26]: Ralbag on Shoftim, Toaliyos in Perek 5, Toeles 2
+[^27]: .ע"ז ה
+[^28]: Yehoshua 8:30
+[^29]: יהושע ח ל מנחה קטנה שם
+[^30]: שופטים א ו-ז רלב"ג ומלבי"ם שם
+[^31]: שופטים ה ב מצודת דוד ד"ה בהתנדב עם
