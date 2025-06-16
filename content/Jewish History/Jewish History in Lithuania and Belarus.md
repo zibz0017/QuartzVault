@@ -3,7 +3,7 @@
 1. See [[Jewish History in Poland#General Polish History|General Polish History]] and [[Jewish History in Poland#Jewish-Focused Polish History|Jewish-Focused Polish History]] as Lithuania had a very similar history to Poland.
 2. By the time the 1900s rolled around, if you were not in a yeshiva, you were not frum. (There were a few exceptions to this, such as Rav Moshe and the Chazon Ish, but for the overwhelming majority, this was the case.)[^1]
 # Temperament of the People
-1. <div style="text-align: justify;">Your text here, which will be justified within the list item.Lithuanians were more intellectual and calm personalities (a קאַלט ליטװאַק) compared to the Polish people who were more emotional (obviously, this is a large generalization.)</div>[^2]
+1. <span class="justify">Your text here, which will be justified within the list item. Lithuanians were more intellectual and calm personalities (a קאַלט ליטװאַק) compared to the Polish people who were more emotional (obviously, this is a large generalization.)[^2]</span>
 2. This fit with their modes of development: Poland had many Chassiduses while Lithuania had many great yeshivos.[^2]
 # Belarus Chassidus
 1. There were a few Chassiduses which were actually started in Belarus, such as Lubavitch, Karlin (now spelled Karolin), and Slonim.[^2]
