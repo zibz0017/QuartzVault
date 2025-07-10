@@ -75,43 +75,63 @@ Settlers faced a collection of hardships such as:
 4. Also, frum Jews were against Herzl. They felt that the ingathering of the Jews from galus would only happen with the coming of mashiach.[^3]
 5. Even amongst the non-frum, some were concerned about the idea of creating a separate Jewish state. They thought that Jews should try to be successful in their current homelands.[^3]
 6. Immigrants and prospective immigrants were also against the idea. They thought that a more slow and steady, settlement by settlement approach was the way to go. A state was too grandiose and would receive too much opposition from the Arabs and the Turks.[^3]
+7. <span style="display: block; text-align: justify;">Throngs gathered to see Herzl when he traveled around Europe in 1903.[^12]</span>
 ### Writings
 1. In 1896, Herzl wrote *The Jewish State* where he wrote about his goals, description, and the creation of a Jewish State.[^3]
 # Early Organizations
 ## Zionist Organizations
 ### World Zionist Organization
 1. Created in 1896. This was the in the age of "isms" (socialism, communism, etc. People were dreaming about and trying to create utopian societies.) As such, Zionism fit right in.[^3]
-2. Led by the World Zionist Congress, established in 1897.[^12] Delegates were from many countries, but disproportionately Russian.[^13]
-3. Quickly increased in popularity.[^14]
+2. Led by the World Zionist Congress, established in 1897.[^13] Delegates were from many countries, but disproportionately Russian.[^14]
+3. Quickly increased in popularity.[^15]
 #### Goals and Methods
 1. Have Jews to return to Palestine.[^3]
 2. Jews would create their own society with their own government there.[^3] It would be an internationally recognized, Jewish homeland.
 3. Create and spread a Jewish national identity.[^3]
-4. The land would be systematically settled, and acceptance amongst the international Jewish population and international government leaders were vital.[^13]
-5. The "Arab Problem" was ignored.[^14]
-6. Education was stressed. This made a big impact with the Russians as they were very limited in Russia.[^14]
+4. The land would be systematically settled, and acceptance amongst the international Jewish population and international government leaders were vital.[^14]
+5. The "Arab Problem" was ignored.[^15]
+6. Education was stressed. This made a big impact with the Russians as they were very limited in Russia.[^15]
 ### Jewish Colonial Trust (JCT) and Jewish National Fund (JNF)
-1. These organizations were established in the late 90s and early 00s.[^14]
-2. Gave money to Jews settling in Palestine and Syria to help them start settlements.[^14]
+1. These organizations were established in the late 90s and early 00s.[^15]
+2. Gave money to Jews settling in Palestine and Syria to help them start settlements.[^15]
 3. {<span style="color:rgb(255, 0, 0)">I am not sure what the exact difference is</span>}
 ### Support
-1. Kaiser Wilhelm II of Germany refused to give much support.[^14]
+1. Kaiser Wilhelm II of Germany refused to give much support.[^15]
 ## Hovevei Zion
-1. Founded in early 1880s.[^15]
-2. Wanted to establish Palestine as spiritual center in Jerusalem, not a political one.[^13] (I don't know how religious. I don't believe it was particularly religious.)
-3. A person called Achad Haam was a major player in Hovevei Tzion.[^14]
+1. Founded in early 1880s.[^16]
+2. Wanted to establish Palestine as spiritual center in Jerusalem, not a political one.[^14] (I don't know how religious. I don't believe it was particularly religious.)
+3. A person called Achad Haam was a major player in Hovevei Tzion.[^15]
 ## The Bund
-1. Started in Russia because of the strong antisemitism there (such as pogroms) and quickly became popular.[^14]
+1. Started in Russia because of the strong antisemitism there (such as pogroms) and quickly became popular.[^15]
 # Hebrew Language
 1. in 1889, a committee came together to modernize and organize Hebrew for daily use.[^3]
 2. Started gaining popularity in the late 90s. People started adopting it.
 # 1890s-WWI
-1. Baron Maurice de Hirsh founded Jewish Colonization Association in 1896. It founded settlements in Palestine, and other countries.[^13]
+1. Baron Maurice de Hirsh founded Jewish Colonization Association in 1896. It founded settlements in Palestine, and other countries.[^14]
 ## Continued Antisemitism
-1. In 1899, The Foundation of the 19th Century and The Talmud Jew, were published in Germany and Cairo, respectively. Both were majorly antisemitic works.[^14]
-2. The claimed that the cohesion of the Jewish people "proved" that there was a "Jewish conspiracy".[^14]
+1. In 1899, The Foundation of the 19th Century and The Talmud Jew, were published in Germany and Cairo, respectively. Both were majorly antisemitic works. They claimed that the cohesion of the Jewish people "proved" that there was a "Jewish conspiracy".[^15]
+2. A pogrom in Kishinev (in Russia, at the time) in April 1903 killed over 40 Jews and destroyed around 1500 Jewish homes.[^12]
 ## Population in Palestine
-1. The Jews were still considerably in the minority in Palestine at this time.[^14]
+1. The Jews were still considerably in the minority in Palestine at this time.[^15]
+## Uganda Scheme
+1. <span style="display: block; text-align: justify;">In 1903, Britain offered the Zionists a home in Uganda.[^12]</span>
+2. <span style="display: block; text-align: justify;">Herzl was in favor of this idea as a temporary place until Palestine could be secured. Many other Zionist leaders were against settling for anything other than Palestine.[^12]</span>
+3. <span style="display: block; text-align: justify;">This was voted upon in the Zionist Congress in August 1903.[^17] The Uganda Scheme won.[^12]</span>
+4. <span style="display: block; text-align: justify;">However, British interest in the plan quickly faded and so the plan was put on hold in March, 1904.[^18]</span>
+5. <span style="display: block; text-align: justify;">Herzl died in July 1904. He was the driving force behind the Uganda Scheme. Once he died, it was completely over.[^12]</span>
+## The Second Aliyah
+{<span style="color:rgb(255, 0, 0)">I don't know why this started particularly at this time</span>}
+1. <span style="display: block; text-align: justify;">Began in 1904 and lasted until WWI in 1914.[^12]</span>
+2. <span style="display: block; text-align: justify;">Around 40,000 Jews traveled to Palestine. They were mainly Russian, Romanian, and Eastern European.[^12]</span>
+3. <span style="display: block; text-align: justify;">A self-defense group called Hashomer was established.[^12]</span>
+4. <span style="display: block; text-align: justify;">Life in Israel was difficult, so many Jews preferred to go to Western countries.[^19]</span>
+## Jewish Nationalism
+1. <span style="display: block; text-align: justify;"><span style="display: block; text-align: justify;">Jews were divided along many lines, like religious vs irreligious and by which country they came from.[^19]</span></span>
+2. <span style="display: block; text-align: justify;">As such, there were pushes for nationalism to unify everyone.[^19]</span>
+3. <span style="display: block; text-align: justify;">Hebrew as a spoken language and a love for the "Jewish Nation" were pushed.[^19]</span>
+## Integration with Arabs
+1. <span style="display: block; text-align: justify;">Some Zionist leaders (like A. D. Gordon) wanted the Arabs to be treated with respect.[^12][^20]</span>
+2. <span style="display: block; text-align: justify;">David Ben-Gurion wrote that in Petach Tikvah and Rishion Letzion (where most workers were Arab), Jews wanted there to be more Jewish workers. Bur despite this, there wasn't any violence between the Arabs and the Jews.[^19]</span>
 # Footnotes
 
 [^1]: Israel : A History by Sir Martin Gilbert : Chapter 1 (pg 3-7)
@@ -125,7 +145,12 @@ Settlers faced a collection of hardships such as:
 [^9]: [Wikipedia : The Dreyfus Affair (specific location in article)](https://en.wikipedia.org/wiki/Dreyfus_affair#:~:text=The%20scandal%20began%20in%20December%201894%20when%20Captain%20Alfred%20Dreyfus%2C%20a%2035%2Dyear%2Dold%20Alsatian%20French%20artillery%20officer%20of%20Jewish%20descent%2C%20was%20convicted%20of%20treason%20for%20communicating%20French%20military%20secrets%20to%20the%20German%20Embassy%20in%20Paris.)
 [^10]: [Wikipedia : The Dreyfus Affair (specific location in article)](https://en.wikipedia.org/wiki/Dreyfus_affair#:~:text=it%20remains%20one%20of%20the%20most%20notable%20examples%20of%20a%20complex%20miscarriage%20of%20justice%20and%20antisemitism.)
 [^11]: [Wikipedia : The Dreyfus Affair (specific location in article)](https://en.wikipedia.org/wiki/Dreyfus_affair#:~:text=In%201906%2C%20Dreyfus%20was%20exonerated.)
-[^12]: [Wikipedia : World Zionist Congress (specific location in article)](https://en.wikipedia.org/wiki/World_Zionist_Congress#:~:text=The%20Zionist%20Congress%20was%20established%20in%201897%20by%20Theodor%20Herzl%20as%20the%20supreme%20organ%20of%20the%20Zionist%20Organization%20(ZO)%20and%20its%20legislative%20authority.)
-[^13]: Israel : A History by Sir Martin Gilbert : Chapter 1 (pg 13-15)
-[^14]: Israel : A History by Sir Martin Gilbert : Chapter 2 (pg 16-20)
-[^15]: [Wikipedia : Lovers of Zion (specific location in article)](https://en.wikipedia.org/wiki/Lovers_of_Zion#:~:text=The%20Lovers%20of,Pinsker%20in%201884.)
+[^12]: Israel : A History by Sir Martin Gilbert : Chapter 2 (pg 20-23)
+[^13]: [Wikipedia : World Zionist Congress (specific location in article)](https://en.wikipedia.org/wiki/World_Zionist_Congress#:~:text=The%20Zionist%20Congress%20was%20established%20in%201897%20by%20Theodor%20Herzl%20as%20the%20supreme%20organ%20of%20the%20Zionist%20Organization%20(ZO)%20and%20its%20legislative%20authority.)
+[^14]: Israel : A History by Sir Martin Gilbert : Chapter 1 (pg 13-15)
+[^15]: Israel : A History by Sir Martin Gilbert : Chapter 2 (pg 16-20)
+[^16]: [Wikipedia : Lovers of Zion (specific location in article)](https://en.wikipedia.org/wiki/Lovers_of_Zion#:~:text=The%20Lovers%20of,Pinsker%20in%201884.)
+[^17]: [Wikipedia : Sixth Zionist Congress (specific location in article)](https://en.wikipedia.org/wiki/Sixth_Zionist_Congress#:~:text=The%20Sixth%20Zionist%20Congress%20was%20held%20in%20Basel%2C%20opening%20on%20August%2023%2C%201903.%20Theodor%20Herzl%20caused%20great%20division%20amongst%20the%20delegates%20when%20he%20presented%20the%20%22Uganda%20Scheme%22%2C%20a%20proposed%20Jewish%20colony%20in%20what%20is%20now%20part%20of%20Kenya.)
+[^18]: [Wikipedia : Sixth Zionist Congress (specific location in article)](https://en.wikipedia.org/wiki/Sixth_Zionist_Congress#:~:text=In%20Britain%20opposition%20to%20the%20Uganda%20Scheme%20from%20politicians%20was%20growing%20and%20by%20March%201904%20the%20proposal%20was%20put%20on%20hold.)
+[^19]: Israel : A History by Sir Martin Gilbert : Chapter 2 (pg 23-25)
+[^20]: [Wikipedia : A. D. Gordon (specific location in article)](https://en.wikipedia.org/wiki/A._D._Gordon#:~:text=A%20summary%20of,for%20our%20humanity.%22)

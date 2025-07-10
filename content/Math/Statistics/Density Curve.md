@@ -1,5 +1,12 @@
 # Definition
-{<span style="color:rgb(255, 0, 0)">Need to come back to this</span>}
+A function of the distribution of the probability of an event. It basically is a line graph for the probability of an event at different values. The y-value is the probability for the event at the specific x-value.
+## Examples
+1. The height of different people. Some people are tall, some are short, some are somewhere in between.
+2. The temperature in different parts of the world. Some places are hot, some are cold, and some are in between.
+## Specific Points
+1. The area under the curve will equal 1. We are dealing with probability. The probability that some event will occur is 100%. (If your flipping a coin, the odds that the coin will be heads *or* tails is 100%. If you are measuring the height of different people, the odds that everyone will be *some* height is 100%. If you are measuring the temperature of different places, the odds that every place will be *some* temperature is 100%.)
+2. There are an infinite number of points in a density curve (as there are for any function). The x-value can be 1, or 2, or 1.1, or 1.01...
+
 # Different Types of Distributions
 ## Normal Distribution
 This is the "standard", "bell-shaped" distribution of data. It is symmetrical. It rises in the middle, goes down on the sides, and then trails off on the right and left.

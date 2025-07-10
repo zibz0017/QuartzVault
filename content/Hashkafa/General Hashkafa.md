@@ -1,22 +1,15 @@
 # Yeshivos
 ## Shpitziness in European Yeshivos
 Some yeshivos in Europe (such as Yeshiva Chachmei Lublin, Slabodka, Radin, and Volozhin) had their bochurim dressed nicely (walking with silver walking sticks), had beautiful buildings as well as pay the townspeople to make food for the bochurim instead of relying on tzedakah from them. This was for a few reasons:
-
 1. In terms of dressing nicely and having beautiful buildings, during this time, universities were on the rise. Their students looked sophisticated (dressed nicely, clean shaven, etc.) as well as acted sophisticated (analyzed and thought deeply about things). Yeshiva bochurim needed to keep up with them for a few reasons:
-
 	1. To avoid a Chillul Hashem (people would look down on yeshiva bochurim).
-	
 	2. To avoid dissuading potential talmidim from joining the yeshiva. This might have been even more true of the smartest bochurim who were potentially targeted by the maskilim (such as the Chofetz Chaim when he was young).
-    
 	3. To avoid destroying the bochurim’s self-image.
-
-
 2. In terms of paying families for food, the families looked down on the yeshiva bochurim for taking the food away from their kids as well as being a leech on society. They also cooked the worst meal on that night. By paying the families (some of them receiving substantial portions of the money they made through this), the families took a much more positive look at the yeshiva and the bochurim. This was important for the three reasons mentioned before.[^1]
    
    There are elements of this which some felt were not ideal. The Chofetz Chaim, for example, did not like these changes. He felt that that people should be mistapek bimuat. However, he understood the changing times and realized that this is what the bochurim needed.[^2]
    
    See [[#Change in Learning Style (Rav Chaim Brisker)]] as well
-
 ## Change in Learning Style (Rav Chaim Brisker)
 
 {<font color="#ff0000">Need to discuss what the changes were</font>}
@@ -25,21 +18,16 @@ As discussed in the [[#Shpitziness in European Yeshivos]] section, the new style
 
 ## Yeshiva as Focus of Community
 See [[#Yeshiva|here]].
-
 ## Small Town Vs. Big Town
 Yeshivos in Europe were largely created in smaller towns. This was for a few reasons:
 1. There are less distractions in a small town compared to the big city.[^3]
 2. The Haskala had a weaker influence in smaller towns. The movement was focused on larger towns, with their universities and theaters.[^3]
 3. The people of the town really took ownership of the yeshiva when it was a small town. There was a more personal connection.[^3]
 4. Big towns have politics.
-
 ## Hashpah of Yeshivos in Europe
 As more and more people started going to yeshiva, more and more people started having the yeshiva hashkafos and sensitivities. That started making inroads into the rest of the people.[^4] (To me, this doesn't sound very different then the idea of making yeshivos in smaller, out-of-town communities today.)
-
 # Different Communal Structures
-
 ## Kehilla
-
 1. Historically, this system largely existed in Oberland (Northern Hungary), Germany, and Sefardim.[^3]
 2. Despite the problems with the system (as will be discussed shortly), it is still somewhat effective and for the Litvish, it is important to be part of a kehilla after one leaves yeshiva.[^4]
 ### Pros
@@ -50,7 +38,6 @@ As more and more people started going to yeshiva, more and more people started h
 2. This system relies on a tremendous respect for the rav. As the community grows in their own knowledge, the gap between the rav and the members of the kehilla gets smaller and so, naturally, there is less respect.[^4]
 3. There is little focus on personal growth. The mentality is "we do this because this is the way it has always been done". There is little drive to perfect oneself or anything like that.[^4]
 ## Chassidus
-
 1. Historically, this system largely existed in Poland, [[Galicia (Eastern Europe)|Galicia]], and parts of Hungary.[^3]
 ### Pros
 1. Many of the same pros as the kehilla.[^4]
@@ -61,9 +48,7 @@ As more and more people started going to yeshiva, more and more people started h
 1. Similar to kehillos, there is little drive for personal growth. There is a tremendous respect for the rebbe, but not particularly for talmidei chachamim.[^4] (This probably varies based on the chassidus. Some have more of a focus on Torah.)
 2. Chassidus relies on a rebbe having a personal kesher with his chassidim. This works as long as the chassidus is small, but as the chassidus grows, practically, this becomes impossible. Lubavitch is an exception in that the rebbe was able to know what his chassidim were doing.[^4]
 3. Emotionally charged events (like a tish, for example) get old after a while.[^4]
-
 ## Yeshiva
-
 1. Historically , this system largely existed in Lithuania, Belarus, and parts of western Russia.[^3]
 ### Pros
 1. The system of growth focuses on Torah. As such, one is not bound by time or anything like that to grow (as opposed to a tish, for example).[^4]
@@ -75,7 +60,6 @@ As more and more people started going to yeshiva, more and more people started h
 2. People feel like yeshiva did not adequately prepare them for life.[^4]
 3. People have certain hanhagos that they keep while in yeshiva which are unfortunately not realistic to keep doing once someone leaves the yeshiva. This is a difficult adjustment for people.[^4]
 4. There is a very small focus on an emotional attachment to Yiddishkeit and many people do not feel connected.[^5]
-
 # Rav Aharon Kotler's Intensity
 1. Rav Aharon was very passionate when he gave shiur.
 2. If people interrupted him in the middle to ask questions, (potentially, even if they were legitimate questions.[^6] This point seems to be disagreed about. See [[#The Honor of Torah]] with the footnotes there.) he would get upset and the guy asking the question and use seemingly intense language.[^6] ^b75c18
@@ -95,7 +79,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 3. If some people do aveiros, Hashem may remove his direct hashgacha from Klal Yisroel and allow the "natural course" of events to occur. This can result in random people suffering.[^14][^17]
 ## Hashem's Chesed During Punishment
 1. Hashem punishes Klal Yisroel a little at a time so the punishment is not overwhelming, and so that it inspires teshuva.[^18]
-2. Hashem "saves up" the punishment for the other nations and "pays them back" all at once.
+2. This is in contrast to the way Hashem gives punishment to other nations. For them, Hashem "saves up" the punishment and "pays them back" all at once.[^18]
 # Physical Proximity Affects Zechusim of Tazadikim
 1. Klal Yisroel lost the battle of עי partially because Yehoshua needed to go with the soldiers for his zechusim to have a positive affect.[^19]
    It seems that the affect of Yehoshua's zechusim was tied to his physical location.[^20]
@@ -200,11 +184,17 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 ## References from תנ"ך
 1. <span style="visibility:hidden">l</span>אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ….<span style="visibility:hidden">l</span>[^28] The literal translation is "Then Yehoshua *will build*…". The reference to the future is a reference to after תחית המתים.<span style="visibility:hidden">l</span>[^29]
 # Hashem may Affect Peoples' Decisions
-1. Hashem can sometimes put thoughts or strengthen certain emotions in people to cause certain results.
+1. Hashem can sometimes put thoughts or remove thoughts or strengthen certain emotions in people to cause certain results.
 ## Specific Examples
 1. According to some, Hashem put the idea into the minds of Klal Yisroel to cut off the large fingers and toes of אדני בזק (a king in Eretz Canaan). This was because Hashem wanted to punish him מידה כנגד מידה for doing the same to people he had defeated in battle.[^30]
 2. Hashem caused סיסרא to march out and fight against Klal Yisroel. {<span style="color:rgb(255, 0, 0)">See meforshim on שופטים ד יב-יד</span>}
-3. Hashem put it into the minds of Klal Yisroel to go and fight סיסרא.[^31]
+3. Hashem put it into the minds of Klal Yisroel to go and fight סיסרא.<span style="visibility:hidden">l</span>[^31]
+4. <span style="display: block; text-align: justify;">According to some, גדעון didn't initially ask שבט אפרים for help when dealing with the מדינים because Hashem caused him not to think of asking them.[^32]</span>
+# Davening
+## One Gets Things They Don't Ask For
+1. <span style="display: block; text-align: justify;">One does not need to daven for specific things to receive them. Even if one just davens for good things in general, Hashem will give him his specific needs. This is clear from the fact that many times we ask Hashem for things and He does not give them to us because it is not in our best interest. We certainly aren't asking to not receive these things that we think we really want. Yet Hashem gives us what is best for us, anyway.[^33]</span>
+# Vagueness of Chazal
+1. <span style="display: block; text-align: justify;">Sometimes, Chazal purposely discussed things in a vague way to force the person learning the chazal to have to work hard to understand it so they can [[Tiferes Dovid#Hard Work|reap the benefits of working hard on Torah]].[^34] {<span style="color:rgb(255, 0, 0)">This may tie into [[#Agadita]] as well</span>}</span>
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8
@@ -238,3 +228,6 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^29]: יהושע ח ל מנחה קטנה שם
 [^30]: שופטים א ו-ז רלב"ג ומלבי"ם שם
 [^31]: שופטים ה ב מצודת דוד ד"ה בהתנדב עם
+[^32]: שופטים ח א חומת אנך ד"ה מה הדבר
+[^33]: חובות הלבבות שער עבודת אלקים פרק ו (near the end. Page 393 in the blue ג פירושים version)
+[^34]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))

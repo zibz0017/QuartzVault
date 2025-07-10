@@ -70,6 +70,11 @@
 - Getting to know your parts may take some time. Parts may not be ready to trust you.[^8]
 - Also, parts may give you psychosomatic responses when trying to do these self mediations to get to know the parts because they don't want to let you get to know them. This is okay. Don't fight them. Try to understand why they don't want to let you do this.[^8]
 - It can be difficult to feel compassion and curious about some challenging parts (like a critical part), but it is important. Take your time and be patient with the part if it is not forthcoming.[^8]
+- Parts work together (1 might trigger the reaction of another which can trigger the reaction of another… Sometimes, this might end up in a circle, triggering the first part again which triggers the second part again…).[^9]
+- Parts are triggered by the surroundings (like family dynamics, for example). Sometimes treating the surrounding is a better way of dealing with the issue.
+- Sometimes, the surrounding situation is not overt. There can be beliefs that a family holds that aren't explicitly said but are still there. (A family can react negatively to someone being needy, without explicitly saying that they are against neediness).[^9]
+- If parts are fighting, try to have them talk to each other and ask them what they have in common. Both sides will be surprised to learn that both parts want to protect the person.[^9]
+- Create the paradigm in yourself that all parts are needed.[^9]
 # Footnotes
 
 [^1]: No Bad Parts, by Richard Schwartz : Chapter 1 (pg 8-17)
@@ -80,3 +85,4 @@
 [^6]: No Bad Parts, by Richard Schwartz : Chapter 2 (pg 36-39)
 [^7]: No Bad Parts, by Richard Schwartz : Chapter 2 (pg 39-48)
 [^8]: No Bad Parts, by Richard Schwartz : Chapter 3 (pg 49-57)
+[^9]: No Bad Parts, by Richard Schwartz : Chapter 4 (pg 58-71)

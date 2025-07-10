@@ -35,16 +35,27 @@
 1. Even if part of the food is dry and one is only touching the dry part, one must wash.[^19]
 2. The halachos about how much one must plan on eating to require washing is the same as by bread (see footnote for discussion).[^20]
 ### Liquids
-1. One does not wash on liquids, even if one dips their finger into it and sucks it off their finger.[^11]
+1. <span style="display: block; text-align: justify;">One does not wash on liquids, even if one dips their finger into it and sucks it off their finger,[^11] or drinks from his cupped hands.[^21]</span>
+2. <span style="display: block; text-align: justify;">This is because one usually does not touch liquids when drinking, so Chazal were not gozer on it at all, even in cases that one does touch the liquid.[^21]</span>
 ### Additional Non-Mezonos/Hamotzi Foods
-1. One does not wash on non-mezonos/hamotzi things, even if they are קובע סעודה.<span style="visibility:hidden">l</span>[^6] This includes non-grain breads (like bread from almond flour).[^21]
+1. One does not wash on non-mezonos/hamotzi things, even if they are קובע סעודה.<span style="visibility:hidden">l</span>[^6] This includes non-grain breads (like bread from almond flour).[^22]
 ## Additional Requirements
 1. If a person is eating a food that generally requires a utensil with a utensil, one does not need to wash, even if they happen to touch the food. If the food is generally eaten with the hands, using a utensil does not help, even if the food is not touched.[^18]
 # How to Wash
 ## Which Hand First
-1. Everyone (even lefties), washes their right hand first.[^22]
+1. Everyone (even lefties), washes their right hand first.[^23]
 ## The Bracha
-1. We say "וצונו" even though this is a dirabanan as Hashem told us to listen to the rabanan.[^23]
+1. We say "וצונו" even though this is a dirabanan as Hashem told us to listen to the rabanan.[^24]
+# One's Hands Were Already Washed
+1. <span style="display: block; text-align: justify;">If one had already washed their hands but not for a chiyuv, and then one decides that they want to eat bread, they have to rewash their hands.[^25]</span>
+2. <span style="display: block; text-align: justify;">If one was not מסיח דעת, they do not make a new bracha when rewashing, but if one was מסיח דעת, then he does.[^26]</span>
+3. <span style="display: block; text-align: justify;">This is because according to some, even if one didn't wash his hands for bread, the washing still counts. As such, according to them, one wouldn't have to make a new bracha. If one was מסיח דעת, then one always does whenever one is מסיח דעת.<span style="visibility:hidden">l</span>[^27]</span>
+# One's Hands Got Dirty in Middle of a Meal
+1. <span style="display: block; text-align: justify;">If one touched a covered part of their body in middle of a meal (whether a bread meal, or because one plans on eating dipped foods), one washes again with a bracha.[^28]</span>
+# Rewards and Punishments
+1. <span style="display: block; text-align: justify;">One has to be careful with these halachos. One who does not is חייב נדוי, נעקר מן העולם, and becomes poor.[^29]</span>
+2. <span style="display: block; text-align: justify;">The more water one uses, the more reward one sees from doing this mitzvah (definitely wealth, and perhaps other things). However, one should perform this mitzvah for the sake of Hashem, not for reward, as we say about all mitzvos.[^30]</span>
+3. <span style="display: block; text-align: justify;">If one does not see reward from this mitzvah, this is because they view the mitzvah as a burden.[^31]</span>
 # Footnotes
 
 [^1]: Siman 158 sif katan 1
@@ -67,6 +78,14 @@
 [^18]: Siman 158 sif katan 26
 [^19]: Siman 158 sif 4
 [^20]: In Siman 158 sif katan 20, the Mishna Berura says one washes on more than a kizayis. On less that a kizayis, the Chofetz Chaim is mashma different things in different places. In sif katan 20, the Chofetz Chaim says that there isn't anything to washing. In a haggah in sif katan 20, the Chofetz Chaim says that he is mevatel his daas to the daas of the Tur in siman 472 who says by dipping karpas that one does wash even if the karpas is less than a kizayis. However, in a Biur Halacha in siman 472, the Chofetz Chaim says comes out "צריך עיון לדינא". It seems to me that for whatever reason, we do wash on less than a kizayis by the seder, so I assume that this is the halacha. It is still confusing to me because we use a utensil when dipping the karpas so for that reason we shouldn't have to wash. Perhaps karpas is not usually eaten with a utensil, so it requires washing even if one is using a utensil, as discussed.
-[^21]: Siman 158 sif katan 7 shaar hatzion 6
-[^22]: Siman 158 sif katan 4 פרי מגדים אשל אברהם הקדמה as presented by Dirshu footnote 7
-[^23]: Siman 158 sif katan 6
+[^21]: Siman 158 Sif 6 sif katan 27
+[^22]: Siman 158 sif katan 7 shaar hatzion 6
+[^23]: Siman 158 sif katan 4 פרי מגדים אשל אברהם הקדמה as presented by Dirshu footnote 7
+[^24]: Siman 158 sif katan 6
+[^25]: Siman 158 Sif 7 sif katan 28
+[^26]: Siman 158 Sif 7 sif katan 31
+[^27]: Siman 158 sif katan 31
+[^28]: Siman 158 Sif 7 sif katan 33
+[^29]: Siman 158 Sif 9
+[^30]: Siman 158 Sif 10 sif katan 38
+[^31]: Siman 158 sif katan 38

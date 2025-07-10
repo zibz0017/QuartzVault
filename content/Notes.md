@@ -5268,7 +5268,7 @@
 - Deaths estimates range 40k-100k.[^1077]
 - Many died later of radiation.[^1077] (Don;t know if these are included in estimates.)
 - Truman told the world the next day. Threatened Japan he would continue unless japan surrendered. Japan didn't offere surrender.[^1077]
-- Fat Man dropped on Nagisaki on August 9.[^1077]
+- Fat Man dropped on Nagasaki on August 9.[^1077]
 - Deaths 30k-50k.[^1077]
 - August 9. 1.5m Russia invaded Manchuria. Wanted territory and say in peace treaty. russia made progress.[^1077]
 - Japanese leaders met, including emporor. 6 people. split 3 and 3. Asked empror for his opinion (very unusual). Empororo wanted peace if emproor remained head of state.[^1077]
@@ -5368,7 +5368,7 @@
 - 500,000 died there from malnourishment and disease before 1942. This was purposely done. The Germans wanted to kill the Jews and they wanted the food for their wartime efforts.[^1086]
 - Life for Germans was still rather good at that point. Not much changed until May 1940, and then even from then until 1942, things were pretty normal.[^1086]
 - Germany quickly overran 9 countries in the first few years of the war[^1086] (Poland, Denmark, Norway, Belgium, Netherlands, Luxembourg, France, Yugoslavia, and Greece).
-- According to many, Japan didn't sue for peace because of the atomic bombs on Hiroshima and Nagisaki. They sued for peace because of the SU invasion at the same time.[^1087][^1088]{<span style="color:rgb(255, 0, 0)">Look into this source for anti-nuclear weapons arguments</span>}
+- According to many, Japan didn't sue for peace because of the atomic bombs on Hiroshima and Nagasaki. They sued for peace because of the SU invasion at the same time.[^1087][^1088]{<span style="color:rgb(255, 0, 0)">Look into this source for anti-nuclear weapons arguments</span>}
 - The UN is created right before the end of WWII. 50 nations sign onto the charter.[^1087]
 - The Cold War was a battle of ideologies: communism and totalitarian government vs capitalism and democracy.[^1087]
 - Influence of the West and the SU over Europe was decided at the Yalta Conference. The SU pledged to allow for democracies in the countries under their control. That did not happen. They rigged many of the elections that were held.[^1087]
@@ -5404,6 +5404,63 @@
 - The SU viewed this as an act of aggression.[^1095]
 - In August 1949, the SU developed its own atom bomb. This led to fear in the West.[^1095]
 - Spies helped the SU develop the bomb far faster than they otherwise would have. Some spies helped the SU because they thought the world would be a safer place if there wasn't just one country with atom bombs. The two countries would deter each other.[^1095]
+- Korea was divided after the end of WWII along the 38th parallel. The north was communist and the south was capitalist.[^1096]
+- ![[Pasted image 20250616135221.png]][^1097]
+- Both sides wanted to reunite Korea, but they wanted to do so on their terms. Their was saber-rattling on both sides.[^1096]
+- In June 1950, the north invaded the south. This caught the South by surprise. The North made quick progress and captured the capital city of Seoul in a few days.[^1096]
+- The North was backed by the SU. This quickly became evident to the rest of the world. They blamed this act of Northern aggression on them.[^1096]
+- The UN sent troops to help out the South.[^1096] They were 90% American, but over 20 countries sent troops.[^1098]
+- The fact that the UN took sides in a war may have tarnished its image for the future.[^1096]
+- At first, the UN troops were pushed back as well. However, that quickly turned around and by November 1950, the North Korean army was pushed nearly all the way back to the Chinese border. People thought that the war would be over soon.[^1099]
+- The Chinese army thought that the UN forces may decide to push into China. As such, they sent 300,000 soldiers the help the North Koreans.[^1096]
+- Between late November and late December, the UN troops were nearly entirely pushed out of North Korea.[^1100]
+- The weather and terrain were terrible. The weather was freezing (sometimes below −20 °F).[^1101] The terrain was full of hills and mountains so it was difficult to traverse.[^1096]
+- The civilians suffered terribly. Both sides committed massacres.[^1096] Between 1.6 and 3 million civilians died.[^1102]
+- The US considered using atomic weapons on North Korea and China. Atomic bombs were transferred to air bases in the West Pacific.[^1096]
+- There is concern that the SU will respond in kind (they had atomic weapons by this point).[^1096]
+- ![[Pasted image 20250704134230.png]][^1103]
+- The SU were very effective at spying. They were able to obtain atomic secrets this way.[^1104]
+- Some people helped the SU because they were in favor of socialism. (Having freedom of though and speech will naturally lead to many having diverse viewpoints.)[^1104]
+- Others thought that having multiple countries possess the atomic bomb made the world safer. It guaranteed that nobody would use it.[^1104]
+- A ring of 5 British politicians (later known as the Cambridge Five), spied for the SU for many years.[^1104]
+- There was major paranoia in the US. In the 1950s, the US started going after many left-wing people (they were generally more supportive of socialism and communism). Hollywood (which was left-wing) was targeted a lot.[^1104]
+- This push was led by Senator Joseph McCarthy and FBI director Jay Edgar Hoover. This later became known as McCarthyism.[^1104]
+- This lost popularity as it became clear that this was a witch hunt.[^1104]
+- Hundreds of people were jailed and thousands lost their jobs.[^1104]
+- By March 1951, The Chinese pushed the UN forces back to a little south of Seoul.[^1105] At that point, their supplies (including weapons) and supply lines couldn't keep up.[^1106]
+- By mid-1951, both sides were at a stalemate at around the original border.[^1106]
+- The US bombed Chinese positions as well as firebombed many North Korean towns.[^1106]
+- Peace talks began but took years to complete. A major issue was prisoners of war. Many North Koreans did not feel it was safe to go back home but North Korea wanted them and so they held on to the UN prisoners as a bargaining chip.[^1106]
+- In addition, Stalin used the war to learn about US weapons and techniques, so he wanted the Chinese to keep fighting.[^1106]
+- In addition, the president of South Korea wanted the whole Korea to be united (under South Korean rule).[^1107]
+- The war continued for a few more years.[^1106]
+- The SU sent fighter pilots in to North Korea (this was not known at the time to the West). They didn't send ground troops in to avoid provoking the West.[^1106]
+- Stalin died suddenly on March 5, 1953.[^1108]
+- The new SU leaders agree to a ceasefire.[^1106]
+- South Korea refused to sign a ceasefire, but agreed to follow it.[^1109] The US signed on their behalf. It was signed in July 1953.[^1106]
+- A demilitarized zone (DMZ) between the two sides was agreed upon. However, this was never honored. Both sides keep large armies and weapons there.[^1110]
+- In April 1954, the US successfully test a hydrogen bomb (also called a thermonuclear bomb). It was over 1000x as powerful as the bombs dropped on Hiroshima and Nagasaki.[^1106]
+- This put the US ahead of the SU in the arms race.[^1106]
+- However, the SU shortly after successfully tested their own H-bomb.[^1106]
+- In February 1960, a U-2 spy plane was shot down over the SU. The pilot was captured, put on trial for espionage, and sentenced to prison. This was an embarrassment to the US.[^1106]
+- A person should mention his zechusim in an eis tzarah. However, he should not mention them straight, as the mekatreigim will try and shoot it down. Instead, say something that the simple understanding doesn't have to do with your zechus, but have in mind that you want it to be a reference to the zechus.[^1111]
+- In September 1970, Chile democratically elected Salvador Allende as Prime Minister. He was a Marxist.[^1112]
+- Chile had extremely large copper mines, some of which were American-owed. Allende nationalized these businesses. The American companies did not like this.[^1112]
+- In addition, the US was worried because Chile was communist and it is only around 5000 miles from the US.[^1112]
+- The US cut off credit to Chile. This led to food rationing and protests in Chile.[^1112]
+- The US then convinced the Chilean army to start a coup in 1973.[^1112]
+- Fighting broke out in the capital, Santiago. The coup failed.[^1112]
+- Chile held another election. Allende won again.[^1112]
+- The US sponsored a massive truck driver strike (it was not known at the time that the US funded this). This further hurt the Chilean economy.[^1112]
+- In September 1973,[^1113] there is a second military coup. This one is successful.[^1112]
+- Allende is killed. It is believed he committed suicide but some say this was faked by the army and they really killed him.[^1112]
+- At least a part of the reason the economy failed was because it was communist.[^1112] {<span style="color:rgb(255, 0, 0)">I am not sure how much the economy failed because of American efforts and how much it failed because it was socialist.</span>}
+- Augusto Pinochet was the military leader. He became the new president.[^1112]
+- The country became a harsh military dictatorship until 1990. Pinochet killed 3000 people and imprisoned nearly 30,000.[^1112]
+- Weapons technology kept increasing.[^1114]
+- In the early 1970s, the SU developed the multiple independently targetable reentry vehicle (MIRV). This was a single ICBM that carried many warheads that can each strike a different target.[^1114]
+- The US and SU signed a treaty called the Strategic Arms Limitation Treaty (SALT 1) which froze ballistic missiles at 1972 levels.[^1114]
+- There was always a fear that one side may make a mistake and trigger WWIII.[^1114]
 # Footnotes
 
 [^1]: Siman 445 Sif 1 Sif Katan 3
@@ -6501,3 +6558,22 @@
 [^1093]: [Wikipedia : Greek Civil War (specific location in article)](https://en.wikipedia.org/wiki/Greek_Civil_War#:~:text=The%20Greek%20Civil,forces%20ultimately%20prevailed.)
 [^1094]: [YouTube : Timeline - World History Documentaries : How The First Nuclear Bombs Ignited The Cold War | M.A.D. World](https://www.youtube.com/watch?v=JntJFBeFYQo) (36:50-end)
 [^1095]: [YouTube : Timeline - World History Documentaries : Nuclear Nightmare: The H-Bomb's Power to Destroy Civilization](https://www.youtube.com/watch?v=2aNUnBxNOjw) (beg-10:15)
+[^1096]: [YouTube : Timeline - World History Documentaries : Nuclear Nightmare: The H-Bomb's Power to Destroy Civilization](https://www.youtube.com/watch?v=2aNUnBxNOjw) (10:15-25:30)
+[^1097]: [National Army Museum : Korean War](https://www.nam.ac.uk/explore/korean-war)
+[^1098]: [Wikipedia : Korean War (specific location in article)](https://en.wikipedia.org/wiki/Korean_War#:~:text=UN%20forces%20comprised%2021%20countries%2C%20with%20the%20United%20States%20providing%20around%2090%25%20of%20military%20personnel.)
+[^1099]: [Wikipedia : Second Phase Offensive (specific location in article)](https://en.wikipedia.org/wiki/Second_Phase_Offensive#:~:text=The%20UN%20forces,%2C%2025%20December.)
+[^1100]: [Wikipedia : Second Phase Offensive (specific location in article)](https://en.wikipedia.org/wiki/Second_Phase_Offensive#The_Chinese_strike)
+[^1101]: [Wikipedia : Second Phase Offensive (specific location in article)](https://en.wikipedia.org/wiki/Second_Phase_Offensive#Weather)
+[^1102]: [Wikipedia : Korean War (specific location in article)](https://en.wikipedia.org/wiki/Korean_War#:~:text=1.6%E2%80%933%20million%20civilian%20deaths)
+[^1103]: [Osan Air Base : Commentary: Not our Hill 180](https://www.osan.af.mil/News/Stories/Article-Display/Article/1811394/commentary-not-our-hill-180/)
+[^1104]: [YouTube : Timeline - World History Documentaries : Nuclear Nightmare: The H-Bomb's Power to Destroy Civilization](https://www.youtube.com/watch?v=2aNUnBxNOjw) (25:30-33:30)
+[^1105]: [GCSE History by Clever Lili : The Entry of China to the Korean War (specific location in article)](https://www.gcsehistory.com/faq/china_intervention.html#:~:text=By%20March%201951%20the%20Chinese%20advance%20had%20been%20halted%2C%20and%20UN%20forces%20recaptured%20Seoul.%20By%20the%20middle%20of%201951%20there%20was%20a%20stalemate%3B%20neither%20side%20could%20advance%2C%20and%20faced%20each%20other%20across%20the%2038th%20parallel.)
+[^1106]: [YouTube : Timeline - World History Documentaries : Nuclear Nightmare: The H-Bomb's Power to Destroy Civilization](https://www.youtube.com/watch?v=2aNUnBxNOjw) (33:30-end)
+[^1107]: [Wikipedia : Korean Armistice Agreement (specific location in article)](https://en.wikipedia.org/wiki/Korean_Armistice_Agreement#:~:text=South%20Korea%20never%20signed%20the%20Armistice%20Agreement%2C%20due%20to%20President%20Syngman%20Rhee%27s%20refusal%20to%20accept%20having%20failed%20to%20unify%20Korea%20by%20force.)
+[^1108]: [Wikipedia : Death and State Funeral of Joseph Stalin (specific location in article)](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Joseph_Stalin#:~:text=However%2C%20Stalin%27s%20condition%20continued%20to,p.m.%20on%205%20March%201953.)
+[^1109]: [Wikipedia : Korean Conflict (specific location in article)](https://en.wikipedia.org/wiki/Korean_conflict#:~:text=He%20refused%20to%20sign%20the%20agreement%20but%20reluctantly%20agreed%20to%20abide%20by%20it.)
+[^1110]: [Hankyoreh : Locked and Loaded Along DMZ, Two Koreas Risk Armed Clash that Could Quickly Escalate (specific location in article)](https://english.hani.co.kr/arti/english_edition/e_national/1118203.html#:~:text=For%20decades%2C%20however,in%20the%20world.)
+[^1111]: שופטים ז טז-כ חומת אנך ד"ה שלש מאות
+[^1112]: [Neutron Bomb: When The Nuclear Arms Race Got Out Of Control | M.A.D World | Timeline](https://www.youtube.com/watch?v=tvHt1EMTp90) (beg-11:40)
+[^1113]: [Wikipedia : 1973 Chilean coup d'état (specific location in article)](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat#Military_action:~:text=On%2011%20September%201973%2C%20a%20group%20of%20military%20officers%2C%20led%20by%20General%20Augusto%20Pinochet%2C%20seized%20power%20in%20a%20coup%2C%20ending%20civilian%20rule.)
+[^1114]: [Neutron Bomb: When The Nuclear Arms Race Got Out Of Control | M.A.D World | Timeline](https://www.youtube.com/watch?v=tvHt1EMTp90) (11:40-20:25)

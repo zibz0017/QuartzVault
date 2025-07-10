@@ -38,17 +38,43 @@
 2. One can read a lot of nice pshatim in a sugya. But one won't really understand them without putting in effort.[^17]
 3. One needs to put in utmost effort. This is what real התמדה is; it's not how long one learns, its how intensely one focuses when learning.[^18]
 4. One can arguably be ovver on bittul Torah if one learns with a lack effort.[^19]
+### Help Fighting One's יצר
+1. <span style="display: block; text-align: justify;">Learning Torah בעיון and with effort can help one overcome his יצר (see [[#^8c01d0|here]], [[#^a896ee|here]], and [[#^b72bbb|here]].</span>
+### Attachment to Torah
+1. <span style="display: block; text-align: justify;">Working hard on Torah increases one's attachment to Torah.[^20]</span>
 ### Discussed by Chazal and Gedolim
-1. The Maharzu says that if one doesn't try hard, he won't be able to grasp Torah.[^20] (He might imply that one may achieve minimal understand, at best.[^11])
-2. According to Rabbeinu Bechayei, Moshe was zoche to his greatness because he put in tremendous effort to be "מעיין בחכמה".<span style="visibility:hidden">l</span>[^21]
-3. According to the יפה תואר, Betzalel was able to be mechavein to the daas of Hashem through his hard work in Torah.[^22]
+1. The Maharzu says that if one doesn't try hard, he won't be able to grasp Torah.[^21] (He might imply that one may achieve minimal understand, at best.[^11])
+2. According to Rabbeinu Bechayei, Moshe was zoche to his greatness because he put in tremendous effort to be "מעיין בחכמה".<span style="visibility:hidden">l</span>[^22]
+3. According to the יפה תואר, Betzalel was able to be mechavein to the daas of Hashem through his hard work in Torah.[^23]
 4. This seems to be what Chazal mean by לא יגעתי ומצאתי אל תאמן. One needs to put in work to be able to understand.[^17]
-5. The Chasam Sofer talks about how even the greatest chachomim need to put in tremendous work.[^23]
+5. The Chasam Sofer talks about how even the greatest chachomim need to put in tremendous work.[^24]
 6. Rav Naftali Trop said that he had a a difficult time pushing himself because he was very quick and was able to quickly get a working pshat. However, he pushed himself to work hard anyway. He said that that was why he became who he became.[^16]
+7. <span style="display: block; text-align: justify;">When Rav Naftali Trop would prepare for shiur, he would focus so hard that he would become oblivious to the world.[^25] In a letter to his sister, Rav Naftali wrote that he would focus so hard when preparing for shiur that he would become sick.[^26]</span>
+8. The חובות הלבבות says that learning Torah strengthens one's sechel and helps them see through the yetzer.[^27] It seems reasonable that the more one utilizes their sechel when learning, the more effective this is.[^28] ^8c01d0
+9. Rav Yisroel says that one should learn all of the halachos of in inyan with tremendous iyun to help grow in that area.[^29] ^a896ee
+10. <span style="display: block; text-align: justify;">The Chazon Ish says that the more בעיון one learns, the more one appreciates his mission in this world, despises תאות היצר, and desires חכמה.<span style="visibility:hidden">l</span>[^30]</span> ^b72bbb
+11. <span style="display: block; text-align: justify;">The Ramchal says that the main hashpa from Hashem is through a connection to Torah, which is achieved through learning Torah בעיון.<span style="visibility:hidden">l</span>[^31]</span>
+12. <span style="display: block; text-align: justify;">In many instances, Chazal were purposely vague so that people would have to work hard on the chazal and be able to receive the benefits of that.[^32]</span>
+13. <span style="display: block; text-align: justify;">See [[#^da3f84|here]], [[#^ae8f5d|here]], and [[#^10a174|here]].</span>
+# Teaching
+## Making Talmidim Work
+1. <span style="display: block; text-align: justify;">A rebbi should give over his shiur in a way that forces his talmidim to work to understand because of the important gains one gets from [[#Hard Work|working hard when learning]].[^33]</span>
+2. <span style="display: block; text-align: justify;">At the same time, the rebbi has to make sure that he shiur is not too difficult to understand.[^34]</span>
+3. <span style="display: block; text-align: justify;">As such, the rebbi needs to have a good grasp of the strength of his talmidim.[^34]</span>
+### Potential Pitfall
+1. <span style="display: block; text-align: justify;">A rebbi can't focus on his own growth. The main point by far is the growth of the talmidim and doing what is best for them.</span>
+2. <span style="display: block; text-align: justify;">The gemara[^35] says that a rebbi needs to be like a malach. The simple understanding is that the rebbi needs to work on himself to that point. However, the ספר המקנה<span style="visibility:hidden">l</span>[^36] learns pshat that the same way that a malach is an "עומד" (it doesn't grow), a rebbi can't care about his own growth. He has to view himself like a "עומד", just like a malach.</span>
+## Review Time
+1. <span style="display: block; text-align: justify;">The rebbi has to make sure that there is time for the talmidim to review the material.[^34]</span>
+## Balance
+1. <span style="display: block; text-align: justify;">It takes ability to balance all of this together.[^34]</span>
 # Stories and Sayings About Rav Dovid
 1. Rav Yaakov Kaminetzky was tremendously machshiv Rab Dovid. Rav Yaakov felt that Rav Dovid was uniquely talented at getting pshat.[^2] He sent his son (Rav Binyomin Kaminetzky) to learn by Rav Dovid and said that he would have sent Rav Binyomin to America to learn by Rav Dovid even if he still lived in Europe (meaning, over the many great roshei yeshiva of Europe in that time).[^14]
 2. Rav Yaakov learned with Rav Dovid when Rav Yaakov first came to Slabodka and said that the two zmanim they spent together formed the basis of Rav Yaakov's learning.[^14]
 3. Rav Yaakov described himself as a talmid-chaver of Rav Dovid.[^14]
+4. <span style="display: block; text-align: justify;">If Rav Dovid would not be mechavein to Tosafos's question on Rashi, on the Maharasha's question on Tosofas when learning with the Chofetz Chaim, the Chofetz Chaim would tell Rav Dovid that he was not focusing properly (when the questions were from within the sugya, not from bekiyos).[^25]</span> ^da3f84
+5. <span style="display: block; text-align: justify;">Rav Dovid would sometimes focus on the same question for hours without moving until he got an answer or got a headache.[^37]</span> ^ae8f5d
+6. <span style="display: block; text-align: justify;">Rav Dovid would focus so hard that he would start sweating, even when he was learning in the winter at home (and he couldn't afford heat).[^38]</span> ^10a174
 # Further Maareh Mekomos
 1. ספר המקנה ל: ד"ה בגמרא ושננתם
 2. פרקי אבות א א רבינו יונה ד"ה הם אמרו
@@ -75,7 +101,22 @@
 [^17]: Tiferes Dovid : Chapter 2 (footnote 21)
 [^18]: Tiferes Dovid : Chapter 2 (pg 32-33)
 [^19]: Tiferes Dovid : Chapter 2 (footnote 22)
-[^20]: מהרז"ו על בראשית רבא א יד as presented by Tiferes Dovid : Chapter 2 (pg 31-32)
-[^21]: הקדמה לפרשת וארא (as presented by Tiferes Dovid : Chapter 2 (footnote 21))
-[^22]: יפה תואר על בראשית רבא א יד (as presented by Tiferes Dovid : Chapter 2 (footnote 21))
-[^23]: הקדמה לשו"ת חלק י ד"ה זאת היא תפארת (as presented by Tiferes Dovid : Chapter 2 (footnote 21))
+[^20]: יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
+[^21]: מהרז"ו על בראשית רבא א יד as presented by Tiferes Dovid : Chapter 2 (pg 31-32) 
+[^22]: הקדמה לפרשת וארא (as presented by Tiferes Dovid : Chapter 2 (footnote 21))
+[^23]: יפה תואר על בראשית רבא א יד (as presented by Tiferes Dovid : Chapter 2 (footnote 21))
+[^24]: הקדמה לשו"ת חלק י ד"ה זאת היא תפארת (as presented by Tiferes Dovid : Chapter 2 (footnote 21))
+[^25]: Tiferes Dovid : Chapter 2 (pg 35)
+[^26]: Tiferes Dovid : Chapter 2 (footnote 26)
+[^27]: חובות הלבבות שער עבודת אלקים סוף פ"ב ד"ה והשלישי (as presented by Tiferes Dovid : Chapter 2 (pg 34))
+[^28]: Tiferes Dovid : Chapter 2 (pg 34)
+[^29]: אגרת המוסר (as presented by Tiferes Dovid : Chapter 2 (footnote 24))
+[^30]: קובץ אגרות ח"א אות לז and אגרת א (as presented by Tiferes Dovid : Chapter 2 (footnote 24))
+[^31]: דרך ה' שער ד פרק ב אות ב יג (as presented by Tiferes Dovid : Chapter 2 (footnote 24))
+[^32]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
+[^33]: Tiferes Dovid : Chapter 2 (page 36-37 and footnote 28)
+[^34]: Tiferes Dovid : Chapter 2 (pg 38)
+[^35]: .חגיגה טו
+[^36]: הקדמה (as presented by Tiferes Dovid : Chapter 2 (footnote 30))
+[^37]: Tiferes Dovid : Chapter 2 (pg 35-36)
+[^38]: Tiferes Dovid : Chapter 2 (page 36 and footnote 27)

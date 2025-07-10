@@ -276,6 +276,8 @@ Two reasons:
 1. If one eats less than a כזית within כדי אכילת פרס, they are ovver on the lav of Bal Yeirah Uval Yimatzei.[^143]
 2. If one eats a כזית within כדי אכילת פרס then they are ovver on a kares.[^143]
 3. Midirabanan, one can't eat any mixture that has chametz in it, even if the chametz is mevatel midioraysa. As such, one would have to destroy such a mixture.[^143]
+4. There is no issue if a mixture is inedible.[^144]
+5. However, one needs to get rid of any edible mixture, even if it is not meant to be a food.[^145] (Also, see [[#Complete Change|here]].) ^7f05fb
 ## Min Bishe'eino Mino
 1. If there is 60x non-chametz to chametz, one is not ovver on on an aveirah midioraysa (as the chametz is batel).[^143]
 ## Min Bimino
@@ -286,6 +288,18 @@ Two reasons:
 1. If chametz was left over until after Pesach, if there was a chiyuv dioraysa to destory the chametz, one may not get hanah from it.[^143]
 2. If the chiyuv was only dirabanan, one may get hanah.[^143]
 3. If there is a lav for eating the chametz, but not bal yeirah uval yimatzei (like [[#^64bc71|in this case]]) then it is a machlokes if one can get hanah from the food after Pesach. One can be meikel if there will be a large loss. Regardless, one should not eat it.[^143] ^54decf
+# Specific Foods
+1. <span style="display: block; text-align: justify;">Schnapps is not even considered to be a [[#Mixtures of Chametz and non-Chametz on Pesach|mixture]]. It is considered straight chametz.[^146]</span>
+2. <span style="display: block; text-align: justify;">Beer is assur on Pesach. One is ovver on Bal Yeirah for owning it.[^153]</span>
+# Foods that Have Been Changed
+## Complete Change
+1. <span style="display: block; text-align: justify;">If chametz has completely changed in a way that it is barely recognizable (such as one mixes flour and water to make glue, or flour and milk to wash clothing), one does not need to get rid of it, even if one can tell that it is chametz.[^147] (I believe that this is only if this has changed to a non-food purpose. Also, see [[#^7f05fb|here]]. I think the difference may be that our case is dealing with a more complete change of the chametz than over there, but I am not sure.)</span>
+2. <span style="display: block; text-align: justify;">There is a machlokes between the Mechaber and Rama about how much it has to change to be considered "changed". However, if this mixture was over 30 days old by the time Pesach came around, it is considered "changed" according to both opinions.[^148]</span>
+3. <span style="display: block; text-align: justify;">One should make sure not to put such things on the table (or any place that will have food) because it is still assur to eat.[^149]</span>
+4. <span style="display: block; text-align: justify;">Similarly one doesn't need to get rid of chametz that is mixed in with non-foods (even if it is edible, and sometimes even eaten by a sick person), although there is a machlokes about if one can eat such a mixture.[^150]</span>
+## Spoiled Foods
+1. <span style="display: block; text-align: justify;">One does not need to get rid of food that spoiled before the zman. However, if the food spoiled after the zman, one still needs to destroy it.[^151]</span>
+2. <span style="display: block; text-align: justify;">"Spoiled" means beyond ראוי לאכילת כלב, not just ראוי לאכילת אדם<span style="visibility:hidden">l</span>[^152]</span>
 # Footnotes
 
 [^1]: Siman 433 Sif Katan 38
@@ -431,3 +445,13 @@ Two reasons:
 [^141]: Siman 440 Sif 2 Sif Katan 14, 15
 [^142]: Siman 440 Sif 4 Sif Katan 19
 [^143]: Siman 442 Sif Katan 1
+[^144]: Siman 442 Sif 1
+[^145]: Siman 442 Sif Katan 2, 5
+[^146]: Siman 442 Sif Katan 2
+[^147]: Siman 442 Sif 3 Sif Katan 13-15
+[^148]: Siman 442 Sif Katan 17
+[^149]: Siman 442 Sif Katan 16
+[^150]: Siman 442 Sif 4 Sif Katan 20, 23
+[^151]: Siman 442 Sif 2 Sif Katan 9
+[^152]: Siman 442 Sif Katan 10
+[^153]: Siman 442 Sif 5 Sif Katan 24
