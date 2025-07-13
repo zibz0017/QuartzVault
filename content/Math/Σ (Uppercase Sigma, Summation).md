@@ -37,11 +37,15 @@ $$\sum^{5}_{i=1}3$$
 $$\Rightarrow (3) + (3) + (3) + (3) + (3) = \textbf{15}$$
 You can also think of this as:
 $$3 \cdot 5 = \textbf{15}$$
+This is also true for variables.
+### Example 5
+$$\sum^{5}_{i=1}x$$
+$$\Rightarrow (x) + (x) + (x) + (x) + (x) = \textbf{5x}$$
 ### Rational
 The reason is that this is what multiplication means. It means add a certain number to itself a certain amount of times. This is how you explain what multiplication means to someone who only knows addition.
 ## Turn Into Multiplication (Continued)
 Even if the constant value is multiplying $i$, you can pull the constant out, and multiple the whole summation by the constant.
-### Example 5
+### Example 6
 $$\sum^{5}_{i=1}3i$$
 $$\Rightarrow (3 \cdot 1) + (3 \cdot 2) + (3 \cdot 3) + (3 \cdot 4) + (3 \cdot 5)$$
 $$\Rightarrow (3) + (6) + (9) + (12) + (15) = \textbf{45}$$
@@ -58,7 +62,7 @@ $$3 \cdot((1) + (2) + (3) + (4) + (5))$$
 You can't pull the $i$ to the left side. It wouldn't really make sense to. What would its value be?
 ## Split the Summation
 If the term has two parts which are added together, this can be split into two separate summations.
-### Example 6
+### Example 7
 $$\sum^{5}_{i=1}i + 2^i$$$$ \Rightarrow (1 + 2^1) + (2 + 2^2) + (3 + 2^3) + (4 + 2^4) + (5 + 2^5) \Rightarrow (3) + (6) + (11) + (20) + (37) = \textbf{77}$$
 This is the same as this:
 $$\left( \sum^{5}_{i=1}i \right) + \left( \sum^{5}_{i=1}2^i \right)$$
