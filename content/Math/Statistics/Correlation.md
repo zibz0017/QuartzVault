@@ -93,17 +93,29 @@ $$\frac{1}{3} \left(\left(\frac{-1.5}{1.29}\right)\left(\frac{-2.5}{2.08}\right)
 $$\frac{1}{3}(1.4+.09+.47+.28) \approx \textbf{.747}$$
 ### Solving with Version 2 of the Formula
 1. Calculate the values for all of the relevant variables.
+
 $$n=4$$
+
 $$\overline{x} \Rightarrow \frac{1+2+3+4}{4} \Rightarrow \frac{10}{4}=\textbf{2.5}$$
+
 $$\overline{y} \Rightarrow \frac{1+3+6+4}{4} \Rightarrow \frac{14}{4} \Rightarrow \textbf{3.5}$$
+
 2. Plug the values into the correlation formula.
+
 $$\frac{\sum_{i=1}^{4}(x_i-2.5)(y_i-3.5)}{\sqrt{\left(\sum_{j=1}^{4}{(x_j-2.5)^2}\right)\left(\sum_{j=1}^{4}{(y_j-3.5)^2}\right)}} \Rightarrow$$
+
 (Solving for the denominator)
+
 $$\frac{\sum_{i=1}^{4}(x_i-2.5)(y_i-3.5)}{\sqrt{((1-2.5)^2+(2-2.5)^2+(3-2.5)^2+(4-2.5)^2)((1-3.5)^2+(3-3.5)^2+(6-3.5)^2+(4-3.5)^2)}} \Rightarrow$$
+
 $$\frac{\sum_{i=1}^{4}(x_i-2.5)(y_i-3.5)}{\sqrt{((-1.5)^2+(-.5)^2+(.5)^2+(1.5)^2)((-2.5)^2+(-.5)^2+(-2.5)^2+(.5)^2)}} \Rightarrow$$
+
 $$\frac{\sum_{i=1}^{4}(x_i-2.5)(y_i-3.5)}{\sqrt{(2.25+.25+.25+2.25)(6.25+.25+6.25+.25)}} \Rightarrow$$
+
 $$\frac{\sum_{i=1}^{4}(x_i-2.5)(y_i-3.5)}{\sqrt{5\cdot13}} \Rightarrow \frac{\sum_{i=1}^{4}(x_i-2.5)(y_i-3.5)}{\sqrt{65}} \Rightarrow$$
+
 (Solving for the numerator)
+
 $$\frac{(1-2.5)(1-3.5)+(2-2.5)(3-3.5)+(3-2.5)(6-3.5)+(4-2.5)(4-3.5)}{\sqrt{65}} \Rightarrow$$
 
 $$\frac{(-1.5\cdot-2.5)+(-.5\cdot-.5)+(.5\cdot2.5)+(1.5\cdot.5)}{\sqrt{65}} \Rightarrow $$
