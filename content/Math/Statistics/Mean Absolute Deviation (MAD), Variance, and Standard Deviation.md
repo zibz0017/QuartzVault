@@ -49,7 +49,7 @@ $$
 Population variance: $σ^2$ (lowercase sigma squared)
 Sample variance: $s^2$
 ## Variance Definition
-Average of the *squared* distance of all of the numbers from the mean.
+Average of the *squared* distance of all of the numbers from the mean. (See [[#Advantage of Variance and SD over MAD|here]] for why we take the squared values.)
 ## Steps to Find Variance
 ### Steps to Find Population Variance (σ^2)
 *Note: This is slightly different than finding the a sample variance. How to [[#Steps to Find Sample Variance (s 2)|calculate the sample variance]] and [[#Why There is a Different Calculation for the Population Variance and the Sample Variance|why the population and sample variance are different]] will be explained later.*
@@ -154,7 +154,7 @@ Even when there are extreme cases, the sample mean will be "pulled" toward the s
 To counter this "bias", we subtract 1 from the denominator in the final step to increase the sample variance to give us a better estimate of the actual variance.
 ## Additional Point
 The sample mean and the variance are largely not correlated. On average, the variance of the sample (using n, not n-1) is lower than the population variance, regardless of what the sample mean is.
-# Standard Deviation (σ or SD)
+# Standard Deviation (σ or $s$)
 ## Symbol
 Population standard deviation: $σ$ (lowercase sigma)
 Sample standard deviation: $s$
@@ -192,7 +192,7 @@ Both of these sets have a mean and median of 3, but the numbers in the first set
 
 These measures will tell this to us.
 # Advantages to Different Measures
-## Advantage of MAD and SD over Variance
+## Advantage of MAD and $s$ over Variance
 Units come out weird with variance, while they come out useful with MAD and SD. With variance, the units come out in units squared. With MAD and SD, they are just regular units.
 
 For example, let's say the numbers given in the above data set are measurements in inches of some things. In the [[#Calculating Variance Example|example where we calculate the variance]], we said that:
@@ -220,3 +220,5 @@ $$
 \sqrt{71.583 \space in^2} \approx 8.46  \space in
 $$
 The units are *in*, not *in<sup>2</sup>*.
+## Advantage of Variance and $s$ over MAD
+<span style="display: block; text-align: justify;">Variance and SD calculate squared distances. This makes it that outliers have a greater pull on the calculation. For example, if I have the numbers $1, 2, 3, 4$, the differences between them are not that much. If I square them all, I get $1, 4, 9, 16$. Now the distances between them grow, with the $4\rightarrow16$ being the largest change. In many situations this is useful because a small amount of extreme outlier data is far more impactful than many points having small differences in many situations. For example, a group of people with average intelligence that also contains one freak genius can perhaps do more than a group of people slightly above average intelligence.</span>

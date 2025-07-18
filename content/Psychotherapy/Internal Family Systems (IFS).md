@@ -75,6 +75,29 @@
 - Sometimes, the surrounding situation is not overt. There can be beliefs that a family holds that aren't explicitly said but are still there. (A family can react negatively to someone being needy, without explicitly saying that they are against neediness).[^9]
 - If parts are fighting, try to have them talk to each other and ask them what they have in common. Both sides will be surprised to learn that both parts want to protect the person.[^9]
 - Create the paradigm in yourself that all parts are needed.[^9]
+- Some parts are exiled. This means that we try to push them away and try to have nothing to do with them.[^10]
+- There are 2 main types of this:
+	- Parts which carry a burden. Many times this is a very young, innocent, and vulnerable part. We got insulted or rejected in this way and it hurt this part a lot. It now carries a burden. We don't want this part to blend with us because it make us feel unloved and worthless, so we exile it. However, we still feel it blend with us whenever something similar happens (we get rejected or embarrassed). It can also subconsciously make us crave acceptance and flattery. It is important to free this part because it carries many beneficial feelings of joy and having fun, which we lose by exiling this part.[^10]
+	- Parts that other people don't like. For example, when someone is young, their parents may not want them to be so wild, so they exile that part and don't look at it.[^10]
+- Managers. These are a type of protector that try to make sure that the exiles are not triggered. They do this in a variety of ways:[^10]
+	- Become self-critics to try and force us to do better so that nothing that triggers the exiles should happen.
+	- Push you to try and please everyone to distract yourself.
+	- Make sure you don't feel good about yourself so you can't become confident enough to have that torn down.
+	- Make you super intellectual so you don't feel connected to your parts.
+- There are other things as well. The point is that they distract, numb, or try and control the situation.[^10]
+- These parts are usually teenager parts and are not good at doing this.[^10]
+- Managers also use psychosomatic responses. A person may suddenly get sleepy when doing something the manager thinks is a bad idea.[^11]
+- Firefighters. There are a type of protector that tries to help you cope when one of the exiles are triggered. They do a variety of things to distract you. They can get you to spend too much time watching sports or movies, binge eating, drugs, involved in work, and even innocuous things like meditation (which quiets these screaming exile parts). At worst they may cause you to commit suicide.[^11]
+- Sometimes, managers and firefighters are involved in a vicious cycle. The firefighter can do something that the manager doesn't like (like binge eating). The self-critic manager yells at you. You feel bad about yourself, so you binge eat more.[^11]
+- Also, the exiles may try to break free the more they are shut down by managers and firefighters.[^11]
+- When going to therapy, know that you may feel various responses. Like you may have a strong urge to drink or something after working on your exiles because a firefighter is trying to protect you.[^12]
+- It is important to have someone with you when working on exiles. You need someone to keep you grounded.[^12]
+- You can't steamroll the protectors to get to the exiles. They will react poorly. You need to get them to let you go there.[^12]
+- Exiles managers and firefighters are just the roles the parts are forced to play. These are not actually what these parts are.[^12]
+- Even after checking in and reassuring protectors before reaching out to the exiles, protectors can still flare up afterwards.[^13]
+- You deal with them like always. Talk to them to try and understand why they are doing what they are doing. What are they afraid will happen if they stop trying to protect you. Reassure them that things will be okay. And thank them for what they have done.[^13]
+- Most actions can be done by firefighters and by managers. A person can binge eat to distract themselves to distract oneself from dealing with an exile, or after a exile has been triggered to distract oneself.[^13]
+- Some people have been traumatized by an event, and they may not remember it well or their memories may be inaccurate. It doesn't really matter if it is true or not for you to be able to heal those parts.[^13]
 # Footnotes
 
 [^1]: No Bad Parts, by Richard Schwartz : Chapter 1 (pg 8-17)
@@ -86,3 +109,7 @@
 [^7]: No Bad Parts, by Richard Schwartz : Chapter 2 (pg 39-48)
 [^8]: No Bad Parts, by Richard Schwartz : Chapter 3 (pg 49-57)
 [^9]: No Bad Parts, by Richard Schwartz : Chapter 4 (pg 58-71)
+[^10]: No Bad Parts, by Richard Schwartz : Chapter 5 (pg 73-77)
+[^11]: No Bad Parts, by Richard Schwartz : Chapter 5 (pg 77-80)
+[^12]: No Bad Parts, by Richard Schwartz : Chapter 5 (pg 80-82)
+[^13]: No Bad Parts, by Richard Schwartz : Chapter 5 (pg 82-86)

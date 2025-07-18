@@ -69,6 +69,8 @@
 12. <span style="display: block; text-align: justify;">In many instances, Chazal were purposely vague so that people would have to work hard on the chazal and be able to receive the benefits of that.[^41]</span>
 13. <span style="display: block; text-align: justify;">Rav Yitzchak Elchanan Spektor (the gadol hador of his time) was matir many difficult cases of agunos. Rav Yitzchak Elchanan did not feel that he was particularly brighter than many of the other gedolim. However, he felt he cared more about the agunos, and that spurred him to work harder.[^42]</span>
 14. <span style="display: block; text-align: justify;">See [[#^da3f84|here]], [[#^ae8f5d|here]], and [[#^10a174|here]].</span>
+## Bekiyos
+1. <span style="display: block; text-align: justify;">Bekiyos is important not just to know Torah, but because some topics in the gemara are broken up and discussed in multiple places. Without seeing all of the relevant gemaros, it won't be possible to come to an understanding of that sugya.[^50]</span>
 # Teaching
 1. <span style="display: block; text-align: justify;">There are many factors that a rebbi needs to balance when teaching. It takes tremendous wisdom and forethought to be able to try and get it right.[^43]</span>
 ## Making Talmidim Work
@@ -149,3 +151,4 @@
 [^47]: Tiferes Dovid : Chapter 2 (footnote 32)
 [^48]: Tiferes Dovid : Chapter 2 (pg 35-36)
 [^49]: Tiferes Dovid : Chapter 2 (page 36 and footnote 27)
+[^50]: Tiferes Dovid : Chapter 3 (page 42-43)

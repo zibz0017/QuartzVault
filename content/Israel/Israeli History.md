@@ -125,13 +125,25 @@ Settlers faced a collection of hardships such as:
 2. <span style="display: block; text-align: justify;">Around 40,000 Jews traveled to Palestine. They were mainly Russian, Romanian, and Eastern European.[^12]</span>
 3. <span style="display: block; text-align: justify;">A self-defense group called Hashomer was established.[^12]</span>
 4. <span style="display: block; text-align: justify;">Life in Israel was difficult, so many Jews preferred to go to Western countries.[^19]</span>
+5. <span style="display: block; text-align: justify;">The JNF began purchasing land which got converted into settlements.[^20]</span>
 ## Jewish Nationalism
 1. <span style="display: block; text-align: justify;"><span style="display: block; text-align: justify;">Jews were divided along many lines, like religious vs irreligious and by which country they came from.[^19]</span></span>
 2. <span style="display: block; text-align: justify;">As such, there were pushes for nationalism to unify everyone.[^19]</span>
 3. <span style="display: block; text-align: justify;">Hebrew as a spoken language and a love for the "Jewish Nation" were pushed.[^19]</span>
-## Integration with Arabs
-1. <span style="display: block; text-align: justify;">Some Zionist leaders (like A. D. Gordon) wanted the Arabs to be treated with respect.[^12][^20]</span>
+## Relationship with Arabs
+1. <span style="display: block; text-align: justify;">Some Zionist leaders (like A. D. Gordon) wanted the Arabs to be treated with respect.[^12][^21]</span>
 2. <span style="display: block; text-align: justify;">David Ben-Gurion wrote that in Petach Tikvah and Rishion Letzion (where most workers were Arab), Jews wanted there to be more Jewish workers. Bur despite this, there wasn't any violence between the Arabs and the Jews.[^19]</span>
+### Replacing Arab Workers
+1. <span style="display: block; text-align: justify;">Jews purchased land and replaced the Arab workers with Jewish ones. This led to increased Arab resentment.[^20]</span>
+2. <span style="display: block; text-align: justify;">The Jews did this because they had a view on "redeeming the land", and because they wanted to give Jewish immigrants jobs. {<span style="color:rgb(255, 0, 0)">Need source</span>}</span>
+### Violence and Self-defense
+1. <span style="display: block; text-align: justify;">Due to the increased tensions, some Arabs killed some Jews in Sejera on Pesach in 1909.[^20]</span>
+2. <span style="display: block; text-align: justify;">Jewish settlements formed a self-defense group called Hashomer. There were groups of fighters in different settlements ranging from 40 up to 250 people at times.[^20]</span>
+## Socialism in Israel
+1. <span style="display: block; text-align: justify;">Many Jews in Israel were socialists[^20] as many had come from socialist countries (like the Soviet Union). {<span style="color:rgb(255, 0, 0)">Need source</span>}</span>
+2. <span style="display: block; text-align: justify;">Some settlements created socialist organizations, like collective farms, kibbutzim started being created and collective consumer cooperatives (basically, a group of people that get together that use their collective purchasing power to get better prices and access to certain products for the group[^22]) like Hamashbir.[^23]</span>
+## Foreign Powers
+1. <span style="display: block; text-align: justify;">Turkey (which was in control of the Palestine at this time) did not grant the Jews permission to create their own state.[^20]</span>
 # Footnotes
 
 [^1]: Israel : A History by Sir Martin Gilbert : Chapter 1 (pg 3-7)
@@ -153,4 +165,7 @@ Settlers faced a collection of hardships such as:
 [^17]: [Wikipedia : Sixth Zionist Congress (specific location in article)](https://en.wikipedia.org/wiki/Sixth_Zionist_Congress#:~:text=The%20Sixth%20Zionist%20Congress%20was%20held%20in%20Basel%2C%20opening%20on%20August%2023%2C%201903.%20Theodor%20Herzl%20caused%20great%20division%20amongst%20the%20delegates%20when%20he%20presented%20the%20%22Uganda%20Scheme%22%2C%20a%20proposed%20Jewish%20colony%20in%20what%20is%20now%20part%20of%20Kenya.)
 [^18]: [Wikipedia : Sixth Zionist Congress (specific location in article)](https://en.wikipedia.org/wiki/Sixth_Zionist_Congress#:~:text=In%20Britain%20opposition%20to%20the%20Uganda%20Scheme%20from%20politicians%20was%20growing%20and%20by%20March%201904%20the%20proposal%20was%20put%20on%20hold.)
 [^19]: Israel : A History by Sir Martin Gilbert : Chapter 2 (pg 23-25)
-[^20]: [Wikipedia : A. D. Gordon (specific location in article)](https://en.wikipedia.org/wiki/A._D._Gordon#:~:text=A%20summary%20of,for%20our%20humanity.%22)
+[^20]: Israel : A History by Sir Martin Gilbert : Chapter 2 (pg 25-27)
+[^21]: [Wikipedia : A. D. Gordon (specific location in article)](https://en.wikipedia.org/wiki/A._D._Gordon#:~:text=A%20summary%20of,for%20our%20humanity.%22)
+[^22]: [University of Wisconsin-Madison Center for Cooperatives : Consumer Cooperatives (specific location in article)](https://uwcc.wisc.edu/resources/consumer-cooperatives/#:~:text=By%20combining%20member%20demand%2C%20a%20co%2Dop%20can%20provide%20better%20availability%2C%20selection%2C%20pricing%2C%20or%20delivery%20of%20products%20or%20services%20to%20individual%20consumers.)
+[^23]: Israel : A History by Sir Martin Gilbert : Chapter 2 (pg 25-27) and [Jewish Virtual Library : Hamashbir Hamerkazi](https://www.jewishvirtuallibrary.org/hamashbir-hamerkazi)
