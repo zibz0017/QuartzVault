@@ -5461,6 +5461,102 @@
 - In the early 1970s, the SU developed the multiple independently targetable reentry vehicle (MIRV). This was a single ICBM that carried many warheads that can each strike a different target.[^1114]
 - The US and SU signed a treaty called the Strategic Arms Limitation Treaty (SALT 1) which froze ballistic missiles at 1972 levels.[^1114]
 - There was always a fear that one side may make a mistake and trigger WWIII.[^1114]
+- US and SU began detente (disarmament).[^1115]
+- US pulled out of Vietnam in March 1973. Tried to leave the South Vietnam with enough power to defend themselves. But they didn't.[^1115]
+- In April 1975, North Vietnam invaded the South and quickly headed toward the Saigon (the capital).[^1115]
+- Foreigners, including members of embassies, fled the city.[^1115]
+- South Vietnamese people tried to flee in any way they could. On helicopters or boats. It was a desperate situation.[^1115]
+- North Vietnamese army was disciplined. No cases of theft or assault.
+- President of South Vietnam surrendered.[^1115]
+- Many surrounding countries became communist after the fall of South Vietnam.[^1115]
+- Angola, Africa was under colonialist occupation for many years. Portugal pulled out in November, 1975.[^1116]
+- The MPLA, a guerilla force that had fought against Portugal for many years declared themselves in charge.[^1117]
+- The MPLA was communist and had weaponry from the SU.[^1117]
+- The FNLA (National Liberation Front of Angola. The acronym works in Portuguese) and UNITA (National Union for Total Independence of Angola. Also works in Portuguese) also vie for control and are supported by the US (although they were each fighting for themselves).[^1117]
+- Angola was centrally located in Africa so it could spread communism. In addition, Angola has minerals and oil. As such, the US and SU both wanted it.[^1117]
+- The US supplied a lot of money in secret. They paid their allies enough money to hire mercenaries (which is illegal under the Geneva convention). The MPLA also hired mercenaries.[^1117]
+- There was a tremendous loss of life and many atrocities were committed. This kept the country in a terrible state for years, even after the war was over.[^1117]
+- Mercenaries committed many crimes.[^1117]
+- Some of the mercenaries were British and US. One group was captured, put on trial, and sentenced to long imprisonment or executed, despite efforts from the US and British government.[^1117]
+- The war carried on until 2002.[^1117]
+- (Not sure how much I care about all of this talk about mercenaries.)
+- The Warsaw Pact had a far stronger conventional land army than NATO.
+- The neutron bomb was developed and began being produced in the mid 70s.[^1118]
+- A neutron bomb focuses on using the radiation to kill people rather than the blast force. You can kill a bunch of people and leave the building (or tanks) intact. President Jimmy Carter used the threat of the neutron bomb as a balance for the SU's overwhelming land force (particularly because they had far more tanks).[^1119]
+- There were many anti-bomb demonstrations in Europe and the US.[^1119]
+- The SU then developed their own neutron bomb and the US's advantage disappeared. Both sides then agree to stop developing the neutron bomb.[^1119]
+- After 7 years of negotiations SALT 2 is signed in June 1979 by Carter and Brezhnev. It limits certain missiles and reduced nuclear stockpiles.[^1119]
+- JFK became president in January 1961. He immediately met with Khrushchev, the leader of the SU to try and broker peace.[^1120]
+- In October 1962, The US discovered SU missile sites in Cuba.[^1121] The US threatened a response to the SU if a nuclear weapon was launched from Cuba.[^1120]
+- The US blockaded the island. Khrushchev (with Castro's support) continued to ship missiles to Cuba to challenge the blockade.[^1120]
+- An SU submarine was damaged by a US depth charge and lost communication. SU protocol was that the commanders on board must decide if they wanted to use their nuclear weapons (the assumption was that if a submarine was attacked, there was a good chance that war was here). They must come to a unanimous agreement.[^1120]
+- One of the commanders voted against and so they did not launch their nuclear weapon. This may have saved the war from WWIII.[^1120]
+- People thought that this crisis might be the end of the world. Neither side was willing to budge.[^1120]
+- The SU didn't want to budge because the West had nuclear weapons in Turkey, right on the SU border. They felt that missiles on Cuba was a counter for that.[^1120]
+- During the crisis, Castro sent a letter to Khrushchev to encourage him to launch the missiles (effectively starting WWIII).[^1122][^1120]
+- The US and SU ended up agreeing to withdraw the missiles from Cuba and Turkey.[^1120]
+- The Vietnam War broke out in August 1964. there had already been a lot of fighting in Vietnam against the Japanese and French colonialists.[^1123]
+- The communist North was supported by the SU. The South by the US.[^1123]
+- The North made quick progress.[^1123]
+- The US didn't send troops at first, but they sent warships to the area.[^1123]
+- The US was nervous that if Vietnam would become communist, other countries there would also.[^1123]
+- In August 1964, the North launched an attack[^1123] (and maybe a second,[^1124] but that is unclear[^1125]) on a US destroyer with torpedo boats. The torpedoes missed but this provoked the Americans and got them more involved in the Vietnam War. The US started sending troops.[^1123]
+- The US invasion gave the North a reason they could rally behind to fight. They needed to repel the invaders.[^1123]
+- Many US soldiers simply relied on their superior firepower and soldiers wouldn't try to be stealthy when moving.[^1123]
+- American casualties rose quickly, and it cost a ton of money.[^1123]
+- The civilians were decimated.[^1123]
+- This turned the North Vietnamese against the Americans. This caused many to sign up for the army.[^1123]
+- The new year holiday of Tet was agreed as a ceasefire between both sides. However, the North violated this ceasefire in 1968[^1123] (late January[^1126]). The North had between 32,000 and 45,000 troops killed[^1127] while the South and its allies around over 10,000 killed or missing.[^1128] But politically, this shocked the Americans. They thought that they could easily handle the North. This showed that it would be harder than they thought. This led to declining US support for the war.[^1129]
+- In January 1968, Czechoslovakia elected Alexander Dubcek as the leader of the country. He wanted to scale back some of the communist ideas. He wanted to add some free market elements and give the people more rights (like freedom of the press and increased democracy).[^1130]
+- The SU and some of the Eastern Bloc countries surrounding Czechoslovakia did not like this.[^1130]
+- In August, SU and allied soldiers and tanks roll into Czechoslovakia, as this was part of the Brezhnev Doctrine (the rule that if any Eastern Bloc country would move toward capitalism, they would be restrained by force if necessary). Czechs protest this and 72 people are killed. Dubcek is thrown out and his reforms are reversed.[^1130]
+- Many people around the world protest the violence.[^1130]
+- This became known as the Prague Spring.[^1130]
+- For the next 20 years Czechoslovakia was forced to have hardliner rulers.[^1130]
+- The SU started out winning the space race. They put the first object into orbit, the first living creature into orbit, and the first person into orbit.[^1131]
+- A major part of the space race was demonstrating missile technological ability.[^1131]
+- On July 20, 1969, the Neil Armstrong and Buzz Aldrin became the first humans to land on the moon.[^1131]
+- Nixon was elected president in 1969. At that time the Vietnam War was making no progress on the battlefield or at peace talks. Both sides basically wanted the other to surrender.[^1131]
+- The US decides to increase its bombing campaign. The strikes lead to many civilian casualties.[^1131]
+- There were widescale protests, particularly on college campuses. There were violent protests and shutdowns of protests. The country was being torn apart.[^1131]
+- In September 1970, 4 students Kent State students are killed. This became known as the Kent State Massacre.[^1131]
+- The protests destroyed the morale of US troops in Vietnam. They thought the US citizens were against them. This was partially responsible for drug use amongst the soldiers.[^1131]
+- Near the end of 1970, the US started pulling troops out of Vietnam.[^1131]
+- A peace deal was finally reached in January 1973.[^1131]
+- The US thought (hoped) that the South would be able to defend themselves. Within 2 years, that would prove to not happen.[^1131]
+- By July 1979, things were relaxing. SALT 2 was signed and detente was underway. However, that quickly ended.[^1132]
+- Meanwhile there was a civil war in Afghanistan. In April 1978, a socialist group called the People's Democratic Party of Afghanistan (PDPA) overthrew the government and took control of the country.[^1133]
+- The PDPA had some harsh reforms which led to a revolution against them by a group called the mujahideen.[^1134]
+- In December 1979, the SU began deploying troops to support the communist government, which they claimed was for the purpose of "international aid".[^1135] The US (and others) supported the mujahideen.[^1136]
+- The US did not want to send troops there as historically, Afghanistan had always been a place that has been difficult to govern and the US had just pulled out of the Vietnam War and were in no rush to send more troops to fight in some Asian conflict. As such, they gave money and supplies (which they had been doing since 1978).[^1132]
+- The mujahideen are largely religious fundamentalists. As such, some of the religious Islamic countries in the area (like Pakistan) supported them, as well.[^1132]
+- It seems that the SU didn't just want Afghanistan as an ally (like Cuba, for example), they wanted to control it like part of the Eastern Bloc. In addition, they perhaps wanted to keep expanding past Afghanistan.[^1132]
+- Civilians suffered greatly from the war. There were an extreme amount of refugees.[^1137]
+- Many people there saw this as a war on Islam and so they were strongly motivated to fight.[^1137]
+- The mujahideen destroyed many schools and killed teachers. It seems that they loathed secular influences.[^1137]
+- The mujahideen weren't just fighting against the SU. They wanted to establish a religious system of rulership in Afghanistan.[^1137]
+- In 1980, the Olympics were held in Moscow.[^1138]
+- The US calls for a boycott of the games. There is much argument about this.[^1138]
+- The US recruits Muhammad Ali (who was an extremely popular athlete and a Muslim, so he was strongly against the SU invasion of Afghanistan) to convince many countries (particularly in Africa, as he was African-American) to boycott the games.[^1138]
+- The Olympic committee was against the boycott, as well as some of the athletes who don't care about the politics and were training for the games for years and would have to wait another 4 years.[^1138]
+- Many Islamic nations, China, West Germany, and others boycott the games. In total, 50 nations boycott the games, while 80 countries participated.[^1138]
+- The competition level was reduced as some of the top countries (like the US) did not participate.[^1138]
+- The Warsaw Pact has a far more powerful army than NATO possessing 3x as many tanks.[^1139]
+- The US wants to start positioning nuclear missiles in Europe so they will be able to defend themselves. However, there are mass protests in Europe against this.[^1139]
+- The missiles are placed in Europe, regardless. There are massive demonstrations outside the places where the missiles are kept.[^1139]
+- European nations and the US put together plans of actions for the civilian population in case of an attack (ways to alert the British people that a nuclear missile is coming, make sure that there are ventilated and filtered cellars for people all of Europe to hide in, ways to teach people what to do if there is a nuclear attack, etc.).[^1139]
+- In the US, civilians (students at school and adults out and about) would conduct drills. There would be sirens and the adults would run to fallout shelters and kids would duck under their school desks with their hands on their heads. Even in major cities (like NYC), life would come to a standstill.[^1139]
+- Fallout shelters start cropping up everywhere.[^1139]
+- The SU had spies in the US. 1985 was a year of many convictions. One of the spies, named John Walker, was an SU spy for around 17 years. He passed on US naval codes (so the SU knew the positions of US ships). He was probably doing this during the Vietnam War.[^1140]
+- By 1981, the refugee situation in Afghanistan was out of control. There were 2 million Afghans on the Pakistani border, around 15% of the entire Afghanistan population.[^1141]
+- Many civilians stayed where they were and tried to keep life going as normal as possible. They would hide when combat would break out and come back out when it would pass.[^1141]
+- Women have more rights in the SU controlled areas. They are allowed to pursue higher education and can where what they want. The mujahideen don't allow this.[^1141]
+- As such, many women supported the SU.[^1141]
+- In September 1983, SU pilots shot down a commercial airliner en route to Seoul. It had strayed over SU airspace and they thought it was a US spy plane.[^1142]
+- SU pilots claimed that the commercial plane ignored warning shots, but in recordings of the SU cockpits that were later released, this seems to not be the case.[^1142]
+- This further hurt US and SU relations.[^1142]
+- The zikeinim agreed to make Yiftach the leader of Klal Yisroel after his battle with Amon if he was victorious. However, they decided to make him the leader even before the battle. One of the reasons that they decided to do this was because it would fill Yiftach with simcha and he would be able to fight with more strength and energy.[^1143] ^766880
+- I would imagine that when fighting a battle with your life on the line that one would try his hardest. Apparently that is not the case. The person's emotions can make a difference. In addition, we see the power of simcha.[^7]
 # Footnotes
 
 [^1]: Siman 445 Sif 1 Sif Katan 3
@@ -6577,3 +6673,32 @@
 [^1112]: [Neutron Bomb: When The Nuclear Arms Race Got Out Of Control | M.A.D World | Timeline](https://www.youtube.com/watch?v=tvHt1EMTp90) (beg-11:40)
 [^1113]: [Wikipedia : 1973 Chilean coup d'état (specific location in article)](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat#Military_action:~:text=On%2011%20September%201973%2C%20a%20group%20of%20military%20officers%2C%20led%20by%20General%20Augusto%20Pinochet%2C%20seized%20power%20in%20a%20coup%2C%20ending%20civilian%20rule.)
 [^1114]: [Neutron Bomb: When The Nuclear Arms Race Got Out Of Control | M.A.D World | Timeline](https://www.youtube.com/watch?v=tvHt1EMTp90) (11:40-20:25)
+[^1115]: [Neutron Bomb: When The Nuclear Arms Race Got Out Of Control | M.A.D World | Timeline](https://www.youtube.com/watch?v=tvHt1EMTp90) (20:25-29:00)
+[^1116]: [Office of the Historian : A Guide to the United States’ History of Recognition, Diplomatic, and Consular Relations, by Country, since 1776: Angola (specific location in article)](https://history.state.gov/countries/angola#:~:text=Portugal%20granted%20Angola%20independence%20on,over%20the%20newly%20liberated%20state.)
+[^1117]: [Neutron Bomb: When The Nuclear Arms Race Got Out Of Control | M.A.D World | Timeline](https://www.youtube.com/watch?v=tvHt1EMTp90) (29:00-43:45)
+[^1118]: [Wikipedia : Neutron Bomb (specific location in article)](https://en.wikipedia.org/wiki/Neutron_bomb#:~:text=Testing%20of%20the%20W66%20was%20carried%20out%20in%20the%20late%201960s%2C%20and%20it%20entered%20production%20in%20June%201974%2C%5B15%5D%20the%20first%20neutron%20bomb%20to%20do%20so.%20Approximately%20120%20were%20built%2C%20with%20about%2070%20of%20these%20being%20on%20active%20duty%20during%201975%20and%201976%20as%20part%20of%20the%20Safeguard%20Program.)
+[^1119]: [Neutron Bomb: When The Nuclear Arms Race Got Out Of Control | M.A.D World | Timeline](https://www.youtube.com/watch?v=tvHt1EMTp90) (43:45-end)
+[^1120]: [YouTube : Timeline - World History Documentaries : 1962 Missile Crisis: How A Nuclear WW3 Was Narrowly Averted | M.A.D World | Timeline](https://www.youtube.com/watch?v=0lP_ICJo_Jg) (beg-13:00)
+[^1121]: [Wikipedia : Cuban Missile Crisis (specific location in article)](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis#:~:text=The%20crisis%20lasted%20from%2016%C2%A0to%C2%A028%20October%201962.)
+[^1122]: [Center for a Free Cuba : CubaBrief: In October 1962, Fidel Castro sent a letter to Khrushchev requesting a nuclear first strike on the USA, and ordered artillery to fire on U.S. planes (specific location in article)](https://cubacenter.org/cuba-brief-archives/2023/10/27/cubabrief-in-october-1962-fidel-castro-sent-a-letter-to-khrushchev-requesting-a-nuclear-first-strike-on-the-usa-and-ordered-artillery-to-fire-on-us-planes-2/#:~:text=On%20October%2026%2C%201962%2C%20Fidel%20Castro%20sent%20a%20letter%20to%20Nikita%20Khrushchev%20asking%20the%20Soviet%20leader%20to%20launch%20a%20nuclear%20first%20strike%20on%20the%20United%20States.%20The%20Cuban%20dictator%20also%20ordered%20all%20of%20his%20artillery%20to%20begin%20firing%20on%20American%20reconnaissance%20aircraft%20at%20the%20dawn%20of%20%E2%80%9CBlack%20Saturday.%E2%80%9D)
+[^1123]: [YouTube : Timeline - World History Documentaries : 1962 Missile Crisis: How A Nuclear WW3 Was Narrowly Averted | M.A.D World | Timeline](https://www.youtube.com/watch?v=0lP_ICJo_Jg) (13:00-25:15)
+[^1124]: [Wikipedia : Gulf of Tonkin Incident (specific location in article)](https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident#Second_alleged_attack)
+[^1125]: [Wikipedia : Gulf of Tonkin Incident (specific location in article)](https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident#Second_alleged_attack:~:text=I%20think%20it%20is%20now%20clear%20%5Bthe%20second%20attack%5D%20did%20not%20occur%C2%A0...)
+[^1126]: [Wikipedia : Tet Offensive (specific location in article)](https://en.wikipedia.org/wiki/Tet_Offensive#Aftermath:~:text=The%20Viet%20Cong%20(VC)%20and%20North%20Vietnamese%20People%27s%20Army%20of%20Vietnam%20(PAVN)%20launched%20a%20surprise%20attack%20on%2030%20January%201968%20against%20the%20forces%20of%20the%20South%20Vietnamese%20Army%20of%20the%20Republic%20of%20Vietnam%20(ARVN)%2C%20the%20United%20States%20Armed%20Forces%20and%20their%20allies.)
+[^1127]: [Wikipedia : Tet Offensive (specific location in article)](https://en.wikipedia.org/wiki/Tet_Offensive#Aftermath:~:text=The%20U.S.%20estimated,and%20another%205%2C800%20captured.)
+[^1128]: [Wikipedia : Tet Offensive (specific location in article)](https://en.wikipedia.org/wiki/Tet_Offensive#Aftermath:~:text=9%2C078%20killed,1%2C530%20missing)
+[^1129]: [Wikipedia : Tet Offensive (specific location in article)](https://en.wikipedia.org/wiki/Tet_Offensive#Aftermath:~:text=However%2C%20this%20offensive,%5B21%5D)
+[^1130]: [YouTube : Timeline - World History Documentaries : 1962 Missile Crisis: How A Nuclear WW3 Was Narrowly Averted | M.A.D World | Timeline](https://www.youtube.com/watch?v=0lP_ICJo_Jg) (25:15-32:50)
+[^1131]: [YouTube : Timeline - World History Documentaries : 1962 Missile Crisis: How A Nuclear WW3 Was Narrowly Averted | M.A.D World | Timeline](https://www.youtube.com/watch?v=0lP_ICJo_Jg) (32:50-end)
+[^1132]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (beg-11:15)
+[^1133]: [Wikipedia : Saur Revolution (specific location in article)](https://en.wikipedia.org/wiki/Saur_Revolution#:~:text=The%20Saur%20Revolution%20(,of%20the%20Revolutionary%20Council.)
+[^1134]: [Wikipedia : Afghan Conflict (specific location in article)](https://en.wikipedia.org/wiki/Afghan_conflict#:~:text=Subsequent%20unrest%20over,Operation%20Cyclone.)
+[^1135]: [Wikipedia : Soviet-Afghan War (specific location in article)](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War#Soviet_deployment,_1979:~:text=The%20Soviet%2040th%20Army%20launched,stir%20among%20the%20city%27s%20residents.)
+[^1136]: [Wikipedia : Soviet-Afghan War (specific location in article)](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War#:~:text=The%20Soviet%E2%80%93Afghan,States%20relations.)
+[^1137]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (11:15-16:05)
+[^1138]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (16:05-22:25)
+[^1139]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (22:25-33:55)
+[^1140]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (33:55-39:10)
+[^1141]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (39:10-47:35)
+[^1142]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (47:35-end)
+[^1143]: שופטים יא יא חומת אנך שם

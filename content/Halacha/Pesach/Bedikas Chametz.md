@@ -4,7 +4,7 @@
 1. <span style="display: block; text-align: justify;">Zmanin discussed are shaos zmanios.[^1] בשעת הדחק (like if one did not sell his chametz before the זמן איסור הנאה and the person stands to suffer a significant financial loss), one can rely on opinions that count hours like we normally do (meaning, 60 minutes per hour).[^2]</span>
 2. <span style="display: block; text-align: justify;">Lechatchila, zmanim should be counted from עלות השחר through צאת הכוכבים (like the Magen Avraham and others). However, one can rely on count the day from הנץ החמה though שקיעה (like the Gra and others).[^3]</span>
 ### The Issurim
-1. <span style="display: block; text-align: justify;">There is ovver a לאו (not a כרת) for getting hanna from chametz on erev Pesach after after chatzos.[^4]</span>
+1. <span style="display: block; text-align: justify;">There is ovver a לאו (not a כרת) for getting hannah from chametz on erev Pesach after after chatzos.[^4]</span>
 2. <span style="display: block; text-align: justify;">The rabanan assured eating chametz from the beginning of the 5th hour on erev Pesach, whether the chametz is chametz midioraysa, or midirabanan.[^5]</span>
 3. <span style="display: block; text-align: justify;">There is also the issur of [[#Tashbisu]] (see there).</span>
 ## Bal Yeirah Uval Yimatzei
@@ -257,7 +257,7 @@ Two reasons:
 3. One cannot place an upside-down keli over the chametz as we are concerned that someone may accidentally use the keli, exposing the chametz.[^142]
 4. {<span style="color:rgb(255, 0, 0)">It seems that this is how one who sold chametz to a goy should keep it. Add a link to this point.</span>}
 ### If One did not get Rid of the Chametz Before the Zman Issur
-{<span style="color:rgb(255, 0, 0)">Combine with section [[#If the Jew Did not Destroy the Chametz]]. I need to check the sources. From Sif Katan 8, it sounds like the food is not assur bihanna only if the Jew only accepted responsibility for pshia. In Sif Katan 5, it sounds like even in the Jew accepted responsibility for more than that.</span>}
+{<span style="color:rgb(255, 0, 0)">Combine with section [[#If the Jew Did not Destroy the Chametz]]. I need to check the sources. From Sif Katan 8, it sounds like the food is not assur bihannah only if the Jew only accepted responsibility for pshia. In Sif Katan 5, it sounds like even in the Jew accepted responsibility for more than that.</span>}
 1. If the Jew did not do biur, if the Jew only accepted responsibility for pshia, the Jew can rely on the opinion that says that these halachos only apply when the person accepts responsibility for gineiva and aveida.[^132]
 2. He would then return it to the goy as soon as he could, even on Pesach.[^132]
 3. In this situation, the Jew can't touch the chametz.[^132]
@@ -275,7 +275,7 @@ Two reasons:
 #### Non-Jewish Tenant
 1. A Jew does not need to destroy the chametz of a non-Jewish tenant.[^148]
 #### If the Jew Did not Destroy the Chametz
-1. If the Jew did not destory the chametz, after Pesach, he may return it to the goy and get hanna from the chametz.[^149]
+1. If the Jew did not destory the chametz, after Pesach, he may return it to the goy and get hannah from the chametz.[^149]
 #### Goy Places Chametz on Jew's Property Against the Jew's Will
 1. If this occurred before Pesach or on chol hamoed, the Jew must put it behind a wall (assuming the Jew can't get rid of it) [[#How to Keep the Chametz|as discussed]].[^150]
 2. If it was on Pesach, then the Jew covers it with a keli {<span style="color:rgb(255, 0, 0)">add link</span>}.[^150] (I am not sure why the Jew can't bring a wall (like a mechitza) to block the chometz. Perhaps this is because this wall is considered to have halachic significance and so that would be considered building a wall, similar to the halachos of boneh on shabbos (Siman 315 Sif 1 with Sif Katans {<span style="color:rgb(255, 0, 0)">add link</span>}.[^47])
@@ -311,17 +311,18 @@ Two reasons:
 2. <span style="display: block; text-align: justify;">There is a machlokes between the Mechaber and Rama about how much it has to change to be considered "changed". However, if this mixture was over 30 days old by the time Pesach came around, it is considered "changed" according to both opinions.[^160]</span>
 3. <span style="display: block; text-align: justify;">One should make sure not to put such things on the table (or any place that will have food) because it is still assur to eat.[^161]</span>
 4. <span style="display: block; text-align: justify;">Similarly one doesn't need to get rid of chametz that is mixed in with non-foods (even if it is edible, and sometimes even eaten by a sick person), although there is a machlokes about if one can eat such a mixture.[^162]</span>
+5. <span style="display: block; text-align: justify;">If a mixture is for a non-food purpose, then if there is less than a kezayis in one place, there is no issue. This is even if there is a kezayis within the whole keli (for example, if someone uses a chametz glue to hold together a keli. There is no issue unless there is a kezayis of chametz is all in one spot. There is no issue if there is more than a kezayis of chametz throughout the keli).[^169]</span>
+6. <span style="display: block; text-align: justify;">If the chametz was originally food and it just happened to get trapped in the keli, there is a machlokes if all of the chamtz throughout the keli gets combined together to count as a kezayis. However, if the chametz is a little metunaf, it does not combine according to all opinions.[^170] {<span style="color:rgb(255, 0, 0)">I don't think this belongs here.</span>}</span>
 ## Spoiled Foods
 1. <span style="display: block; text-align: justify;">One does not need to get rid of food that spoiled before the zman issur. However, if the food spoiled after the zman, one still needs to destroy it.[^163]</span>
 2. <span style="display: block; text-align: justify;">"Spoiled" means beyond ראוי לאכילת כלב, not just ראוי לאכילת אדם<span style="visibility:hidden">l</span>[^164]</span>
 3. <span style="display: block; text-align: justify;">Once the zman issur comes, even if the food reaches אינו ראוי לאכילת כלב after then, the food must be completely destroyed. אינו ראוי לאכילת כלב is not good enough[^165]</span>
 4. <span style="display: block; text-align: justify;">If chametz that was אינו ראוי לאכילת כלב was not destroyed and accidentally fell into other food, see [[#^f6f6d4|here]].</span>
 # Chametz Utesnsils
-1. <span style="display: block; text-align: justify;">A mixing bowl used for chametz cannot be used for Pesach.[^166]</span>
-2. <span style="display: block; text-align: justify;">Kneading bowls which have cracks or crevices need to be sold to a goy or cleaned out very well (as we are concerned that there is a kezayis of chametz there). Even if they are cleaned out, they may not be used for Pesach (as we are concerned that there is still a mashehu of chametz, which is assur to eat).[^167]</span> ^33c449
-3. <span style="display: block; text-align: justify;">It is unclear if this previous halacha applies to other keilim that may similarly be difficult to clean. Logically it would seem that it should apply. However, in Sif Katan 51 the Mishna Berura says that a bread basket which is also hard to clean just needs to be put away for Pesach and doesn't need to be sold.[^47]</span>
-# Hanna From Chametz
-1. <span style="display: block; text-align: justify;">Hanna from chametz includes selling the chametz, giving it to a goy, and feeding one's animals. As such, whenever one may not get hanna from chametz, they may not do any of these things.[^168]</span>
+1. <span style="display: block; text-align: justify;">Certain kneading bowls which are comprised of different parts and therefore have large cracks or crevices need to be sold to a goy (as we are concerned that there is a kezayis of chametz there). Even if regular mixing bowls which do not have these cracks or crevices may not be used for Pesach (as we are concerned that there is still a mashehu of chametz, which is assur to eat).[^167]</span> ^33c449
+2. <span style="display: block; text-align: justify;">It is unclear if this previous halacha applies to other keilim that may similarly be difficult to clean. Logically it would seem that it should apply. However, in Sif Katan 51 the Mishna Berura says that a bread basket which is also hard to clean just needs to be put away for Pesach and doesn't need to be sold.[^47]</span>
+# Hannah From Chametz
+1. <span style="display: block; text-align: justify;">Hannah from chametz includes selling the chametz, giving it to a goy, and feeding one's animals. As such, whenever one may not get hannah from chametz, they may not do any of these things.[^168]</span>
 # Footnotes
 
 [^1]: Siman 443 Sif 1
@@ -489,6 +490,8 @@ Two reasons:
 [^163]: Siman 442 Sif 2, 9 Sif Katan 9
 [^164]: Siman 442 Sif Katan 10, 39
 [^165]: Siman 442 Sif Katan 39, 40
-[^166]: Siman 442 Sif Katan 46
+[^166]: Siman 442 Sif 11 Sif Katan 46
 [^167]: Siman 442 Sif 11 Sif Katan 46, 47
 [^168]: Siman 443 Sif Katan 6
+[^169]: Siman 442 Sif 7 Sif Katan 32
+[^170]: Siman 442 Sif 7 Sif Katan 33

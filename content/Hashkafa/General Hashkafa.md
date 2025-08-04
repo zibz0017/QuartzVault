@@ -195,6 +195,11 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 1. <span style="display: block; text-align: justify;">One does not need to daven for specific things to receive them. Even if one just davens for good things in general, Hashem will give him his specific needs. This is clear from the fact that many times we ask Hashem for things and He does not give them to us because it is not in our best interest. We certainly aren't asking to not receive these things that we think we really want. Yet Hashem gives us what is best for us, anyway.[^33]</span>
 # Vagueness of Chazal
 1. <span style="display: block; text-align: justify;">Sometimes, Chazal purposely discussed things in a vague way to force the person learning the chazal to have to work hard to understand it so they can [[Tiferes Dovid#Hard Work|reap the benefits of working hard on Torah]].[^34] {<span style="color:rgb(255, 0, 0)">This may tie into [[#Agadita]] as well</span>}</span>
+# Terrorism
+1. <span style="display: block; text-align: justify;">In the times of גדעון, Klal Yisroel was fighting Midyan, who had oppressed them, and captured זבח and צלמונע, the kings of Midyan.[^35] גדעון only killed זבח and צלמונע because they had killed people in Klal Yisroel for no reason. This didn't increase the fear Klal Yisroel had for Midyan since Klal Yisroel was already was already severely oppressed by Midyan, so they were already afraid of Midyan.[^36]</span>
+2. <span style="display: block; text-align: justify;">It seems that if this would have increased the fear that Klal Yisroel had for Midyan, these killings may have been justified.[^5]</span>
+	1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps this means that it is still wrong, but it ever so slightly justifiable to the point that זבח and צלמונע were not חייב מיתה, but not that it was actually okay.</span>
+	2. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter (to original point):</span> Perhaps this was accepted practice in those times so it was okay then, but perhaps since this is not accepted in our times, it is not okay anymore.</span>
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8
@@ -231,3 +236,5 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^32]: שופטים ח א חומת אנך ד"ה מה הדבר
 [^33]: חובות הלבבות שער עבודת אלקים פרק ו (near the end. Page 393 in the blue ג פירושים version)
 [^34]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
+[^35]: שופטים ח ה, ח יב, ח יח-כא
+[^36]: רלב"ג תועלת טו בשופטים פרק י

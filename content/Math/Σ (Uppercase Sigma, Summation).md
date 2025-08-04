@@ -59,9 +59,9 @@ $$(3 \cdot 1) + (3 \cdot 2) + (3 \cdot 3) + (3 \cdot 4) + (3 \cdot 5)$$
 pulling the 3 out gives us:
 $$3 \cdot((1) + (2) + (3) + (4) + (5))$$
 ### Note
-You can't pull the $i$ to the left side. It wouldn't really make sense to. What would its value be?
+<span style="display: block; text-align: justify;">You can't pull the $i$ to the left side. It wouldn't really make sense to. What would its value be?</span>
 ## Split the Summation
-If the term has two parts which are added together, this can be split into two separate summations.
+<span style="display: block; text-align: justify;">If the term has two parts which are added together, this can be split into two separate summations.</span>
 ### Example 7
 $$\sum^{5}_{i=1}i + 2^i$$$$ \Rightarrow (1 + 2^1) + (2 + 2^2) + (3 + 2^3) + (4 + 2^4) + (5 + 2^5) \Rightarrow (3) + (6) + (11) + (20) + (37) = \textbf{77}$$
 This is the same as this:

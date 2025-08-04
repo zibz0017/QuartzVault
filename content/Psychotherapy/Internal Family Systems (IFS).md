@@ -98,6 +98,93 @@
 - You deal with them like always. Talk to them to try and understand why they are doing what they are doing. What are they afraid will happen if they stop trying to protect you. Reassure them that things will be okay. And thank them for what they have done.[^13]
 - Most actions can be done by firefighters and by managers. A person can binge eat to distract themselves to distract oneself from dealing with an exile, or after a exile has been triggered to distract oneself.[^13]
 - Some people have been traumatized by an event, and they may not remember it well or their memories may be inaccurate. It doesn't really matter if it is true or not for you to be able to heal those parts.[^13]
+- Exiles want you to connect with them and see and feel what had happened to them. You need to go with them back into the past. Then you can bring them back to the present and make them feel loved and protected.[^14]
+- Protectors get nervous about the fact that they don't need to do any protecting anymore. Ask them what it is that they want to do now. They will find some positive role.[^14]
+- When we are in a state of Self, we are much more aware and are not distracted by thoughts buzzing around our heads. We feel confident and have a feeling of spaciousness. We also feel an energy flowing around out bodies (called Self-energy). If the energy isn't flowing somewhere, that means that there is a part that is attached to you that is blocking it.[^15]
+- It's good to take note of these feelings. That way you can periodically check yourself throughout the day to see if you are in a state of Self. You can see if you feel these feelings.[^15]
+- You may feel something like pressure somewhere in your body which is a sign that there are parts making their appearance felt.[^15]
+- You want to try to get them to trust you. Over time, they will trust you more and more.[^15]
+- You can share this Self-energy with your parts. They may appreciate it and trust you more.[^15]
+- You can even share your Self-energy with other people.[^15]
+- Some people feel that they receive some sort of message when doing IFS mediations and feel their unblended Self (probably some sort of intuition).[^16]
+- Some parts have blended so much with the Self that we think that they are the Self. They can be difficult to notice. They may make us act kind but to try and get people to like us. And they are keeping exiles at bay. Keep in mind that the part is just trying to help us and we should treat it with love and compassion.[^16]
+- When in a state of Self, one feels the 8 Cs:[^17]
+	- Curiosity
+	- Calm
+	- Confidence
+	- Compassion
+	- Creativity
+	- Clarity
+	- Courage
+	- Connectedness
+- Some of the Cs lead to others. For example, if you feel curious about something, that will lead you to think about it and gain clarity. If you feel connected to others, you will naturally feel compassion.[^17]
+- It is rare for one to be in a full state of Self, so one generally does not feel all of the Cs at once.[^17]
+- Nonetheless, being in whatever state of Self helps one continue to heal their parts.[^17]
+- There are other qualities that come from the Self as well, like playfulness, and vulnerability. This is not an exhaustive list.[^17]
+- It is good to know what you feel like when you embody the Self so you can check yourself to see if you are in a state of Self or not.[^17]
+- The Self is you. You can't see the Self, you are the Self. If you you do something in your mind (like give a part a hug) and you see yourself doing it, that isn't actually your Self. That is another part that is acting like the Self.[^17]
+- Children have some capacity to access the Self so IFS can work for them, but they can't access it like adults can.[^17]
+- The Self naturally wants to help and heal.[^18]
+- Some psychedelic drugs (particularly MDMA) help one have lots of the feelings one feels about the Self (curiosity, openness, compassion, etc.). Perhaps psychedelics can be used to get one into a state of Self and the Self naturally has a desire to heal.[^18]
+- Meditation (not when used to smother protectors but just to connect to the Self) is good for getting parts to trust the Self more.[^18]
+- One may also feel connected to something greater, like the universe or the whole planet and desire to make things better. Using psychedelics and mediation, one can almost lose the feelings of bounds to themselves and feel that they are just part of something greater.[^18]
+- This perspective helps one deal with life's challenges. You appreciate how vast everything is and the importance of it all and how small the little troubles are.[^18]
+- Everyone has a Self that is pure and can be accessed, even people brought up in terrible and abusive situations.[^18]
+- The Self naturally knows how to deal with parts. It knows how to give the exiles love and love the protectors but be firm with them as well.[^19]
+- Self-led people similarly act that way toward others. The Self naturally knows how one should deal with others.[^19]
+- When one is not Self-led, they may try to find some other person to care for them (since they can't care for themselves). But even when they find such a person, this doesn't go well because the person can't live up to the expectations that one's parts have put on this person.[^19]
+- IFS can be done on couples.[^20]
+- The therapist will usually start by trying to find the parts in each person that are causing the fights and try to work with those.[^20]
+- After unburdening and healing a part, call the protector part in to see the part so it can see that it doesn't need to protect it anymore.[^20]
+- Sometimes it may be helpful to ask a client to invite the spirit of a dead relative or friend in to meet with their Self or a part (particularly if the death of this person is part of the burden that the part is carrying).[^20]
+- Sometimes a part can have a mission to do something good, but that part has a burden and so it goes about its mission in a way that can be harmful (like it can be overly obsessive about its mission and hurt other people).[^20]
+- Being in Self gives a person access to the 5 Ps: Patient, Persistent, Present, Perspective, and Playfulness.[^21]
+- Being is a state of Self and unblended from parts is not all or nothing. You can sometimes gain some sense of Self. And any sense of Self is good.[^21]
+- Parts can try to take over in dangerous situations and make you panic. You can use IFS to come those parts down and have the Self take charge.[^21]
+- IFS leads one to pursue and find a higher purpose.[^22]
+- When a person has burdened parts, protectors try to run your life to keep you from coming into contact with the exiles. They may get you to pursue hedonism, inflate your ego, get you to obsessively and unhealthily help others, or anything else.[^22]
+- When these protectors quiet down, you naturally become more in tune with many parts that were kept quiet, in addition to the actual proper roles of the protectors themselves. These parts now start suggesting life plans that truly matter and the Self is able to utilize these and pick what it feels.[^22]
+- The Self naturally utilizes all of the different parts in harmony.[^22]
+- When you're in a state of Self, you feel connected to others, so you naturally want to help them.[^23]
+- You are also able to live in the present.[^23]
+- You're parts may try to shoot down your grand ideas. Conversely, they may tell you that you aren't doing enough. Over time, your parts trust the Self more and more and will stop voicing these complaints because they trust the Self.[^23]
+- Protectors can jump in when dealing with people you don't like. A way to deal with this is by picturing the person in your mind's eye. You will naturally feel the protector rise to try and protect you. You can now use the usual methods (talk to the protector, ask it what it is afraid of…)[^23]
+- Another meditation is to picture a person that you have been with when they were extremely sad or upset. Picture them this way. You may naturally feel uncomfortable and want to leave. These are protectors again, and you can talk with them like usual.[^24]
+- Many times protectors don't trust the Self because they think the Self is too soft and will give everything away. While the Self is kind and compassionate, it is also strong and can set boundaries. You need to get your parts to see that.[^24]
+- When you are Self-led, you feel more. This means positive emotions, that we sometimes associate with childhood, like joy or awe, but you are also more vulnerable so you are more open to pain.[^25]
+- It is important to try and examine your motives to see if they are really from the Self, or if they are really some protector driving you.[^25]
+- Being in a state of Self brings out Self in others. Being blended brings out protectors in others.[^25]
+- Sometimes people do things that they tremendously enjoy to the point that they almost lose themselves in it, like an artist making art or a musician playing music. One just goes without thinking or feeling, but knows just what to do. They become one with whatever it is that they are doing. This is called "flow". When one is in a state of Self, it is easier to enter this state.[^25]
+- There are similar states when one feels connected to everything in the universe. These can be extremely powerful and uplifting feelings. One feels this when they are in a very pure sense of Self.[^25]
+- Our protectors get in the way of our natural Self, but the Self is pure, so when we can calm down these protectors and access the Self, we can tap into these feelings of connection.[^25]
+- Being Self-led helps one deal with others, even when they are being difficult.
+- It also helps one mend relationships.[^26]
+- Even when you are Self-led, you still listen to you parts. The difference is that you are in charge and listening to your parts and respecting them, rather than having the part in control.[^26]
+- Difficult situations can actually teach you a valuable lesson about what work you still need to do (obviously, this does not mean that you should stay in abusive relationships for these gains).[^26]
+- Many situations become opportunities for growth.[^26]
+- Sometimes a client may get upset at the therapist for being distracted, or impatient, or something like that. The client may be being unreasonable, but apologizing to the client anyway may really help the client. Many clients feel like they have never been validated, so this is a way of validating them.[^26]
+- You can feel many protectors at once. For example, you can have a protector that reacts to a situation (it starts making you feel angry about the situation, for example), and then you might feel another protector (that is scared of that first protector, maybe), and you can have other protectors, either that take one of these 2 sides, or maybe that take a 3rd position.[^27]
+- You can think about a particularly triggering situation and notice how your protectors react to that as a way of learning about yourself.[^27]
+- Many times , fights are between the peoples' protectors. If both sides (and even if only one side) can separate themselves from their protectors and then talk for their protectors rather than being their protectors, this makes a massive difference.[^27]
+- If a part agrees not to overwhelm you with emotions and feelings, you can be confident that it won't. You may feel some emotions, but nowhere near what you would usually feel when going to the part. This is true about exiles and protectors.[^28]
+- If a part does start to overwhelm (which means that it hadn't given permission), them the way to deal with that part is by welcoming the part in and thanking it for protecting, but asking if it wouldn't mind giving some space so the person can be with the part, without being the part.[^28]
+- If this occurs in a client-therapist setting, the therapist should ask the client if they could talk directly to the part, and tell it this message.[^28]
+- If someone is in a state of Self, and they are not intimidated by a part, the part has no power over them, no matter how intimidating the part may seem (it may want to kill the person or someone else).[^28]
+- Keep in mind that the parts aren't what they seem. They were forced into their role, but that is not who they are.[^28]
+- Sometimes, especially at first and if you are going about this alone, your parts may be in turmoil. You should take care of them. Ask them what they need, and they will tell you. They may want to exercise or meditate or something else. Your parts may even have an opinion on the effects of your meds, if you are taking any.[^28]
+- Feelings of racism are extremely difficult to get rid, and everyone has them. Pushing them down does not help. You have to listen and try to help unburden these parts.[^29]
+- Sometimes, there are burdens that don't seem to be attached to a part. You deal with these the same way as you would with a burdened part.[^29]
+- IFS allows one to become more in tune with their body. When one is in a state of Self, they can feel what their body needs. Protectors don't want the Self to feel embodied likely because of some past trauma which they are afraid will happen again. In addition, protectors push you toward unhealthy behaviors to distract you from your exiles.[^30]
+- Some meds made it difficult to do inner work as they numb your feelings. That doesn't mean you shouldn't take them (as there are definitely times when you do), but just keep that in mind, and don't be disappointed with a lack of progress when on meds.[^30]
+- However, some meds (like psychedelics) calm your protectors down and actually make it easier to do inner work.[^30]
+- Being Self-led makes it easier for us to take care of ourselves. One feels enjoyment when taking care of oneself.[^30]
+- Firefighters sometimes use high-adrenaline situations to distract oneself. They make you an adrenaline junkie.[^30]
+- Parts that are not listened to can utilize physical ailments to try and get you to listen to them. (I think sometimes parts can get angry at you for abusing yourself by listening to your managers/firefighters.)[^30]
+- In 1 study, 6 patients with arthritis were able to make between partial and full recoveries using IFS, compared to a control group of 40 patients that did not make similar improvements.[^30]
+- Obviously this does not mean that everything is because of mental issues. If you have a family history of asthma and you have asthma, it is probably genetic. However, there are times that there isn't really much of a reason for your asthma to be triggered by anything around you, but your parts can get your asthma to flare up anyway.[^31]
+- You can focus on a part of your body that is suffering from some medical condition and see what feelings you have about it. You may feel angry about the pain, or anything else. These are protectors. You can ask them if they can wait on the side. If the pain is caused by a part, it may respond. It can be trying to protect you from something, or it can be that it is trying to get a message through to you and it is using this to get your attention.[^31]
+- You have to seriously understand that your parts need your attention, and that they are really, not some representation of your psyche or something like that because your parts need to believe that they can trust you, and you need to earn that trust. This takes time, effort, and persistence, which you won't put in without this belief.[^32]
+- Being in a state of Self can help us unburden ourselves from things like materialism and consumerism.[^32]
 # Footnotes
 
 [^1]: No Bad Parts, by Richard Schwartz : Chapter 1 (pg 8-17)
@@ -113,3 +200,22 @@
 [^11]: No Bad Parts, by Richard Schwartz : Chapter 5 (pg 77-80)
 [^12]: No Bad Parts, by Richard Schwartz : Chapter 5 (pg 80-82)
 [^13]: No Bad Parts, by Richard Schwartz : Chapter 5 (pg 82-86)
+[^14]: No Bad Parts, by Richard Schwartz : Chapter 6 (pg 92)
+[^15]: No Bad Parts, by Richard Schwartz : Chapter 6 (pg 93-95)
+[^16]: No Bad Parts, by Richard Schwartz : Chapter 6 (pg 95-96)
+[^17]: No Bad Parts, by Richard Schwartz : Chapter 6 (pg 97-101)
+[^18]: No Bad Parts, by Richard Schwartz : Chapter 6 (pg 101-106)
+[^19]: No Bad Parts, by Richard Schwartz : Chapter 7 (pg 107-109)
+[^20]: No Bad Parts, by Richard Schwartz : Chapter 7 (pg 109-125)
+[^21]: No Bad Parts, by Richard Schwartz : Chapter 7 (pg 125-127)
+[^22]: No Bad Parts, by Richard Schwartz : Chapter 8 (pg 129-132)
+[^23]: No Bad Parts, by Richard Schwartz : Chapter 8 (pg 132-136)
+[^24]: No Bad Parts, by Richard Schwartz : Chapter 8 (pg 136-138)
+[^25]: No Bad Parts, by Richard Schwartz : Chapter 8 (pg 138-146)
+[^26]: No Bad Parts, by Richard Schwartz : Chapter 9 (pg 149-153)
+[^27]: No Bad Parts, by Richard Schwartz : Chapter 9 (pg 153-157)
+[^28]: No Bad Parts, by Richard Schwartz : Chapter 10 (pg 159-163)
+[^29]: No Bad Parts, by Richard Schwartz : Chapter 10 (pg 163-169)
+[^30]: No Bad Parts, by Richard Schwartz : Chapter 11 (pg 171-177)
+[^31]: No Bad Parts, by Richard Schwartz : Chapter 11 (pg 177-184)
+[^32]: No Bad Parts, by Richard Schwartz : Closing Thoughts (pg 185-189)
