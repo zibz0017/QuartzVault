@@ -15,8 +15,9 @@
 ## Room to Room Within the Same House
 1. <span style="display: block; text-align: justify;">If one had in mind to do this at the time of the bracha, this is not considered shinui makom.[^5]</span>
 2. <span style="display: block; text-align: justify;">As long as one has in mind to change rooms (to a specific location or not) this is considered having this in mind. This is even if one had one room in mind, and went to a different room instead.[^6]</span>
-3. <span style="display: block; text-align: justify;">If one sees the original place (or close to it) that he made his bracha, this is not considered shinuo makom.[^7]</span>
+3. <span style="display: block; text-align: justify;">If one sees the original place (or close to it) that he made his bracha, this is not considered shinui makom.[^7]</span>
 4. <span style="display: block; text-align: justify;">There is a machlokes if this means that one can see the actual place (or close to it) that the person made the bracha, or just see any part of the room that the person bracha made the bracha.[^8] As such, it seems that one should try to make sure that they can still see the original place, rather than just the room (or make a bracha achrona before leaving).</span>
+5. <span style="display: block; text-align: justify;">Bidieved, one can change rooms even if he didn't have it in mind when one made their bracha and can't see their original place and he doesn't make a new bracha. Lechatchilah, though, the person should have in mind wheng making the bracha originally.[^25]</span>
 ## Within the Same Room
 1. <span style="display: block; text-align: justify;">This is not considered shinui makom.[^2]</span>
 2. <span style="display: block; text-align: justify;">This is even if the room is very large and/or there are mechitzos between the person's original and current location.[^9]</span>
@@ -88,3 +89,4 @@
 [^22]: Siman 178 Sif Katan 36 Shaar Hatziun 26
 [^23]: Siman 178 Shaar Hatziun 26
 [^24]: Siman 178 Sif Katan 10
+[^25]: סי' קעח ב"ה ד"ה בבית אחד (א)

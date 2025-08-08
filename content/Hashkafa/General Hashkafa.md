@@ -190,13 +190,14 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. Hashem caused סיסרא to march out and fight against Klal Yisroel. {<span style="color:rgb(255, 0, 0)">See meforshim on שופטים ד יב-יד</span>}
 3. Hashem put it into the minds of Klal Yisroel to go and fight סיסרא.<span style="visibility:hidden">l</span>[^31]
 4. <span style="display: block; text-align: justify;">According to some, גדעון didn't initially ask שבט אפרים for help when dealing with the מדינים because Hashem caused him not to think of asking them.[^32]</span>
+5. <span style="display: block; text-align: justify;">Hashem caused Yiftach's daughter to come out and greet him as a punishment for Yiftach making a neder that was extremely open to chance (see [[Yiftach and his Daughter#For Making a Risky Neder|here]] for more details about this point and the rest of the article for more details about the rest of the story).</span>
 # Davening
 ## One Gets Things They Don't Ask For
-1. <span style="display: block; text-align: justify;">One does not need to daven for specific things to receive them. Even if one just davens for good things in general, Hashem will give him his specific needs. This is clear from the fact that many times we ask Hashem for things and He does not give them to us because it is not in our best interest. We certainly aren't asking to not receive these things that we think we really want. Yet Hashem gives us what is best for us, anyway.[^33]</span>
+1. <span style="display: block; text-align: justify;">One does not need to daven for specific things to receive them. Even if one just davens for good things in general, Hashem will give him his specific needs. This is clear from the fact that many times we ask Hashem for things and He does not give them to us because it is not in our best interest. We certainly aren't asking to not receive these things that we think we really want. Yet Hashem gives us what is best for us, anyway.[^35]</span>
 # Vagueness of Chazal
-1. <span style="display: block; text-align: justify;">Sometimes, Chazal purposely discussed things in a vague way to force the person learning the chazal to have to work hard to understand it so they can [[Tiferes Dovid#Hard Work|reap the benefits of working hard on Torah]].[^34] {<span style="color:rgb(255, 0, 0)">This may tie into [[#Agadita]] as well</span>}</span>
+1. <span style="display: block; text-align: justify;">Sometimes, Chazal purposely discussed things in a vague way to force the person learning the chazal to have to work hard to understand it so they can [[Tiferes Dovid#Hard Work|reap the benefits of working hard on Torah]].[^36] {<span style="color:rgb(255, 0, 0)">This may tie into [[#Agadita]] as well</span>}</span>
 # Terrorism
-1. <span style="display: block; text-align: justify;">In the times of גדעון, Klal Yisroel was fighting Midyan, who had oppressed them, and captured זבח and צלמונע, the kings of Midyan.[^35] גדעון only killed זבח and צלמונע because they had killed people in Klal Yisroel for no reason. This didn't increase the fear Klal Yisroel had for Midyan since Klal Yisroel was already was already severely oppressed by Midyan, so they were already afraid of Midyan.[^36]</span>
+1. <span style="display: block; text-align: justify;">In the times of גדעון, Klal Yisroel was fighting Midyan, who had oppressed them, and captured זבח and צלמונע, the kings of Midyan.[^37] גדעון only killed זבח and צלמונע because they had killed people in Klal Yisroel for no reason. This didn't increase the fear Klal Yisroel had for Midyan since Klal Yisroel was already was already severely oppressed by Midyan, so they were already afraid of Midyan.[^38]</span>
 2. <span style="display: block; text-align: justify;">It seems that if this would have increased the fear that Klal Yisroel had for Midyan, these killings may have been justified.[^5]</span>
 	1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps this means that it is still wrong, but it ever so slightly justifiable to the point that זבח and צלמונע were not חייב מיתה, but not that it was actually okay.</span>
 	2. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter (to original point):</span> Perhaps this was accepted practice in those times so it was okay then, but perhaps since this is not accepted in our times, it is not okay anymore.</span>
@@ -234,7 +235,9 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^30]: שופטים א ו-ז רלב"ג ומלבי"ם שם
 [^31]: שופטים ה ב מצודת דוד ד"ה בהתנדב עם
 [^32]: שופטים ח א חומת אנך ד"ה מה הדבר
-[^33]: חובות הלבבות שער עבודת אלקים פרק ו (near the end. Page 393 in the blue ג פירושים version)
-[^34]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
-[^35]: שופטים ח ה, ח יב, ח יח-כא
-[^36]: רלב"ג תועלת טו בשופטים פרק י
+[^33]:בראשית רבה ס ג (בראשית כד יג-יד) יפה תואר, עץ יוסף ד"ה וזימן לו
+[^34]: בראשית רבה ס ג (בראשית כד יג-יד) יפה תואר, עץ יוסף ד"ה רבי יוחנן
+[^35]: חובות הלבבות שער עבודת אלקים פרק ו (near the end. Page 393 in the blue ג פירושים version)
+[^36]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
+[^37]: שופטים ח ה, ח יב, ח יח-כא
+[^38]: רלב"ג תועלת טו בשופטים פרק י
