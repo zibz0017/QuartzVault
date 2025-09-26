@@ -5557,6 +5557,84 @@
 - This further hurt US and SU relations.[^1142]
 - The zikeinim agreed to make Yiftach the leader of Klal Yisroel after his battle with Amon if he was victorious. However, they decided to make him the leader even before the battle. One of the reasons that they decided to do this was because it would fill Yiftach with simcha and he would be able to fight with more strength and energy.[^1143] ^766880
 - I would imagine that when fighting a battle with your life on the line that one would try his hardest. Apparently that is not the case. The person's emotions can make a difference. In addition, we see the power of simcha.[^7]
+- The US was racing against the Germans to develop the atomic bomb. The US had teams in different parts of the country to develop different parts of the bomb. The main physics was being conducted in Los Alamos, Texas.[^1146] (It was originally conducted in Manhattan, hence, the name, the Manhattan Project[^1145]).
+- The project employed around 130,000 people and spent nearly $2 billion (over $25 billion in today's money).[^1144]
+- In mid-July 1945, the first test bomb (called The Gadget), is successfully detonated. In August, the US dropped 2 atomic bombs on Japan.[^1146]
+- On August 15, the Japanese surrender.[^1146]
+- The Soviet Union quickly steps up their nuclear program. They stole some of the designs with spies. But they had to set up industries to create the uranium and plutonium.[^1146]
+- In August 1949, the SU detonate their first nuclear test bomb, called First Lightning. This is discovered by the US in September.[^1146]
+- In April 1950, the US adopts a policy called National Security Council paper number 68 (NSC 68). This paper said that the SU would use their nuclear weapons on the US if they could. As such, the US had to keep up with the SU in terms of nuclear technology and how many nuclear weapons it had.[^1146]
+- The North Korean invasion of South Korea (backed by the SU) made the SU's aggression clear to the US. As such, support for NSC 68 exploded. This would be a major part of the US policy for the Cold War.[^1146]
+- The US begins to work on a thermonuclear bomb (a hydrogen bomb). These bombs are far more powerful than the original nuclear bombs (around 1000x more powerful than the bombs dropped on Hiroshima and Nagasaki).[^1147]
+- In November, the US successfully tests a thermonuclear weapon in the Marshall Islands. The US continued to run tests in the Marshall Islands over the next few years.[^1147]
+- Some of these tests were not safe (particularly Casa Bravo in 1954) and some Pacific islanders suffered from the radiation. Some of the Marshall Islands are uninhabitable due to radiation contamination.[^1147]
+- The US felt that the risks of falling behind the SU outweighed the risks of these experiments.[^1147]
+- The government first denied that there was any injuries from the tests. However, by the Casa Bravo test, the public saw through this. Many protested the tests and wanted them discontinued.[^1147]
+- In August 1953, the SU tests their first thermonuclear weapon. It is far less powerful than the US's biggest test (400 kilotons to 15 megatons) but it still showed that the SU was in the race.[^1147]
+- When Dwight Eisenhower became president, the Korean War was still raging. President Eisenhower was ready to use nuclear weapons against the North Koreans to end the war.[^1147]
+- In March 1953, Stalin dies and Nikita Khrushchev becomes the leader of the SU. By July of that year, a peace agreement in Korea is signed.[^1147]
+- The US and the SU began working on missile systems to deliver the nuclear weapons. Until then, the weapons had to be dropped from a plane. Missiles made it easier to hit many targets very rapidly.[^1149]
+- In August 1957, the SU successfully tests the world first ICBM (the R-7 Semyorka). A month later, the US successfully tests their own (called the SM-65 Atlas).[^1149]
+- The US gave tremendous funding to this project ($8 billion). Money was not an issue. Only speed of development.[^1149]
+- In October 1957, Sputnik is launched into space (using a rocket based on the R-7 Semyorka).[^1149]
+- This made the US concerned that it was considerably behind the SU missile technology.[^1149]
+- In February 1961, the US successfully tests an ICBM missile called the Minuteman.[^1149]
+- The Atlas and Semyorka couldn't maintain the fuel inside of them. They had to be fueled and then set up before being launched. The Minuteman was able to launched right away.[^1149]
+- In November 1960, Kennedy becomes president. His campaign ran on pursuing peace.[^1149]
+- Shortly after, Cuba is taken over by Fidel Castro, who overthrows the corrupt government there. All property is nationalized, including some property of US companies, and the country becomes communist. Relationship with the US plumets and they establish a relationship with the SU.[^1149]
+- In April 1961, the US attempts to invade Cuba using CIA trained people who fled from Cuba. The operation, known as the Bay of Pigs Invasion, was a colossal failure.[^1149]
+- Since 1959,[^1148] the US had ballistic missiles in Turkey and Italy which could reach western SU, including Moscow.[^1149]
+- To counter this threat, the SU wanted to establish missiles on Cuba.[^1149]
+- This was discovered by US U-2 spy planes in October 1962.[^1149]
+- The US decided to blockade Cuba. They didn't want to attack he nuclear sites with conventional air strikes because they were scared of SU counterattacks.[^1149]
+- The US and SU come to an agreement for the SU to remove the weapons from Cuba. In exchange, the US secretly removed its weapons from Turkey and Italy.[^1149]
+- Because the US's removal was agreed to remain secret, it looked like a win for the US and a loss for the SU. This is part of the reason why Khrushchev gets replaced a few years later.[^1149]
+- In October 1963, the US, SU, and Great Britain sign a deal to ban certain kinds of nuclear tests called the Partial Test Ban Treaty. (This may have been because all of the parties had done all of the testing that they felt they needed).[^1149]
+- The SU helps China begin their nuclear program.[^1151]
+- (At some point, the SU and China become enemies. I am not sure what, why or when. By then, the SU stopped giving technology.)[^1151]
+- In 1964, China conducts a successful nuclear test (they had refused to sign the Partial Test Ban Treaty) and a few years later, conduct a successful thermonuclear test.[^1151]
+- France has their first successful test in 1960.[^1151]
+- Other countries, like Pakistan, India, North Korea, and Israel, all develop nuclear weapons.[^1151]
+- Nuclear reactors for energy begin being developed.[^1151]
+- In March 1979, there is a malfunction in Three Mile Island power plant in Pennsylvania. The radiation did not cause any adverse health effects.[^1150][^1151]
+- In April 1986, there is the Chernobyl reactor meltdown.[^1151]
+- The Chernobyl reactor was known to be unsafe. It was known that under certain conditions (like the one which caused the meltdown), the reactor could become unstable. In addition, control rods were removed. The design should not allow for this.[^1151]
+- 120,000 people are displaced. There is a spike in childhood thyroid cancer.[^1151]
+- Between 13,000 and 19,000 deaths are attributed to Chernobyl.[^1151]
+- This was a contributing factor to the fall of the Soviet Union.[^1151]
+- A person should not put themselves in risky situations because:[^1152]
+	- They may get themselves killed and one is not allowed to commit suicide. One is not allowed to murder anyone including themselves. Murdering oneself can be considered even worse, similar to murdering a close relative, as one is supposed to have rachmanus on close relatives, and certainly oneself.
+	- Hashem may save the person through miraculous means. This takes away from a person's zechusim.
+- The Chovos Halevavos was mashma to me that one's life would not be cut short because one put themselves at risk. It just seems to be an aveirah of suicide if one is dies. There is a classic opinion that if one puts themselves at risk then Hashem may decide to kill the person, either because there is an aveirah of putting yourself at risk (whether or not the person dies), or simply being in a risky situation, regardless how you got there, can get one killed (see [[Execution of עכן#Hashem Removed His Hashgacha|here]]. To be precise, only the Malbim referenced there explicitly says that when one is in a dangerous place, one is more likely to die. The Ralbag would seem to agree, but he doesn't explicitly say so). To me it seems that the Chovos Halevavos would potentially argue on this and say that a person can't affect what Hashem wants to do to a person. It would seem that Hashem would prevent a person who isn't supposed to die yet from doing anything that will certainly result in their death (like jumping off a building). Either Hashem can prevent certain thoughts and ideas from going into their head (as discussed [[General Hashkafa#Hashem may Affect Peoples' Decisions|here]]) or Hashem may make their plan unsuccessful (they may not make it to their destination).[^7]
+- We also see how bad suicide is. Although I wonder if in a way a person is more understandable to commit suicide. There is a natural feeling that one's life is their own and one can do with it what they want, while one can't hurt someone else. In addition, someone who is suicidal probably has less rachmanus on themselves for whatever reason. The fact that they have to live with themselves makes them more likely for them to have less rachmanus on themselves, more so than for anyone else. A person may hate themselves for having a lack of self control (people who are obsessive about what they eat) or are depressed because they aren't successful, or whatever reason it is that they are suicidal.[^7]
+- Also, as mentioned, there are those shitos (definitely the Malbim and probably the Ralbag) who hold that if one is in a dangerous situation, even if they rightfully put themselves there, this can cause them to get killed.[^7]
+- Reigns of Egyptian kings during Neo-Babylonian era (called the Saite period):[^1153]
+	- Psammetichus I : 54 years
+	- Necho II : 15 years
+	- Psammetichus II : 6 years
+	- Apries (or Hophra in Yirmiya) : 19 years
+	- Amasis : 44 years
+	- Psammetichus III : 1 year
+- This has been documented through records from those times. Some records would explicitly state how long these kings ruled. Some would state when and how certain events would happen and the king years could be established that way, as well. For example, the years that an Apis Bull was born and died (meaning, how many years into a kings rule) and how long it lived, which can be used to calculate how long the kings ruled.[^1153]
+- Cambyses defeated Psammetichus in Cambyses' 5th year according to Herodotus, inscriptions in Egypt from the time, and legal contracts found in Egypt dated from Cambyses' 5th-8th years.[^1153]
+- However, there is reason to doubt this. According to Yirmiya 46:2 with 25:1 the army of Pharaoh Necho was defeated by Nebuchadnezzar in Nebuchadnezzar's accension year at Charchemish.[^1153]
+- According to Tablet BM 21946, the no Egyptians survived the battle.[^1153]
+- Rashi on Yirmiya 46:10 brings rabbinic tradition that Pharaoh Necho was at the battle. In addition, this battle is discussed in Kings 2:24. After the battle, the name "Pharaoh Necho" is not used anymore, implying that there was a new king.[^1153]
+- It seems that Pharaoh Necho was killed there, which is Nebuchadnezzar's ascension year.[^1153]
+- There were 70 years in the Saite Period after Pharaoh Necho's death (see above). The Babylonian Empire fell to the Persians 69 years after the rise of Nebuchadnezzar (see way earlier). It comes out that Egypt was defeated by the Persians one year after the Babylonians were.[^1153]
+- Documents in Babylonia are only dated for Cambyses for one year before reverting to being dated to Cyrus. This makes sense now. Cambyses ruled there for a year under his father before leaving to conquer Egypt.[^1153]
+- According to Ezekiel 29:12, Egypt laid in ruin for 40 years. This will be shown (later) to have begun in Nebuchadnezzar's 30th year. This would mean that the end of the years of desolation would line up with Cambyses conquering of Egypt. Inscriptions describe Cambyses as someone who rebuilt Egypt, so this works out.[^1153]
+- The only problem is what is mentioned earlier, namely, that evidence indicates that Cambyses conquered Egypt in his 5th year, which is 15 years later.[^1153]
+- To review, the evidence for this is Herodotus and inscriptions only beginning to be dated from Cambyses 5th year.[^1153]
+- However, Cambyses conquered other areas around Egypt, as well. Perhaps the following occurred:[^1153]
+	- Cambyses ruled under Cyrus in Babylonia for one year.
+	- He conquered Egypt and the surrounding areas for 3 years.
+	- Afterwards, he returned to Egypt. Documents began being dated in his 5th year, but this meant his 5th year of rule under Cyrus. He stayed there until his 8th year under Cyrus.
+	- Herodotus found these dated documents but misinterpreted them. He thought they were referring to Cambyses' own reign, not under his father. It should be noted that Herodotus is infamous for getting many things wrong. This would not be a first.
+- There is corroboration from tablete BM 30650. This tablet is dated to the 11th year, but the second "1" is written over a "0". Historians assume that this was a mistake. The scribe meant to write "1" and accidentally wrote "10", thinking that it was the 10th year of Cyrus. However, Cyrus had died and it was the 1st year of Cambyses. He couldn't get rid of his mistake, so the scribe tried to just rewrite "1".[^1153]
+- It seems hard to believe that the scribe forgot about the death of Cyrus.[^1153]
+- An alternative is that this refers to the 10th year of Cambyses. If we count Cambyses reign from the beginning of his time under Cyrus, his 1st year as the actual ruler was actually the 10th year from when he began his rule under Cyrus. The scribe's mistake is more understandable.[^1153]
+- 
 # Footnotes
 
 [^1]: Siman 445 Sif 1 Sif Katan 3
@@ -6702,3 +6780,13 @@
 [^1141]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (39:10-47:35)
 [^1142]: [YouTube : Timeline - World History Documentaries : Nukes, Afghanistan & A Missing Plane: The Human Cost Of The Cold War | M.A.D World | Timeline](https://www.youtube.com/watch?v=bg3W3Sp-yDk) (47:35-end)
 [^1143]: שופטים יא יא חומת אנך שם
+[^1144]: [Wikipedia : Manhattan Project (specific location in article)](https://en.wikipedia.org/wiki/Manhattan_Project#:~:text=The%20Manhattan%20Project%20employed%20nearly%20130%2C000%20people%20at%20its%20peak%20and%20cost%20nearly%20US%242%C2%A0billion%20(equivalent%20to%20about%20%2427%C2%A0billion%20in%202023).)
+[^1145]: [Wikipedia : Manhattan Project (specific location in article)](https://en.wikipedia.org/wiki/Manhattan_Project#:~:text=The%20Army%20program%20was%20designated%20the%20Manhattan%20District%2C%20as%20its%20first%20headquarters%20were%20in%20Manhattan%3B)
+[^1146]: [YouTube : Timeline - World History Documentaries : Oppenheimer: The Real History Of The Nuclear Arms Race | Cold War Tech Race | Timeline](https://www.youtube.com/watch?v=WXPwiwdqYo4) (beg-17:20)
+[^1147]: [YouTube : Timeline - World History Documentaries : Oppenheimer: The Real History Of The Nuclear Arms Race | Cold War Tech Race | Timeline](https://www.youtube.com/watch?v=WXPwiwdqYo4) (17:20-23:50)
+[^1148]: [Wikipedia : PGM-19 Jupiter (specific location in article)](https://en.wikipedia.org/wiki/PGM-19_Jupiter#:~:text=In%20April%201959,nuclear%20warhead%20arming.)
+[^1149]: [YouTube : Timeline - World History Documentaries : Oppenheimer: The Real History Of The Nuclear Arms Race | Cold War Tech Race | Timeline](https://www.youtube.com/watch?v=WXPwiwdqYo4) (23:50-41:00)
+[^1150]: [World Nuclear Association : Three Mile Island Accident (specific location in article)](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/three-mile-island-accident#:~:text=In%201979%20at,Mile%20Island%C2%A0accident)
+[^1151]: [YouTube : Timeline - World History Documentaries : Oppenheimer: The Real History Of The Nuclear Arms Race | Cold War Tech Race | Timeline](https://www.youtube.com/watch?v=WXPwiwdqYo4) (41:00-end)
+[^1152]: חובות הלבבות שער הבטחון פרק ד (pg תקה-תקח in Blue ג פירושים version)
+[^1153]: The Challenge of Jewish History : Chapter 15 (pg 135-140)

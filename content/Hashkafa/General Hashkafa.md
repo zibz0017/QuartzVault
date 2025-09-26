@@ -201,6 +201,10 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. <span style="display: block; text-align: justify;">It seems that if this would have increased the fear that Klal Yisroel had for Midyan, these killings may have been justified.[^5]</span>
 	1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps this means that it is still wrong, but it ever so slightly justifiable to the point that זבח and צלמונע were not חייב מיתה, but not that it was actually okay.</span>
 	2. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter (to original point):</span> Perhaps this was accepted practice in those times so it was okay then, but perhaps since this is not accepted in our times, it is not okay anymore.</span>
+# Criminal Escalating the Situation
+1. <span style="display: block; text-align: justify;">Gideon was going to punish the city of פנואל by destroying the tower there (see [[Gideon and the Cities of סכות and פנואל#Why Gideon Destroyed the Tower in פנואל|here]] for why).</span>
+2. <span style="display: block; text-align: justify;">According to some mefarshim, when Gideon came to destroy the tower, people from the town fought against him. Gideon killed those people (which was seemingly a large part of the city) and then proceeded to destroy the tower (see [[Gideon and the Cities of סכות and פנואל#^f85451|here]]. For more details, read the rest of the article).</span>
+3. <span style="display: block; text-align: justify;">It seems that when someone does something wrong and deserves a punishment, if that person (or group of people) escalates the situation (they won't accept the punishment and the only way one can administer the punishment is if worse than they deserved is inflicted on them), we say that the person should do so. One does not back down because they will have to do this.[^5]</span>
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8

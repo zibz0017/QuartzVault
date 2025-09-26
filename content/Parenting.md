@@ -1,0 +1,192 @@
+# Unorganized Notes
+- Raising children is an opportunity for parents to grow. It is important for children to see their parents growing.[^1]
+- Hashem matches the kids' needs and abilities with the parents' needs and abilities to maximize the potential of the kids and the parents.[^2]
+- A child's path is ordained from Hashem. Realizing this helps a person support their child's decisions, even when they may not be what the parent expects.[^1]
+- Hashem just wants parents to try their best. How the kid turns out is up to Him.[^1]
+- Children in society have gotten less respectful of their elders over time.[^1]
+- Can't be too strict on children because that alienates them. Can't be too loose with children because they won't be able to deal with life.[^1]
+- A person shouldn't burden his young children with criticism and punishments.[^3]
+- Some children go through life easily (the parents don't need to discipline them much and they nearly always seem to act properly). And there are those kids who are not like that.[^1]
+- Be careful about giving mussar to these kids who struggle. Many times there is a reason why the struggle with the things that they struggle with that mussar will not address.[^1]
+- For example, if a child can't get out of bed in the morning, it may be because he is lazy, or it may be that the child has some sort of emotional or mental disorder, or perhaps he is getting bullied in school and so he doesn't feel much drive to go.[^1]
+- 60% of adults mental health problems began in childhood.[^1]
+- We need to ascertain what the issue is and address that issue in the proper way.[^1]
+- Kids generally need rules and structure. However, for some, the standard yeshiva system will standard structure does not work.[^1]
+- These kids have at least 4 of the following:[^1]
+	- constantly fight with their parents.
+	- Struggling to stay in school, or have left/been thrown out.
+	- Stopped keeping kosher.
+	- Stopped keeping shabbos.
+	- Using drugs/alcohol.
+	- Inappropriate relationships with the opposite gender.
+- Some kids are in the middle (not quite standard, but not this bad). They also need their individualized for of chinuch.[^1]
+- Normative parenting can be divided into 3 stages:[^4]
+	- Unconditional love and nurturing (ages 0-2)
+	- Limit-setting and role modeling (ages 2-16)
+	- Guidance and a listening ear (16+)
+- These ages are not exact. They should be tailored to each individual kid.[^4]
+- Unconditional love and nurturing stage:
+	- Love is expressed through soft voice, gentle hands, take care of their needs, etc.[^4]
+	- Obviously we keep expressing love after the child turns 2. Until that point, this is all one does.[^4]
+	- This is something established in the by non-Jewish doctors as well (see Love and Survival, by Dr. Dean Ornish (particularly page 29) where he discusses how making a child feel alone and unloved can lead to their death).[^4]
+	- The child senses how you feel toward them. If you are angry or tense, the child feels that.[^4]
+	- The child also sees how you act toward your spouse. If you act angrily toward your spouse, this can negatively impact the child.[^4]
+	- Obviously, this is particularly difficult at times (the child isn't sleeping and it been a long night, the child, the child spit up on your suit right before shabbos, the child is dumped flour all over the floor, etc.) It is extremely important at these times to maintain control of ourselves and properly deal with our children.[^4]
+	- Try to laugh about it. Try to maintain the long view (in a few weeks, or maybe even in a few days, it won't matter anymore. It will just be funny to look back on).[^4]
+	- Children at this age are not really able to conform to our structure and rules.[^4]
+	- Hashem gives parents special love for children so we will be able to get ourselves to help them.[^5]
+	- This is important for creating the foundation for children as they grow up. The helps the child with the next stage. If this stage was utilized correctly, the child will feel accepted, regardless of what they do.[^4]
+	- Obviously, a child is not doomed if this stage wasn't used properly.[^4]
+	- Some of these children may be somewhat emotionally and mentally fragile.[^4]
+- Limit-setting and role modeling stage:
+	- We set limits to keep kids safe.[^6]
+	- Kids learn what is important by trying to push these limits. If we are firm on a boundary, the kid learns that this is important.[^6]
+	- Kids who were nurtured properly will feel this as an extension of the parents' love. They'll be momentarily mad, but they'll bounce back.[^6]
+	- Children who didn't have the unconditional love will view these limits as punitive and restrictive and they'll resist.[^6]
+	- How hard you have to set these limits can depend on the nature of the child.[^6]
+	- Once again, obviously, a child is not doomed if this stage wasn't used properly.[^6]
+	- And also once again, this is the foundation for the next stage. The child feels they can safely turn to us for guidance.[^6]
+- Guidance and a listening ear stage:
+	- The child at this stage naturally turns to us for guidance in important decisions.[^6]
+	- The child does this because they trust their parents love because their parents acted this way toward them.[^6]
+	- If the child does not feel this, they won't turn to the parents for advice.[^6]
+- One needs to work on themselves so they can properly deal with children. Life is stressful and if we don't work on ourselves, we are going to lash out at our kids. This is of vital importance.[^6]
+- Having a secure attachment from the time one is born is important for developing a person's ability to:[^7]
+	- bounce back from trauma or a crisis,[^7]
+	- feel confident, comfortable, and safe in social interactions (as opposed to anxious, nervous, uncomfortable, and/or terrified by social interactions),[^7]
+	- develop self-esteem, self-control, resilience when dealing with life's challenges[^7]
+- Different attachment styles:[^7]
+	- Secure Attachment (healthy)
+	- Anxious/Avoidant (varying detrimental effects)
+	- Resistant/Ambivalent (varying detrimental effects)
+	- Disorganized Attachment (damaging)
+- Secure Attachment:
+	- Formed when child receives reliable, nurturing, warm care and communication from when they are a baby.[^7]
+	- Obviously, the exact form this takes changes as the child ages, but the idea is the same.[^7]
+	- As they grow up, these children are:
+		- healthily curious and confident.[^7]
+		- empathetic.[^7]
+		- able to develop strong and real connections with others.[^7]
+		- self-confident[^7]
+- Disorganized Attachment:
+	- Formed when child receives inconsistent responses and has a fear-based bond with parents.[^7]
+	- Can also come from children who witness or experience trauma.[^7]
+	- The child learns to constantly be worried, particularly from the person who is supposed to provide comfort.[^7]
+	- Can occur when adults don't respond to a child's needs.[^7]
+	- Lose patience with the child.[^7]
+	- Invalidating a child's emotions.[^7]
+	- Parent exudes "negative energy" (parents are always stressed, anxious, fighting, etc.) even if this is not directed at the kid.[^7]
+	- As they grow up, these children:
+		- Suffer from emotional disorders.[^7]
+		- Anxious.[^7]
+		- Can't recognize or communicate their needs.[^7]
+		- Can't deal with life's challenges.[^7]
+		- Have low self-esteem.[^7]
+		- Have higher risk of developing addictions.[^7]
+		- Are more likely to act the same way toward their spouses and children as their parents dealt with them.[^7]
+		- Have a hard time developing close relationships (they feel like those closest to them may hurt them).[^7]
+- No relationship is ever entirely one kind. No relationship is perfectly good, and none are perfectly bad.[^7]
+- The importance of this cannot be overstated.[^7]
+- It's never too late for a parent to try and change themselves to try to help their relationships with their children.[^7]
+- Four "S's" of secure attachments:
+	- Safe: 
+		- Children are safe from all forms of harm (physical, emotional, etc.).[^8]
+		- Some previously accepted forms of discipline may now make a child feel unsafe (and should not be used).[^8]
+		- Child should feel comfortable talking to parents.[^8]
+		- Parents shouldn't fight.[^8]
+		- Yiddishkeit should make sense.[^8]
+		- Physical safety:
+			- Acting angry in front of children (especially at the child).[^8]
+			- If this is done, the parent should apologize to the child.[^8]
+			- Don't give a child responsibilities beyond their abilities.[^8]
+			- Vigilance to make sure that others aren't hurting our children. Particularly keep an eye out for signs, even when a kid doesn't want to say anything (unexplained bruises, torn clothing, unusual sadness or aggression, etc.).[^8]
+			- A child may need to speak to a licensed therapist.[^8]
+			- It's important that a child feels safe to talk to the parent about anything and the parent should validate the child's pain, and try to help the child.[^8]
+		- Emotional safety:
+			- Parents are kind and caring.[^8]
+			- Child feels safe to talk to parents. Parent needs to be able to respectfully listen and validate the child. This can be difficult, particularly when the parent doesn't approve of these feelings.[^8]
+			- Warm to other family members. Shalom bayis issues are dealt with privately.[^8]
+			- Don't constantly complain about child's behavior or berate them.[^8]
+			- Dinner table and shabbos/yom tov table is important for developing a warm atmosphere. Parents need to deal with issues (like seating arrangements, etc.) with patience.[^8]
+			- Meal length and discussions should be appropriate for the children.[^8]
+			- Child needs to feel loved unconditionally. Even if a child messes up, the parent will approach them with love. In the past, this may have been more okay. Now it is not.[^8]
+		- Psychological safety:
+			- Parents should be positive with children, rather than critical.[^8]
+			- Parents should be on the same page about religion and rules.[^8]
+		- Spiritual safety:
+			- Yiddishkeit should be a positive experience.[^8]
+			- There should not be inconsistency between what children learn in school and what they see from parents at home.[^8]
+			- Parents need to be on the same page.[^8]
+			- Don't make mitzvos a source of stress (by yelling/nag at them, having tense shabbos meals, etc.)[^8]
+			- Don't tell children to tell collectors that the parents aren't home.[^8]
+			- Be careful not to treat your children like nachas machines. The parents' focus should be on the child, not the parents.[^8]
+			- Children should not be made to do more than they can handle.[^8]
+	- Secure:
+		- Child's needs are provided for.[^9]
+		- Includes standard physical needs (clothing, food, etc.).[^9]
+		- Will support a child if something bad happens to them.[^9]
+		- Don't constantly tell kids that we can't afford things (this does not mean that one should buy their kids everything).[^9]
+		- Children should not feel that shabbos/yom tov are stressful times.[^9]
+		- Children should not feel that their simchos are a burden of time/money.[^9]
+		- Children must feel secure about their parents' marriage and overall shalom bayis.[^9]
+		- Children need to see parents act with a belief that Hashem will help them, rather than fall apart when things are tight.[^9]
+	- Seen:
+		- Child's unique strengths and interests are realized by the parent (not what they imagine or desire their kid's strengths to be).[^9]
+		- It is very easy for parents not to raise each kid according to their individual needs.[^9]
+		- Children have a variety of strengths and interests. A parent needs to be attuned to the child to uncover these, and give them their proper recognition.[^9]
+		- This is vital for getting children to maximize what their potential actually is.[^9]
+	- Soothed:
+		- Child is reassured when dealing with struggles.[^9]
+		- This can actually help a child accept responsibility for his/her part in dong something and learn from their mistakes.[^9]
+		- When a child is hurt, focus on the hurt child, not whose fault it is.[^9]
+		- Definitely don't lecture a child about how you told them not to do it, etc. (at least, not in the moment. You can do that later, if it makes sense. It will also be far more productive.)[^9]
+		- Let children express their frustrations. Don't contradict them.[^9]
+	- When parents do these, the child will trust the parent and be able to go to them in times of need and crisis.[^9]
+	- Children become resilient.[^9]
+	- Children learn how to properly deal with others (like with their own children eventually).[^9]
+- We must respect out children, at least the same way we have to respect anyone. This means that:
+	- we listen to our children and convey that we hear them and understand them. This does not mean that we must agree with everything they say.[^10]
+	- We appreciate their nature.[^10]
+- Apologizing shows respect for the child. It does not diminish authority.[^10]
+- If you've messed up with the "four S's" it is even more imperative that the parent starts acting with them. This takes time and patience. You will have to sacrifice other things to make this happen.[^10]
+- Bribing children doesn't work to create an attachment.[^10]
+- If one has had a bad relationship with their own parents, they have an issue that they need to fix. It is important that they do for themselves, and to make sure that they don't cause issues with their own children.[^10]
+- Communication includes what you say and how you say it, and how you say it is often more important (you can say you love someone, but if your body language says that you don't really, they'll pick up on that and your words won't mean anything). This includes tone of voice, body language, and facial expression.[^10]
+- If you come home upset by work, or whatever, your kids pick up on the negative energy and they think that you are upset at them, even though you are not.[^10]
+- The same is true when a child comes home to a parent: the parent can't look upset. The child picks up on this.[^10]
+- You can't tell a kid to act a certain way and not act that way yourself. This can be for davening with kavana, talking respectfully with others and being respectful of gedolim, not being mevatel Torah, etc. It would be better if you davened with kavana rather than spending it "nu"-ing your child.[^11]
+- Kids can't learn that if they throw a tantrum they will get what they want.[^11]
+- One way to deal with this is to tell your child that you are willing to talk about your decision and perhaps they will be able to convince you, or perhaps if they are willing to listen to you tell them what you would need them to do so they can do what they want, you may allow them to do what they want. (For example, if you told your kid that he can't go to his friend's house now because it is too late, you can talk to your kid and tell him that if he would like, he can go but he has to be back within an hour, or if he can get ready for bed quickly when he comes back, or something like that.) But if they throw a tantrum, then the answer will stay no.[^11] (I am not sure what age this begins with. I don't see a young child being able to do this.[^12])
+- Kids feel powerful when they can get their parents to lose control, even if they are not getting what they want.[^11]
+- As such, when disciplining, don't talk too much and don't get overly emotional.[^11]
+- Children need to learn first and foremost to listen to parents because the parent knows best. That is not up for debate.[^11]
+- If the parent explains too much, the child may disagree with the parent (not necessarily because the parent is wrong. The child logic hasn't developed yet) and they won't listen to the patent.[^11]
+- When the child responds, the parent should show understanding of what the child is saying, but stay firm with their response.[^11]
+- If a parent says that the child can't have something (a snack, for example), and the child says they are going to take it anyway, the parent will naturally feel a desire to physically block their child from taking the item. The parent shouldn't do this.[^11]
+- Instead, the parent should tell the child that they have a choice to do the right thing by not taking the item, or the wrong thing. Usually, the child won't do it. If the child does do it, that parent shouldn't react.[^11]
+- If this scenario persists (the child consistently take the item), the next time the scenario comes up, the parent should calmly inform the child of a fitting consequence they will receive if they take the item.[^11]
+- When dealing with teenagers, a parent has to have a lighter touch. Before telling a kid "no", a parent has to weigh the strength of their relationship with their kid. If saying no will destroy the relationship, the parent shouldn't do it (I assume that this is in most situations, but some situations this would not be the case).[^11]
+- If the parent's relationship with the kid isn't strong enough to sustain this, the parent should make sure to strengthen their relationship with their child, and  offer support and understanding.[^11]
+- Parent's cannot measure their own self-worth by their children (particularly their teens). This leads to poor parenting.[^11]
+- The goal is to make teens feel close to the parent and want to be round them.[^11]
+- Can't be too strict or permissive.[^11]
+- Parents have to be firm in discipling, but make sure to listen and understand the child and make them feel unconditionally loved.[^11]
+- When kids are struggling, they need more love. Getting angry with them pushes them away and they will look for destructive ways to feel good about themselves.[^11]
+- If a child is struggling with something specific (they can't get up in the morning), you can't force them to go do it. You also can't just ignore it. That confirms to them that you have given up on them.[^11]
+- Go to them and present the choices. "I would love if you can do... (whatever it is)." and that's it. Don't keep pushing them. They will probably not do whatever it is, but it shows you haven't given up on them. You need to accept their decision, whatever it is.[^11]
+- If they do it, show your appreciation.[^11]
+- For some things, it may make sense to talk about it not during the moment (like how to dress at the shabbos table). You need to weigh your relationship and how important the thing is to decide if you should mention it at all.[^11]
+# Footnotes
+
+[^1]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Journey of Parenting (pg 31-43))
+[^2]: דברים כב ח רבינו בחיי שם presented by Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Journey of Parenting (pg 31-43)) (The author gave this interpretation of the רבינו בחיי to Rav Chaim Kanievsky, who agreed with it.)
+[^3]: קידושין ל. רש"י שם presented by Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Journey of Parenting (pg 31-43))
+[^4]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: Raising a Loving Family (pg 45-51))
+[^5]: חובות הלבבות שער הבחינה פרק ה as presented by Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: Raising a Loving Family (pg 45-51))
+[^6]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: Raising a Loving Family (pg 51-60))
+[^7]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Home Environment (pg 61-68))
+[^8]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Home Environment (pg 68-83))
+[^9]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Home Environment (pg 83-90))
+[^10]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Home Environment (pg 90-96))
+[^11]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Home Environment (pg 96-109))
+[^12]: Own thoughts

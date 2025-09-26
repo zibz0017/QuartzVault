@@ -1,7 +1,7 @@
 # The Problem
 1. <span style="display: block; text-align: justify;">We want people to try to invent things people need. As such, we want to incentivize them to do so.[^1]</span>
 2. <span style="display: block; text-align: justify;">However, for some things, the main labor is inventing it, not producing it. An example of this is pharmaceuticals. It can take $1 billion to patent a drug, but $.50 to produce a pill.[^1]</span>
-3. <span style="display: block; text-align: justify;">As such, the group that incented the drug would have no way to recoup their investment, and so they may have little incentive to try and invent it.[^1]</span>
+3. <span style="display: block; text-align: justify;">As such, the group that invented the drug would have no way to recoup their investment, and so they may have little incentive to try and invent it.[^1]</span>
 # Solutions
 ## Patents
 ### Patents: Basic Idea
@@ -9,7 +9,7 @@
 ### Pros
 1. <span style="display: block; text-align: justify;">The free market decides what people patent. You can patent a bicycle with square wheels, but if nobody wants it, you won't make any money. this encourages people to try an patent things that people want.[^1]</span>
 ### Cons
-1. <span style="display: block; text-align: justify;">This can keep the availability for the product low. Only one individual producer can produce the good.[^1]</span>
+1. <span style="display: block; text-align: justify;">This can keep the availability for the product low. Only one individual producer can produce the good. This will also naturally keep the price high.[^1]</span>
 2. <span style="display: block; text-align: justify;">This may limit others who are able to utilize the idea from being able to do so.[^1]</span>
 ### Points to Consider
 1. <span style="display: block; text-align: justify;">How long should a patent last?[^1]</span>

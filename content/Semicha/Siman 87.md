@@ -1,0 +1,27 @@
+# Unorganized Notes
+# Sif 1
+1. There 3 ways to be ovver on issur dioraysa of basar bichalav:
+	1. Cooking meat and milk together.
+	2. Getting hannah from meat and milk cooked together.
+	3. Eating milk and meat cooked together.
+2. Dirabanan: Eating meat and milk not cooked together.
+3. There is no issur (even dirabanan) of getting hannah from (or cooking, but that isn't mentioned here. Need to find source. See Sif 3) meat and milk that isn't assur to eat from the Torah together. (Like milk and chicken (Shach 2), or milk and meat that isn't cooked together.)
+4. Cooking means actual cooking, not salting or kevisha. (Shach 1)
+5. The Maharshal and Bach hold that there is an issur dirabanan on getting hannah (and presumably cooking) from meat/milk that is assur to eat midirabanan. However, a slew of Rishonim and Achronim argue on this and say that there is no issur at all. (Shach 2, Taz 1)
+6. All kosher meat and all kosher milk is the same (Sif 2)
+7. Only kosher meat with kosher milk is assur dioraysa.
+8. According to the mechaber, shach, and Taz there is no issur dirabanan of basar bichalav for treif meat w/ kosher milk or vice-versa. According to the Bach, there is.
+9. The machlokes is based on a Tur. The Tur discusses 4 cases: 1. Treif meat w/ kosher milk. 2. Treif milk w/ kosher meat. 3. chaya w/ milk. 4. Bird with milk. And he says that it is assur dirabanan to eat and mutar for bishul and hannah.
+   The simple reading is that all of these cases have an issur dirabanan (like the Bach). The Beis Yosef doesn't read it that way. He reads the line of the issur dirabanan only referring to the chaya and bird. He reads the lack of issur dioraysa, and the total lack of issur on the hannah and cooking, as referring to all of the cases.
+   He asks that there is no purpose for Chazal to make an issur on treif meat w/ kosher milk and treif milk w/ kosher meat because you can't eat it anyway.
+   The Bach responds that there is a nafka mina for chanan. According to some, we say that something gets the status of chanan if it is basar bichalav. This makes two differences if this falls into another food: 1. In terms of being mevatel in 60, you now need more to be mevatel (you need 60x the amount of the meat and milk, not just the amount of the treif food). 2. In terms of being mevatel at all, this may be a davar hariuyah lehischabeid. For example, if the meat is kosher and the milk is not, and the meat is davar hariuyah lehischabeid, if we say chanan, the meat itself turns into a niveilah and it can't be mevutal.
+   Even though halacha lemaysa we say that there is chanan for all issurim (not just  basar bichalav) there is still a nafka minah in a case where the heter is not attached to the issur and is not fully submerged in the issur. In such a case, if we treat it like basar bichalav then chanan would apply in this case and so the nafka minahs from earlier would apply. If we don't treat it like basar bichalav then we would not say chanan.
+   However, the Shach responds that even so, this doesn't explain *why* chazal would *want* to make these cases assur. What is gained by doing this? To illustrate the contrast, if chazal didn't assur eating chicken and milk, someone who sees that this is muttar would potentially come to eat meat with milk. But over here, as mentioned, this is assur anyway so there is no concern that someone will eat this mixture and come to eat meat and milk because of this. (Shach 3)
+   The Taz attacks the Bach's nafka minahs about chanan. He says that it only makes sense to say chanan by basar bichalav because both things are mutar on their own, but assur when they are combined. As such, the only way it makes sense to say that this combination is assur is if we say that this turns into a new briah (hence, chanan). When one of the things are assur anyway, though, it makes lots of sense to say that the combination is assur, even without invoking chanan. (Taz 2) (I don't really understand this well. Even though there is an issur here, this seems like a total outside issur to me. As such, even though one of the food is assur, I don't see why when that food is combined with another food we should say that it turns into basar bichalav without invoking chanan. Limashal, if a meat was used for avodah zara, does it make sense to say that it turns into chanan)
+10. According to Tosafos, chicken and milk is dioraysa. However, he is the only person with this opinion and so we don't pasken this way. (Implied from Shach 4)
+11. Maharshal and Bach: One should not cook or get hannah from bird and milk because of the shitah of Tosafos.
+    However, many argue on this.
+    The Shach attacks this opinion: 1. The Maharai (who this shitah is based on) only says that one should treat chicken like meat in the sense that one shouldn't eat milk after eating chicken. However, it is clear that he treats chicken and milk as a dirabanan because elsewhere he explicitly says that chicken and milk is dirabanan.
+    Even Tosafos himself is only mashma that he says this because he is trying to explain the minhag of Klal Yisroel (seemingly, that people don't eat milk after eating chicken, but I have to check this up) but even he doesn't really hold of this. (Shach 4)
+12. Fish are parve.
+13. There is no problem of maras ayin by dirabanans. (As such, one can eat chicken with fake milk/cheese).

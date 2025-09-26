@@ -79,7 +79,7 @@
 
 # Footnotes
 
-[^1]: [Beck Institute](https://beckinstitute.org/about/dr-aaron-t-beck/) {For things beyond simple dates and the like, I would like a different source as this source may be biased.}
+[^1]: [Beck Institute](https://beckinstitute.org/about/dr-aaron-t-beck/) {<span style="color:rgb(255, 0, 0)">For things beyond simple dates and the like, I would like a different source as this source may be biased.</span>}
 [^2]: [NIH : CBT](https://www.ncbi.nlm.nih.gov/books/NBK470241/#)
 [^3]: Feeling Good by Dr. David Burns : Intro
 [^4]: Feeling Good by Dr. David Burns : Chapter 1

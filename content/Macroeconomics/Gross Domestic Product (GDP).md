@@ -101,10 +101,24 @@
 	4. People started looking up to inventors and business people rather than conquerors and Emperors.[^12]
 2. It is obviously of extreme importance to try and get this right so that way we can help underdeveloped countries also make progress.[^12]
 #### Good Institutions
-1. This refers to rule of law, secure property rights, non-corrupt courts and government,[^12] property rights, and political stability.[^14]
+1. This refers to rule of law, secure property rights, non-corrupt courts and government,[^12] property rights, and political stability.[^14] These types of institutions are becoming increasingly common in more places.[^15]
+#### Population Growth
+##### More Inventors
+1. Because of greater populations, there are more inventors and entrepreneurs in the world. And many ideas and businesses created by don't have a limit to how much they scale up.[^15] (For example, Google was invented by two people, but serves billions of people, and that number could scale up far beyond that if there were more people).
+2. As such, the more of these types of people there are in the world, the more everyone can benefit.[^15]
+3. Inventors and entrepreneurs now come from far more countries than they ever have before.[^15]
+##### More Consumers
+1. This also increases the amount of consumers in the world, which increases the profit potential for people inventing things.[^15]
+#### Globalization
+1. Because of advancements in technology, it is now far easier to access different markets, which also increases profit potential.[^15]
+2. It also becomes easier for entrepreneurs to meet up with investors to help fund their ideas.[^15]
+#### Inventions Fueling Inventions
+1. It is difficult to know if it is easier to come up with a new idea or invention now, or in past times.[^15]
+2. On one hand, it seems harder in the sense that it takes whole teams or organizations to create ideas. In the past, one individual was largely the force behind ideas. (The printing press was invented by one person, for example.) This is almost like a "diminishing returns" on ideas. It becomes harder to create them over time.[^15]
+3. On the other, there are so many things that make it easier to invent things, like free software, the ability to easily learn new information because of things like the internet and AI, and the rise of [[#Globalization|globalization]].[^15]
 ## Growth Miracles and Growth Disasters
-1. Some countries, like South Korea, Japan, and China, have had tremendous growth in a relatively short time. All of these countries have had tremendous . They are catching up to the developed countries.[^15]
-2. Other countries, such as Nigeria and Chad, never had any growth at all.[^15]
+1. Some countries, like South Korea, Japan, and China, have had tremendous growth in a relatively short time. All of these countries have had tremendous . They are catching up to the developed countries.[^16]
+2. Other countries, such as Nigeria and Chad, never had any growth at all.[^16]
 ### North Korea vs South Korea
 1. Before the divide between North and South Korea, the two parts of the country were largely similar. They had similar people and economies.[^14]
 2. After the countries split after WWII, South Korea became a prosperous country. This is because the country became a [[#Good Incentives Created by Capitalism|capitalist economy, which leads to good incentives]].[^14]
@@ -112,24 +126,24 @@
 ## Factors that Lead to High GDP
 {<span style="color:rgb(255, 0, 0)">Perhaps combine this section with [[#Reasons for Such Development]]</span>}
 1. Some countries have more productive workers than others. This is because:
-	1. Some countries have better physical capital than others. This includes anything from tools and tractors to laptops and access to electricity.[^16]
-	2. Better educated and trained workers.[^16] Also, perhaps some countries have people with better genetics.[^17]
-	3. Better organization, meaning, people who put the physical capital and workers together to create things (usually entrepreneurs).[^16]
-2. Why do some countries have better physical capital, education and training than others? This is because of better incentives (meaning, reasons for one to work hard, get educated, and create physical capital to be used by others).[^16]
+	1. Some countries have better physical capital than others. This includes anything from tools and tractors to laptops and access to electricity.[^17]
+	2. Better educated and trained workers.[^17] Also, perhaps some countries have people with better genetics.[^18]
+	3. Better organization, meaning, people who put the physical capital and workers together to create things (usually entrepreneurs).[^17]
+2. Why do some countries have better physical capital, education and training than others? This is because of better incentives (meaning, reasons for one to work hard, get educated, and create physical capital to be used by others).[^17]
 3. These better incentives come from having good institutions, such as:
 	1. [[#Incentives of Capitalism vs Socialism/Communism|Better economic structures]].
-	2. Property rights. If you own something, it can't just get taken away from you. You can defend your possessions in court if someone tries to take them away.[^16]
-	3. A dependable legal system. You can lend someone money, for example, and can expect to get paid, or to bring them to court.[^16]
-	4. Political stability. You can rely on your possessions not being destroyed in civil war.[^16]
-	5. Honest government. The government can't just take your possessions. In addition, people do not need to spend their money defending themselves against the government.[^16]
-	6. Open and competitive markets. There isn't much "red tape" keeping people out of fields.[^16]
+	2. Property rights. If you own something, it can't just get taken away from you. You can defend your possessions in court if someone tries to take them away.[^17]
+	3. A dependable legal system. You can lend someone money, for example, and can expect to get paid, or to bring them to court.[^17]
+	4. Political stability. You can rely on your possessions not being destroyed in civil war.[^17]
+	5. Honest government. The government can't just take your possessions. In addition, people do not need to spend their money defending themselves against the government.[^17]
+	6. Open and competitive markets. There isn't much "red tape" keeping people out of fields.[^17]
 4. There are various theories as to why some countries have better institutions than others:
-	1. History. The United States, for example, came from Britain, which was a free-market economy.[^16]
-	2. Luck.[^16]
+	1. History. The United States, for example, came from Britain, which was a free-market economy.[^17]
+	2. Luck.[^17]
 	3. [[#Geographical Factors|Geographical factors]].
-	4. Philosophies and ideas. For example, Adam Smith (free market) And John Locke (individual rights) were popular at the time of the creation of the United States.[^16]
-	5. Culture. The Western frontier in the United States perhaps inundated the population with feelings of entrepreneurship.[^16]
-![[Screenshot 2024-07-25 003410.png]][^16]
+	4. Philosophies and ideas. For example, Adam Smith (free market) And John Locke (individual rights) were popular at the time of the creation of the United States.[^17]
+	5. Culture. The Western frontier in the United States perhaps inundated the population with feelings of entrepreneurship.[^17]
+![[Screenshot 2024-07-25 003410.png]][^17]
 ### Incentives of Capitalism vs Socialism/Communism
 1. Capitalism leads to good incentives, such as:
 	1. People want to work hard, and try to build and create because people are allowed to keep the profits from their labor.[^14]
@@ -138,62 +152,62 @@
 	1. People can't keep their own profits, and so there is no financial incentive to work hard.[^14]
 	2. Things are centrally planned. As such, it isn't success that decides which companies stay open, it is the government. And the government decides these things at least to some degree (if not to a large degree) based on bribery and that kind of thing.[^14]
 ### Geographical Factors
-1. Having access to coasts helps with GDP as it reduces the cost of trade (importing and exporting goods).[^18]
-2. Africa has a relatively large land mass to coast ratio (meaning, that there is a lot of land in Africa, but not a lot of coast). This means that there is less access to coastlines in Africa. This may be part of why the countries in Africa are relatively poor.[^18]
-3. This is perhaps an argument against tariffs. A lack of coast is like a natural tariff. It increases the cost of trade.[^18] {<span style="color:rgb(255, 0, 0)">Need to move this to a discussion on tarrifs</span>}
-	1. <span style="color:rgb(255, 192, 0)">Counter:</span> A lack of coastal access increase the costs of both imports and exports. Tariffs only increase the cost of imports, not exports.[^17]
-	2. <span style="color:rgb(255, 192, 0)">Counter:</span> A lack of coastal access increase the costs of trade within a country, not just with other countries.[^17]
+1. Having access to coasts helps with GDP as it reduces the cost of trade (importing and exporting goods).[^19]
+2. Africa has a relatively large land mass to coast ratio (meaning, that there is a lot of land in Africa, but not a lot of coast). This means that there is less access to coastlines in Africa. This may be part of why the countries in Africa are relatively poor.[^19]
+3. This is perhaps an argument against tariffs. A lack of coast is like a natural tariff. It increases the cost of trade.[^19] {<span style="color:rgb(255, 0, 0)">Need to move this to a discussion on tarrifs</span>}
+	1. <span style="color:rgb(255, 192, 0)">Counter:</span> A lack of coastal access increase the costs of both imports and exports. Tariffs only increase the cost of imports, not exports.[^18]
+	2. <span style="color:rgb(255, 192, 0)">Counter:</span> A lack of coastal access increase the costs of trade within a country, not just with other countries.[^18]
 # Theories of Economic Growth
 ## The Solow Model
 *Note: Some concepts might be a bit difficult to understand without a visual. There is an [[#Diagram with Explanation|image]] with explanations below.*
 ### Originator
-1. This Solow model of economic growth was theorized by Robert Solow, a Jewish economist who later won the Nobel Prize.[^19] 
+1. This Solow model of economic growth was theorized by Robert Solow, a Jewish economist who later won the Nobel Prize.[^20] 
 ### Factors of Growth
 1. Economic growth is based on the following three or four points:
-	1. Inventions and organization.[^20]
-	2. Labor, and the education and training of workers. (Can be considered two separate points or one point.)[^20]
-	3. Physical capital.[^20]
-2. The more you have of these points, the greater the economic output is.[^20]
+	1. Inventions and organization.[^21]
+	2. Labor, and the education and training of workers. (Can be considered two separate points or one point.)[^21]
+	3. Physical capital.[^21]
+2. The more you have of these points, the greater the economic output is.[^21]
 ### Investment
-1. An economy needs to invest a certain percentage of the overall production to create more physical capital which can be used to further increase production.[^20]
+1. An economy needs to invest a certain percentage of the overall production to create more physical capital which can be used to further increase production.[^21]
 ### Limiting Factors
 #### Diminishing Returns
-1. As there is with anything else in life, there are diminishing returns. This means that for every increase in physical capital and educated labor there is, there is an increase in production, but that increase in production gets smaller and smaller.[^21][^22]
+1. As there is with anything else in life, there are diminishing returns. This means that for every increase in physical capital and educated labor there is, there is an increase in production, but that increase in production gets smaller and smaller.[^22][^23]
    <span style="color:rgb(112, 48, 160)">Example:</span> A farmer has a tractor. He uses it to plow his fields. If he gets a second tractor, he may just keep it as a spare in case the first tractor breaks down. This leads to an increase in production (now the farmer can keep plowing his fields while he waits for his first tractor to be repaired whenever it breaks down) but it will not be as great of an increase in production as the farmer getting his first tractor (assuming that the first tractor isn't constantly breaking down).
 2. I would think that perhaps there should be some slow growth which fairly quickly picks up speed as many things which can be produced are only useful in tandem with other things.
-   <span style="color:rgb(112, 48, 160)">Example:</span> A country may have a factory to produce steel, but it isn't so useful if there aren't any roads and trucks to bring it anywhere. Even if there are roads and trucks, there needs to be construction equipment to actually build something with it.[^17] ^2deee7
+   <span style="color:rgb(112, 48, 160)">Example:</span> A country may have a factory to produce steel, but it isn't so useful if there aren't any roads and trucks to bring it anywhere. Even if there are roads and trucks, there needs to be construction equipment to actually build something with it.[^18] ^2deee7
 3. {<span style="color:rgb(255, 0, 0)">Diminishing returns when it comes to labor is confusing because as labor increases, by definition, the population is increasing, which means that there is increased need for the labor. As such, returns shouldn't diminish much as labor increases.</span>}
 #### Depreciation
-1. Another point is that physical capital and educated labor depreciate over time. Physical capital starts to break down. People get older and eventually die. Replacing capital and labor takes time and resources. As such, some of the resources used for [[#Investment|investment]] need to be used for maintenance.[^23][^22]
-2. The more physical capital and labor there is in an economy, the more depreciation there is. The increase is mostly at a constant rate.[^23][^22]
-3. Obviously, things which are used less do break down slower, but some types of depreciation occur regardless (metal rusts, road get damaged by weather, etc.). And labor, assuming safe work conditions, depreciates at the same rate whether one is working or not.[^17]
+1. Another point is that physical capital and educated labor depreciate over time. Physical capital starts to break down. People get older and eventually die. Replacing capital and labor takes time and resources. As such, some of the resources used for [[#Investment|investment]] need to be used for maintenance.[^24][^23]
+2. The more physical capital and labor there is in an economy, the more depreciation there is. The increase is mostly at a constant rate.[^24][^23]
+3. Obviously, things which are used less do break down slower, but some types of depreciation occur regardless (metal rusts, road get damaged by weather, etc.). And labor, assuming safe work conditions, depreciates at the same rate whether one is working or not.[^18]
    <span style="color:rgb(112, 48, 160)">Example:</span> If you have 100 tons of iron and it rusts at a rate of 1% a year (meaning, 1% every year becomes unusable because of rust), you are going to have to replace 1 ton. If you have 1000 tons, it will also rust at approximately the same rate and so you will need to replace approximately 10 tons of it.
 ### The Steady-State
 #### Reason for the Steady-State
-1. To review, we [[#Investment|invest]] a certain percentage of what was produced in the economy back into the economy to help it grow.[^23]
-2. The economy keeps growing the more we put into it, but it grows at a [[#Diminishing Returns|slower pace]], meaning, the same amount of capital (physical or human) adds less and less additional production.[^23]
-3. Since we are investing a percentage of the total output, the amount invested follows the same trajectory as the total output, meaning, more capital means more investment, but less and less additional investment the more capital there already is.[^23]
-4. This is different than [[#Depreciation|depreciation]]. As was said, depreciation follows a mostly constant trajectory.[^23]
-5. As such, at some point, maintenance "catches up" with investment, meaning, at some point adding more capital into an economy will not add any additional output. At this point, all investment is going toward maintenance and adding additional capital will not help as the additional amount invested from what is produced by this additional capital is less than the amount it costs to maintain that additional capital.[^23]
-6. At this point, the economy can not grow.[^23]
-7. This is what is meant by the "steady-state". There is a point of equilibrium that the economy will grow to that point (because investing will lead to growth in production which leads to more investment at a greater rate than depreciation and maintenance) but not beyond that (because at that point, any new investment will not lead to more production than there is depreciation and maintenance of the invested capital).[^23]
-8. If the economy does invest more than that amount, slowly things will break faster than they are fixed until the economy reaches that point of equilibrium.[^23]
-9. Investing a higher percentage will help but eventually we will still reach the steady-state, only later.[^23]
+1. To review, we [[#Investment|invest]] a certain percentage of what was produced in the economy back into the economy to help it grow.[^24]
+2. The economy keeps growing the more we put into it, but it grows at a [[#Diminishing Returns|slower pace]], meaning, the same amount of capital (physical or human) adds less and less additional production.[^24]
+3. Since we are investing a percentage of the total output, the amount invested follows the same trajectory as the total output, meaning, more capital means more investment, but less and less additional investment the more capital there already is.[^24]
+4. This is different than [[#Depreciation|depreciation]]. As was said, depreciation follows a mostly constant trajectory.[^24]
+5. As such, at some point, maintenance "catches up" with investment, meaning, at some point adding more capital into an economy will not add any additional output. At this point, all investment is going toward maintenance and adding additional capital will not help as the additional amount invested from what is produced by this additional capital is less than the amount it costs to maintain that additional capital.[^24]
+6. At this point, the economy can not grow.[^24]
+7. This is what is meant by the "steady-state". There is a point of equilibrium that the economy will grow to that point (because investing will lead to growth in production which leads to more investment at a greater rate than depreciation and maintenance) but not beyond that (because at that point, any new investment will not lead to more production than there is depreciation and maintenance of the invested capital).[^24]
+8. If the economy does invest more than that amount, slowly things will break faster than they are fixed until the economy reaches that point of equilibrium.[^24]
+9. Investing a higher percentage will help but eventually we will still reach the steady-state, only later.[^24]
 #### Breaking the Steady-State
-1. New ideas, inventions, and technological developments are what allow countries to keep on producing more per capita.[^24]
-2. With new technology, people can produce more with the same input of resources.[^24]
-3. As such, as long as new technology keeps on being developed, an economy does not have to enter the steady-state. It can keep growing. This is because with new technology, the same capital can produce more, so the rate of production can "stay ahead" of the rate of [[#Depreciation|depreciation]], despite the [[#Diminishing Returns|diminishing returns]].[^24]
-4. This is why  GDP per capita in large and developed countries continues to grow.[^24]
-5. Ideas and inventions are cultivated by the [[#Factors that Lead to High GDP|factors that lead to high GDP]].[^25]
-   <span style="color:rgb(112, 48, 160)">Example:</span> In the United States, there are online platforms to sell ideas and to find investors for a start-up. There are laws protecting intellectual property (patents). And being an industry leader is actually something that is admired and looked up to in society. You can be a celebrity for being an industry leader (like Steve Jobs and Elon Musk, for example). In addition, one keeps the profits for an invention that they create. 70% of inventions in the United States are for-profit.[^25]
+1. New ideas, inventions, and technological developments are what allow countries to keep on producing more per capita.[^25]
+2. With new technology, people can produce more with the same input of resources.[^25]
+3. As such, as long as new technology keeps on being developed, an economy does not have to enter the steady-state. It can keep growing. This is because with new technology, the same capital can produce more, so the rate of production can "stay ahead" of the rate of [[#Depreciation|depreciation]], despite the [[#Diminishing Returns|diminishing returns]].[^25]
+4. This is why  GDP per capita in large and developed countries continues to grow.[^25]
+5. Ideas and inventions are cultivated by the [[#Factors that Lead to High GDP|factors that lead to high GDP]].[^26]
+   <span style="color:rgb(112, 48, 160)">Example:</span> In the United States, there are online platforms to sell ideas and to find investors for a start-up. There are laws protecting intellectual property (patents). And being an industry leader is actually something that is admired and looked up to in society. You can be a celebrity for being an industry leader (like Steve Jobs and Elon Musk, for example). In addition, one keeps the profits for an invention that they create. 70% of inventions in the United States are for-profit.[^26]
 ### Undeveloped vs Developed Countries
-1. According to the Solow Model, undeveloped countries should have a faster increase in GDP per capita than developed countries.[^22]
+1. According to the Solow Model, undeveloped countries should have a faster increase in GDP per capita than developed countries.[^23]
 2. This is because developed countries suffer from a fair amount of [[#Diminishing Returns|diminishing returns]], meaning, the more a country develops, the less of a difference an increase in physical capital or educated labor make.
-   Conversely, the less a country has developed, the greater of a difference an increase in physical capital or educated labor make.[^22]
-3. However, this is only true for countries that have similar [[#Reasons for Such Development|factors that foster growth]].[^22]
-4. In addition, this assumes that the undeveloped countries can use the technologies that have been invented in the developed countries.[^17]
+   Conversely, the less a country has developed, the greater of a difference an increase in physical capital or educated labor make.[^23]
+3. However, this is only true for countries that have similar [[#Reasons for Such Development|factors that foster growth]].[^23]
+4. In addition, this assumes that the undeveloped countries can use the technologies that have been invented in the developed countries.[^18]
 ### Diagram with Explanation
-![[Pasted image 20241115021745.png]][^26]
+![[Pasted image 20241115021745.png]][^27]
 1. The gray line represents economic output. The line is curved down because the same amount of additional production from each additional unit of capital becomes less and less.
 2. The orange line represents investment (called "savings" here). It is just a percentage of the economic output, so it follows the same curve.
 3. The blue line represents depreciation and maintenance. This line is straight because additional capital causes additional maintenance costs at a constant rate.
@@ -218,15 +232,16 @@
 [^12]: [Marginal Revolution University : What Caused the Industrial Revolution?](https://mru.org/courses/principles-economics-macroeconomics/hockey-stick-prosperity-innovation-and-entrepreneurship)
 [^13]: [Freiheit Naumann Foundation : Progress](https://www.freiheit.org/iaf/20-progress)
 [^14]: [Marginal Revolution University : The Importance of Institutions](https://mru.org/courses/principles-economics-macroeconomics/north-korea-and-south-korea-institutions)
-[^15]: [Marginal Revolution University : Growth Miracles and Growth Disasters](https://mru.org/courses/principles-economics-macroeconomics/economic-growth-miracle-and-disaster)
-[^16]: [Marginal Revolution University : The Puzzle of Growth](https://mru.org/courses/principles-economics-macroeconomics/wealth-of-nations-economic-growth)
-[^17]: Own thoughts
-[^18]: [Marginal Revolution University : Geography and Economic Growth](https://mru.org/courses/principles-economics-macroeconomics/geography-and-economic-growth)
-[^19]: [Wikipedia : Robert Solow](https://en.wikipedia.org/wiki/Robert_Solow)
-[^20]: [Marginal Revolution University : Introduction to the Solow Model](https://mru.org/courses/principles-economics-macroeconomics/solow-model-economic-growth)
-[^21]: [Marginal Revolution University : Physical Capital and Diminishing Returns](https://mru.org/courses/principles-economics-macroeconomics/law-diminishing-returns-marginal-product-capital)
-[^22]: [Marginal Revolution University : Human Capital and Conditional Convergence](https://mru.org/courses/principles-economics-macroeconomics/human-capital-conditional-convergence)
-[^23]: [Marginal Revolution University : The Solow Model and the Steady State](https://mru.org/courses/principles-economics-macroeconomics/solow-model-and-steady-state)
-[^24]: [Marginal Revolution University : The Solow Model and Ideas](https://mru.org/courses/principles-economics-macroeconomics/solow-model-ideas)
-[^25]: [Marginal Revolution University : The Economics of Ideas](https://mru.org/courses/principles-economics-macroeconomics/ideas-and-institutions)
-[^26]: [Dying Economy : Solow Growth Model](https://www.dyingeconomy.com/solow-growth-model.html)
+[^15]: [Marginal Revolution University : The Idea Equation](https://mru.org/courses/principles-economics-macroeconomics/idea-creation-equation)
+[^16]: [Marginal Revolution University : Growth Miracles and Growth Disasters](https://mru.org/courses/principles-economics-macroeconomics/economic-growth-miracle-and-disaster)
+[^17]: [Marginal Revolution University : The Puzzle of Growth](https://mru.org/courses/principles-economics-macroeconomics/wealth-of-nations-economic-growth)
+[^18]: Own thoughts
+[^19]: [Marginal Revolution University : Geography and Economic Growth](https://mru.org/courses/principles-economics-macroeconomics/geography-and-economic-growth)
+[^20]: [Wikipedia : Robert Solow](https://en.wikipedia.org/wiki/Robert_Solow)
+[^21]: [Marginal Revolution University : Introduction to the Solow Model](https://mru.org/courses/principles-economics-macroeconomics/solow-model-economic-growth)
+[^22]: [Marginal Revolution University : Physical Capital and Diminishing Returns](https://mru.org/courses/principles-economics-macroeconomics/law-diminishing-returns-marginal-product-capital)
+[^23]: [Marginal Revolution University : Human Capital and Conditional Convergence](https://mru.org/courses/principles-economics-macroeconomics/human-capital-conditional-convergence)
+[^24]: [Marginal Revolution University : The Solow Model and the Steady State](https://mru.org/courses/principles-economics-macroeconomics/solow-model-and-steady-state)
+[^25]: [Marginal Revolution University : The Solow Model and Ideas](https://mru.org/courses/principles-economics-macroeconomics/solow-model-ideas)
+[^26]: [Marginal Revolution University : The Economics of Ideas](https://mru.org/courses/principles-economics-macroeconomics/ideas-and-institutions)
+[^27]: [Dying Economy : Solow Growth Model](https://www.dyingeconomy.com/solow-growth-model.html)

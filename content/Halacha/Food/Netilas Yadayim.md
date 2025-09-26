@@ -52,23 +52,52 @@
 1. We say "וצונו" even though this is a dirabanan as Hashem told us to listen to the rabanan.[^25]
 ## Drying One's Hands
 1. <span style="display: block; text-align: justify;">It is important for one to dry their hands well. This is because:</span>
-	1. <span style="display: block; text-align: justify;">מים ראשונים are tamei. The מים שניים doesn't fully get rid of it. It is removed from one's hands only in conjunction with the drying.[^26]</span>
-	2. <span style="display: block; text-align: justify;">One's hands are still considered disgusting when they are wet.[^27]</span>
+	1. <span style="display: block; text-align: justify;">מים ראשונים are tamei. The מים שניים doesn't fully get rid of it. It is removed from one's hands only in conjunction with the drying.[^26]</span> ^98aa47
+	2. <span style="display: block; text-align: justify;">One's hands are still considered disgusting when they are wet.[^27]</span> ^f44713
 2. <span style="display: block; text-align: justify;">Despite this, one is allowed to make a bracha, even if one's hands are still wet with netilas yadayim water.[^28]</span>
 3. <span style="display: block; text-align: justify;">One should not dry his hands off on his shirt as this is קשה לשכחה. It is a safeik if this applies to other garments as well.[^27]</span>
+### Specific Cases
+#### Less Than a Reviis at Once
+1. <span style="display: block; text-align: justify;">One must dry their hands for the reasons mentioned ([[#^98aa47|here]] and [[#^f44713|here]]).</span>
+#### Reviis or More at Once
+1. <span style="display: block; text-align: justify;">When one pours a reviis at once, the water does not become tamei.[^29]</span>
+2. <span style="display: block; text-align: justify;">As such, according to the shitah that the purpose of drying one's hands is to get rid of the tamei מים ראשונים, one would not have to dry one's hands in this case, as the מים ראשונים are not tamei.[^29]</span>
+3. <span style="display: block; text-align: justify;">According to the shitah that one's hands are disgusting, one would still have to dry their hands.[^29]</span>
+#### Dunking One's Hands
+1. <span style="display: block; text-align: justify;">The water by tevillah does not become tamei.[^29]</span>
+2. <span style="display: block; text-align: justify;">As such, once again, there is no tamei water so according to the opinion that the purpose of drying one's hands is to get rid of the tamei מים ראשונים, one would not have to dry one's hands.[^29]</span>
+3. <span style="display: block; text-align: justify;">In this case, the Torah explicitly does not require one to dry themselves off after toveling in a mikvah. As such, even the opinion that says that drying is because wet hands are disgusting would agree in this case that one doesn't have to dry one's hands, as it is explicitly fine from the Torah.[^29]</span>
+### Halacha Lemaisa
+1. <span style="display: block; text-align: justify;">If having wet hands bothers someone then they need to dry their hands.[^29]</span>
+2. <span style="display: block; text-align: justify;">In all cases, one should be still be machmir to dry one's hands.[^30]</span>
 # One Forgot to Make the Bracha Until After Drying
-1. <span style="display: block; text-align: justify;">If one forgot to make the bracha until after drying one's hands, one is still allowed to make the bracha because the rabanan set up the mitva for the bracha to be made after, as [[#^64e689|previously discussed]]. However, once one makes the hamotzi, they cannot make a bracha anymore.[^29]</span>
-2. <span style="display: block; text-align: justify;">Obviously, this should not be relied upon if one can avoid it. One should try to make sure to make the bracha before drying one's hands.[^29]</span>
+1. <span style="display: block; text-align: justify;">If one forgot to make the bracha until after drying one's hands, one is still allowed to make the bracha because the rabanan set up the mitva for the bracha to be made after, as [[#^64e689|previously discussed]]. However, once one makes the hamotzi, they cannot make a bracha anymore.[^31]</span>
+2. <span style="display: block; text-align: justify;">Obviously, this should not be relied upon if one can avoid it. One should try to make sure to make the bracha before drying one's hands.[^31]</span>
 # One's Hands Were Already Washed
-1. <span style="display: block; text-align: justify;">If one had already washed their hands but not for a chiyuv, and then one decides that they want to eat bread, they have to rewash their hands.[^30]</span>
-2. <span style="display: block; text-align: justify;">If one was not מסיח דעת, they do not make a new bracha when rewashing, but if one was מסיח דעת, then he does.[^31]</span>
-3. <span style="display: block; text-align: justify;">This is because according to some, even if one didn't wash his hands for bread, the washing still counts. As such, according to them, one wouldn't have to make a new bracha. If one was מסיח דעת, then one always does whenever one is מסיח דעת.<span style="visibility:hidden">l</span>[^32]</span>
+1. <span style="display: block; text-align: justify;">If one had already washed their hands but not for a chiyuv, and then one decides that they want to eat bread, they have to rewash their hands.[^32]</span>
+2. <span style="display: block; text-align: justify;">If one was not מסיח דעת, they do not make a new bracha when rewashing, but if one was מסיח דעת, then he does.[^33]</span>
+3. <span style="display: block; text-align: justify;">This is because according to some, even if one didn't wash his hands for bread, the washing still counts. As such, according to them, one wouldn't have to make a new bracha. If one was מסיח דעת, then one always does whenever one is מסיח דעת.<span style="visibility:hidden">l</span>[^34]</span>
 # One's Hands Got Dirty in Middle of a Meal
-1. <span style="display: block; text-align: justify;">If one's hands got dirty in middle of a meal (such as by touching a covered part of their body), whether it is a bread meal, or one is eating dipped foods, one washes again with a bracha.[^33]</span>
+1. <span style="display: block; text-align: justify;">If one's hands got dirty in middle of a meal (such as by touching a covered part of their body), whether it is a bread meal, or one is eating dipped foods, one washes again with a bracha.[^35]</span>
+2. For one who goes to a the bathroom in middle of a meal, see [[#If One Goes to the Bathroom in Middle of a Meal|here]].
+# One Needs to Go to the Bathroom and Wants to Eat Bread
+## The Issue
+1. Going to the bathroom and washing for bread at the same time sets up a conundrum. Possibilities and their problems are presented:
+	1. One washes for the bread, makes an asher yatzar, and then makes an al netilas yadayim. The problem with this is that this creates a hefsek between the washing and the bracha.[^36]
+	2. One washes for the bread, makes an al netilas yadayim, and then makes an asher yatzar. The problem with this is that this creates a hefsek between the washing and eating the bread.[^36]
+	3. One only makes the asher yatzar after washing for bread, and eating it, (making the al netilas yadayim and the hamotzi at the usual times). The problem with this is that there is a long wait between going to the bathroom and making the asher yatzar.[^36]
+## Solution
+1. One washes his hands to make them clean (doesn't wash multiple times with a cup) and makes an asher yatzar. Then the person washes again and makes an al netilas (followed by hamotzi and eating the bread).[^37]
+2. One doesn't wash with a cup the first time because if one does, one wouldn't make a bracha on the second washing,[^36] as [[#One's Hands Were Already Washed|discussed]].
+## If One Already Washed
+1. If one washed his hands after leaving the bathroom for bread, at that point they should make an al netilas yadayim followed by an asher yatzar and the hamotzi, as many say that asher yatzar is not considered to be a hefsek between the al netilas yadayim and the hamotzi as they are all involved in being metaher one's hands. {<span style="color:rgb(255, 0, 0)">I am unsure about what happens if one washed his hands with a cup as one does when leaving the bathroom. Is the halacha the same?</span>}
+## If One Goes to the Bathroom in Middle of a Meal
+1. If one goes to the bathroom in middle of the meal, they need to wash again, as [[#One's Hands Got Dirty in Middle of a Meal|discussed]].
+2. They should wash for bread, make an al netilas yadayim
 # Rewards and Punishments
-1. <span style="display: block; text-align: justify;">One has to be careful with these halachos. One who does not is חייב נדוי, נעקר מן העולם, and becomes poor.[^34]</span>
-2. <span style="display: block; text-align: justify;">The more water one uses, the more reward one sees from doing this mitzvah (definitely wealth, and perhaps other things). However, one should perform this mitzvah for the sake of Hashem, not for reward, as we say about all mitzvos.[^35]</span>
-3. <span style="display: block; text-align: justify;">If one does not see reward from this mitzvah, this is because they view the mitzvah as a burden.[^36]</span>
+1. <span style="display: block; text-align: justify;">One has to be careful with these halachos. One who does not is חייב נדוי, נעקר מן העולם, and becomes poor.[^38]</span>
+2. <span style="display: block; text-align: justify;">The more water one uses, the more reward one sees from doing this mitzvah (definitely wealth, and perhaps other things). However, one should perform this mitzvah for the sake of Hashem, not for reward, as we say about all mitzvos.[^39]</span>
+3. <span style="display: block; text-align: justify;">If one does not see reward from this mitzvah, this is because they view the mitzvah as a burden.[^40]</span>
 # Footnotes
 
 [^1]: Siman 158 sif katan 1
@@ -99,11 +128,15 @@
 [^26]: Siman 158 Sif 12 sif katan 45
 [^27]: Siman 158 sif katan 45
 [^28]: אגרות משה או"ח חלק ב סי' נג as presented by Dirshu footnote 52
-[^29]: Siman 158 sif katan 44
-[^30]: Siman 158 Sif 7 sif katan 28
-[^31]: Siman 158 Sif 7 sif katan 31
-[^32]: Siman 158 sif katan 31
-[^33]: Siman 158 Sif 7 sif katan 33
-[^34]: Siman 158 Sif 9
-[^35]: Siman 158 Sif 10 sif katan 38
-[^36]: Siman 158 sif katan 38
+[^29]: Siman 158 sif katan 46
+[^30]: שונה הלכות ס' ט presented by Siman 158 Dirshu footnote 55
+[^31]: Siman 158 sif katan 44
+[^32]: Siman 158 Sif 7 sif katan 28
+[^33]: Siman 158 Sif 7 sif katan 31
+[^34]: Siman 158 sif katan 31
+[^35]: Siman 158 Sif 7 sif katan 33
+[^36]: Siman 165 sif katan 2
+[^37]: Siman 165 Sif 1 sif katan 2
+[^38]: Siman 158 Sif 9
+[^39]: Siman 158 Sif 10 sif katan 38
+[^40]: Siman 158 sif katan 38

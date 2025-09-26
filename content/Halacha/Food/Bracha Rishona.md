@@ -1,6 +1,7 @@
 # Minimum Amount of Food to Make a Bracha Rishona
-1. One makes a bracha rishona on any amount of food.[^1]
-
----
+1. <span style="display: block; text-align: justify;">One makes a bracha rishona on any amount of food.[^1]</span>
+# Makes a Bracha Rishona and Changes Location Before Eating
+1. <span style="display: block; text-align: justify;">See [[Shinui Makom#^fd5f6c|here]].</span>
+# Footnotes
 
 [^1]: Siman 184 Sif Katan 21

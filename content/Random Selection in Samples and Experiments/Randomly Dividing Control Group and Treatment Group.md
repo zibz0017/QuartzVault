@@ -1,0 +1,6 @@
+# Block Design
+<span style="display: block; text-align: justify;">People are divided based on certain characteristics that may affect the results (like age, or gender) and divided so that there are roughly an even number of people with these characteristics in each group. This is the same idea as [[Getting a Random Sample#Stratified Random Sample|stratified random sampling]]. When this strategy is used for experiments it is called block design and when it is used for selecting samples it is called stratified random sampling.</span>
+# Matched Pairs Design
+<span style="display: block; text-align: justify;">People are divided into pairs. The people in the pairs are as similar as possible. Then they are randomly divided into the control group and the treatment group.</span>
+# Crossover Design
+Two groups are selected randomly, with one being the control and the other treatment. The experiment is then run a second time with the group that was originally the control group now receiving the treatment and the group that received the treatment originally now receives the placebo (assuming that the control group received that first time around, as they should).

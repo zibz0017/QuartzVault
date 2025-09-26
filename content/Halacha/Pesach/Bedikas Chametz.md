@@ -159,7 +159,7 @@
 # Being Mevatel Someone Else's Chametz
 1. One should not use a shliach to be mevatel their chametz.[^97]
 2. One cannot be mevatel someone else's chametz for them without their express permission. Even if one was appointed by the owner to do the bedika, this does not allow one to do the bitul.[^98]
-3. A wife can be mevatel the chametz of her husband. She should say כל חמירא דאיכא" *ברשות בעלי דידע ביה*". One should not rely on this lechatchilah (as it is the husband's chametz and it is not so simple that a person's wife can be mevatel it).[^99]
+3. A wife can be mevatel the chametz of her husband. She should say כל חמירא דאיכא *ברשות בעלי דידע ביה*. One should not rely on this lechatchilah (as it is the husband's chametz and it is not so simple that a person's wife can be mevatel it).[^99]
 # How to (and not to) Get Rid of Chametz
 1. You may throw your chametz into rishus harabim and be mevatel it.[^100][^101][^102]
 2. Hiding chametz (like burying it in your rishus) does not help. If the chametz gets buried on its own (a wall fell down onto the chametz), it is a machlokes if this is a problem on a dioraysa level.[^6]
