@@ -1,2 +1,2 @@
-# Maareh Mekomos to Look at
+# מראי Mekomos to Look at
 שופטים יג ד רד"ק ד"ה ואל תשתי

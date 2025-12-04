@@ -38,7 +38,7 @@ Settlers faced a collection of hardships such as:
 2. Despite the small percentage, around 25,000 Jews emigrated to Israel between 1882 and 1903 (known as the First Aliya).[^1]
 3. This was largely supported by the Rothchilds and agriculture in Palestine.[^1]
 ### Notable Occurences
-1. Rishon Letzion was established in 1882.[^1][^7]
+1. ראשון Letzion was established in 1882.[^1][^7]
 2. The poem of Hatikva was created during this time. It would be slightly adapted to be made into Israel's national anthem.[^1][^8]
 ## Perspective of Jews in Eastern Europe on Palestinian Jews
 1. Most Jews outside of Palestine didn't know very much about the Jews in Palestine.[^3]
@@ -139,7 +139,7 @@ Settlers faced a collection of hardships such as:
 1. <span style="display: block; text-align: justify;">Jews purchased land and replaced the Arab workers with Jewish ones. This led to increased Arab resentment.[^21]</span>
 2. <span style="display: block; text-align: justify;">The Jews did this because they had a view on "redeeming the land", and because they wanted to give Jewish immigrants jobs. {<span style="color:rgb(255, 0, 0)">Need source</span>}</span>
 ### Violence and Self-defense
-1. <span style="display: block; text-align: justify;">Due to the increased tensions, some Arabs killed some Jews in Sejera on Pesach in 1909.[^21]</span>
+1. <span style="display: block; text-align: justify;">Due to the increased tensions, some Arabs killed some Jews in Sejera on פסח in 1909.[^21]</span>
 2. <span style="display: block; text-align: justify;">Jewish settlements formed a self-defense group called Hashomer. There were groups of fighters in different settlements ranging from 40 up to 250 people at times.[^21]</span>
 ## Socialism in Israel
 1. <span style="display: block; text-align: justify;">Many Jews in Israel were socialists[^21] as many had come from socialist countries (like the Soviet Union). {<span style="color:rgb(255, 0, 0)">Need source</span>}</span>
@@ -154,7 +154,7 @@ Settlers faced a collection of hardships such as:
 [^4]: Seems that way from Israel : A History by Sir Martin Gilbert, but that is not explicitly said
 [^5]: [Wikipedia : Petah Tikva (specific location in article)](https://en.wikipedia.org/wiki/Petah_Tikva#History:~:text=In%20March%201886%2C%20Arab%20peasants%20from%20Yahudiya%20attacked%20the%20Jewish%20colony%2C%20injuring%205%2C%20with%20one%20dying%20later%2C%20possibly%20due%20to%20aggravation%20of%20her%20preexisting%20condition.)
 [^6]: [Wikipedia : Rosh Pinna (specific location in article)](https://en.wikipedia.org/wiki/Rosh_Pinna#:~:text=In%20the%20spring%20of%201878%2C%20the%20Arab%20village%20of%20al%2DJa%27una%20sold%20half%20its%20lands%2C%20about%202%2C500%20dunum%2C%20to%20Jews%20from%20Safed%20in%20order%20to%20fund%20the%20emigration%20of%20some%20of%20the%20villagers%20to%20the%20Hauran.)
-[^7]: [Wikipedia : Rishon Letzion (specific location in article)](https://en.wikipedia.org/wiki/Rishon_LeZion#:~:text=Founded%20in%201882%20by%20Jewish%20immigrants%20from%20the%20Russian%20Empire%20who%20were%20part%20of%20the%20First%20Aliyah%2C)
+[^7]: [Wikipedia : ראשון Letzion (specific location in article)](https://en.wikipedia.org/wiki/Rishon_LeZion#:~:text=Founded%20in%201882%20by%20Jewish%20immigrants%20from%20the%20Russian%20Empire%20who%20were%20part%20of%20the%20First%20Aliyah%2C)
 [^8]: [Wikipedia : Hetikvah (specific location in article)](https://en.wikipedia.org/wiki/Hatikvah#:~:text=The%20text%20of%20Hatikvah%20was%20written%20in%201878)
 [^9]: [Wikipedia : The Dreyfus Affair (specific location in article)](https://en.wikipedia.org/wiki/Dreyfus_affair#:~:text=The%20scandal%20began%20in%20December%201894%20when%20Captain%20Alfred%20Dreyfus%2C%20a%2035%2Dyear%2Dold%20Alsatian%20French%20artillery%20officer%20of%20Jewish%20descent%2C%20was%20convicted%20of%20treason%20for%20communicating%20French%20military%20secrets%20to%20the%20German%20Embassy%20in%20Paris.)
 [^10]: [Wikipedia : The Dreyfus Affair (specific location in article)](https://en.wikipedia.org/wiki/Dreyfus_affair#:~:text=it%20remains%20one%20of%20the%20most%20notable%20examples%20of%20a%20complex%20miscarriage%20of%20justice%20and%20antisemitism.)

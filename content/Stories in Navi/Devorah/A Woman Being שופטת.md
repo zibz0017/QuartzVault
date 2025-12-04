@@ -1,10 +1,10 @@
 # Issue with a Woman Being שופטת
 1. <span style="display: block; text-align: justify;">A woman is not allowed to be a judge.[^10]</span>
 # Did She Actually Judge the People?
-1. <span style="display: block; text-align: justify;">Numerous mefarshim explicitly say she judged the people,[^1][^2][^3][^4][^5][^6][^7] and/or she had tremendous knowledge of Torah[^8][^9] (in addition to the fact that the simple reading of the navi is that she judged the people).</span>
+1. <span style="display: block; text-align: justify;">Numerous מפרשים explicitly say she judged the people,[^1][^2][^3][^4][^5][^6][^7] and/or she had tremendous knowledge of תורה[^8][^9] (in addition to the fact that the simple reading of the navi is that she judged the people).</span>
 # Why Devorah was Allowed
-1. <span style="display: block; text-align: justify;">There were very few talmidei chachamim around at that time[^11] (and so it presumably was a הוראת שעה. See next reason.)</span>
-2. <span style="display: block; text-align: justify;">It was a הוראת שעה<span style="visibility:hidden">l</span>[^12] (presumably because there were few talmidei chachamim. See previous reason.)</span>
+1. <span style="display: block; text-align: justify;">There were very few talmidei חכמים around at that time[^11] (and so it presumably was a הוראת שעה. See next reason.)</span>
+2. <span style="display: block; text-align: justify;">It was a הוראת שעה<span style="visibility:hidden">l</span>[^12] (presumably because there were few talmidei חכמים. See previous reason.)</span>
 # Footnotes
 
 [^1]: שופטים ד ה רד"ק ד"ה ויעלו

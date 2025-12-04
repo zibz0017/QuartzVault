@@ -13,11 +13,11 @@ See [[Tiferes Dovid]].
 ## Seder Hayom in Chevron Yeshiva
 1. The seder hayom in chevron yeshiva under Rav Meir Chadash was very similar to Chofetz Chaim's current seder hayom (albeit, they were greater than us).[^3]
 2. In Chevron Yeshiva, morning seder was iyun and afternoon and night seder, were bekiyos.[^4]
-3. One was expected to cover 4 to 5 blatt a week with Rashi, Tosafos, and some Rosh and Ran.[^4]
+3. One was expected to cover 4 to 5 blatt a week with רש"י, 'תוס, and some רא"ש and ר"ן.[^4]
 4. Rav Meir Chadash was not happy with the bochurim who only learned iyun and no bekiyos.[^4]
 # Kesharim with Rabbeim
 1. Obviously having a kesher with the roshei yeshiva is great, but if one feels like that can't for whatever reason (they aren't pushy enough to make it happen, for example), then one shouldn't forget about making a kesher with rabbeim on the hanhala.[^2]
-2. Naturally, because one learns Torah, mussar,, hashkafa, etc., in yeshiva, one will feel a kesher to the yeshiva and the rabbeim there. This is obviously a very good thing. This is part of why one's main rebbi shouldn't be their branch rebbi (meaning, because over time, one is going to feel less connected to that branch and feel more connected to the yeshiva).[^2]
+2. Naturally, because one learns תורה, mussar,, hashkafa, etc., in yeshiva, one will feel a kesher to the yeshiva and the rabbeim there. This is obviously a very good thing. This is part of why one's main rebbi shouldn't be their branch rebbi (meaning, because over time, one is going to feel less connected to that branch and feel more connected to the yeshiva).[^2]
 # Shmiras Eiynayim
 ## General Advice
 1. It is difficult to give a geder about what is okay and what is not, but one thing to keep in mind is that one shouldn't obsess over it. The more one thinks about it, the more one thinks about it, which is obviously not a good thing.[^2]
@@ -27,7 +27,7 @@ See [[Tiferes Dovid]].
 1. The yeshiva does not discuss these things in public because of tznius. If one needs particular help, they should seek private eitzah.[^2]
 # Gashmius
 ## Setting Limits
-1. One needs to have limits on gashmius. This is because gahmius is the antithesis of Torah and causes the Torah not to have an affect on a person. These is the famous shmuz of Shevna Hasofer who was a tremendous talmid chochom, but because of his attachment to gashmius, he ended up going off of the derech, and the reason for this was because the attachment to gashmius did not allow the Torah to penetrate and change him.[^2]
+1. One needs to have limits on gashmius. This is because gahmius is the antithesis of תורה and causes the תורה not to have an affect on a person. These is the famous shmuz of Shevna Hasofer who was a tremendous תלמיד chochom, but because of his attachment to gashmius, he ended up going off of the derech, and the reason for this was because the attachment to gashmius did not allow the תורה to penetrate and change him.[^2]
 2. Once someone gets used to a certain level of gashmius it is difficult to give that up and "go down" a level. As such, increasing one's level of gashius is not some short-term commitment. It may make a difference down the road.[^2]
 ## Wealth vs Gashmius
 1. To some degree, the wealthier one gets, the more gashmius they can have. However, one still needs to have limits because of the reasons discussed above.[^2]
@@ -51,11 +51,11 @@ See [[Tiferes Dovid]].
 # How to View Political Turmoil
 1. We have to keep in mind that our efforts in avodas Hashem is what really makes the difference.[^1]
 # Tzedaka
-## Keren Olam Hatorah
-1. The Israeli government stopped giving money to Israeli yeshivos. As such, an organization (Keren Olam Hatorah) was created to try to raise the money from America to cover the deficit.[^5]
-2. While there is obviously a tremendous tzorech, one shouldn't take money away from other institutions that they donate to to give to this need. Rather people should dig a bit deeper in their pockets (At least, this is what the gedolim running the organization said. I couldn't find this online, though).
+## Keren עולם Hatorah
+1. The Israeli government stopped giving money to Israeli yeshivos. As such, an organization (Keren עולם Hatorah) was created to try to raise the money from America to cover the deficit.[^5]
+2. While there is obviously a tremendous tzorech, one shouldn't take money away from other institutions that they donate to to give to this need. Rather people should dig a bit deeper in their pockets (At least, this is what the גדולים running the organization said. I couldn't find this online, though).
 3. For yeshiva guys who are struggling to make ends meet, one wouldn't need to give very much to this.[^1]
-4. (I don't know why this isn't viewed as such a priority. Perhaps because the burden is being shared by klal Yisroel. I'm not sure.)
+4. (I don't know why this isn't viewed as such a priority. Perhaps because the burden is being shared by כלל ישראל. I'm not sure.)
 # Righteous Indignation
 1. This is not coming from a good place and one should try to deal with it.[^1]
 2. A person can deal with it by thinking about the fact that they themselves have flaws and don't want to be judged for those things.[^1]
@@ -64,9 +64,9 @@ See [[Tiferes Dovid]].
 2. This is because:
 	1. It is such a basic part of Yahadus.[^1]
 	2. It is a tremendous chilul Hashem.[^1]
-	3. At times (like by davening, if someone talks after barchu, for example), it can be a big aveira.[^1]
+	3. At times (like by davening, if someone talks after barchu, for example), it can be a big עבירה.[^1]
 # Talking by Davening
-1. One shouldn't talk during davening, even by the mutar parts, because one might come to talk during the parts that are not mutar.[^1]
+1. One shouldn't talk during davening, even by the מותר parts, because one might come to talk during the parts that are not מותר.[^1]
 2. Also, see [[#Basics|here]].
 # Footnotes
 
@@ -74,4 +74,4 @@ See [[Tiferes Dovid]].
 [^2]: Kollel Va'ad : 5/29/24
 [^3]: Thursday night hashkafa : 7/25/24
 [^4]: Interview with Rav Dovid Cohen, Published in the Yated
-[^5]: [Keren Olam Hatorah](https://kerenolamhatorah.org/)
+[^5]: [Keren עולם Hatorah](https://kerenolamhatorah.org/)

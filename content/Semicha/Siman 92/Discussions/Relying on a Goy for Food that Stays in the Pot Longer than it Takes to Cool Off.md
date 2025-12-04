@@ -1,0 +1,4 @@
+*Presented in the ט"ז ס"ק א and ש"ך ס"ק ב*
+1. The reason that we say that we cannot rely on a גוי if the food that fell into the pot stays in the pot for longer than it takes to cool off is because we are concerned that the food in the pot has been absorbed by the food that fell into the pot and then has been released back into the the food in the pot
+   For example, if meat falls into a pot of milk, we are concerned that milk has been absorbed by the meat and then released back into the rest of the milk.
+2. This food that has been released back into the pot tastes the same as the rest of the food in the pot (as it is the same food. In the example above, milk has been absorbed and then released back into the rest of the milk). As such we can't rely on the fact that the גוי doesn't taste a difference because it isn't possible to taste a difference.

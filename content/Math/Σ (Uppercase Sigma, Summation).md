@@ -1,6 +1,6 @@
 # What it Means
 $$\sum^{NumberOnTop}_{i=NumberOnBottom}Term$$
-This can be viewed as a for loop (in programming). This means that we get calculate the term with i having the value of NumberOnBottom. We then calculate the term with i having the value of NumberOnBottom+1. We do that for i having the value of NumberOnBottom+2, +3…. We keep doing that until i has the value of NumberOnTop.
+This can be viewed as a for loop (in programming). This means that we calculate the term with $i$ having the value of $NumberOnBottom$. We then calculate the term with $i$ having the value of $NumberOnBottom+1$. We do that for i having the value of NumberOnBottom+2, +3…. We keep doing that until i has the value of NumberOnTop.
 
 We then take all of those values and add them together.
 
@@ -15,7 +15,7 @@ We then take all of those values and add them together.
 $$\sum^{5}_{i=1}i$$
 In the first pass, i=1, so the term (which is just i) equals 1. In the second, i=2, so the term equals 2. Then i=3, so the term equals 3, then i=4 so the term equals 4, and i=5, so the term equals 5.
 
-So in all, we have 1, 2, 3, 4, and 5. We add them up and that is out answer:
+So in all, we have 1, 2, 3, 4, and 5. We add them up and that is our answer:
 $$1+2+3+4+5=\textbf{15}$$
 ## Example 2
 $$\sum^{5}_{i=1}2$$

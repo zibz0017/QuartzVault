@@ -1,2 +1,2 @@
 # Things to Check Out
-See Devarim 20 10-18
+See דברים 20 10-18

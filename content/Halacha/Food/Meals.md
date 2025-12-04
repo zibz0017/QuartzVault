@@ -1,4 +1,4 @@
-***Note: I don't know if any of these halachos are lemaaseh.***
+***Note: I don't know if any of these הלכות are למעשה.***
 # By When One Should Eat Breakfast
 ## Regular People
 1. One should make sure to eat by the beginning of the 4th shaos zman into the day. Otherwise, it is like "throwing a stone into a wine pouch" (seemingly, it isn't healthy).[^1]
@@ -19,7 +19,7 @@
 1. One should defecate before eating a meal.[^4]
 # Footnotes
 
-[^1]: Siman 157 Sif 1 Sif Katan 3
-[^2]: Siman 157 Sif Katan 5
-[^3]: Siman 157 Sif Katan 3
-[^4]: Siman 157 Sif Katan 4
+[^1]: סימן 157 סעיף 1 ס"ק 3
+[^2]: סימן 157 ס"ק 5
+[^3]: סימן 157 ס"ק 3
+[^4]: סימן 157 ס"ק 4

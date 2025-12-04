@@ -1,0 +1,1 @@
+<span style="color:rgb(255, 0, 0)">See ש"ך ס"ק 5 and ט"ז ס"ק 2</span> 

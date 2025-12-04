@@ -12,7 +12,7 @@
 1. Vaccines are only tested on an individual level (meaning, the effects of one particular vaccine on a person). The effects of many vaccines in quick succession being used on people are not tested. {<font color="#ff0000">Need source</font>}
 	1. <font color="#9bbb59">Possible counter:</font> While this is true, the question is does that make it worth it to not get vaccines
 ## Aluminum in Vaccines
-1. There is aluminum in vaccines and it is far higher than the recommended daily maximum. {I heard this from Yisrael Peikes. He said he checked it up and it is true. I should ask him for the source.}
+1. There is aluminum in vaccines and it is far higher than the recommended daily maximum. {I heard this from ישראל Peikes. He said he checked it up and it is true. I should ask him for the source.}
 	1. <font color="#9bbb59">Possible counter:</font> While this is true, the question is how bad is it to pass this mark relatively infrequently.
 # Coronavirus Vaccine
 ## Reasons to be Skeptical (of the Vaccine and the Government/CDC/WHO)

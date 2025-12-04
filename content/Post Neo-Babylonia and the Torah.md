@@ -1,27 +1,27 @@
 *Babylonia, Persia, the Greeks, and Macedonia*
 
-# Basic History According to the Torah
+# Basic History According to the תורה
 *As presented in Artscroll footnote 25 on Rosh Hashanah 3a*
 {<font color="#ff0000">Need to put in the years that at least some of these things occurred</font>}
 1. Daryaveish Hamadi (Darius the Mede) conquered Babyonia from Belshazzar. {<font color="#ff0000">Need source. I think this is in the beginning of Daniel</font>} ^b9ec35
 2. He is succeeded by Koresh (Cyrus the Great).[^1]
-3. In the 1st year of his reign, he allowed the Jews to return to Eretz Yisroel and rebuild the Beis Hamikdash.[^2][^3]
+3. In the 1st year of his reign, he allowed the Jews to return to Eretz ישראל and rebuild the בית Hamikdash.[^2][^3]
 4. Jews do this under Zerubavel.
 5. The non-Jews write defamatory letters about the Jews and get “King Artachshashtah” to stop the construction.[^4] 
-   It is not clear who this king is. “Artachshashtah'' is a generic name for “king” in Persia (like Pharoh in Mitzrayim). This could be Koresh,[^5] his successor Achashveirosh[^6] or a king between them.[^7] (I don’t know how this last opinion fits with Seder Olam. I don’t think Seder Olam has a king between Koresh and Achasveirosh. Also, is this king mentioned anywhere else?)
+   It is not clear who this king is. “Artachshashtah'' is a generic name for “king” in Persia (like Pharoh in מצרים). This could be Koresh,[^5] his successor Achashveirosh[^6] or a king between them.[^7] (I don’t know how this last opinion fits with Seder עולם. I don’t think Seder עולם has a king between Koresh and Achasveirosh. Also, is this king mentioned anywhere else?)
 6. Daryaveish Hamadi and Koresh rule for a combined 4 years.[^8][^9]
-7. Achashveirosh comes to power. He also receives negative reports about the Jews and so he bans construction on the Beis Hamikdash.[^10][^11]
+7. Achashveirosh comes to power. He also receives negative reports about the Jews and so he bans construction on the בית Hamikdash.[^10][^11]
 8. Purim happens.
 9. Achashveirosh rules for 14 years.[^8][^12]
 10. Daryaveish Haparsi (Darius the Great) ascends to the throne.
-11. In the second year of his rule, Chagai and Zachariah have a nevuah that the Jews should work on the Beis Hamikdash without official permission.[^13][^14] ^d227be
+11. In the second year of his rule, Chagai and Zachariah have a נבואה that the Jews should work on the בית Hamikdash without official permission.[^13][^14] ^d227be
 12. Daryaveish investigates and finds the original proclamation of Koresh allowing construction, and so he allows the construction.[^15]
-13. The Beis Hamikdash is completed in year 6 of Daryaveish’s reign in Adar.[^16]
+13. The בית Hamikdash is completed in year 6 of Daryaveish’s reign in Adar.[^16]
 14. Ezra comes to Yerushalaym a year and a half later.[^17]
-15. He has proclamations from the king to get resources from the goyim to help build the Beis Hamikdash.[^18]
+15. He has proclamations from the king to get resources from the goyim to help build the בית Hamikdash.[^18]
 16. Artachshashtah in this part is Daryaveish[^19]
 17. In the 20th year of Artachshashta, Nechemia received word that conditions in Yerushalayim are very bad and the walls of the city have been destroyed. So Nechemia gets money from the king to help rebuild the walls.[^20]
-18. 52 years after Daryaveish Hamadi defeated the Babylonians ([[#^b9ec35|this]])[^21] and 34 years and construction on the Beis Hamikdash is begun by Zecharia and Chagai ([[#^d227be|this]]),[^22] Persian rule over Eretz Yisroel comes to an end with the Greeks taking over.[^23][^24]
+18. 52 years after Daryaveish Hamadi defeated the Babylonians ([[#^b9ec35|this]])[^21] and 34 years and construction on the בית Hamikdash is begun by Zecharia and Chagai ([[#^d227be|this]]),[^22] Persian rule over Eretz ישראל comes to an end with the Greeks taking over.[^23][^24]
 19. According to secular historians, the Persian empire lasted about 169 years more and had many more kings.
 # View of Secular Historians
 *As presented by The Challenge of Jewish History by Rabbi Alexander Hool*
@@ -70,12 +70,12 @@
    This does take the assumption that years were not totally based on the ruler, meaning that the year restarted when a new ruler took over. This would seem to be true as historians seem to try to figure out which years (as we know them) rulers ruled for. This would be impossible if the year restarted (like if a ruler ruled for 18 months and then the next ruler ruled for 18 months, that would be three years in real time but only be counted as each ruler ruling for one year in the historical records).[^28]
    This explanation would not explain the [[#Reign of Antiochus I|reign of Antiochus I]] problem as there is a two year discrepancy. As such, this response would have to rely on previous point.[^28]
    It doesn't appear that historians are bothered by most of these discrepancies as is implied from the note [here](https://www.livius.org/sources/content/uruk-king-list/#:~:text=7%27-,MU%2022note,-mAn%2Dti) as this point is the only point described as a scribal error.[^28]
-## Consistency with Chazal
-1. If we start Alexander's reign from 317 BCE, consistent with Seder Olam {<font color="#ff0000">need to add link</font>}, and then count his rule as seven years [[#^ace4b0|like the Uruk King List]] we arrive at Alexander's reign coming to a close in year 311 BCE, which would explain why year 311 was a significant year. The rulership was being passed and the kingdom was divided at this time according to Chazal.[^25]
+## Consistency with חז"ל
+1. If we start Alexander's reign from 317 BCE, consistent with Seder עולם {<font color="#ff0000">need to add link</font>}, and then count his rule as seven years [[#^ace4b0|like the Uruk King List]] we arrive at Alexander's reign coming to a close in year 311 BCE, which would explain why year 311 was a significant year. The rulership was being passed and the kingdom was divided at this time according to חז"ל.[^25]
 2. According to the Babylonian dream diaries {<font color="#ff0000">not clear on this point. Need to go back and check</font>} a ruler "Antiochus" died in year 246 BCE. Conventional chronology assumes that this is Antiochus II. However, perhaps this is really Antiochus I. Using 318 as the starting year for Alexander as well as using the Uruk King List, this would line up as is displayed in the [[#^02a3ff|table]] (the years being discussed have been bolded).[^25]
-### Realigning Conventional History with Chazal
-1. Conventional history and Chazal can realign by the end of the reign of Seleucus II.[^25]
-2. If you take the assumption that Antiochus II and Seleucus II had a coregency  (meaning, they both ruled at the same time) then the end of the reign of Seleucus II would be the same year according to Chazal and the conventional chronology as displayed in the [[#^02a3ff|table]].[^25]
+### Realigning Conventional History with חז"ל
+1. Conventional history and חז"ל can realign by the end of the reign of Seleucus II.[^25]
+2. If you take the assumption that Antiochus II and Seleucus II had a coregency  (meaning, they both ruled at the same time) then the end of the reign of Seleucus II would be the same year according to חז"ל and the conventional chronology as displayed in the [[#^02a3ff|table]].[^25]
 3. In addition, there is an astronomical diary entry in year 66 (or 246 BC) that says that "Antiochus" died and his son Seleucus took over. Conventional history assumes that this is Antiochus II. However, this may be referring to Antiochus I. This works if you take the length of reigns of the Uruk King list and start Alexander's reign in 318 (see [[#^02a3ff|table]]).[^25]
 #### Indications for a Coregency
 1. There were multiple capital cities in Babylonia at this time.[^25]
@@ -100,14 +100,14 @@
 *Sources for table [^25][^26][^27]*
 # Achashverosh (Ahasuerus)
 1. Comes up in Megillas Esther, Ezra, and Nechemia.
-## Mefarshim
-1. Rashi and the Gra say that he was a king under Cyrus the Great (Koresh).[^32] The reason they say this is because there was no time for him to rule. Cyrus ruled until the end of that גלות and the story was obviously in גלות so it couldn't be after Cyrus. Before Cyrus was Darius I (secular historians aren’t sure who this is.[^33]) and Darius’s father wasn’t a king. In addition, the megillah specifically mentions his kingdom, so it sounds like it is trying to preclude the other Achashverosh[^34] (I am confused by what the sifsei chachomim meant the father of Darius not being a king because he also implies that the Achashverosh of the purim story ruled from Hodu to Kush as opposed to the other Achashverosh who only ruled over Persia and Media. In addition, the Evven Ezra calls him a king [1st Evven Ezra after his introduction]. Maybe he just meant that he wasn’t a king over from Hodu to Kush).
+## מפרשים
+1. רש"י and the Gra say that he was a king under Cyrus the Great (Koresh).[^32] The reason they say this is because there was no time for him to rule. Cyrus ruled until the end of that גלות and the story was obviously in גלות so it couldn't be after Cyrus. Before Cyrus was Darius I (secular historians aren’t sure who this is.[^33]) and Darius’s father wasn’t a king. In addition, the megillah specifically mentions his kingdom, so it sounds like it is trying to preclude the other Achashverosh[^34] (I am confused by what the שפתי chachomim meant the father of Darius not being a king because he also implies that the Achashverosh of the purim story ruled from Hodu to Kush as opposed to the other Achashverosh who only ruled over Persia and Media. In addition, the Evven Ezra calls him a king [1st Evven Ezra after his introduction]. Maybe he just meant that he wasn’t a king over from Hodu to Kush).
     
-2. However, in Ezra 4:6, Rashi says that the Achashverosh over there is the same one in the Megillah and he reigned after Cyrus [[Rashi](https://www.sefaria.org/Ezra.4.6?lang=bi&with=Rashi&lang2=en)]. (I think it might not be clear if Rashi on Ezra is actually Rashi). {Need source}
+2. However, in Ezra 4:6, רש"י says that the Achashverosh over there is the same one in the Megillah and he reigned after Cyrus [[רש"י](https://www.sefaria.org/Ezra.4.6?lang=bi&with=רש"י&lang2=en)]. (I think it might not be clear if רש"י on Ezra is actually רש"י). {Need source}
     
-3. Rashi on 4:7 also says that כרש, דריוש and ארתחששתא are really the same person, quoting Rosh Hashanah 3b and that ארתחששתא is really the name for Persian emperors (like Pharoh in Egypt). [[Rashi](https://www.sefaria.org/Ezra.4.7?lang=bi&with=Rashi&lang2=en)] (Not sure how this fits with the fact that Darius was the father of Cyrus as we said in point i.)
+3. רש"י on 4:7 also says that כרש, דריוש and ארתחששתא are really the same person, quoting Rosh Hashanah 3b and that ארתחששתא is really the name for Persian emperors (like Pharoh in Egypt). [[רש"י](https://www.sefaria.org/Ezra.4.7?lang=bi&with=רש"י&lang2=en)] (Not sure how this fits with the fact that Darius was the father of Cyrus as we said in point i.)
     
-4. The Evven Ezra seems to learn that he ruled after Koresh (not sure what he does with the sifsei chachamim’s point). He says that he is ארתחששתא (Secular scholars think this is Artaxerxes I but the mefarshim there [[Rashi](https://www.sefaria.org/Ezra.4.7?lang=bi&with=Rashi&lang2=en), [Malbim](https://www.sefaria.org/Ezra.4.7?lang=bi&with=Malbim&lang2=en)] say that he is Cyrus. I’m not sure if he is saying that this is one pshat or 2 separate pshatim. Overall, I had a hard time reading the piece). [1st Evven Ezra after his introduction]
+4. The Evven Ezra seems to learn that he ruled after Koresh (not sure what he does with the שפתי חכמים’s point). He says that he is ארתחששתא (Secular scholars think this is Artaxerxes I but the מפרשים there [[רש"י](https://www.sefaria.org/Ezra.4.7?lang=bi&with=רש"י&lang2=en), [Malbim](https://www.sefaria.org/Ezra.4.7?lang=bi&with=Malbim&lang2=en)] say that he is Cyrus. I’m not sure if he is saying that this is one pshat or 2 separate pshatim. Overall, I had a hard time reading the piece). [1st Evven Ezra after his introduction]
     
 
 ## Secular view
@@ -121,10 +121,10 @@
     
 2. Events in the Megillah, such as Xerxes’s love of women, and a capital at Susa (Shushan. Although the capital was already there from the days of Cambyses and Darius built a massive palace there [[WorldHistory.org : Susa](https://www.worldhistory.org/susa/)]) (the [wikipedia article](https://en.wikipedia.org/wiki/Ahasuerus) has 2 more points but I don’t really see how they are so indicative of anything.
     
-3. He had an unofficial member of the court named Marduka, who is, perhaps Mordechai. [[Wikipedia : Ahasuerus](https://en.wikipedia.org/wiki/Ahasuerus)]
+3. He had an unofficial member of the court named Marduka, who is, perhaps מרדכי. [[Wikipedia : Ahasuerus](https://en.wikipedia.org/wiki/Ahasuerus)]
     
 
-Counter: The Babylonians had a god named marduk so Marduka may not have been an uncommon name. Also, it sounds strange that Mordechai would go by the name of an avodah zara. [Own thoughts]
+Counter: The Babylonians had a god named marduk so Marduka may not have been an uncommon name. Also, it sounds strange that מרדכי would go by the name of an avodah zara. [Own thoughts]
 
 ## Extent of Empire
 
@@ -135,22 +135,22 @@ Counter: The Babylonians had a god named marduk so Marduka may not have been an 
 
   
 
- See Seder Olam Rabbah 29 - 30; Medrash Lekach Tov intro to Ester; Megillah 11b-12a; Avodah Zarah 9a; See if Rabbi Breidowitz has anything on Torah Anytime; The Meiri’s intro to Pirkei Avos; The Rambam’s intro to Pirkei Avos; Any other rishon’s intro to Pirkei Avos that goes through the history; Rav Yaakov Weinberg on the Rambam’s history; Intros of rishonim to Ester, Daniel, Ezra, Ezra, and Nechamia; Rashi and Evven Ezra to Daniel 1:1; Rashi D”H “ויבא חנני” on Rosh Hashanah 3b; Rashba and Ritva there; Tosafos D”H “שנת” there; Artscroll footnote 18 on Rosh Hashanah 3b; Rav Sadia Gaon Emuson Vdaos perek 8; Abarbanel Maayonei Hayeshuah 2:3, 10:7-8 and 11:3; Rabbi David Ganz Tzemach Dovid part 2 pg 186-191; Maharal Be’er Hagollah pg 139-140
+ See Seder עולם Rabbah 29 - 30; Medrash Lekach טוב intro to Ester; Megillah 11b-12a; Avodah Zarah 9a; See if Rabbi Breidowitz has anything on תורה Anytime; The Meiri’s intro to Pirkei Avos; The רמב"ם’s intro to Pirkei Avos; Any other ראשון’s intro to Pirkei Avos that goes through the history; Rav Yaakov Weinberg on the רמב"ם’s history; Intros of ראשונים to Ester, Daniel, Ezra, Ezra, and Nechamia; רש"י and Evven Ezra to Daniel 1:1; רש"י D”H “ויבא חנני” on Rosh Hashanah 3b; Rashba and Ritva there; 'תוס D”H “שנת” there; Artscroll footnote 18 on Rosh Hashanah 3b; Rav Sadia Gaon Emuson Vdaos פרק 8; Abarbanel Maayonei Hayeshuah 2:3, 10:7-8 and 11:3; Rabbi David Ganz Tzemach Dovid part 2 pg 186-191; Maharal Be’er Hagollah pg 139-140
 
 # Footnotes
 
 [^1]: Daniel 6:29
 [^2]: Ezra 1:1
-[^3]: Divrei Hayamim Beis 36:22
+[^3]: Divrei Hayamim בית 36:22
 [^4]: Ezra 4:7
-[^5]: Rashi there
+[^5]: רש"י there
 [^6]: Evven Ezra there
 [^7]: Rashba and Ritva to Rosh Hashanah 3b
 [^8]: Megillah 11b
-[^9]: Seder Olam 28-29
+[^9]: Seder עולם 28-29
 [^10]: Ezra 4:5-6
 [^11]: Ester Rabbah 1:1
-[^12]: Seder Olam 29
+[^12]: Seder עולם 29
 [^13]: Chaggai 1:1
 [^14]: Ezra 5:1
 [^15]: Ezra 6:1
@@ -159,10 +159,10 @@ Counter: The Babylonians had a god named marduk so Marduka may not have been an 
 [^18]: Ezra 7:12 and on
 [^19]: Rosh Hashanah 3b
 [^20]: Nechemia 1:1
-[^21]: Seder Olam 1
-[^22]: Seder Olam 5
+[^21]: Seder עולם 1
+[^22]: Seder עולם 5
 [^23]: Avodah Zarah 9a
-[^24]: Seder Olam 30
+[^24]: Seder עולם 30
 [^25]: The Challenge of Jewish History : Chapter 5
 [^26]: [Livius.com](https://www.livius.org/sources/content/uruk-king-list/)
 [^27]: [Lavia.com](https://www.lavia.org/english/Archivo/UrukEN.htm)
@@ -170,6 +170,6 @@ Counter: The Babylonians had a god named marduk so Marduka may not have been an 
 [^29]: [Wikipedia : Seleucus II](https://en.wikipedia.org/wiki/Seleucus_II_Callinicus#:~:text=After%20the%20death,and%20Queen%20Laodice)
 [^30]: [Oxford Classical Dictionary : Laodice, Wife of Antiochus](https://oxfordre.com/classics/oso/viewentry/10.1093$002facrefore$002f9780199381135.001.0001$002facrefore-9780199381135-e-3581?p=emailACL/gnD0qaxM6&d=/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-3581#:~:text=The%20first%20wife,supporters%20of%20Laodice)
 [^31]: I am confused by this number. He only ruled for 20 years, but this makes it seem like he ruled for 21 years.
-[^32]: 1st Rashi and Gra on Megilas Esther
+[^32]: 1st רש"י and Gra on Megilas Esther
 [^33]: [Wikipedia : Darius the Mede](https://en.wikipedia.org/wiki/Darius_the_Mede)
-[^34]: Sifsei Chachamim Alef on Megilas Esther
+[^34]: שפתי חכמים Alef on Megilas Esther

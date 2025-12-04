@@ -1,0 +1,1 @@
+<span style="color:rgb(255, 0, 0)">I'm not exactly sure what needs to be seen but this is discussed in סעיף ד</span>

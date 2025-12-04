@@ -16,10 +16,10 @@
 	- constantly fight with their parents.
 	- Struggling to stay in school, or have left/been thrown out.
 	- Stopped keeping kosher.
-	- Stopped keeping shabbos.
+	- Stopped keeping שבת.
 	- Using drugs/alcohol.
 	- Inappropriate relationships with the opposite gender.
-- Some kids are in the middle (not quite standard, but not this bad). They also need their individualized for of chinuch.[^1]
+- Some kids are in the middle (not quite standard, but not this bad). They also need their individualized for of חינוך.[^1]
 - Normative parenting can be divided into 3 stages:[^4]
 	- Unconditional love and nurturing (ages 0-2)
 	- Limit-setting and role modeling (ages 2-16)
@@ -31,7 +31,7 @@
 	- This is something established in the by non-Jewish doctors as well (see Love and Survival, by Dr. Dean Ornish (particularly page 29) where he discusses how making a child feel alone and unloved can lead to their death).[^4]
 	- The child senses how you feel toward them. If you are angry or tense, the child feels that.[^4]
 	- The child also sees how you act toward your spouse. If you act angrily toward your spouse, this can negatively impact the child.[^4]
-	- Obviously, this is particularly difficult at times (the child isn't sleeping and it been a long night, the child, the child spit up on your suit right before shabbos, the child is dumped flour all over the floor, etc.) It is extremely important at these times to maintain control of ourselves and properly deal with our children.[^4]
+	- Obviously, this is particularly difficult at times (the child isn't sleeping and it been a long night, the child, the child spit up on your suit right before שבת, the child is dumped flour all over the floor, etc.) It is extremely important at these times to maintain control of ourselves and properly deal with our children.[^4]
 	- Try to laugh about it. Try to maintain the long view (in a few weeks, or maybe even in a few days, it won't matter anymore. It will just be funny to look back on).[^4]
 	- Children at this age are not really able to conform to our structure and rules.[^4]
 	- Hashem gives parents special love for children so we will be able to get ourselves to help them.[^5]
@@ -107,7 +107,7 @@
 			- Child feels safe to talk to parents. Parent needs to be able to respectfully listen and validate the child. This can be difficult, particularly when the parent doesn't approve of these feelings.[^8]
 			- Warm to other family members. Shalom bayis issues are dealt with privately.[^8]
 			- Don't constantly complain about child's behavior or berate them.[^8]
-			- Dinner table and shabbos/yom tov table is important for developing a warm atmosphere. Parents need to deal with issues (like seating arrangements, etc.) with patience.[^8]
+			- Dinner table and שבת/yom טוב table is important for developing a warm atmosphere. Parents need to deal with issues (like seating arrangements, etc.) with patience.[^8]
 			- Meal length and discussions should be appropriate for the children.[^8]
 			- Child needs to feel loved unconditionally. Even if a child messes up, the parent will approach them with love. In the past, this may have been more okay. Now it is not.[^8]
 		- Psychological safety:
@@ -117,7 +117,7 @@
 			- Yiddishkeit should be a positive experience.[^8]
 			- There should not be inconsistency between what children learn in school and what they see from parents at home.[^8]
 			- Parents need to be on the same page.[^8]
-			- Don't make mitzvos a source of stress (by yelling/nag at them, having tense shabbos meals, etc.)[^8]
+			- Don't make מצוות a source of stress (by yelling/nag at them, having tense שבת meals, etc.)[^8]
 			- Don't tell children to tell collectors that the parents aren't home.[^8]
 			- Be careful not to treat your children like nachas machines. The parents' focus should be on the child, not the parents.[^8]
 			- Children should not be made to do more than they can handle.[^8]
@@ -126,7 +126,7 @@
 		- Includes standard physical needs (clothing, food, etc.).[^9]
 		- Will support a child if something bad happens to them.[^9]
 		- Don't constantly tell kids that we can't afford things (this does not mean that one should buy their kids everything).[^9]
-		- Children should not feel that shabbos/yom tov are stressful times.[^9]
+		- Children should not feel that שבת/yom טוב are stressful times.[^9]
 		- Children should not feel that their simchos are a burden of time/money.[^9]
 		- Children must feel secure about their parents' marriage and overall shalom bayis.[^9]
 		- Children need to see parents act with a belief that Hashem will help them, rather than fall apart when things are tight.[^9]
@@ -154,7 +154,7 @@
 - Communication includes what you say and how you say it, and how you say it is often more important (you can say you love someone, but if your body language says that you don't really, they'll pick up on that and your words won't mean anything). This includes tone of voice, body language, and facial expression.[^10]
 - If you come home upset by work, or whatever, your kids pick up on the negative energy and they think that you are upset at them, even though you are not.[^10]
 - The same is true when a child comes home to a parent: the parent can't look upset. The child picks up on this.[^10]
-- You can't tell a kid to act a certain way and not act that way yourself. This can be for davening with kavana, talking respectfully with others and being respectful of gedolim, not being mevatel Torah, etc. It would be better if you davened with kavana rather than spending it "nu"-ing your child.[^11]
+- You can't tell a kid to act a certain way and not act that way yourself. This can be for davening with kavana, talking respectfully with others and being respectful of גדולים, not being מבטל תורה, etc. It would be better if you davened with kavana rather than spending it "nu"-ing your child.[^11]
 - Kids can't learn that if they throw a tantrum they will get what they want.[^11]
 - One way to deal with this is to tell your child that you are willing to talk about your decision and perhaps they will be able to convince you, or perhaps if they are willing to listen to you tell them what you would need them to do so they can do what they want, you may allow them to do what they want. (For example, if you told your kid that he can't go to his friend's house now because it is too late, you can talk to your kid and tell him that if he would like, he can go but he has to be back within an hour, or if he can get ready for bed quickly when he comes back, or something like that.) But if they throw a tantrum, then the answer will stay no.[^11] (I am not sure what age this begins with. I don't see a young child being able to do this.[^12])
 - Kids feel powerful when they can get their parents to lose control, even if they are not getting what they want.[^11]
@@ -175,7 +175,7 @@
 - If a child is struggling with something specific (they can't get up in the morning), you can't force them to go do it. You also can't just ignore it. That confirms to them that you have given up on them.[^11]
 - Go to them and present the choices. "I would love if you can do... (whatever it is)." and that's it. Don't keep pushing them. They will probably not do whatever it is, but it shows you haven't given up on them. You need to accept their decision, whatever it is.[^11]
 - If they do it, show your appreciation.[^11]
-- For some things, it may make sense to talk about it not during the moment (like how to dress at the shabbos table). You need to weigh your relationship and how important the thing is to decide if you should mention it at all.[^11]
+- For some things, it may make sense to talk about it not during the moment (like how to dress at the שבת table). You need to weigh your relationship and how important the thing is to decide if you should mention it at all.[^11]
 # Footnotes
 
 [^1]: Raising a Loving Family by Rabbi Shimon Russel and Rabbi Zalman Goldstein (Section: The Journey of Parenting (pg 31-43))

@@ -10,7 +10,7 @@
 	3. Your negative thoughts can be totally out of touch with reality.[^4]
 6. When you look at your past and your future, all you see is sadness and misery.[^4]
 # Evidence
-1. In a pilot study titled “Comparative Efficacy of Cognitive Therapy and {pharmacotherapy in the Treatment of Depressed Patients” published in 1977, CBT outperformed Tofranil (a popular antidepressant drug used in the 70s).[^5]
+1. In a pilot study titled “Comparative Efficacy of Cognitive Therapy and pharmacotherapy in the Treatment of Depressed Patients” published in 1977, CBT outperformed Tofranil (a popular antidepressant drug used in the 70s).[^5]
 	1. Test started with 19 patients who only used CBT and 25 patients who used antidepressants. The patients were randomly selected to each group.[^5]
 	2. The study lasted 12 weeks.[^5]
 	3. Patients came in with moderate to severe symptoms they had for years. Three quarters were suicidal and most had gone for other treatments before which failed.[^5]
@@ -58,6 +58,7 @@
 3. Talking to someone to get things off your chest can help one feel better, but it probably will not provide a lasting solution. You need to reevaluate how you look at yourself.[^14]
 4. Pinpointing the source of one's low self-esteem ("when you were younger, your parents didn't treat you properly") doesn't help without taking that knowledge to reevaluate how you look at yourself. Just knowing the source doesn't help.[^14]
 ## What Does Work
+<span style="color:rgb(255, 0, 0)">This section is basically what one should do for any disorder, not just low self-esteem. It might make more sense to tweak this section and pull it out (put it under [[#Structure]])</span>
 ### Fixing Cognitive Disorders
 1. Low self-esteem is caused by cognitive disorders. Fixing those disorders helps with low self-esteem.[^14]
    One does this by:
@@ -76,7 +77,31 @@
 ### View of the CBT School of Thought
 1. The therapist should challenge the patient because the patient is not thinking clearly.[^14]
 2. Perhaps the therapist should have some sort of middle ground because otherwise, the patient may not feel that the therapist really understands them. This is especially true because there is almost certainly some truth to what the patient thinks about themselves, as we all suffer from different issues. Completely invalidating what the patient is thinking may not work.[^13]
-
+# Techniques
+<span style="color:rgb(255, 0, 0)">Perhaps just take the main ideas of these methods. Basically, write down a little about the episode, how you felt, and if/how much using CBT helped</span>
+## General Advice
+1. Do whatever works for you.[^15]
+## Obstacles
+1. One may naturally feel a lot of resistance to trying things. They may feel hopeless and that this won't help at all.[^15]
+2. A way to counter this is:
+	1. Start small. Only do whatever technique you are doing for a few minutes a day.[^15]
+	2. Think about how it makes you feel (either use a formal method, like the Beck Depression Inventory, or just think about it yourself, whichever works better).[^15]
+	3. Keep in mind that this helps many people in similar situations to you.[^15]
+## Specific Methods
+### Self Accounting
+1. Keep track of how much using CBT helps.[^15]
+2. When faced with a situation that makes you feel negative in whatever way, assign a number to how bad you feel.[^15]
+3. Implement CBT and then monitor how you feel after the implementation. Even if the CBT was not fully effective, you may still notice that it has helped to some degree.[^15]
+4. This is good motivation to keep pushing.[^15]
+### Daily Record of Dysfunctional Thoughts
+1. Write down small notes about situations that come up.
+2. Write down the:
+	1. Situation (very brief).[^15]
+	2. Emotion(s) with rating on a scale (like 1-100).[^15]
+	3. Automatic thoughts and emotions they triggered.[^15]
+	4. Cognitive distortions for each of these emotions triggered by these thoughts.[^15]
+	5. Rational responses to each of these.[^15]
+	6. Outcome (emotions with ratings).[^15]
 # Footnotes
 
 [^1]: [Beck Institute](https://beckinstitute.org/about/dr-aaron-t-beck/) {<span style="color:rgb(255, 0, 0)">For things beyond simple dates and the like, I would like a different source as this source may be biased.</span>}
@@ -93,3 +118,5 @@
 [^12]: Feeling Good by Dr. David Burns : Chapter 3 (Pgs 45 - 47)
 [^13]: Own thoughts
 [^14]: Feeling Good by Dr. David Burns : Chapter 4 (Pgs 51 - 61)
+[^15]: Feeling Good by Dr. David Burns : Chapter 4 (Pgs  61 - 64)
+[^16]: 

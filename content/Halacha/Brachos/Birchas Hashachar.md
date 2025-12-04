@@ -7,7 +7,7 @@
 
 # Footnotes
 
-[^1]: Mishna Berurah Siman 46 Sif 1
-[^2]: Oz Vehadar footnote 34 bringing down Aruch Hashulchan Siman 46 Sif 9
-[^3]: Mishna Berurah Siman 46 Sif 2
+[^1]: משנה Berurah סימן 46 סעיף 1
+[^2]: Oz Vehadar footnote 34 bringing down Aruch Hashulchan סימן 46 סעיף 9
+[^3]: משנה Berurah סימן 46 סעיף 2
 [^4]: What about Ruach Raah? Even if they didn’t touch covered body parts this should still be a problem?

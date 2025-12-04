@@ -4,7 +4,7 @@
 3. <span style="display: block; text-align: justify;">Gideon responded to the people of סכות that after defeating the Midiani army and capturing their kings, he would whip them with desert thorns[^6][^7] (or throw them onto a bed of thorns and tramp them[^6]) as punishment. He said similarly to פנואל but he also added that he would destroy the fortified tower that was there, as well.[^8]</span>
 4. <span style="display: block; text-align: justify;">After Gideon defeated the Midiani force, he returned to סכות whipped the people.[^9] (The passuk is not clear who from the town he whipped. Will be discussed later.)</span>
 5. <span style="display: block; text-align: justify;">Gideon then returned to פנואל, destroyed the tower and killed the people of the town.[^10]</span>
-# Storyline as Discussed by the Mefarshim
+# Storyline as Discussed by the מפרשים
 ## Who From the Cities Responded to Gideon
 ### מנחה קטנה
 1. <span style="display: block; text-align: justify;">Only the leaders responded in סכות. In פנואל, the whole town responded.[^11] ([[#^bbeff9|The רלב"ג]] may agree to this, as well.)</span>
@@ -15,7 +15,7 @@
 ### מנחה קטנה
 1. <span style="display: block; text-align: justify;">The people made it clear that they did not believe in Hashem's ability to make Gideon win after Hashem had explicitly promised Gideon that he would be able to capture זבח and צלמנע. This lack of belief in Hashem was כפירה and so they were חייב מיתה. (Simply not helping Gideon out would not have made them חייב מיתה.)[^16]</span> ^b492d7
 ### מלבי"ם
-1. <span style="display: block; text-align: justify;">The people of the cities should have helped out because of the mitzva of tzedaka. The leaders of the towns who were in charge of the communal funds should have used some of these funds to help Gideon's army fight a war against the enemies of Klal Yisroel.[^13]</span>
+1. <span style="display: block; text-align: justify;">The people of the cities should have helped out because of the מצוה of tzedaka. The leaders of the towns who were in charge of the communal funds should have used some of these funds to help Gideon's army fight a war against the enemies of כלל ישראל.[^13]</span>
 2. <span style="display: block; text-align: justify;">The leaders didn't want to help Gideon's army because they were afraid that if he would lose, Midian would punish them for helping Gideon's army.[^14]</span>
 3. <span style="display: block; text-align: justify;">The leaders of סכות were not held responsible because this was a reasonable concern. The leaders of פנואל was held responsible for this because they had a fortified tower so they didn't have reason to worry about reprisals from Midian.[^15]</span> ^09a427
 ## Punishment for the People of סכות
@@ -25,7 +25,7 @@
    <span style="display: block; text-align: justify;">As [[#^781938|mentioned]], the רלב"ג [[#^bbeff9|here]] may agree to this.</span> ^fc9bb0
 2. <span style="display: block; text-align: justify;">In addition, because these people were leaders, they were held to higher standard.[^18]</span>
 ### מלבי"ם
-1. <span style="display: block; text-align: justify;">Only the townspeople were whipped as they had little reason not to help because of the mitzva of tzedaka.[^12] (Using communal funds to supply the army would have elicited reprisals. Private people giving food to hungry people, even if they were the army, was unlikely to cause a response.[^12] However, because there was a small chance that something would happen, the people of סכות were held less responsible.[^19])</span>
+1. <span style="display: block; text-align: justify;">Only the townspeople were whipped as they had little reason not to help because of the מצוה of tzedaka.[^12] (Using communal funds to supply the army would have elicited reprisals. Private people giving food to hungry people, even if they were the army, was unlikely to cause a response.[^12] However, because there was a small chance that something would happen, the people of סכות were held less responsible.[^19])</span>
 ## Why Gideon Destroyed the Tower in פנואל
 ### רד"ק and מצודת דוד
 1. <span style="display: block; text-align: justify;">The people in פנואל felt confident because they had this fortified tower.[^20][^21] This was a major factor in why they responded as scornfully as they did.[^20]</span>
