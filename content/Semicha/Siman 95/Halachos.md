@@ -1,3 +1,4 @@
+<span style="color:rgb(255, 0, 0)">Need to come back to סעיף א where it discusses fish.</span>
 # נ"ט בר נ"ט
 ## נ"ט בר נ"ט דאיסורא
 ### Basic Case
@@ -84,10 +85,10 @@ For more details about the שיטה of the ש"ך and the מחלוקת in general
 # Something Disgusting Falls into the Pot
 1. There is a מחלוקת between the מחבר, ש"ך, ט"ז, פתחי תשובה, and perhaps the רמ"א. For details see [[מחלוקת about Something Disgusting that Falls into a Pot|here]].
 ## Applications
-1. Soap can potentially be nosein Taam lifgam. As such, if meat and dairy dishes are washed together, if there is soap there, we can be mitztareif this into being מקל.
+1. Soap can potentially be נותן טעם לפגם. As such, if meat and dairy dishes are washed together, if there is soap there, we can be מצטרף this into being מקל.
 # Fish in a בן יומו Meat Pan
-1. he מהרש"ל[^15] and the Chochmas Adam (Chassidishe posek) <span style="color:rgb(255, 0, 0)">Need source</span> says that one cannot cook fish in a בן יומו meat pan, because of סכנה.
-2. However, הלכה lemaysa one may do this.[^16] (Perhaps not so for chassidim.)
+1. he מהרש"ל[^15] and the Chochmas אדם (Chassidishe posek) <span style="color:rgb(255, 0, 0)">Need source</span> says that one cannot cook fish in a בן יומו meat pan, because of סכנה.
+2. However, הלכה למעשה one may do this.[^16] (Perhaps not so for chassidim.)
 # Footnotes
 
 [^1]: ש"ך ס"ק א
@@ -97,10 +98,10 @@ For more details about the שיטה of the ש"ך and the מחלוקת in general
 [^5]: Implied from ט"ז ס"ק ה
 [^6]: ט"ז ס"ק ד
 [^7]: סעיף ג
-[^8]: סעיף ב, ט"ז ס"ק יג, Pri Megadim שם
+[^8]: סעיף ב, ט"ז ס"ק יג, פרי מגדים שם
 [^9]: ש"ך ס"ק יז
-[^10]: Pri Megadim on ט"ז ס"ק יג
-[^11]: ט"ז ס"ק יג, Pri Megadim שם
+[^10]: פרי מגדים on ט"ז ס"ק יג
+[^11]: ט"ז ס"ק יג, פרי מגדים שם
 [^12]: ש"ך ס"ק כ
 [^13]: ט"ז ס"ק ג
 [^14]: ש"ך ס"ק ב, ט"ז ס"ק ב

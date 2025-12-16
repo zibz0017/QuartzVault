@@ -2,10 +2,10 @@
 ## On ערב פסח
 ### About Zmanim
 1. <span style="display: block; text-align: justify;">Zmanin discussed are shaos zmanios.[^1] בשעת הדחק (like if one did not sell his חמץ before the זמן איסור הנאה and the person stands to suffer a significant financial loss), one can rely on opinions that count hours like we normally do (meaning, 60 minutes per hour).[^2]</span>
-2. <span style="display: block; text-align: justify;">לכתחילה, zmanim should be counted from עלות השחר through צאת הכוכבים (like the Magen Avraham and others). However, one can rely on count the day from הנץ החמה though שקיעה (like the Gra and others).[^3]</span>
+2. <span style="display: block; text-align: justify;">לכתחילה, zmanim should be counted from עלות השחר through צאת הכוכבים (like the Magen Avraham and others). However, one can rely on count the day from הנץ החמה though שקיעה (like the גר"א and others).[^3]</span>
 ### The Issurim
-1. <span style="display: block; text-align: justify;">There is עובר a לאו (not a כרת) for getting hannah from חמץ on ערב פסח after after chatzos.[^4]</span>
-2. <span style="display: block; text-align: justify;">The rabanan assured eating חמץ from the beginning of the 5th hour on ערב פסח, whether the חמץ is חמץ midioraysa, or midirabanan.[^5]</span>
+1. <span style="display: block; text-align: justify;">There is עובר a לאו (not a כרת) for getting הנאה from חמץ on ערב פסח after after chatzos.[^4]</span>
+2. <span style="display: block; text-align: justify;">The רבנן assured eating חמץ from the beginning of the 5th hour on ערב פסח, whether the חמץ is חמץ midioraysa, or midirabanan.[^5]</span>
 3. <span style="display: block; text-align: justify;">There is also the איסור of [[#Tashbisu]] (see there).</span>
 ## Bal Yeirah Uval Yimatzei
 1. <span style="display: block; text-align: justify;">On a דאורייתא level, owning חמץ on פסח alone does not violate an איסור. The problem is finding this חמץ.[^6]</span>
@@ -24,12 +24,12 @@
 3. Two reasons why we are against doing a bedika by day:
 	1. Candles are less effective by day (and sweeping is never particularly effective as it does not reach into cracks.)[^18]
 	2. Once the first reason is true, חז"ל were mesaken it this way and once they are mesaken it this way, we want to stick to it.
-4. If one does check before the 14th, they should leave one room unchecked so that on the 14th, they will be able to do a bedika and make a bracha[^19] (Does hiding a few pieces of bread before, as we are noheig, work to allow you to make a bracha on the bedika?)
+4. If one does check before the 14th, they should leave one room unchecked so that on the 14th, they will be able to do a bedika and make a bracha[^19] (Does hiding a few pieces of bread before, as we are נוהג, work to allow you to make a bracha on the bedika?)
 ## Bedika on the 14th Day
 1. One should not wait for the 14th day to do the bedika.[^20]
 2. If one did wait, then they do not need to use a candle when checking by windows, skylights, or an אכסדרה. For everything else, one should use a candle, just like by night.[^21]
 3. They should do the bedika as soon as possible in the morning. They should not eat before doing the bedika.[^20] If one initially forgot and then remembers, they should do the bedika right when they remember.[^22]
-4. One is מבטל the חמץ when they finish the bedika (unless it is beyond the 6th hour) {<font color="#ff0000">Need to add link to the halacha of bittul after the 6th hour</font>}
+4. One is מבטל the חמץ when they finish the bedika (unless it is beyond the 6th hour) {<font color="#ff0000">Need to add link to the הלכה of bittul after the 6th hour</font>}
 # Why We Need Both Bedika and Bittul
 1. Midioraysa, either a bittul or bedika is enough. Midirabanan we require both.[^23]
 ## Reasons for not Relying on Bittul
@@ -46,7 +46,7 @@
    According to Rav Korelitz, one can use the flashlight to assist, but in conjunction with the candle.[^27]
    According to the אור לציון, if one only has a flashlight, they should use it, but they should not make a bracha.[^28]
 ## Leaving the Ceiling Light on
-1. If it helps to leave the ceiling light on, according to the Shevet Levi,[^29] Rav Moshe Feinstein,[^30] Rav Elyashiv,[^24] Rav Nissin Korelitz,[^27] the חזון איש,[^24] Rav Yaakov Kanievsky,[^31] and Rav Shlomo Zalman Auerbach,[^32] one should do so.
+1. If it helps to leave the ceiling light on, according to the Shevet לוי,[^29] Rav Moshe Feinstein,[^30] Rav Elyashiv,[^24] Rav Nissin Korelitz,[^27] the חזון איש,[^24] Rav Yaakov Kanievsky,[^31] and Rav Shlomo Zalman Auerbach,[^32] one should do so.
 # Before the Bedika
 ## What One May and May not Do Before Bedika
 ### מְלָאכָה
@@ -55,12 +55,12 @@
 1. One may not eat more than a kibeitza of mezonos/hamotzi food once it is within a half hour before tzeis. There is no limit on non-mezonos and non-hamotzi food.[^34]
 ### Learning
 1. It is a mechlokes if one can begin learning at home within a half hour before tzeis.[^35]
-2. If one learns in shul, then everyone agrees that this is okay, because the person will have to head home at some point.[^35] (I think that the משנה Berura means that in those days, people didn't stay out so late. As such, the person will head home before it is too dark so they won't miss the zman. Assuming that this is the correct understanding, then what is the halacha בזמן הזה?) If one is learning deeply then even learning in shul doesn't help.[^35]
+2. If one learns in shul, then everyone agrees that this is okay, because the person will have to head home at some point.[^35] (I think that the משנה Berura means that in those days, people didn't stay out so late. As such, the person will head home before it is too dark so they won't miss the zman. Assuming that this is the correct understanding, then what is the הלכה בזמן הזה?) If one is learning deeply then even learning in shul doesn't help.[^35]
 3. If someone appoints a shomer than that it is okay.[^35] However, the shomer himself can't be learning.[^36]
 4. Even if someone has a set time to learn, he is not allowed to learn within a half hour before tzeis (unless he employs one of the previous mentioned tachbulos).[^37]
 ### Davening
-1. One should daven before doing the bedika as it is difficult to gather a minyan together when it is so late and we are not concerned that Maariv will extend beyond the time to do the bedika.[^38] (From the first reason, what is the halacha if someone lives in a place with set late minyanim?)
-2. If one is davening ביחידות, he should appoint someone else to begin the bedika while he is daving so the bedika begins on time.[^38] (I think that we don't want the person to daven after because teh bedika may last until chatzos, which is that latest one should say krias shema. בזמן הזה that we do most of the bedika before the night of the bedika and so the bedika does not take until anywhere near chatzos, would it be okay to wait until after to daven maariv? Also, I don't know why the person can't daven before after shkiah but before tzeis.)
+1. One should daven before doing the bedika as it is difficult to gather a minyan together when it is so late and we are not concerned that Maariv will extend beyond the time to do the bedika.[^38] (From the first reason, what is the הלכה if someone lives in a place with set late minyanim?)
+2. If one is davening ביחידות, he should appoint someone else to begin the bedika while he is daving so the bedika begins on time.[^38] (I think that we don't want the person to daven after because the bedika may last until chatzos, which is that latest one should say krias shema. בזמן הזה that we do most of the bedika before the night of the bedika and so the bedika does not take until anywhere near chatzos, would it be okay to wait until after to daven maariv? Also, I don't know why the person can't daven before after shkiah but before tzeis.)
    If he can't appoint someone else (because, there is nobody else to appoint, let's say), he should daven first and then do the bedika.[^38]   
 ### If One Started at a Time that it Was מותר
 1. If one started doing something at a time that it was מותר, (meaning, before half an hour before tzeis) everyone agrees that the person may continue doing whatever it was until tzeis.[^39]
@@ -91,7 +91,7 @@
 1. If you made sure not to bring חמץ into an animal coop within 30 days of פסח, then they do not need to be checked.[^54]
 2. If there was חמץ there within 30 days but before the zman bedika then you should ask a rav.[^54]
 3. If there was חמץ after the zman bedika, then you actually need to check. You cannot rely on the animal eating the חמץ.[^55]
-4. You might need to check in cracks in the side of the coop, as is the halacha by [[#Courtyards|courtyards]].
+4. You might need to check in cracks in the side of the coop, as is the הלכה by [[#Courtyards|courtyards]].
 ## Bedika on Sefarim
 1. The חזון איש says that one must do a bedikah in sefarim.[^56] ^d974e7
    He would use a flashlight, or do it by a window during the day.[^57]
@@ -102,7 +102,7 @@
 #### Do Not Have to Do a Bedika
 1. <span style="display: block; text-align: justify;">Rav Shlomo Zalman Auerbach [[#^9dbfff|here]] says that one does not need to do a bedika. The משנה Berura [[#^33c449|here]] implies that one does not need to do a bedika on less than a kezayis.</span>
 #### Have to Do a Bedika
-1. <span style="display: block; text-align: justify;">The חזון איש [[#^d974e7|here]] would seem to argue as well as the Machane ישראל[^59] and the Chayei Adam.[^60]</span>
+1. <span style="display: block; text-align: justify;">The חזון איש [[#^d974e7|here]] would seem to argue as well as the Machane ישראל[^59] and the Chayei אדם.[^60]</span>
 ## Holes in the Wall
 1. One has to check holes in the wall for חמץ as far as one's arm can reach.[^61]
 2. If there is חמץ beyond one's reach, one does not have to get it. They can rely on the bitul. This is even if there is vaday חמץ.[^62] Also, see [[#Inaccessible Places|here]].
@@ -145,7 +145,7 @@
 ## Returning Before פסח
 1. This all depends on how far one travels and how much before פסח one plans on returning (the farther on travels and the closer to פסח one returns, the higher the possibility that one returns later than anticipated, leaving no time to do a bedika).[^88]
 2. בשעת הדחק, one can be מקל and not do a bedika.[^89]
-3. One should ask their LOR for how this halacha applies בזמן הזה (now that travel, even from distant places, is a lot more predictable than it was).[^47]
+3. One should ask their LOR for how this הלכה applies בזמן הזה (now that travel, even from distant places, is a lot more predictable than it was).[^47]
 # Pile on top of חמץ
 ## Man Made Pile
 1. If one would like to pile things in a room that may have חמץ in it (to use the room for storage, for example), one must do this over 30 days before פסח.[^90]
@@ -169,7 +169,7 @@
 1. If one did not do a bedika before yom טוב, if the חמץ was מבטל, then one should wait until chol hamoed to do the bedika.[^104]
 2. If there was no bittul, one should do the bedika on yom טוב itself.[^104]
 3. One would make a bracha on this bedika, whether they were מבטל the חמץ before פסח or not.[^105]
-4. One shouldn't touch the חמץ. Rather one should flip a כלי upside-down over the חמץ.[^104] {<font color="#ff0000">this should link to some halacha in סימן 446</font>}
+4. One shouldn't touch the חמץ. Rather one should flip a כלי upside-down over the חמץ.[^104] {<font color="#ff0000">this should link to some הלכה in סימן 446</font>}
 ## After Yom טוב
 1. If one didn't even do the bedika on פסח, they should do a bedika after פסח to get rid of the חמץ because one is not allowed to get הֲנָאָה from the חמץ שעבר עליו פסח.[^106]
 2. One would not make a bracha on this bedika.[^105]
@@ -190,10 +190,10 @@ Background: A person has a chiyuv to do a bedika, not just to make sure that the
 ## Renting From a Yid
 ### Who Needs to Do the Bedika
 #### Renting from Before the 14th
-1. If the tenant has the key and did a maaseh kinyan before the night of the 14th began, he is required to do the bedika.[^113] {<font color="#ff0000">This halacha may apply to renting a house from non-Jewish</font>}
+1. If the tenant has the key and did a maaseh kinyan before the night of the 14th began, he is required to do the bedika.[^113] {<font color="#ff0000">This הלכה may apply to renting a house from non-Jewish</font>}
 2. If the owner of the house has the and no maaseh kinyan was done, then it is on the owner to do the bedika.[^113]
 3. If the tenant received the key before the beginning of the night of the 14th, but did not make a maaseh kinyan, then both the tenant and the owner need to do the bedika (or one can appoint the other to be his shliach).[^114]
-   The lashon of the mishan berurah (in ס"ק 2) sounds more like the chiyuv is on the owner rather than the tenant, so perhaps the tenant has more of a right to make the owner be the shliach to do the bedika rather than the other way around.[^47]
+   The לשון of the mishan berurah (in ס"ק 2) sounds more like the chiyuv is on the owner rather than the tenant, so perhaps the tenant has more of a right to make the owner be the shliach to do the bedika rather than the other way around.[^47]
    {<span style="color:rgb(255, 0, 0)">What happens if there is a maaseh kinyan but the key was not given over?</span>}
 4. Once the night begins, the chiyuv to do the bedika is on the owner. Giving the key over to the tenant after the night began does not make a difference.[^115]
 #### Renting on the 14th
@@ -214,7 +214,7 @@ Background: A person has a chiyuv to do a bedika, not just to make sure that the
 # Relying on Women and Ketanim for Bedika
 1. A woman and a קטן are relied upon if they said that they did a bedika in a situation that one is מבטל as well (as this makes the chiyuv to do the bedika only a derabanan).[^123] However, this is not לכתחילה.[^124] {<span style="color:rgb(255, 0, 0)">I assume that the קטן needs to have reached the age of חינוך.</span>}
 2. Even a divorced woman should have a man do the bedika for her, if possible.[^125]
-3. {<span style="color:rgb(255, 0, 0)">It seems hard to imagine that this applies nizman hazeh. However, the previous halacha (about a divorced women having men do the bedika) is from Rav Elyashiv.</span>}
+3. {<span style="color:rgb(255, 0, 0)">It seems hard to imagine that this applies nizman hazeh. However, the previous הלכה (about a divorced women having men do the bedika) is from Rav Elyashiv.</span>}
 # Relying on Sfeikos
 {<span style="color:rgb(255, 0, 0)">I don't know in what practical case these הלכות are relevent. Maybe if someone is not sure if he did a bedika?</span>}
 ## ספק דרבנן
@@ -228,14 +228,14 @@ Background: A person has a chiyuv to do a bedika, not just to make sure that the
 {<span style="color:rgb(255, 0, 0)">I don't know in what practical case these הלכות are relevent.</span>}
 1. If we have a majority of bags of matza and a minority of bags of חמץ, and a rat snatches one and hides it in a house, we treat it like the rat took a bag of חמץ as we say כל קבוע כמחצא על מחצא.[^129] {<span style="color:rgb(255, 0, 0)">Need to fix footnote allignment</span>}
 2. If the bags were mixed around, then we do not say that the rat took from a קבוע and so we revert to כל דפריש מרובא פריש.[^130]
-3. If we did not see the rat take the חמץ, then we say follow the rov and assume that the rat took matza as we say כל דפריש מרובא פריש.[^129] {<span style="color:rgb(255, 0, 0)">Need to fix footnote allignment</span>}
+3. If we did not see the rat take the חמץ, then we say follow the רוב and assume that the rat took matza as we say כל דפריש מרובא פריש.[^129] {<span style="color:rgb(255, 0, 0)">Need to fix footnote allignment</span>}
 # Selling חמץ to a גוי
 1. It is preferable for the sale of חמץ to a גוי to go into effect on the 13th day rather than on the 14th night. However, it is okay if not.[^112]
 2. When selling חמץ, one should be more inclusive when discussing the חמץ that is being sold, rather than more specific. For example, a person should say that all the חמץ in a certain room is being sold, rather than specify that the package of cookies or whatever is being sold. This is preferable because it will include חמץ that one didn't find.[^112]
 # חמץ of Another in a Jewish Home
 {<span style="color:rgb(255, 0, 0)">I don't know in what practical case these הלכות are relevent. Perhaps this applies to חמץ part of the mechiras חמץ </span>}
 ## חמץ of a גוי
-### Basic Halacha
+### Basic הלכה
 #### Jew Accepted Responsibility
 1. If a Jew has the חמץ of a גוי in his possession and the Jew accepted responsibility for it:[^131]
 	1. Preferably, the Jew should make sure to return the חמץ to the גוי.[^132]
@@ -254,7 +254,7 @@ Two reasons:
 ### How to Keep the חמץ
 1. If the חמץ is in the Jews house, the Jew must make a mechitza that is at least 10 tefachim high between him and the חמץ to keep the person from accidentally eating the חמץ.[^141]
 2. The mechitza must be solid material (not cloth).[^141]
-3. One cannot place an upside-down keli over the חמץ as we are concerned that someone may accidentally use the keli, exposing the חמץ.[^142]
+3. One cannot place an upside-down כלי over the חמץ as we are concerned that someone may accidentally use the כלי, exposing the חמץ.[^142]
 4. {<span style="color:rgb(255, 0, 0)">It seems that this is how one who sold חמץ to a גוי should keep it. Add a link to this point.</span>}
 ### If One Did not Get Rid of the חמץ Before the Zman איסור
 {<span style="color:rgb(255, 0, 0)">Combine with section [[#If the Jew Did not Destroy the חמץ]]. I need to check the sources. From ס"ק 8, it sounds like the food is not אסור bihannah only if the Jew only accepted responsibility for pshia. In ס"ק 5, it sounds like even in the Jew accepted responsibility for more than that.</span>}
@@ -275,10 +275,10 @@ Two reasons:
 #### Non-Jewish Tenant
 1. A Jew does not need to destroy the חמץ of a non-Jewish tenant.[^148]
 #### If the Jew Did not Destroy the חמץ
-1. If the Jew did not destory the חמץ, after פסח, he may return it to the גוי and get hannah from the חמץ.[^149]
+1. If the Jew did not destory the חמץ, after פסח, he may return it to the גוי and get הנאה from the חמץ.[^149]
 #### גוי Places חמץ on Jew's Property Against the Jew's Will
 1. If this occurred before פסח or on chol hamoed, the Jew must put it behind a wall (assuming the Jew can't get rid of it) [[#How to Keep the חמץ|as discussed]].[^150]
-2. If it was on פסח, then the Jew covers it with a keli {<span style="color:rgb(255, 0, 0)">add link</span>}.[^150] (I am not sure why the Jew can't bring a wall (like a mechitza) to block the chometz. Perhaps this is because this wall is considered to have halachic significance and so that would be considered building a wall, similar to the הלכות of boneh on שבת (סימן 315 סעיף 1 with סעיף Katans {<span style="color:rgb(255, 0, 0)">add link</span>}.[^47])
+2. If it was on פסח, then the Jew covers it with a כלי {<span style="color:rgb(255, 0, 0)">add link</span>}.[^150] (I am not sure why the Jew can't bring a wall (like a mechitza) to block the chometz. Perhaps this is because this wall is considered to have halachic significance and so that would be considered building a wall, similar to the הלכות of boneh on שבת (סימן 315 סעיף 1 with סעיף Katans {<span style="color:rgb(255, 0, 0)">add link</span>}.[^47])
 ## חמץ of a Jew
 1. The owner of the חמץ is עובר on the איסור.[^151]
 2. If the property owner accepted responsibility, he is עובר on the איסור, as well ([[#Jew Accepted Responsibility|as we said by a גוי]]).[^151]
@@ -311,8 +311,8 @@ Two reasons:
 2. <span style="display: block; text-align: justify;">There is a machlokes between the מחבר and רמ"א about how much it has to change to be considered "changed". However, if this mixture was over 30 days old by the time פסח came around, it is considered "changed" according to both opinions.[^160]</span>
 3. <span style="display: block; text-align: justify;">One should make sure not to put such things on the table (or any place that will have food) because it is still אסור to eat.[^161]</span>
 4. <span style="display: block; text-align: justify;">Similarly one doesn't need to get rid of חמץ that is mixed in with non-foods (even if it is edible, and sometimes even eaten by a sick person), although there is a machlokes about if one can eat such a mixture.[^162]</span>
-5. <span style="display: block; text-align: justify;">If a mixture is for a non-food purpose, then if there is less than a kezayis in one place, there is no issue. This is even if there is a kezayis within the whole keli (for example, if someone uses a חמץ glue to hold together a keli. There is no issue unless there is a kezayis of חמץ is all in one spot. There is no issue if there is more than a kezayis of חמץ throughout the keli).[^163]</span>
-6. <span style="display: block; text-align: justify;">If the חמץ was originally food and it just happened to get trapped in the keli, there is a machlokes if all of the chamtz throughout the keli gets combined together to count as a kezayis. However, if the חמץ is a little metunaf, it does not combine according to all opinions.[^164] {<span style="color:rgb(255, 0, 0)">I don't think this belongs here.</span>}</span>
+5. <span style="display: block; text-align: justify;">If a mixture is for a non-food purpose, then if there is less than a kezayis in one place, there is no issue. This is even if there is a kezayis within the whole כלי (for example, if someone uses a חמץ glue to hold together a כלי. There is no issue unless there is a kezayis of חמץ is all in one spot. There is no issue if there is more than a kezayis of חמץ throughout the כלי).[^163]</span>
+6. <span style="display: block; text-align: justify;">If the חמץ was originally food and it just happened to get trapped in the כלי, there is a machlokes if all of the chamtz throughout the כלי gets combined together to count as a kezayis. However, if the חמץ is a little metunaf, it does not combine according to all opinions.[^164] {<span style="color:rgb(255, 0, 0)">I don't think this belongs here.</span>}</span>
 ## Spoiled Foods
 1. <span style="display: block; text-align: justify;">One does not need to get rid of food that spoiled before the zman איסור. However, if the food spoiled after the zman, one still needs to destroy it.[^165]</span>
 2. <span style="display: block; text-align: justify;">"Spoiled" means beyond ראוי לאכילת כלב, not just ראוי לאכילת אדם<span style="visibility:hidden">l</span>[^166]</span>
@@ -320,9 +320,9 @@ Two reasons:
 4. <span style="display: block; text-align: justify;">If חמץ that was אינו ראוי לאכילת כלב was not destroyed and accidentally fell into other food, see [[#^f6f6d4|here]].</span>
 # חמץ Utensils
 1. <span style="display: block; text-align: justify;">Certain kneading bowls which are comprised of different parts and therefore have large cracks or crevices need to be sold to a גוי (as we are concerned that there is a kezayis of חמץ there). Even if regular mixing bowls which do not have these cracks or crevices may not be used for פסח (as we are concerned that there is still a משהו of חמץ, which is אסור to eat).[^168]</span> ^33c449
-2. <span style="display: block; text-align: justify;">It is unclear if this previous halacha applies to other כלים that may similarly be difficult to clean. Logically it would seem that it should apply. However, in ס"ק 51 the משנה Berura says that a bread basket which is also hard to clean just needs to be put away for פסח and doesn't need to be sold.[^47]</span>
-# Hannah From חמץ
-1. <span style="display: block; text-align: justify;">Hannah from חמץ includes selling the חמץ, giving it to a גוי, and feeding one's animals. As such, whenever one may not get hannah from חמץ, they may not do any of these things.[^169]</span>
+2. <span style="display: block; text-align: justify;">It is unclear if this previous הלכה applies to other כלים that may similarly be difficult to clean. Logically it would seem that it should apply. However, in ס"ק 51 the משנה Berura says that a bread basket which is also hard to clean just needs to be put away for פסח and doesn't need to be sold.[^47]</span>
+# הנאה From חמץ
+1. <span style="display: block; text-align: justify;">הנאה from חמץ includes selling the חמץ, giving it to a גוי, and feeding one's animals. As such, whenever one may not get הנאה from חמץ, they may not do any of these things.[^169]</span>
 # Footnotes
 
 [^1]: סימן 443 סעיף 1
@@ -333,8 +333,8 @@ Two reasons:
 [^6]: סימן 433 ס"ק 38
 [^7]: סימן 434 ס"ק 6
 [^8]: סימן 443 ס"ק 1
-[^9]: שולחן ערוך הרב סי' תמה ס' א as presented by סימן 443 Dirshu footnote 2
-[^10]: פמ"ג פתיחה להלכות פסח חלק יא פרק ד ס"ק א as presented by סימן 443 Dirshu footnote 2
+[^9]: שולחן ערוך הרב סי' תמה ס' א as presented by סימן 443 דרשו footnote 2
+[^10]: פמ"ג פתיחה להלכות פסח חלק יא פרק ד ס"ק א as presented by סימן 443 דרשו footnote 2
 [^11]: סימן 433 סעיף 1, ס"ק 1
 [^12]: סימן 431 ס"ק 3
 [^13]: סימן 431 סעיף 1 ס"ק 1
@@ -343,31 +343,31 @@ Two reasons:
 [^16]: סימן 433 ס"ק 43
 [^17]: סימן 433 סעיף 1 and 11, ס"ק 1 and 7, and באר היטב סעיף 1.
 [^18]: סימן 433 סעיף 11 w/ משנה Berura there
-[^19]: חק יוסף ס"ק 26 and Shulchan Aruch Harav סעיף 7
+[^19]: חק יוסף ס"ק 26 and Shulchan ערוך Harav סעיף 7
 [^20]: סימן 433 סעיף 1, ס"ק 5
 [^21]: Implication from סימן 433 סעיף 1
 [^22]: סימן 435 סעיף 1 ס"ק 2
 [^23]: סימן 431 ס"ק 2
-[^24]: שבות יצחק פסח פ' ד אות ג as brought down by סימן 431 Dirshu footnote 6
-[^25]: ספר הלכות פסח (English version by Rav Eider) פרק 7 Ha\`ara 81 as brought down by סימן 431 Dirshu footnote 6
-[^26]: Halichos Shlomo פרק 5 סעיף 11 as brought down by סימן 431 Dirshu footnote 6
-[^27]: חוט שני פסח פרק ב ס"ק ד as brought down by סימן 431 Dirshu footnote 6
-[^28]: שו"ת חלק ג פרק ז תשובה ח as brought down by סימן 431 Dirshu footnote 6
-[^29]: Chelek 1 סעיף 136 as brought down by סימן 431 Dirshu footnote 6
-[^30]: ספר הלכות פסח (English version by Rav Eider) פרק 7 Ha\`ara 84 as brought down by סימן 431 Dirshu footnote 6
-[^31]: ארחות רבינו חלק ב עמוד ב as brought down by סימן 431 Dirshu footnote 6
-[^32]: הליכת שלמה פסח פרק ה דבר הלכה יטואורחות הלכה הערה נז as brought down by סימן 431 Dirshu footnote 6
+[^24]: שבות יצחק פסח פ' ד אות ג as brought down by סימן 431 דרשו footnote 6
+[^25]: ספר הלכות פסח (English version by Rav Eider) פרק 7 Ha\`ara 81 as brought down by סימן 431 דרשו footnote 6
+[^26]: Halichos Shlomo פרק 5 סעיף 11 as brought down by סימן 431 דרשו footnote 6
+[^27]: חוט שני פסח פרק ב ס"ק ד as brought down by סימן 431 דרשו footnote 6
+[^28]: שו"ת חלק ג פרק ז תשובה ח as brought down by סימן 431 דרשו footnote 6
+[^29]: חלק 1 סעיף 136 as brought down by סימן 431 דרשו footnote 6
+[^30]: ספר הלכות פסח (English version by Rav Eider) פרק 7 Ha\`ara 84 as brought down by סימן 431 דרשו footnote 6
+[^31]: ארחות רבינו חלק ב עמוד ב as brought down by סימן 431 דרשו footnote 6
+[^32]: הליכת שלמה פסח פרק ה דבר הלכה יטואורחות הלכה הערה נז as brought down by סימן 431 דרשו footnote 6
 [^33]: סימן 431 סעיף 2
 [^34]: סימן 431 סעיף 2 ס"ק 6
 [^35]: סימן 431 ס"ק 7
-[^36]: סימן 431 Dirsh footnote 9 bringing down Shulchan Aruch Harav סעיף 11
+[^36]: סימן 431 Dirsh footnote 9 bringing down Shulchan ערוך Harav סעיף 11
 [^37]: סימן 431 סעיף 2 ס"ק 2
 [^38]: סימן 431 ס"ק 8
 [^39]: סימן 431 ס"ק 9 - 12
 [^40]: סימן 431 ס"ק 5
 [^41]: סימן 433 סעיף 11, ס"ק 46
 [^42]: סעיף 3 w/ משנה Berurah there
-[^43]: Dirshu footnote 18 quoting the Chut Shani פסח פרק 4 ס"ק 1
+[^43]: דרשו footnote 18 quoting the Chut Shani פסח פרק 4 ס"ק 1
 [^44]: סימן 433 סעיף 4, ס"ק 19
 [^45]: סימן 433 סעיף 5 w/ משנה Berurah there
 [^46]: סימן 433 סעיף 5 ס"ק 23
@@ -379,12 +379,12 @@ Two reasons:
 [^52]: I'm not sure why when it comes to courtyards, we rely on birds eating the חמץ (as the משנה Berurah explicitly says) but when it comes to roofs, we do not.
 [^53]: סימן 433 ס"ק 24
 [^54]: סימן 433 ס"ק 27
-[^55]: סימן 433 ס"ק 27 with Dirshu footnote 23, סימן 443 סעיף 1 ס"ק 5
-[^56]: סימן 433 Dirshu footnote 14 quoting the חזון איש Orach Chaim סימן 116 ס"ק 18
-[^57]: סימן 431 Dirshu footnote 6
-[^58]: סימן 433 Dirshu footnote 14 and 20 quoting Halichos Shlomo פסח פרק 5 Halacha Os 10
-[^59]: סימן 433 Dirshu footnote 20 quoting פרק 34 סעיף 4
-[^60]: סימן 433 Dirshu footnote 20 quoting כלל 119 סעיף 6
+[^55]: סימן 433 ס"ק 27 with דרשו footnote 23, סימן 443 סעיף 1 ס"ק 5
+[^56]: סימן 433 דרשו footnote 14 quoting the חזון איש Orach חיים סימן 116 ס"ק 18
+[^57]: סימן 431 דרשו footnote 6
+[^58]: סימן 433 דרשו footnote 14 and 20 quoting Halichos Shlomo פסח פרק 5 הלכה Os 10
+[^59]: סימן 433 דרשו footnote 20 quoting פרק 34 סעיף 4
+[^60]: סימן 433 דרשו footnote 20 quoting כלל 119 סעיף 6
 [^61]: סימן 433 סעיף 7 w/ משנה Berurah there
 [^62]: סימן 433 ס"ק 29
 [^63]: סימן 433 סעיף 10 w/ משנה Berurah there
@@ -395,7 +395,7 @@ Two reasons:
 [^68]: סימן 434 סעיף 2
 [^69]: סימן 434 ס"ק 7
 [^70]: סימן 438 סעיף 1 ס"ק 11
-[^71]: סימן 438 ס"ק 7, Dirshu footnote 2
+[^71]: סימן 438 ס"ק 7, דרשו footnote 2
 [^72]: סימן 438 ס"ק 11
 [^73]: סימן 436 סעיף 1
 [^74]: סימן 436 ס"ק 2 Shaar Hatzion סעיף 2
@@ -409,7 +409,7 @@ Two reasons:
 [^82]: סימן 436 ס"ק 5
 [^83]: סימן 436 ס"ק 16
 [^84]: It seems from סימן 436 ס"ק 23 that the הלכות are the same by both cases.
-[^85]: Own thoughts. This is also mashma from the משנה berura because in the משנה berura does not make mention of being מבטל the חמץ when discussing this case, while by the case of of one appointing a shliach (brought down in סימן 436 ס"ק 3), the משנה berura does mention that one should be מבטל the חמץ.
+[^85]: Own thoughts. This is also משמע from the משנה berura because in the משנה berura does not make mention of being מבטל the חמץ when discussing this case, while by the case of of one appointing a shliach (brought down in סימן 436 ס"ק 3), the משנה berura does mention that one should be מבטל the חמץ.
 [^86]: סימן 436 סעיף 1 ס"ק 3
 [^87]: סימן 436 ס"ק 20
 [^88]: Sima 436 ס"ק 9
@@ -435,7 +435,7 @@ Two reasons:
 [^108]: סימן 436 סעיף 3 ס"ק 27
 [^109]: סימן 436 ס"ק 28
 [^110]: סימן 436 ס"ק 29 Shaar Hatzion 29
-[^111]: סימן 436 Dirshu footnote 18 (no source)
+[^111]: סימן 436 דרשו footnote 18 (no source)
 [^112]: סימן 436 ס"ק 32
 [^113]: סימן 437 סעיף 1 ס"ק 2
 [^114]: סימן 437 ס"ק 2
@@ -449,16 +449,16 @@ Two reasons:
 [^122]: סימן 437 ב"ה ד"ה שועלו
 [^123]: סימן 437 סעיף 4 ס"ק 16-19
 [^124]: סימן 437 ס"ק 18
-[^125]: סימן 437 Dirshu footnote 15
+[^125]: סימן 437 דרשו footnote 15
 [^126]: סימן 439 ס"ק 2
-[^127]: סימן 439 סעיף 2 ס"ק 7 with Dirshu footnote 5
+[^127]: סימן 439 סעיף 2 ס"ק 7 with דרשו footnote 5
 [^128]: סימן 439 ס"ק 3
 [^129]: סימן 439 סעיף 1 ס"ק 1
 [^130]: סימן 439 ס"ק 4
 [^131]: סימן 440 ס"ק 2, 4
 [^132]: סימן 440 ס"ק 8
-[^133]: מנחת חינוך מצוה יא אות ז בקומץ המנחה brought down by סימן 440 Dirshu footnote 8
-[^134]: סימן 118 ס"ק 5 brought down by סימן 440 Dirshu footnote 8
+[^133]: מנחת חינוך מצוה יא אות ז בקומץ המנחה brought down by סימן 440 דרשו footnote 8
+[^134]: סימן 118 ס"ק 5 brought down by סימן 440 דרשו footnote 8
 [^135]: סימן 440 סעיף 1
 [^136]: סימן 440 ס"ק 10
 [^137]: סימן 440 סעיף 3

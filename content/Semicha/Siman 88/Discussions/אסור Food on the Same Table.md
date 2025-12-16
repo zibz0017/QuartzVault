@@ -10,9 +10,9 @@
 1. Because people are used to eating bread, we are more concerned about bread, and so we don't allow one to eat on the same table as אסור bread.
 ## בב״ח
 1. Because one is used to eating meat or dairy, we are concerned that the person may eat some of the meat/dairy, and so this is not allowed.
-## Making a Neder
-1. If one made a neder not to eat certain foods, they would not be allowed to eat with that food on the table (without the [[Semicha/Siman 88/Halachos#התירים|התירים discussed]]) because the person is used to eating these foods in general.
-## Moder Hannah
+## Making a נדר
+1. If one made a נדר not to eat certain foods, they would not be allowed to eat with that food on the table (without the [[Semicha/Siman 88/Halachos#התירים|התירים discussed]]) because the person is used to eating these foods in general.
+## מודר הנאה
 *Presented by ש"ך ס"ק ב, ד and ט"ז ס"ק ג*
-1. If one was moder hannah from a person, then there is no concern that you will eat from this person's food because מסתמא, these people don't like each other.
+1. If one was מודר הנאה from a person, then there is no concern that you will eat from this person's food because מסתמא, these people don't like each other.
 2. However, if the people just don't like each other and they are eating meat and dairy, they would not be allowed to eat together.

@@ -1,5 +1,5 @@
 # Question 1 (Cooking Something that is ספק Kavush בב״ח)
-1. You come home after shabbos and see that some milk dripped onto some meat. You don't know how long the milk was there. Can one cook the meat.
+1. You come home after שבת and see that some milk dripped onto some meat. You don't know how long the milk was there. Can one cook the meat.
 ## Answer
 ### Basic Issues
 1. The milk has gotten into the milk because of kavush.
@@ -9,8 +9,8 @@
 	2. As such, we would say ספק דאורייתא לחומרה.
 ### Summary
 1. It would seem that it is אסור to cook the meat.
-# Question 3 (Ein Anu Bekiyin)
-1. When do we say Ein Anu Bekiyin?
+# Question 3 (אין אנו Bekiyin)
+1. When do we say אין אנו Bekiyin?
 ## Answer
 1. How salty is "salty".
 2. Relying on a גוי to tell us if something has איסור taste. Potentially, we may not even rely on a Jew.
@@ -56,7 +56,7 @@ It depends on the case:
 ## Answer
 1. Same as [[#Question 5|answer to question 5]].
 # Question 10
-1. Are you allowed to put pepper into chulent on shabbos?
+1. Are you allowed to put pepper into chulent on שבת?
 ## Answer
 1. No. <span style="color:rgb(255, 0, 0)">Not sure what this has to do with בב״ח</span>
 # Question 11
@@ -94,7 +94,7 @@ It depends on the case:
 # Questions 17
 1. Is microwaving meat אסור דאורייתא or דרבנן?
 ## Answer
-1. Depends if this is considered derech בשול or not. It is a מחלוקת of modern poskim.
+1. Depends if this is considered דרך בשול or not. It is a מחלוקת of modern פוסקים.
 # Question 18 (Reheat a Cheeseburger)
 1. Can you reheat a cheeseburger?
 ## Answer
@@ -103,11 +103,11 @@ It depends on the case:
 1. Can you give בב״ח dogfood to your dog?
 ## Answer (בב״ח Dogfood)
 ### Basic Issues
-1. You are getting hannah from בב״ח. However, this is only an issue if it is בב״ח דאורייתא.
+1. You are getting הנאה from בב״ח. However, this is only an issue if it is בב״ח דאורייתא.
 #### Discussion 1
 1. If the meat or dairy is from a non-kosher animal, there is no איסור of בב״ח דאורייתא (and according to most opinions, there isn't even an איסור of בב״ח at all). (סימן פז סעיף ג ש"ך ס"ק ג)
 #### Discussion 2
-1. If the meat and dairy were not cooked together, this is only בב״ח דרבנן. As such, one would be allowed to get hannah.
+1. If the meat and dairy were not cooked together, this is only בב״ח דרבנן. As such, one would be allowed to get הנאה.
 #### Discussion 3
 1. If the meat is from a kosher animal that wasn't shechted, one can be מקל in a case of הפסד.<span style="visibility:hidden">l</span> (סימן פז פתחי תשובה ס"ק ו)
 # Question 20
@@ -121,12 +121,12 @@ It depends on the case:
 Can you work for Uber Eats?
 ## Answer
 ### Basic Issues
-1. There is a potential problem of getting hannah from בב״ח.
+1. There is a potential problem of getting הנאה from בב״ח.
 #### Discussion 1
-1. If this is kosher meat and milk or not. If it milk or meat from a non-kosher animal, there is no problem of getting hannah.
-	1. However, if it is from a kosher animal, even if it is a niveila, there is a מחלוקת about whether one can get hannah. We פסקען that in a case of הפסד מרובה, this is fine.
+1. If this is kosher meat and milk or not. If it milk or meat from a non-kosher animal, there is no problem of getting הנאה.
+	1. However, if it is from a kosher animal, even if it is a נבלה, there is a מחלוקת about whether one can get הנאה. We פסקען that in a case of הפסד מרובה, this is fine.
 #### Discussion 2
-1. If the meat/dairy were not cooked together there would not be a problem of getting hannah in this case.
+1. If the meat/dairy were not cooked together there would not be a problem of getting הנאה in this case.
 	1. However, if the meat/dairy were hot and they are solid, they are considered to be a דבר גוש and so they are considered to be a כלי ראשון.
 ### Summary
 1. In summary, if you would have to deliver cheeseburgers, where the burgers were made from cow (or some other kosher animal) and they were not shechted, this would be fine in a case of הפסד מרובה. Perhaps losing your job is considered to be הפסד מרובה.
@@ -182,36 +182,68 @@ Can one cook horse meat and milk together?
 1. Can one soak a shofar in milk to make it easier to blow?
 ## Answer
 ### Basic Issues
-1. One is getting hannah from בב״ח.
+1. One is getting הנאה from בב״ח.
 ### Discussion 1
-1. There is no issue of receiving hannah from בב״ח that was only soaked together.
+1. There is no issue of receiving הנאה from בב״ח that was only soaked together.
 ### Discussion 2
-1. Hooves are only בב״ח דרבנן. The rabanan were not גוזר on receiving hannah from בשר דרבנן. <span style="visibility:hidden">l</span>(סימן פז, סעיף ב, ז)
+1. Hooves are only בב״ח דרבנן. The רבנן were not גוזר on receiving הנאה from בשר דרבנן. <span style="visibility:hidden">l</span>(סימן פז, סעיף ב, ז)
 # Question 27 (Closing Box that May Have Flies on שבת)
-1. Are you allowed to close a box on shabbos that may contain flies?
+1. Are you allowed to close a box on שבת that may contain flies?
 ## Answer
 *Presented by חידושי רע"א on סימן פז סעיף ו ד"ה יש אומרים*
 ### Basic Issues
-1. One may be catching flies on shabbos, which is אסור.
+1. One may be catching flies on שבת, which is אסור.
 ### Discussion 1
-1. Is this considered to be a psik reisha?
-2. This case is different than standard psik reisha cases because in standard cases (like dragging somewhat heavy bench across the ground), there is a שאלה about whether the איסור *will happen*. There is a שאלה about the future.
+1. Is this considered to be a פסיק רישא?
+2. This case is different than standard פסיק רישא cases because in standard cases (like dragging somewhat heavy bench across the ground), there is a שאלה about whether the איסור *will happen*. There is a שאלה about the future.
 3. In this case, there is a שאלה about the past. If there are flies in this box, this is אסור, and if there are no flies here, then this is totally מותר.
-4. As such, the רמ"א perhaps implies that this is considered to be a psik reisha.
+4. As such, the רמ"א perhaps implies that this is considered to be a פסיק רישא.
 5. However, the ט"ז, based off the טור, implies that this is not.
 ### Discussion 2
-1. Is it מותר to do something that will psik reisha violate an איסור on shabbos if they are not getting hannah and do not have intent to do the איסור?
+1. Is it מותר to do something that will פסיק רישא violate an איסור on שבת if they are not getting הנאה and do not have intent to do the איסור?
 2. The ערוך says that one is allowed to.
 3. 'תוס says that one is not.
 ### Summary
-1. The ערוך would say that this is permitted because according to him, one may do something that will psik reisha do an איסור if he doesn't have intent and he doesn't get hannah.
-2. According to the ט"ז and טור, this is permitted because this is a case of ספק where the person doesn't have intent to violate the איסור and he is not getting hannah.
+1. The ערוך would say that this is permitted because according to him, one may do something that will פסיק רישא do an איסור if he doesn't have intent and he doesn't get הנאה.
+2. According to the ט"ז and טור, this is permitted because this is a case of ספק where the person doesn't have intent to violate the איסור and he is not getting הנאה.
 3. According to the רמ"א, this may be אסור, similar to what he says by stoking a pot that may contain בליעות of בב״ח.
-# Question 28
-1. What is mei חלב?
+# Question 28 (מי חלב)
+1. What is מי חלב?
 ## Answer
 1. <span style="color:rgb(255, 0, 0)">See סימן פז סעיף ח</span>
+# Question 29 (הקר for Meat and Fish)
+1. Do you need a הקר for meat and fish?
+## Answer
+1. <span style="color:rgb(255, 0, 0)">It's somewhere in ספר הלכות בב״ח</span>
+# Question 30 (Dairy/Meat on Same Serving Table)
+1. Can you have dairy and meat on the same serving table?
+## Answer
+1. מותר.
+# Question 31 (Eating on Plane Tables; Wife is נדה)
+1. Can a husband and wife eat on separate airplane tables side-by-side when the wife is in נדה?
+## Answer
+1. מותר. <span style="color:rgb(255, 0, 0)">Don't know the source. Maybe Kal vachomer from separate tablecloths</span>
+# Question 32 (How Tall is הקר)
+1. How tall does a הקר need to be?
+## Answer
+1. A bit tall. Seemingly a tea light will not work. Something slightly taller than that will. (סימן פח ט"ז ס"ק ד)
+# Question 33 (הקר during 6 Hours)
+1. Do you need a הקר when you are fleishig and eating at the same table as someone eating dairy?
+## Answer
+1. It is a מחלוקת, but most פוסקים say that it is fine. (ספר הלכות בב״ח פרק ב סעיף צו pg צד)
 # Question 101
 1. Can a cheeseburger be אסור דרבנן?
 ## Answer
 1. Yes. If it is fake meat/cheese, then there is a מראית עין issue, which is an איסור דרבנן.
+# Question 102
+1. Someone makes an omelet in a clean בן יומו dairy pan and they use a clean בן יומו meat spatula. What is the הלכה?
+## Answer
+<span style="color:rgb(255, 0, 0)">Add link to סימן צה סעיף ג</span>
+### Basic Issues
+1. This is a case of נ"ט בר נ"ט. The question is, do we have נ"ט בר נ"ט דאיסורא?
+### רמ"א
+1. Everything is אסור because this is a case of נ"ט בר נ"ט דאיסורא. There are two possible reasons for why this is:
+	1. The כלים may have directly touched and transferred בליעות straight from one to the other.
+	2. Both כלים transferred בליעות into the egg, and the בליעות directly meet with each other.
+### מחבר
+1. Everything is מותר as this is not considered to be נ"ט בר נ"ט דאיסורא. The מחבר doesn't say why he isn't concerned 

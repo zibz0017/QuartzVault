@@ -8,7 +8,7 @@
 3. If the people are out of arm's reach of each other, there is no issue.[^4]
 4. If there are other people eating at the table as well, there is no issue.[^5]
 # Sharing a כלי
-1. One may not share a keli with someone eating something that is אסור to them (for example, if you are eating dairy/meat, you can't share a keli with someone else eating the opposite) because the food sticks to the keli.[^6]
+1. One may not share a כלי with someone eating something that is אסור to them (for example, if you are eating dairy/meat, you can't share a כלי with someone else eating the opposite) because the food sticks to the כלי.[^6]
 2. For some additional points about this, see [[Sharing a כלי|here]].
 # Footnotes
 

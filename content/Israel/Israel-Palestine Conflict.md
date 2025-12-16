@@ -6,7 +6,7 @@
 4. At the time, radical Islam was not seen as a threat (the PLO was a secular movement) {Not sure what their motives were, or if they still are the same now}.[^2]
 5. There were some experts who were worried about what this charity could turn into, but without the benefit of hindsight, it may be hard to determine how legitimately these concerns should have been taken.[^2]
 # Claims of Israel Violating International Law:
-*Note: This analysis does not include the fact that according to halacha, perhaps the right thing is to kill innocent goyim and the like for the sake of saving Jews. This is looking at it from a secular moral perspective.*
+*Note: This analysis does not include the fact that according to הלכה, perhaps the right thing is to kill innocent goyim and the like for the sake of saving Jews. This is looking at it from a secular moral perspective.*
 ## Recent Claims
 ### White Phosphorus
 1. There are claims that Israel uses white phosphorus. {<font color="#ff0000">Need source</font>}

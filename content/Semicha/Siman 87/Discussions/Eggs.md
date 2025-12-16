@@ -12,6 +12,6 @@
 3. The ט"ז brings down a similar answer from the טור who presents an answer that the egg doesn't taste like meat. As such, there is no בב״ח issue. However, the הלכות of אבר מן החי are not dependent on taste.
    The רשב"א doesn't like this answer (and seemingly the answer from the ש"ך, [[#^9b9931|above]]) because he doesn't like this limbo state. The רשב"א says that if something is considered meat, it is considered meat in terms of all things. ^65569a
 # Why One Doesn't Have to Wait after Eating "Fleishig" Eggs
-<span style="color:rgb(255, 0, 0)">See note 1 on page 88 in my shulchan aruch where I bring down the יד Yehuda Piriush Haaruch Sk 8</span>
+<span style="color:rgb(255, 0, 0)">See note 1 on page 88 in my shulchan ערוך where I bring down the יד Yehuda Piriush Haaruch Sk 8</span>
 ## Problem
 ## Answer

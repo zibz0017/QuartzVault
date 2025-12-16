@@ -25,13 +25,13 @@
 1. One should be מחמיר on the dish that started out מותר.
 ### Reason
 1. In this case, there is no התר of נ"ט בר נ"ט because we are dealing with איסור (rather than בב״ח).
-2. Despite this, it is not clear if the מותר plate becomes אסור. For this to happen, we need בליעות from the אסור *dish* and then go into the מותר *dish*. Perhaps ערוי doesn't have the power to pull בליעות out one dish and put it into a different dish. (In other words, the ש"ך can hear the רמ"א, somewhat.)
+2. Despite this, it is not clear if the מותר plate becomes אסור. For this to happen, we need בליעות from the אסור *dish* and then go into the מותר *dish*. Perhaps ערוי doesn't have the power to pull בליעות out one dish and put it into a different dish. (In other words, the ש"ך can hear the [[#שיטה of the רמ"א|reasoning of the רמ"א]], somewhat.)
    As such, one should be מחמיר.
 ## Case 4
 1. One dish was a בן יומו. The other dish was dirty.
 ### הלכה
 1. The clean dish is אסור. One should be מחמיר on the dirty dish.
 ### Reason
-1. The clean dish is אסור for the reason discussed earlier. The בליעות are from the food are pulled out and then put into the other dish, making it אסור.
+1. The clean dish is אסור for the reason discussed earlier. The בליעות from the food are pulled out and then put into the other dish, making it אסור.
 2. The dirty plate is more complicated. For the dirty plate to become אסור, we need בליעות from the food to go to the water, go into the other plate (making it אסור), pull בליעות from the now-אסור plate and into the water, and then put the בליעות back into the dirty plate. Somewhat similar to what we just said in [[#Case 3|case three]], it is not clear if ערוי has the power to do this.
    As such, one should be מחמיר.

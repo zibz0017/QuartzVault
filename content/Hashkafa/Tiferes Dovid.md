@@ -9,24 +9,24 @@
 1. There is more written "between the lines" than what is actually "on the line".[^2]
 2. One develops his understanding of the sugya through intense focus on extracting from what is written, rather than coming up with one's own svaros. The advantage of this is that one's תורה is built on חז"ל, rather than oneself.[^3]
 #### Particular Points to Examine
-1. Lashon.[^2]
+1. לשון.[^2]
 2. "כלומר"s in רש"י (רש"י isn't saying the פשוט פשט. What is the פשוט פשט and why didn't רש"י like it?)[^2]
 3. <span style="visibility:hidden">l</span>המשך in 'תוס (what does a question have to do with the previous step of 'תוס).[^2]
 4. <span style="visibility:hidden">l</span>הוה אמינא of 'תוס (how did he understand our 'גמ before his answer and what changed. If 'תוס brings a different 'גמ in his answer, how did he understand that 'גמ when he asked his question).[^2]
-5. Multiple answers in 'תוס (each answer has weaknesses. What are they? Sometimes, each answer becomes the basis of a halacha lemaysa machlokes, so getting clarity is important).[^2]
+5. Multiple answers in 'תוס (each answer has weaknesses. What are they? Sometimes, each answer becomes the basis of a הלכה למעשה machlokes, so getting clarity is important).[^2]
 #### Others Who Agree
 1. The חזון איש,[^4] the ספר דרכי הגמרא<span style="visibility:hidden">l</span>,[^5] and the Ramchal[^6] talk about the tremendous importance of focus on the words of the חז"ל. 
 2. The חזון איש further says that true ameilus is pushing to understand the words of חז"ל to the point where it is difficult. This opens a שער אורה and one is zocheh to all of the segulos of the תורה. One needs to be cautious about relying too much on svara.[^7]
-3. Rav Dovid learned to focus on the הוה אמינא of 'תוס from the Chofetz Chaim.[^2]
+3. Rav Dovid learned to focus on the הוה אמינא of 'תוס from the Chofetz חיים.[^2]
 4. Rabbi Akiva Eiger viewed 'תוס's הוה אמינא as 'תוס's פשיט פשט in Shas.[^8]
-#### Balance of Svara and Lashon
+#### Balance of Svara and לשון
 1. At the same time, this has to be balanced with svara.[^1]
-2. Sometimes, a ראשון may want to reference a few different possible interpretations of the 'גמ in his answer. As such, no single interpretation reads smoothly and it is not supposed to. In this situation, saying a pshat that fits with the lashon is not going to be correct. This is a limitation on using lashon.[^9]
+2. Sometimes, a ראשון may want to reference a few different possible interpretations of the 'גמ in his answer. As such, no single interpretation reads smoothly and it is not supposed to. In this situation, saying a pshat that fits with the לשון is not going to be correct. This is a limitation on using לשון.[^9]
 3. Obviously, svara and bekiyos are important. The point is that these should not form the main basis of one's pshat.[^10]
 ### Corollaries
 #### Focus on ראשונים
 1. For this reason, Rav Dovid would focus on ראשונים as they were closer to the emes and so there is more to pull out.[^10] (And they wrote more exactly so one can rely on diyukim[^11])
-2. Rav Chaim uncovered many of the yesodos developed in Rav Chaim Al HaRambam from רש"י and 'תוס.<span style="visibility:hidden">l</span>[^12] Rav Chaim said that the goal is to uncover the chiddushim of the ראשונים, not come up with our own.[^13]
+2. Rav Chaim uncovered many of the yesodos developed in Rav חיים על HaRambam from רש"י and 'תוס.<span style="visibility:hidden">l</span>[^12] Rav Chaim said that the goal is to uncover the chiddushim of the ראשונים, not come up with our own.[^13]
 3. Practically, we do need help from the אחרונים to be able to understand the ראשונים, but the main focus should still be on understanding the ראשונים.[^14]
 #### Focus on Major Machlokesim
 1. Many ראשונים will talk about all the major points of the sugya. This gives one a lot of material to work with.[^12]
@@ -46,7 +46,7 @@
 4. Even so, one should set some sort of time limits for how long they spend on a sugya.[^26]
 ### Hard Work in Tangential Areas
 1. <span style="display: block; text-align: justify;">Putting effort into areas that are tangential to the learning also helps one with the learning.[^27]</span>
-2. <span style="display: block; text-align: justify;">Avimi traveled to Rav Yochanan, his תלמיד, to help him work out a halacha he forgot. Because of the effort of going there, and because Avimi honored the תורה by being willing to travel to his תלמיד, they were able to figure it out.[^28]</span>
+2. <span style="display: block; text-align: justify;">Avimi traveled to Rav Yochanan, his תלמיד, to help him work out a הלכה he forgot. Because of the effort of going there, and because Avimi honored the תורה by being willing to travel to his תלמיד, they were able to figure it out.[^28]</span>
 ### Benefits
 #### Help Fighting One's יצר
 1. <span style="display: block; text-align: justify;">Learning תורה בעיון and with effort can help one overcome his יצר (see [[#^8c01d0|here]], [[#^a896ee|here]], and [[#^b72bbb|here]]).</span>
@@ -54,12 +54,12 @@
 1. <span style="display: block; text-align: justify;">Working hard on תורה increases one's attachment to תורה.[^29]</span>
 #### People Listen to You
 1. <span style="display: block; text-align: justify;">Learning תורה causes people to listen to you.[^30]</span>
-2. <span style="display: block; text-align: justify;">The Medrash says that Hashem told משה that כלל ישראל would listen to him because of his ameilus in תורה.[^31] This was the reason that was highlighted, more so than all of משה's other maalos.[^30]</span>
+2. <span style="display: block; text-align: justify;">The מדרש says that Hashem told משה that כלל ישראל would listen to him because of his ameilus in תורה.[^31] This was the reason that was highlighted, more so than all of משה's other maalos.[^30]</span>
 3. <span style="display: block; text-align: justify;">This may work through some sort of spiritual type of force, or it could be that כלל ישראל appreciated משה's hard work in trying to understand the תורה to be able to give it over to them.[^30] {<span style="color:rgb(255, 0, 0)">According to this, I don't see why that would apply to other people unless they are also teaching תורה to the people listening.</span>}</span>
 ### Discussed by חז"ל and גדולים
 1. The Maharzu says that if one doesn't try hard, he won't be able to grasp תורה.[^32] (He might imply that one may achieve minimal understand, at best.[^11])
 2. According to רבינו בחיי, משה was zoche to his greatness because he put in tremendous effort to be "מעיין בחכמה".<span style="visibility:hidden">l</span>[^33]
-3. According to the יפה תואר, Betzalel was able to be mechavein to the daas of Hashem through his hard work in תורה.[^34]
+3. According to the יפה תואר, Betzalel was able to be mechavein to the דעת of Hashem through his hard work in תורה.[^34]
 4. This seems to be what חז"ל mean by לא יגעתי ומצאתי אל תאמן. One needs to put in work to be able to understand.[^18]
 5. The Chasam Sofer talks about how even the greatest chachomim need to put in tremendous work.[^35]
 6. Rav Naftali Trop said that he had a a difficult time pushing himself because he was very quick and was able to quickly get a working pshat. However, he pushed himself to work hard anyway. He said that that was why he became who he became.[^17]
@@ -108,10 +108,10 @@
 1. Rav Yaakov Kaminetzky was tremendously machshiv Rab Dovid. Rav Yaakov felt that Rav Dovid was uniquely talented at getting pshat.[^2] He sent his son (Rav Binyomin Kaminetzky) to learn by Rav Dovid and said that he would have sent Rav Binyomin to America to learn by Rav Dovid even if he still lived in Europe (meaning, over the many great roshei yeshiva of Europe in that time).[^15]
 2. Rav Yaakov learned with Rav Dovid when Rav Yaakov first came to Slabodka and said that the two zmanim they spent together formed the basis of Rav Yaakov's learning.[^15]
 3. Rav Yaakov described himself as a תלמיד-chaver of Rav Dovid.[^15]
-4. <span style="display: block; text-align: justify;">If Rav Dovid would not be mechavein to 'תוס's question on רש"י, on the Maharasha's question on Tosofas when learning with the Chofetz Chaim, the Chofetz Chaim would tell Rav Dovid that he was not focusing properly (when the questions were from within the sugya, not from bekiyos).[^36]</span> ^da3f84
+4. <span style="display: block; text-align: justify;">If Rav Dovid would not be mechavein to 'תוס's question on רש"י, on the Maharasha's question on Tosofas when learning with the Chofetz חיים, the Chofetz חיים would tell Rav Dovid that he was not focusing properly (when the questions were from within the sugya, not from bekiyos).[^36]</span> ^da3f84
 5. <span style="display: block; text-align: justify;">Rav Dovid would sometimes focus on the same question for hours without moving until he got an answer or got a headache.[^54]</span> ^ae8f5d
 6. <span style="display: block; text-align: justify;">Rav Dovid would focus so hard that he would start sweating, even when he was learning in the winter at home (and he couldn't afford heat).[^55]</span> ^10a174
-# Further מראי Mekomos
+# Further מראי מקומות
 1. ספר המקנה ל: ד"ה בגמרא ושננתם
 2. פרקי אבות א א רבינו יונה ד"ה הם אמרו
 3. פרקי אבות ד ה רבינו יונה ד"ה והלומד

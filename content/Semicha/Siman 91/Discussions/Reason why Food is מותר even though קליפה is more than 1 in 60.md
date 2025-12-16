@@ -1,19 +1,21 @@
-*Presented by ש"ך ס"ק ח and פתחי תשובה ס"ק ה*
-<span style="color:rgb(255, 0, 0)">Need to check out ט"ז ס"ק ז</span>
+*Presented by ש"ך ס"ק ח, ט"ז ס"ק ז, פתחי תשובה ס"ק ה*
 # Case
 1. Hot food is put onto cold food.
 # הלכה
 1. מעיקר הדין, the foods are all מותר because we say תתא גבר.
-2. However, הלכה lemaysa, we אסור a קליפה of both foods.
+2. However, הלכה למעשה, we אסור a קליפה of both foods.
 # Applications because This is a חומרה
 ## Liquid
 1. If one of the foods was a liquid, if it is not 60x its קליפה, if we were מקפיד that the קליפה needs to be removed, the whole liquid would become אסור, as the קליפה mixes in and there is no way to save the food (you can't remove the קליפה of a liquid).
-2. As such, since this is just a חומרה, some are מקל in this situation. הלכה lemaysa, this is a מחלוקת:
-	1. ש"ך, ט"ז, מהרא"י, מהרש"ל:<span style="visibility:hidden">l</span> אסור.
+2. As such, since this is just a חומרה, some are מקל in this situation. הלכה למעשה, this is a מחלוקת:
+	1. ט"ז, מהרא"י, מהרש"ל:<span style="visibility:hidden">l</span> אסור.
 	2. ת"ח: Only מותר in a case of הפסד מרובה.
-	3. רמ"א: <span style="visibility:hidden">l</span>מותר. (It would seem that the רמ"א here isn't davka, based off what he says in the ת"ח.)
+	3. ש"ך, רמ"א: <span style="visibility:hidden">l</span>מותר. (It would seem that the רמ"א here isn't דוקא, based off what he says in the ת"ח.)
 ## Food Falls into Another Food
-1. Because this is a חומרה, in a case where this food falls into some other food, if the קליפה is not recognizable, we will not אסור the food, even though the קליפה is more than 1/60 of the food. We aren't going to אסור the food because of a חומרה.
+### קליפה is not Recognizable
+1. Same as by [[#Liquid|liquid]].
+### קליפה is Recognizable
+1. If the קליפה is recognizable, the קליפה must be removed and you need 60x.
 ## Pouring איסור onto התר or Meat/Dairy onto it Opposite
 ### Stream is not Broken
 1. If hot איסור is poured onto cold התר, or hot meat/dairy is poured onto its opposite and the stream isn't broken, the קליפה of the food is actually אסור, מעיקר הדין. As such, in such a case, if this food would fall into different food, we would אסור it if the קליפה is more than 1/60.

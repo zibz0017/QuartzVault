@@ -1,4 +1,4 @@
-*Presented by ש"ך ס"ק ב*
+*Presented by ש"ך ס"ק ב, ט"ז ס"ק א*
 # Reason One Can't Rely on a גוי in such a Situation
 1. Once the food stays in the pot for longer than it would take to cool off, there is concern that some of the food in the pot has gotten in to the food that fell in.
 2. This food that was originally in the pot then becomes אסור through חנ"ן.

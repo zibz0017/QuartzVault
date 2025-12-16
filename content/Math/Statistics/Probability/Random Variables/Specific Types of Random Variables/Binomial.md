@@ -1,11 +1,11 @@
 # Definition
-A series of events that only have two possible outcomes.
-There must be a defined number of events.
-The probability for each outcome in each event is the same.
-Examples:
-1. A test, or series of tests, that are pass/fail.
-2. A coin flip (ignoring the fact that the coin can technically land on its side) or series of coin flips. In this example, every coin flip has the same odds of landing on heads or tails as every other coin flip.
-For these events, there are only two possible outcomes.
+Binomials are a specific type of [[Random Variable|random variable]] that has the following rules:
+1. There are only two possible outcomes.
+2. There must be a defined number of events.
+3. The probability for each outcome in each event is the same.
+## Example
+The amount of heads after flipping a coin 10 times (ignoring the fact that the coin can technically land on its side).
+This checks all of the boxes: there are two possible outcomes, there are a defined number of events, and the probability of each event is the same.
 # Calculation
 ## Getting $x$ Amount in 50/50 Events
 Let's say we want to figure out the odds of getting exactly 3 heads in 5 coin flips. The way we would calculate is simply:
@@ -83,8 +83,52 @@ If we graph this, it will look like this:
 
 ## Binomial Distributions Approximate [[Density Curve#Normal Distribution|Normal Distributions]]
 As can be seen in the example above, the binomial distribution somewhat approximates a bell curve, or a normal distribution. The more trials you have, the more the binomial will approximate the normal distribution. It is useful to work with normal distributions because there are certain rules about estimating the probabilities of normal distributions (see the linked article for further discussion).
-# [[Expected Value]] (Average)
-
+# [[Random Variable#Expected Value (Average)|Expected Value (Average)]]
+## Formula
+The expected value (or average) of a binomial is:
+$$(Amount \space of \space events) \times (Probability \space of \space each \space event)$$
+Which is generally written as:
+$$np$$
+## Proof
+A binomial is a certain amount of [[Bernoulli Trial|Bernoulli Trials]], where there is a set amount of events and the probability is independent.
+A Bernoulli Trial is a random variable that has a value of 1 if there is a success and a value of 0 if there is a failure.
+The probability of success is $p$ (by definition. $p$ is literally the probability of success) and the probability of failure is $1-p$.
+A binomial is the value of these Bernoulli Trials added together.
+As discussed [[Adjusting and Combining Random Variables#Random Variable Expected Value (Average) Expected Value (Average)|here]] when adding random variables together, the expected value of these random variables added together is equal to the expected value of each random variable added together.
+As such, the expected value of a binomial is equal to the expected value of each Bernoulli Trial added together, or something like this:
+$$E(Binomial) = E(Bernoulli \space Trial) + E(Bernoulli \space Trial) + ... E(Bernoulli \space Trial)$$
+($E$ means expected value of...)
+We add the expected value for the Bernoulli Trials as many times as there are trials in the binomial. If there are 5 trials, then we add the expected value 5 times to get the expected value of the binomial.
+To make it simpler, instead of adding the expected value together a bunch of times, we can use multiplication, which looks like:
+$$E(Binomial) = n \times E(Bernoulli \space Trial)$$
+($n$ is the amount of Bernoulli Trials in the binomial.)
+As discussed [[Bernoulli Trial#Random Variable Expected Value (Average) Expected Value (Average)|here]], the expected value of a Bernoulli Trial is equal to $p$. As such, replacing that in out equation, we get:
+$$E(Binomial) = n \times p$$
+or just:
+$$E(Binomial) = \boxed{np}$$
+# [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Variance|Variance]] and [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Standard Deviation (σ or $s$)|Standard Deviation]]
+## Variance
+### Formula
+The formula is:
+$$np(1-p)$$
+### Proof
+Similar to what we said by [[#Random Variable Expected Value (Average) Expected Value (Average)|expected value]], a binomial is made up of a bunch of Bernoulli Trials.
+Bernoulli Trials are random variables where there are two possible values, 1 or 0, dependent on whether there is a success or a failure.
+The probability of success is $p$ and the probability of failure is $1-p$.
+As mentioned [[Adjusting and Combining Random Variables#Variance|here]], when we add the variances of numerous random variables, the variance of this "combined random variable" is equal to the variances of each random variable added together, which looks something like this:
+$$V(Binomial) = V(Bernoulli \space Trial) + V(Bernoulli \space Trial) + ... V(Bernoulli \space Trial)$$
+($V$ means variance of...)
+We simplify this by using multiplication instead of addition, which becomes:
+$$V(Binomial) = n \times V(Bernoulli \space Trial)$$
+($n$ is the amount of Bernoulli Trials in the binomial.)
+As discussed [[Bernoulli Trial#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance and Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation|here]], the variance of a Bernoulli Trial is $p(1-p)$. As such, replacing that in out equation, we get:
+$$V(Binomial) = n \times p(1-p)$$
+or just:
+$$V(Binomial) = \boxed{np(1-p)}$$
+## Standard Deviation
+### formula
+The standard deviation is just the square root of the variance. As such, the formula is:
+$$\sqrt{np(1-p)}$$
 # "10% Rule"
 Because each test must be independent, technically, if we run a series of tests without replacement, the tests will not be independent. The odds of the later tests will depend on the results of the earlier tests.
 For example, if I plan on selecting a card from a standard deck of cards 3 times and I want to see if any of them are kings, the odds of the first test is $\frac{4}{52}$, but the odds of the next test depend on the result of my first test. If I picked a king on the first test, the odds of picking another king on the second test is $\frac{3}{51}$, and if I didn't pick a king on the first test, the odds of picking a king on the second test is $\frac{4}{51}$.
@@ -92,4 +136,4 @@ Now, it is useful to work with binomials because they have relatively normal dis
 Obviously, the smaller of a percentage of the data is, the less of a difference each piece of data that is not being replaced makes.
 At the same time, that does not mean that we prefer to work with small samples. Obviously large samples are better. It just means that in terms of achieving independence (or close to it), having a smaller sample is better.
 # Bernoulli Trial
-When we have a binomial but we only focus on a single instance of the experiment, that is called a Bernoulli Trial. For more information about this, see [[Bernoulli Trial|here]].
+When we have a binomial but we only focus on a single instance of the experiment, that is called a Bernoulli Trial. For more details, see [[Bernoulli Trial|here]].

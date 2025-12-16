@@ -1,11 +1,11 @@
 # Background with Minimal Peirush
 1. <span style="display: block; text-align: justify;">כלל ישראל had defeated the city of Yericho in miraculous fashion.[^1]</span>
-2. <span style="display: block; text-align: justify;">Yehoshua pledged all of the loot of the city to Hashem as a cheirem (meaning, it was hekdesh[^2]). This means that people were not allowed to take anything from the city. It was all pledged to Hashem.</span>
-3. <span style="display: block; text-align: justify;">Yehoshua warned the people about this and told them that there would be dire consequences if this was violated.[^3][^4]</span>
+2. <span style="display: block; text-align: justify;">יהושע pledged all of the loot of the city to Hashem as a cheirem (meaning, it was hekdesh[^2]). This means that people were not allowed to take anything from the city. It was all pledged to Hashem.</span>
+3. <span style="display: block; text-align: justify;">יהושע warned the people about this and told them that there would be dire consequences if this was violated.[^3][^4]</span>
 # Basic Storyline with Minimal Peirush
 1. <span style="display: block; text-align: justify;">A man named עכן violated this.[^5] He took a beautiful garment which was from the the king of Babylon,[^6] 200 shekalim weight of silver, and a tongue of gold weighing 50 shekalim.[^7]</span> ^20d140
 2. <span style="display: block; text-align: justify;">כלל ישראל fights a battle against the city of Ai. However, they get driven back and 36 people[^8] are killed. (חז"ל say that there was one tremendous tzadik who was killed, either as part of the 36 people, or he was the only one who was killed.[^9])</span>
-3. <span style="display: block; text-align: justify;">Yehoshua asks Hashem why כלל ישראל lost. Hashem tells Yehoshua that someone violated the cheirem and Yehoshua needs to find the the person who did this for כלל ישראל to get a kapara.[^10]</span>
+3. <span style="display: block; text-align: justify;">יהושע asks Hashem why כלל ישראל lost. Hashem tells יהושע that someone violated the cheirem and יהושע needs to find the the person who did this for כלל ישראל to get a kapara.[^10]</span>
 4. <span style="display: block; text-align: justify;">עכן is discovered and he is executed for this.[^11]</span>
 5. <span style="display: block; text-align: justify;">His family is brought to the execution. From a simple reading, it sounds like they were executed as well.[^12] (This will be [[#Who was Executed|discussed later]].)</span>
 6. <span style="display: block; text-align: justify;">This was an atonement for כלל ישראל. They fight another battle against Ai and are victorious.[^13]</span>
@@ -17,13 +17,13 @@
    <span style="display: block; text-align: justify;">People need more zechusim to survive dangerous situations. As such, some of the soldiers were killed.</span>
    <span style="display: block; text-align: justify;">It wasn't as a direct punishment for עכן's עבירה. It simply caused Hashem to remove his particular hashgacha that would override any particular judgements and keep everyone safe. It happened to be that עכן had not gone to battle so he did not get killed, and only people who had gone out to fight and whose personal zechusim were not enough to keep them safe in the מקום סקנה, did.[^14][^15]</span>
 ### כלל ישראל is One
-1. <span style="display: block; text-align: justify;">כלל ישראל accepted ערבות on themselves[^16][^62] at הר גריזים and הר עיבל.<span style="visibility:hidden">l</span>[^62] This seems to mean that they were like one body. If one part of the body gets hurt, the whole body suffers. Similarly, even though only one person did the עבירה, it is like whole body (meaning, all of כלל ישראל) did the עבירה.<span style="visibility:hidden">l</span>[^15] (I don't understand why this is. Why would someone who did not do the עבירה suffer? In fact, the Ralbag there[^14] quotes a passuk[^17] that says that a person will only die for his own sins and not someone else's.)</span>
+1. <span style="display: block; text-align: justify;">כלל ישראל accepted ערבות on themselves[^16][^62] at הר גריזים and הר עיבל.<span style="visibility:hidden">l</span>[^62] This seems to mean that they were like one body. If one part of the body gets hurt, the whole body suffers. Similarly, even though only one person did the עבירה, it is like whole body (meaning, all of כלל ישראל) did the עבירה.<span style="visibility:hidden">l</span>[^15] (I don't understand why this is. Why would someone who did not do the עבירה suffer? In fact, the רלב"ג there[^14] quotes a passuk[^17] that says that a person will only die for his own sins and not someone else's.)</span>
 ### Lack of Watchmen
 1. <span style="display: block; text-align: justify;">כלל ישראל should have set up watchmen to make sure nobody would take anything.[^18][^16]</span>
 ## How עכן was Discovered
 ### Through Hashem
 #### The Choshen and Gorals
-1. <span style="display: block; text-align: justify;">Yehoshua gathered all of כלל ישראל together the Choshen. Hashem then made the stone of the shevet of the guilty person start glowing (Yehuda).[^20]</span>
+1. <span style="display: block; text-align: justify;">יהושע gathered all of כלל ישראל together the Choshen. Hashem then made the stone of the shevet of the guilty person start glowing (Yehuda).[^20]</span>
 2. <span style="display: block; text-align: justify;">They then had one person from every ראשי משפחה (large family group) enter into a goral. The guilty person's family "won" the raffle. They then had another goral with one person from every בית אב (small family groups) within the ראשי משפחה, followed by another goralfor every person within the בית אב.<span style="visibility:hidden">l</span>[^21]</span>
 3. <span style="display: block; text-align: justify;">This landed on עכן.<span style="visibility:hidden">l</span>[^22]</span>
 ##### Advantage to this פשט
@@ -34,15 +34,15 @@
 ### Denial
 1. <span style="display: block; text-align: justify;">At first, עכן<span style="visibility:hidden">l</span>[^25] and shevet Yehuda (עכן's shevet) denied that עכן took anything. They denied the validity of the goral. Yehuda was even prepared to go to war to defend עכן.<span style="visibility:hidden">l</span>[^26]</span> ^50e26b
 ### Admission of עכן and Discovery of the Items He Took
-#### Yehoshua Asks עכן to Admit
-1. <span style="display: block; text-align: justify;">Yehoshua then asked עכן to admit to what he did. Yehoshua did this because:</span>
+#### יהושע Asks עכן to Admit
+1. <span style="display: block; text-align: justify;">יהושע then asked עכן to admit to what he did. יהושע did this because:</span>
 	1. <span style="display: block; text-align: justify;">He knew that the land would be divided using a goral. He didn't want people to start denigrating a goral as this could cause mistrust in the division of the land.[^27]</span>
 	2. <span style="display: block; text-align: justify;">Part of עכן's עבירה was that he acted like he was afraid of people more than he was afraid of Hashem (see [[#^a7c921|later]]). As such, part of the תשובה process was for him to admit in front of people that he took the items.[^28]</span>
 	3. <span style="display: block; text-align: justify;">For any עבירה that a person is חייב מיתא, a person gets a kapara by getting killed if they admit to their עבירה.<span style="visibility:hidden">l</span>[^29]</span>
 	4. <span style="display: block; text-align: justify;">This would further corroborate what was proven by Hashem which would glorify Him.[^30][^31]</span>
 #### Admission of עכן
 1. <span style="display: block; text-align: justify;">עכן saw that Yehuda was about to go to war against the rest of כלל ישראל. This would cause thousands of deaths. עכן decided to admit to avoid this.[^32]</span>
-2. <span style="display: block; text-align: justify;">Yehoshua then sent a messenger to quickly go and collect the items to further prove עכן's guilt before anyone from עכן's family[^33] or shevet Yehuda[^34] could go and destroy the evidence.</span>
+2. <span style="display: block; text-align: justify;">יהושע then sent a messenger to quickly go and collect the items to further prove עכן's guilt before anyone from עכן's family[^33] or shevet Yehuda[^34] could go and destroy the evidence.</span>
 3. <span style="display: block; text-align: justify;">Because עכן admitted, he was forgiven and received a share of עולם הבא.[^29]</span>
 #### Rationalizations and Why עכן Violated the Cheirem
 1. <span style="display: block; text-align: justify;">עכן had violated other cheirems ([[#^6b0af4|discussed later]]). As such, it stopped feeling wrong to him.[^35]</span>
@@ -63,7 +63,7 @@
 ### Didn't Need the Items
 1. <span style="display: block; text-align: justify;">עכן didn't even need the items that he took, as is clear from the fact that he hid them (seemingly in a way that they couldn't be easily used).[^42][^46]</span>
 ### Not Listening to a Navi
-1. <span style="display: block; text-align: justify;">כלל ישראל is commanded to listen to a navi. As such, even putting aside the fact that there was a cheirem, Yehoshua had told them not to take anything.[^47]</span>
+1. <span style="display: block; text-align: justify;">כלל ישראל is commanded to listen to a navi. As such, even putting aside the fact that there was a cheirem, יהושע had told them not to take anything.[^47]</span>
 ### Denying Any Wrongdoing
 1. <span style="display: block; text-align: justify;">עכן originally denied taking anything (as [[#^50e26b|mentioned]]).</span>
 2. <span style="display: block; text-align: justify;">עכן may have been seen by some people and he denied any wrongdoing to them.[^25] (It isn't clear why this is an עבירה, exactly. Perhaps it is simply because עכן lied.)</span>
@@ -75,7 +75,7 @@
 ### Only עכן
 1. <span style="display: block; text-align: justify;">Only עכן was killed. The passuk is putting together the people who are supposed to witness עכן's execution (but were not executed) and עכן's possessions (which were destroyed along with עכן).[^51]</span>
 #### Indications
-1. <span style="display: block; text-align: justify;">The passuk says: "Yehoshua took עכן son of זרח, and the silver, and the garment, and the tongue of gold, and his sons, and his daughters, and his ox, and his donkey, …, *and all the Jews with him*, and they went up to the Valley of עכן… and כלל ישראל threw stones at him and burned them in fire…"[^52]</span>
+1. <span style="display: block; text-align: justify;">The passuk says: "יהושע took עכן son of זרח, and the silver, and the garment, and the tongue of gold, and his sons, and his daughters, and his ox, and his donkey, …, *and all the Jews with him*, and they went up to the Valley of עכן… and כלל ישראל threw stones at him and burned them in fire…"[^52]</span>
    <span style="display: block; text-align: justify;">If this is to be read as a list of all the things that were destroyed/killed, it would mean that the entire כלל ישראל would be included. Obviously, this is not how the passuk should be read.[^51]</span>
 2. 
    <span style="display: block; text-align: justify;">The passukim say "כלל ישראל threw stones at *him*"[^53] (not them), and "and they built upon *him* a large mound of stones"[^54] (not them).[^55]</span>
@@ -94,7 +94,7 @@
 #### Both
 1. <span style="display: block; text-align: justify;">עכן suffered both punishments. He was stoned and burned to death, for the reasons discussed previously.[^58]</span>
 ### His Possessions
-1. <span style="display: block; text-align: justify;">עכן's possessions were destroyed as Hashem had commanded Yehoshua.[^59]</span>
+1. <span style="display: block; text-align: justify;">עכן's possessions were destroyed as Hashem had commanded יהושע.[^59]</span>
 #### Why עכן's Possessions were Destroyed
 1. <span style="display: block; text-align: justify;">Hashem commanded this as a warning to, and impress the seriousness upon, כלל ישראל about the עבירה of violating a cheirem.[^60]</span>
 #### Either

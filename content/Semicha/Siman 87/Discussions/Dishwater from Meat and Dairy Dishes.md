@@ -8,5 +8,5 @@
 1. The case that the רמ"א is referring to is where the dishwater is hot.
 ### Problem
 1. RA"E asks if this is the case, why does the רמ"א discuss the fact that this water was fed to animals? Even if the water is not fed to animals there is still a problem of cooking the meat and milk together.
-## Minchas Yaakov
-1. This case is where the food is not hot, but despite this, one the רמ"א considers whether one should avoid purposely mixing milk and meat together to get hannah out of the resulting mixture.
+## מנחת יעקב
+1. This case is where the food is not hot, but despite this, one the רמ"א considers whether one should avoid purposely mixing milk and meat together to get הנאה out of the resulting mixture.

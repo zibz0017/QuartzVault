@@ -26,14 +26,14 @@ The standard deviation will also increase by 5 times, because now, everyone is 5
 # Adding and Subtracting Random Variables Together
 Let's say we want to combine random variables to together, like, let's say we took the heights of a bunch of people on Sunday and we calculated the mean and variance and then we took the height of a bunch of other people on Monday and also calculated the mean and variance.
 Now, let's say we want to randomly select one person from each group. What is the expected value and mean of these 2 people together (meaning, if we added their heights together)?
-## Expected Value (Mean)
+## [[Random Variable#Expected Value (Average)|Expected Value (Average)]]
 The expected value of this group is simply the means of each group added together/subtracted from each other (depending on whether you are adding them together or subtracting them from each other). Written in formula, this is:
 $$\mu_{X+Y}=\mu_X+\mu_Y$$
 and:
 $$\mu_{X-Y}=\mu_X-\mu_Y$$
 ($X$ and $Y$ are random variables)
 ## Variance
-The variance of the combined group depends on how independent the selections are. If the selections are totally independent (meaning, we randomly select someone from the first group and randomly select someone from the second group. We don't make a decision about who to select from the second group based on who we selected in the first group) then the variance is simply the variance of both groups added together. This is true for both adding the random variables together or subtracting them from each other.
+The variance of the combined group depends on how independent the selections are. If the selections are totally independent (meaning, we randomly select someone from the first group and randomly select someone from the second group. We don't make a decision about who to select from the second group based on who we selected in the first group) then the variance is simply the variance of both groups added together. This is true for both adding the random variables together or subtracting them from each other (meaning, we always add the variances together, whether we are adding the random variables together or subtracting).
 For a simple example of why the selections must be independent, see [[#Example 4|below]].
 The formula is:
 $$\text{Var}(X + Y) = \text{Var}(X) + \text{Var}(Y) + 2 \cdot \text{Cov}(X, Y)$$

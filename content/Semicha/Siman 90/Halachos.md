@@ -24,7 +24,7 @@
 2. <span style="visibility:hidden">l</span>רמ"א:<span style="visibility:hidden">l</span> מותר לכתחילה if crisscrossed and hung on a wall only if it is not prepared in a pan.[^5]
    However, if it was dried (for more details, see [[Drying Udder|here]]) this is מותר, even in a pan.[^6]
    For an additional הלכה, see [[פשטידה in an Oven with Meat|here]].
-3. <span style="visibility:hidden">l</span>יש Peirushim: <span style="visibility:hidden">l</span>אסור unless dried, in which case, it would be מותר, even in a pan.[^6]
+3. <span style="visibility:hidden">l</span>יש פירושים: <span style="visibility:hidden">l</span>אסור unless dried, in which case, it would be מותר, even in a pan.[^6]
 4. מהרש"ל: Even if it was dried it is אסור in a pan.[^7]
 #### Case 3
 1. Frying without other meat, or
@@ -98,7 +98,7 @@ For further discussion of these הלכות, see [[Pockets of Milk|here]].
 	2. There is milk that is in grooves in the udder. The milk then gets the taste of meat. The milk gets cooked out, but we are concerned that the person won't cook it all the way and so we asur it. (ש"ך 5)
 7. Technically, it should really just be the amount of milk that has drained out of the udder and into the meat. However, since this is hard to measure, we say treat it like the whole udder is asur. (ש"ך 4)
 8. See ט"ז 2 for why it only needs to be 59x.
-9. The reason for the difference between udder cooked by itself vs cooked with other meat is that the milk in the udder has taste of the udder and the udder has taste from the milk. As such, חז"ל were not גוזר on a case when the udder and milk are cooked by themselves. (בדי Hashulchan bringing down the Trumas Hadeshen bringing down the Levush)
+9. The reason for the difference between udder cooked by itself vs cooked with other meat is that the milk in the udder has taste of the udder and the udder has taste from the milk. As such, חז"ל were not גוזר on a case when the udder and milk are cooked by themselves. (בדי השלחן bringing down the Trumas Hadeshen bringing down the Levush)
 10. There is no difference between a baby cow (that doesn't give milk) and a mother cow. (ש"ך 2)
 ### Udder Falls into Second Pot
 1. If the udder falls into a second pot after falling into the first:
@@ -107,7 +107,7 @@ According to most opinions the udder in the second pot counts as part of the mea
 The reason for this is because the udder isn't really אסור. It is only אסור because of the the side reasons said [[#^c3c474|earlier]], but the udder is not actually בב״ח. As such, the same way it counted toward the התר side in the first pot, it also counts toward the התר in the second pot. (ש"ך 5)
 #### If there Was \<59x the Meat in the First Pot
 Machlokes:
-	- רמב"ם and Shulchan Aruch say it does not count as part of the meat. As such, you need 60x. (ט"ז 4)
+	- רמב"ם and Shulchan ערוך say it does not count as part of the meat. As such, you need 60x. (ט"ז 4)
 	- רמ"א says that the udder does count as the meat and so you only need 59x.
 ### Basis for Machlokes
 1. This machlokes is really about whether there is חנ"ן by isur דרבנן (need to rewrite it that way). (ט"ז 4)

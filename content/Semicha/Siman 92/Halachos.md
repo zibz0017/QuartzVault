@@ -67,8 +67,8 @@ For further discussion of the מחלוקת between the מחבר and רמ"א, see
 ## ספק חנ"ן
 1. See [[מחלוקת מחבר רמ''א about Being מבטל a ספק|here]].
 # בב״ח Into a Parve Food in a כלי ראשון Removed from the Fire
-1. If a food has איסור balua and it falls into a food that was removed from the fire, it does not emit the איסור into the food and so the rest of the food remains kosher.[^14]
-2. This even applies to a piece of dairy/meat that is אסור because of בב״ח and it falls into a food. This is considered to be an איסור balua and so the rest of the food is fine.[^14] (In other words, this is a slight exception to חנ"ן. If actual אסור food would fall into the pot in this situation, the food would release בליעות and potentially make the rest of the food אסור. In this situation, it is not able to.)
+1. If a food has איסור בלוע and it falls into a food that was removed from the fire, it does not emit the איסור into the food and so the rest of the food remains kosher.[^14]
+2. This even applies to a piece of dairy/meat that is אסור because of בב״ח and it falls into a food. This is considered to be an איסור בלוע and so the rest of the food is fine.[^14] (In other words, this is a slight exception to חנ"ן. If actual אסור food would fall into the pot in this situation, the food would release בליעות and potentially make the rest of the food אסור. In this situation, it is not able to.)
 # Drop Falls onto the outside of a Pot
 ## The Pot is Hot
 ### Background
@@ -88,7 +88,7 @@ For further discussion of the מחלוקת between the מחבר and רמ"א, see
 1. If the food in the pot is 60x the amount of the drop, the food is מותר.<span style="visibility:hidden">l</span>[^15]
 #### The Pot
 1. ש"ך: The pot becomes אסור, and so one should immediately pour the food out.[^17]
-2. ט"ז:<span style="visibility:hidden">l</span> We are mesupak about what happens to the בליעות from the drop:
+2. ט"ז:<span style="visibility:hidden">l</span> We are מספק about what happens to the בליעות from the drop:
 	1. It doesn't go into the pot.
 	2. It spreads directly through the pot and into the food.
 	3. As such, the pot is מותר, but one should not use the pot because it looks like it is אסור.
@@ -97,11 +97,11 @@ For further discussion of the מחלוקת between the מחבר and רמ"א, see
    An application of this is if we have milk in a כלי, and that כלי is put into a hot בן יומו meat pot, the הלכה will be that we view the milk as going straight through the כלי, straight through the water, and straight into the meat pot.[^18]
    <span style="color:rgb(255, 0, 0)">I don't think the חב"ד belongs here</span>
 ### Exception
-1. If the drop falls on the pot near the fire so that it is nearly instantly dried up, everything is מותר. If a lot of liquid falls on the pot near the fire so that it doesn't dry up[^19]
+1. If the drop falls on the pot near the fire so that it is nearly instantly dried up, everything is מותר.<span style="visibility:hidden">l</span>[^19]
 ## The Spill is Hot and the Pot is not
 <span style="color:rgb(255, 0, 0)">See סעיף ז</span>
 1. If food in a pot on the fire was poured onto a cold כלי, then:
-	1. If there is a stream connecting them, this is considered ערוי כלי ראשון and so the pot would be אסור. For the status of the food, see [[Reason why Food is מותר even though קליפה is more than 1 in 60#Liquid|here]]. For a discussion about why this is considered תתא גבר, see [[Why a Stream Falling on the Side of a Pot is Considered תתא גבר|here]].[^20]
+	1. If there is a stream connecting them, this is considered ערוי כלי ראשון and so the pot would be אסור.<span style="visibility:hidden">l</span>[^20] For the status of the food, see [[Reason why Food is מותר even though קליפה is more than 1 in 60#Liquid|here]]. For a discussion about why this is considered תתא גבר, see [[Why a Stream Falling on the Side of a Pot is Considered תתא גבר|here]].
 	2. If the stream is broken this is considered to be a כלי שיני and so everything is fine.[^20] If it stuck there (like if butter fell onto a meat pot), then it needs to be scraped off.[^21]
 # Putting a Pot Down on a Spill
 ## Case 1
@@ -126,45 +126,48 @@ For the reason, see [[Reason Behind the הלכות When a Pot is Put on a Spill#
 # הגלה on כלים
 1. Filling up a כלי with water and heating it up does not work for הגלה. One has to dip the כלי into boiling water.[^25]
 # Steam
-1. Steam from a dairy/meat dish can אסור food of the opposite type.[^26]
-2. This is only when:[^26]
-	1. The food getting hit with steam is not 60x the amount of the food emitting the steam (note, that it is 60x the size *of the food emitting steam*, not 60x the size *of the steam*).
-	2. The steam needs to be יד סולדת בו.
-3. Practically, a pot that is covered will not emit steam.[^26]
-4. According to some, the steam needs to be coming from a liquid. If it came from a solid (the example given is cheilev that somewhat melts), everything is fine.[^27]
+1. Steam from a dairy/meat dish that touches dishes or food of the opposite type can אסור them through and through.[^26]
+## Requirements
+1. The food getting hit with steam is not 60x the amount *of the food emitting the steam* (note, that it is 60x the size *of the food emitting steam*, not 60x the size *of the steam*).[^27]
+2. The steam needs to be יד סולדת בו.<span style="visibility:hidden">l</span>[^27] However, if the steam is under יד סולדת בו and the top item is hot, it will become אסור כדי קליפה (like other cases of תתא גבר).[^31]
+3. A covered pot will not emit steam.[^27] However, it seems that לכתחילה, one should not put two foods in a situation that if they were to be uncovered, there would be a problem.
+4. According to some, the steam needs to be coming from a liquid. If it came from a solid (the example given is cheilev that somewhat melts), everything is fine.[^28]
+## Status of the Bottom Food
+1. דגול מרבבה: בליעות travel from the food that is hit by the steam back to the food that is emitting the steam and can אסור it.[^29]
+2. None of the other מפרשים on the page discuss the status of the bottom food, so it would seem that according to everyone else, the bottom food is fine.
 # Candles
 1. If איסור from a candle (like if the candle is made of cheilev) falls onto a כלי, if the liquid fell from right by the flame, the כלי requires הגלה.
 2. If it fell from a different part of the candle, then the [[#The Spill is Hot and the Pot is not|standard dinim of a hot liquid that falls onto a כלי apply]] (usually there won't be a continuous stream so the pot is fine and it just needs to have whatever came from the candle scraped off).
 # Ladles
-1. The מהרי"ל says that if you dip a ladle (or any כלי) into a boiling כלי that is on the fire and leave it there for some time, the liquid in the ladle when you pull it out counts as a כלי ראשון (regarding kashering for פסח).[^28]
+1. The מהרי"ל says that if you dip a ladle (or any כלי) into a boiling כלי that is on the fire and leave it there for some time, the liquid in the ladle when you pull it out counts as a כלי ראשון (regarding kashering for פסח).[^30]
 2. For questions on this, see [[Ladles|here]].
 # Unorganized Notes
 ## סעיף 2
 ### Milk that Falls into Boiling Meat in a Pot of Food
 #### Pot is not Mixed or Covered
 ##### Status of the Meat
-###### Shulchan Aruch
+###### Shulchan ערוך
 Have a גוי taste it. (Since the milk is liquid, the meat doesn't go into the milk and coming back out again, so there is no issue even if the milk stays there).
 ###### רמ"א
 In all cases you need the meat to be 60x the amount of the milk. We don't rely on a גוי.
 ##### Status of the Rest of the Food
-###### Shulchan Aruch
+###### Shulchan ערוך
 There is a 2 step process. The milk first attempts to "infect" the meat. If it successfully "infects" the meat, then the milk *and the meat* attempt to "infect" the rest of the pot. The rest of the food in the pot needs to be 60x the amount of the milk *and meat*.
 ###### רמ"א
 The milk doesn't "infect" the meat first. You need the rest of the food to be 60x the amount of milk only.
 #### Pot is Mixed or Covered
-If the pot is mixed or covered quickly after the milk falls into the pot, the Shulchan Aruch agrees to the רמ"א that the milk doesn't "infect" the meat first. You need the rest of the food to be 60x the amount of milk only. If there is 60x, nothing is אסור. If there is not, then everything is אסור.
+If the pot is mixed or covered quickly after the milk falls into the pot, the Shulchan ערוך agrees to the רמ"א that the milk doesn't "infect" the meat first. You need the rest of the food to be 60x the amount of milk only. If there is 60x, nothing is אסור. If there is not, then everything is אסור.
 ### סתירה in בית יוסף
 *Presented in ש"ך ס"ק 3*
 #### Question
-The B"Y seems to say that the milk can אסור the whole meat. But why doesn't it only אסור כדי klipah, like the Shulchan Aruch says in סימן 105 סעיף 4, where he says that when there is no rotev (and potentially, even if it is partially submerged in rotev), it only assurs כדי קליפה?
+The B"Y seems to say that the milk can אסור the whole meat. But why doesn't it only אסור כדי klipah, like the Shulchan ערוך says in סימן 105 סעיף 4, where he says that when there is no rotev (and potentially, even if it is partially submerged in rotev), it only assurs כדי קליפה?
 (Even though the milk is a liquid, the ש"ך is clearly not viewing it like rotev. It appears rotev needs to be a significant amount of liquid. A few drops of milk does not count. (Own thoughts))
 #### Answer 1
 Milk is fatty. Fatty things spread throughout.
 ##### Question on Answer
-The Rashba is mashma that milk is not fatty and the Shulchan Aruch seems to agree with that.
+The Rashba is משמע that milk is not fatty and the Shulchan ערוך seems to agree with that.
 #### Answer 2
-The case that the Shulchan Aruch happens to be talking about is a case where the meat is fatty.
+The case that the Shulchan ערוך happens to be talking about is a case where the meat is fatty.
 ### Half in Half out of Rotev
 *ש"ך 4*
 #### ר"י
@@ -184,13 +187,13 @@ The ש"ך paskens like the ר"י. (ש"ך 4)
 #### How to Understand רש"י
 *ט"ז 2*
 There is a machlokes between the S"A and the רמ"א.
-##### Shulchan Aruch
-The milk attempts to infiltrate the piece of meat. If the piece is 60x the size of the milk, there is no problem If it is not, the piece is אסור. But then, the milk *and the meat* infiltrate the rest of the pot unless the rest of the dish is 60x the amount of the milk *and the meat*. This is pshat in the Shulchan Aruch (who says exactly this, namely, that the milk can "double jump", first to the meat, and then to the rest of the dish.)
+##### Shulchan ערוך
+The milk attempts to infiltrate the piece of meat. If the piece is 60x the size of the milk, there is no problem If it is not, the piece is אסור. But then, the milk *and the meat* infiltrate the rest of the pot unless the rest of the dish is 60x the amount of the milk *and the meat*. This is pshat in the Shulchan ערוך (who says exactly this, namely, that the milk can "double jump", first to the meat, and then to the rest of the dish.)
 ##### רמ"א
 The milk infiltrates the meat and makes it אסור. However, it doesn't go any farther than that. (The ש"ך also says this.)
 ### How long Does it Have to Be Mixed?
 *ש"ך 5*
-Most poskim: It only needs to be mixed/covered shortly after falling in. It does not need to be continually mixed.
+Most פוסקים: It only needs to be mixed/covered shortly after falling in. It does not need to be continually mixed.
 Potentialy the מחבר (according to some): It needs to be mixed/covered shortly after falling in and continually afterwards. (I think. He says "mitichilah vilibasof". Not sure what "libasof" means.)
 ### סתירה in the רמ"א
 *ש"ך 6*
@@ -198,7 +201,7 @@ Potentialy the מחבר (according to some): It needs to be mixed/covered shortl
 The רמ"א says that if a drop of milk falls onto a piece of meat in a dish, the piece is אסור, and you need the rest of the dish to have 60x the amount of the drop.
 How does this make sense? If the piece of meat is אסור, how does it make sense that the rest of the dish needs to be 60x the milk drop? If the meat is אסור, then the רמ"א is showing that he is viewing the meat by itself. As such, how could the rest of the dish be in danger of becoming אסור?
 #### Answer
-The רמ"א is mesupak if we פסקען like רש"י or like the ר"י. As such, the piece of meat is אסור misafeik, as according to רש"י, the piece of meat is on its own (and the case is clearly where the piece of meat on its own is not 60x the size of the milk drops). However, we still need 60x the amount of the milk drop for the rest of the pot misafeik, as according to the ר"י, the piece of meat is viewed as part of the rest of the dish.
+The רמ"א is מספק if we פסקען like רש"י or like the ר"י. As such, the piece of meat is אסור misafeik, as according to רש"י, the piece of meat is on its own (and the case is clearly where the piece of meat on its own is not 60x the size of the milk drops). However, we still need 60x the amount of the milk drop for the rest of the pot misafeik, as according to the ר"י, the piece of meat is viewed as part of the rest of the dish.
 ### Other Pieces of Meat Touching This Piece of Meat (According to the רמ"א)
 *ש"ך 7*
 You need to take off כדי נטילה from the other pieces of meat that are touching this אסור one.
@@ -224,12 +227,15 @@ You need to take off כדי נטילה from the other pieces of meat that are to
 [^17]: ש"ך ס"ק יט
 [^18]: ט"ז ס"ק יט
 [^19]: מחבר סעיף ו, רמ"א סעיף ו
-[^20]: סעיף ז
-[^21]: סעיף 9, ש"ך ס"ק לח
+[^20]: רמ"א סעיף ז
+[^21]: סעיף ט, ש"ך ס"ק לח
 [^22]: רמ"א סעיף ז
 [^23]: ש"ך ס"ק לג
 [^24]: ט"ז ס"ק כד
 [^25]: פתחי תשובה ס"ק ג
-[^26]: סעיף ח
-[^27]: פתחי תשובה ס"ק ו bringing down the רמב"ם
-[^28]: ט"ז ס"ק ל
+[^26]: מחבר סעיף ח, Implied from רמ"א סעיף ח
+[^27]: רמ"א סעיף ח
+[^28]: פתחי תשובה ס"ק ו bringing down the רמב"ם
+[^29]: דגול מרבבה על סעיף ח
+[^30]: ט"ז ס"ק ל
+[^31]: יד Avraham על סעיף ח

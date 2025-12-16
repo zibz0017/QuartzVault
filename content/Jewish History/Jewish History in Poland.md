@@ -79,10 +79,10 @@
 1. Rav Shlomo Luria (1510 – November 7, 1573).[^27]
 2. Took over the Yeshiva of Lublin after the death of Rav Shalom Shachna and later opened his own yeshiva.[^27]
 3. Wrote Chochmas Shlomo (his pirush at the back of the gemarah) and Yam של Shlomo, amongst other things.[^25][^27]
-4. Was opposed to the Shulchan Aruch and Rema-style approach to giving over halacha. The רא"ש and the רי"ף, for example, write on the gemarah. A posek has to learn them and then he can come to his own psakim. The Shluchan Aruch is not like that. The Shulchan Aruch writes clear cut psakim. The Maharshal felt that this was against the mesorah. The gemarah was the last piece of universally accepted codified halacha and that was it. There was to be no more after that. 
+4. Was opposed to the Shulchan ערוך and Rema-style approach to giving over הלכה. The רא"ש and the רי"ף, for example, write on the gemarah. A posek has to learn them and then he can come to his own psakim. The Shluchan ערוך is not like that. The Shulchan ערוך writes clear cut psakim. The Maharshal felt that this was against the mesorah. The gemarah was the last piece of universally accepted codified הלכה and that was it. There was to be no more after that. 
    For this reason, he was against the רמב"ם as well.
    This is part of why he wrote his Yam של Shlomo. [^25]
-5. It seems that כלל ישראל has accepted the Shulchan Aruch and Rema-style of psak. [^25]
+5. It seems that כלל ישראל has accepted the Shulchan ערוך and Rema-style of psak. [^25]
 6. The Maharshal was a bit sharp sometimes. He was not one to pull punches. [^25]
 ## The Smah
 1. Rav Yehoshua Hakohen Falk (1555 – 29 March 1614). Also known as the Mahari Katz. [^28]
@@ -92,7 +92,7 @@
 1. Includes [[#Peshischa]], [[#Kotzk]], [[#Piaseczno (Piacezna) Rebbe|Piaseczno]] (commonly spelled Piacezna, even though Piaseczno is the way the name of the town is spelled) and [[#Ger]] (which may be the most popular and well known form a chassidus). [^29]
 ## The Chozeh of Lublin
 1. Originally started in the 1700s with the Chozeh of Lublin, Rav Yaakov Yitzchak Horowitz. [^29]
-2. The Chozeh was called this because he was able to “see” things (meaning, he had ruach hakodesh). The story goes that he had this because he was very makpid on shmiras einayim. [^29]
+2. The Chozeh was called this because he was able to “see” things (meaning, he had ruach hakodesh). The story goes that he had this because he was very מקפיד on shmiras einayim. [^29]
 3. Chassidus was centered around the simple Jew. [^29]
 4. The תורה from them contains a lot of derush. [^29]
 ## Peshischa
@@ -106,29 +106,29 @@
 4. For about the last 20 years of his life, the Kotzker only dealt with his closest talmidim. [^29]
 5. The chassidus seemed to have been too extreme for it to really last. [^29]
 ## Ger
-1. After the Kotzker was nifter in the mid 1800s, the Chidushei Harim took over the chassidus. [^29]
+1. After the Kotzker was nifter in the mid 1800s, the חידושי Harim took over the chassidus. [^29]
 2. The Chassidus morphed into what we know as Ger. {<font color="#ff0000">need to look into how that happened</font>} [^29]
-3. The Chidushei Harim was a tremendous gaon and was very charismatic. He was very sought after by a few chassiduses to become their rebbe. {<font color="#ff0000">Need to check that.</font>} [^29]
+3. The חידושי Harim was a tremendous gaon and was very charismatic. He was very sought after by a few chassiduses to become their rebbe. {<font color="#ff0000">Need to check that.</font>} [^29]
 4. He was originally a תלמיד of the Kushnitzer but after the father died and the son took over {don’t know which rebbe of Kushnitz this is referring to} he had some sort of fight and ended up joining Peshischa. [^29]
 5. All of his kids {or sons, I don’t know which} died during his lifetime. He felt this was because of his fight with the Kushnitzer. However, he still felt that he made the correct decision to leave Kushnitz. [^29]
 6. He turned down the intensity that was brought in by the Kotzker by a lot. [^29] {<font color="#ff0000">I’m not sure how things went exactly. Was he the rebbe after the death of the Kotzker and Kotzk sort of merged into Peshischa or was he the rebbe of Peshischa at at the same time as the Kotzker was the rebbe of Kotzk?</font>}
 7. The divrei תורה are much more peshat oriented. They seem to be trying to understand what the passuk is saying (I don’t think this is to the exclusion of Kutzk and Peshischa divrei תורה.) [^29]
-8. After the death of the Chidushei Harim, the chassidus was then led by Rabbi Chanoch Henach Hakohen Levin from 1866 until 1870. [^32]
-9. The Sfas Emes was the grandson of the Chidushei Harim and he took over the chassidus afterwards at 22 years old. [^29][^32]
-10. He was orphaned of both of his parents by the time he was 8 years old and was brought up by the Chidushei Harim until the death of the Chidushei Harim.[^29][^32]
-11. The ספר Sfas Emes is similar to the style of the Chidushei Harim in that it seeks peshat and tries to make sense of the passuk (with references to higher concepts as well). [^29]
+8. After the death of the חידושי Harim, the chassidus was then led by Rabbi Chanoch Henach Hakohen Levin from 1866 until 1870. [^32]
+9. The Sfas Emes was the grandson of the חידושי Harim and he took over the chassidus afterwards at 22 years old. [^29][^32]
+10. He was orphaned of both of his parents by the time he was 8 years old and was brought up by the חידושי Harim until the death of the חידושי Harim.[^29][^32]
+11. The ספר Sfas Emes is similar to the style of the חידושי Harim in that it seeks peshat and tries to make sense of the passuk (with references to higher concepts as well). [^29]
 12. The Sfas emes died from heartache in 1905 as the Russians drafted many of his Chassidim to fight in the Russo-Japanese War. [^29]
-13. His ספר lives on. It is incredibly popular in Ger. (Almost sounds like a Chiddushei Halev in Chofetz Chaim.) [^29]
+13. His ספר lives on. It is incredibly popular in Ger. (Almost sounds like a Chiddushei Halev in Chofetz חיים.) [^29]
 ## Piaseczno (Piacezna) Rebbe
 1. Rav Kalonymus Kalman Shapira was born in 1889[^33][^34]
 2. He had Yichus. His grandfather, father, and father-in-law were all rebbes.[^33]
 3. He was more worldly than the average rebbe. He knew languages, played instruments and read a lot.[^33]
 4. He wrote numerous sefarim, such as the Eish Kodesh, ספר Chovas Hatalmidim, a ספר for married people (which he did not finish), and an introduction for people learning Kabbalah. [^33][^34]
 5. חובות Hatalmidim is a guidebook for chassidishe bochurim. It is similar to Alei Shor for Litvishe Bochurim (I don’t know in what sense this is. R’ Lopiansky did not explain what he meant). [^33]
-6. In the days of the Piacezna, the חינוך was very strict. Ger was the popular Chassidus at that point and Ger maintained a lot of the intensity and brutal honesty of Kutzk. Because of this, many children were going off the derech. [^33]
+6. In the days of the Piacezna, the חינוך was very strict. Ger was the popular Chassidus at that point and Ger maintained a lot of the intensity and brutal honesty of Kutzk. Because of this, many children were going off the דרך. [^33]
 7. The Piacezna looked at this situation as a problem with the rabbeim and the system in general, not with the kids (meaning, the style of חינוך had to change, not the kids). [^33]
 8. His system was much more positive. He focused on instilling into the kids the importance of being Jewish and the importance of their role as the future כלל ישראל. This is at least part of what ספר חובות Hatalmidim is about. The ספר is still extremely relevant in our times. [^33]
-9. He founded a yeshiva called Daas משה in 1923. [^33]
+9. He founded a yeshiva called דעת משה in 1923. [^33]
 10. Near the beginning of World War II, his son and daughter-in-law were killed by a German bombing raid. [^33][^34]
 11. During the war, he was sent to the Warsaw Ghetto. [^33][^34]
 12. He was deported to the Trawniki concentration camp where he was killed in 1943. [[^34]
@@ -141,7 +141,7 @@
 4. One of the close chassidim named Rav Mordechai יוסף Leiner thought that this was not right. He took a group of chassidim to a different shul where they danced hakafos. [^33]
 5. This led to Rav Leiner forming his own Chassidus. This was the beginning of Ishbitz. [^33]
 6. Rav Leiner was joined by Rav Leibel Eiger (son of Rav Shlomo Eiger and grandson of Rav Akiva Eiger) and Rav Tzadok Hakohen Rabinowitz. [^33]
-7. Rav Leibel Eiger originally learned by his grandfather, Rav Akiva Eiger. After his grandfather’s passing he started learning by the Chidushei Harrim (before he became the rebbe of Ger). This exposed him to chassidus.[^35]
+7. Rav Leibel Eiger originally learned by his grandfather, Rav Akiva Eiger. After his grandfather’s passing he started learning by the חידושי Harrim (before he became the rebbe of Ger). This exposed him to chassidus.[^35]
 8. Rav Leibel Eiger joining the chassidus created a schism between him and his father. Rav Akiva Eiger was more tolerant. [^33]
 ### Elements
 1. Back to the focus on the simple Jew, but did keep some elements of the “be real with yourself” from Kotzk. [^33]
@@ -155,7 +155,7 @@
 ### Branches
 
 #### Radzin
-1. Rav Yaakov authored the ספר בית Yaakov and so also went by the name of his ספר. He led the chassidus until his death in 1878.[^37]
+1. Rav יעקב authored the ספר בית יעקב and so also went by the name of his ספר. He led the chassidus until his death in 1878.[^37]
 2. After his death, his son, Rav Gershon Henach Leiner took over the chassidus. He wrote the ספר orchos chaim and was subsequently known by the name of the ספר. He led the chassidus until his death in 1890.[^37]
 #### Lublin
 1. Rav Eiger led the chassidus with Rav Tzadok Rabinowitz as his right-hand man. After the death of Rav Eiger in 1888, Rav Tzadok Rabinowitz took over and Rav Avraham Eiger, Rav Leibel Eiger’s son, became his right-hand man. (It doesn’t explicitly say that Rav Avraham was the right-hand man, but some sources say that Rav Tzadok took over and others say that they both took over, so it seemed to me that Rav Tzadok was the main rebbe while Rav Avraham was his assistant, especially considering the fact that Rav Tzadok worked with Rav Leibel and so was already a generation up.) [^35][^38]
@@ -172,11 +172,11 @@
 2. He was born in 1887 and was nifter in 1933.[^39][^40]
 3. His two major projects were daf yomi and Yeshiva Chachmei Lublin (יח"ל). [^39]
 4. He wanted יח"ל to be very shpitzy, similar to what the Alter of Slabodka did in Slabodka. He wanted a nice building, he wanted the bochurim to dress elegantly, and he wanted to pay for the bochurim’s room and board. See [Shpitziness in European Yeshivos](https://docs.google.com/document/d/1G9MyZ7hkdbQ55tiod1kWFLN2z-TGUhaIFnR8WyFCVq4/edit#bookmark=id.arjl6mm7obgo) for why this was important. [^39]
-5. Before this, the store owners would have bochurim sleep in shops to keep away thieves. Rav Meir Shapiro drily noted the tremendous zechus the Polish thieves had. [^39]
+5. Before this, the store owners would have bochurim sleep in shops to keep away thieves. Rav Meir Shapiro drily noted the tremendous זכות the Polish thieves had. [^39]
 6. He fundraised for seven years to create the yeshiva. [^39]
-7. Poland didn’t really have a general derech halimud. This was because nearly every chassidus had their own yeshiva and there was very little cross-pollination (a chassid in one chassidus was not likely to go learn at the yeshiva of a different chassidus). [^39]
+7. Poland didn’t really have a general דרך halimud. This was because nearly every chassidus had their own yeshiva and there was very little cross-pollination (a chassid in one chassidus was not likely to go learn at the yeshiva of a different chassidus). [^39]
 8. As such, Rav Meir Shapiro traveled to Lithuania to examine the different darchei limud there and then create one. (By this time Rav Chaim Brisker’s mehalech was widespread amongst the yeshivos). [^39]
-9. The derech halimud he came up with was four years of kodshim (Rav Lopiansky didn’t know why this was) followed by three years of standard semichah. [^39]
+9. The דרך halimud he came up with was four years of kodshim (Rav Lopiansky didn’t know why this was) followed by three years of standard semichah. [^39]
 10. The yeshiva building was massive. It was six floors and had 20,000 sefarim. [^39]
 11. The bochurim walked around with fancy silver walking sticks. [^39]
 12. The yeshiva did not align itself with any particular chassidus. This was necessary to attract bochurim from all different chassiduses. (This ties back into Rav Meir Shapiro’s savviness and understanding of people.) [^39]
@@ -188,14 +188,14 @@
 18. Under this rosh yeshiva, the yeshiva started to regain some momentum it lost since the death of Rav Meir Shapiro. [^39]
 19. Unfortunately, this did not last long as the Nazis destroyed the yeshiva in 1940. [^39]
 20. During its time, the yeshiva produced some great talmidei חכמים, such as Rav Shmuel Vosner. [^39]
-## Sarah Schenirer and the בית Yaakov Movement
+## Sarah Schenirer and the בית יעקב Movement
 ### Background: חינוך in the Late 1800s - WWI
 1. See [[#Focus on Education in the Late 1800s|here]].
 2. Until this time, boys would go to cheder and girls would stay home with their mothers. Home keeping (without washing machines and running water and all that) was a full time job.[^8]
 3. Girls wouldn't know very much. They would know a little about davening. Some could read and write, but many could not.[^8]
 4. Boys would still be sent to cheder against the czar's law. People would play shtick and paid fines, but they viewed it as worth it to keep the boys learning תורה.[^8]
 5. Girls' education was viewed as less important and so they were sent off to public school, with almost no Jewish education.[^8]
-6. This did not end well for the girls. By the end of the century, girls were going off the derech left and right. The boys were struggling as well but nowhere near as much as the girls.[^8]
+6. This did not end well for the girls. By the end of the century, girls were going off the דרך left and right. The boys were struggling as well but nowhere near as much as the girls.[^8]
 7. In addition, even for the girls who tried to remain frum there was a tremendous social pressure from their pears.[^8]
 8. For whatever reason, people clung to the "old way" of not having formal חינוך for girls ("mesorah", "this is the way it's always been", etc.)[^8] ^724bc9
 9. WWI destroyed the Jewish community and way of life. At this point, people weren't sticking to the "old system" anymore. That had clearly been utterly annihilated by the war.[^8]
@@ -215,19 +215,19 @@
 2. She later on got remarried.[^8]
 3. Little is known about either marriage. (And she kept going by her maiden name, which may indicate something.)[^8]
 4. She never had any children. (If she did have children, would she be able to do what she did?)[^8]
-### Pre-בית Yaakov
+### Pre-בית יעקב
 1. Sarah Schenirer tried to make frum social groups for girls, to help them learn about Yiddishkeit as well as to help them deal with the social pressure.[^8]
 2. However, this movement did not succeed.[^8]
 3. Sarah Schenirer felt that she needed to be mechanech girls when they were younger.[^8]
-### The בית Yaakov Movement
+### The בית יעקב Movement
 #### Support from גדולים
 1. Because she was from Belz, Sarah Schenirer asked her brother to get a haskama from the Belzer rebbe.[^8]
 2. At first, the Belzer rebbe gave his haskama to the movement, but then later rescinded it. It is not know why.[^8][^46]
-3. The Chofetz Chaim (perhaps the גדול hador of the non-chassidish world) and the Gerer rebbe gave her their haskamos. This gave the movement a lot of support.[^8] ^8085a2
+3. The Chofetz חיים (perhaps the גדול hador of the non-chassidish world) and the Gerer rebbe gave her their haskamos. This gave the movement a lot of support.[^8] ^8085a2
 #### Starting off
 1. In 1918, Sarah Schenirer opened her first school. It was run out of her home in Krakow.[^8]
 #### Seminary
-1. Sarah Schenirer created a seminary to train teachers as the בית Yaakov movement was growing so fast, she did not have enough teachers.[^8]
+1. Sarah Schenirer created a seminary to train teachers as the בית יעקב movement was growing so fast, she did not have enough teachers.[^8]
 #### The Success of the Movement
 1. In 1940, everything was destroyed by the Nazis in WWII.[^8]
 2. Before then, there were hundreds of בית Yaakovs with about 40,000 girls.[^8] [^46]
@@ -237,7 +237,7 @@
 3. חינוך for girls was all about things like "don't do this and don't do that" and "stay quite and don't be seen or heard". This rarely works on the youth, but this time of history was particularly bad for this. This was an age of movements (communism, socialism, Zionism, etc.). It was an age of people thinking big and trying to change the world. This "classic" style of girls' education was trampled by this momentum.[^8]
 4. Sarah Schenirer was full of energy and life. As such, the girls would go on [^48]hikes, make and sing songs, and put on plays.[^8]
 #### Reaction
-1. The non-frum did not like the בית Yaakov movement. They made fun and mocked it.[^8][^46] They wanted to get rid of the old and "modernize". Obviously, the Bies Yaakov movement did not fit with their outlook.[^46]
+1. The non-frum did not like the בית יעקב movement. They made fun and mocked it.[^8][^46] They wanted to get rid of the old and "modernize". Obviously, the Bies יעקב movement did not fit with their outlook.[^46]
 2. At first, the frum did not accept the movement either (because people were attached to "the old way" as [[#^724bc9|mentioned]]).[^8]
 #### Help From Others
 1. While Sarah Schenirer was the spark behind the movement, many German Jews helped with the logistics, creating a curriculum, and opening schools. (The German Jews had tremendous organizational skills.)[^46] ^6bfabc

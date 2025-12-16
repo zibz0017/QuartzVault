@@ -1,14 +1,14 @@
 # Definition
-A Bernoulli Trial is a [[Binomials|binomial]], but we focus on only one instance of the trial.
+A Bernoulli Trial is a [[Binomial|binomial]], but we focus on only one instance of the trial.
 For example, getting a heads in a single coin flip, spinning a six with a standard six-sided die, or whether it will rain tomorrow are all Bernoulli Trials.
-# [[Expected Value]] (Average)
+# [[Random Variable#Expected Value (Average)|Expected Value (Average)]]
 The expected value (or average) of a Bernoulli Trial is the probability. It is the likelihood of getting the specific result over time.
 For example, the expected value of getting heads (or tails) for a regular coin flip is $\frac{1}{2}$.
 The expected value of spinning a six (or any other number) for a regular die roll is $\frac{1}{6}$.
 The expected value of whether it will rain tomorrow or not depends on where you live, what time of the year it is, and things like that.
 ## Proof
 As with binomials, we generally refer to getting the "successful result" as $1$ and not getting it as $0$.
-The way to calculate the mean is to add up all of the values and divide them by the total. Over here, we don't actually have any specific values; we just have the probability of whether it will occur. As such, the way to calculate the mean is by multiplying the probability of getting a "failure" by $0$ (the number we ascribe to "failure") and the probability of getting a "success" by $1$ (the number we ascribe to "success").
+The way to calculate the mean is to add up all of the values and divide them by the total. Over here, we don't actually have any specific values; we just have the probability of whether it will occur. As such, the way to calculate the mean is by multiplying the probability of getting a "failure" (which is $1-p$) by $0$ (the number we ascribe to "failure") and the probability of getting a "success" (which is $p$) by $1$ (the number we ascribe to "success").
 As such, we get:
 $$(1-p) \times 0 + p \times 1 \Rightarrow p \times 1 = \boxed{p}$$
 Where $p$ is the probability of getting "success". Because there are only two possibilities, if $p$ is the probability of getting a success, then $1-p$ is the probability of getting a failure, because the probability of getting success or failure must equal $100\%$, or $1$ (everything, or $100\%$ of things, must be either success or failure, because those are the only possibilities).

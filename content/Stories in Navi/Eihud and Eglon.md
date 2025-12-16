@@ -14,7 +14,7 @@ Shoftim 3:12-30
 1. Eihud was a lefty.[^7] (This is relevant for later in the story).
 2. His מדות and tzidkus are not discussed much.
    One pirush makes note of the fact that the navi does not say that he judged the people. {<span style="color:rgb(255, 0, 0)">Source needed</span>}
-   However, a different pirush says that because of his zechus, כלל ישראל was not conquered by other nations during his lifetime, even though they had started doing עבירות again.[^8]
+   However, a different pirush says that because of his זכות, כלל ישראל was not conquered by other nations during his lifetime, even though they had started doing עבירות again.[^8]
 ### Assassination
 #### Lack of Suspicion
 ##### The Weapon

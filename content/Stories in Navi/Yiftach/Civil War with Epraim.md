@@ -45,7 +45,7 @@
 3. <span style="display: block; text-align: justify;">This was a punishment for Avimelech, an evil shofet of כלל ישראל, who's followers and base of operations were in Shichem. This was a city in shevet אפרים's territory, and they should have protested Avimelech's actions. They were punished for not doing so.[^14]</span>
 ### Yiftach's Responsibility
 1. <span style="display: block; text-align: justify;">At the same time, Yiftach should have tried appeasing them as Gideon had done earlier in a similar circumstance.[^27][^15]</span>
-2. <span style="display: block; text-align: justify;">Yiftach died in a horrible way (see [[#^6b4328|here]]), but the medrash (and the מפרשים presenting the medrash) say that that was a punishment for not being matir neder on his daughter. Almost nobody says that it was at least partically a punishment for killing אפרים.[^28]</span>
+2. <span style="display: block; text-align: justify;">Yiftach died in a horrible way (see [[#^6b4328|here]]), but the מדרש (and the מפרשים presenting the מדרש) say that that was a punishment for not being matir נדר on his daughter. Almost nobody says that it was at least partically a punishment for killing אפרים.[^28]</span>
 # Footnotes
 
 [^1]: שופטים יב א רש"י שם

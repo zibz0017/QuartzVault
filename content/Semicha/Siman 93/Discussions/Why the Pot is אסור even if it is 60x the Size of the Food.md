@@ -1,2 +1,0 @@
-*Discussion with Rabbi Hodkin*
-1. [[Background for the הלכות for When a Drop Falls onto the outside of a Pot|As discussed in סימן צב]], it is not simple how the food travels though the pot. Even if the whole pot is 60x the size of the food, the food may not travel though the whole pot. As such, the part of the pot that the food is in would still be אסור.

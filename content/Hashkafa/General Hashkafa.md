@@ -3,11 +3,11 @@
 Some yeshivos in Europe (such as Yeshiva Chachmei Lublin, Slabodka, Radin, and Volozhin) had their bochurim dressed nicely (walking with silver walking sticks), had beautiful buildings as well as pay the townspeople to make food for the bochurim instead of relying on tzedakah from them. This was for a few reasons:
 1. In terms of dressing nicely and having beautiful buildings, during this time, universities were on the rise. Their students looked sophisticated (dressed nicely, clean shaven, etc.) as well as acted sophisticated (analyzed and thought deeply about things). Yeshiva bochurim needed to keep up with them for a few reasons:
 	1. To avoid a Chillul Hashem (people would look down on yeshiva bochurim).
-	2. To avoid dissuading potential talmidim from joining the yeshiva. This might have been even more true of the smartest bochurim who were potentially targeted by the maskilim (such as the Chofetz Chaim when he was young).
+	2. To avoid dissuading potential talmidim from joining the yeshiva. This might have been even more true of the smartest bochurim who were potentially targeted by the maskilim (such as the Chofetz חיים when he was young).
 	3. To avoid destroying the bochurim’s self-image.
 2. In terms of paying families for food, the families looked down on the yeshiva bochurim for taking the food away from their kids as well as being a leech on society. They also cooked the worst meal on that night. By paying the families (some of them receiving substantial portions of the money they made through this), the families took a much more positive look at the yeshiva and the bochurim. This was important for the three reasons mentioned before.[^1]
    
-   There are elements of this which some felt were not ideal. The Chofetz Chaim, for example, did not like these changes. He felt that that people should be mistapek bimuat. However, he understood the changing times and realized that this is what the bochurim needed.[^2]
+   There are elements of this which some felt were not ideal. The Chofetz חיים, for example, did not like these changes. He felt that that people should be mistapek bimuat. However, he understood the changing times and realized that this is what the bochurim needed.[^2]
    
    See [[#Change in Learning Style (Rav Chaim Brisker)]] as well
 ## Change in Learning Style (Rav Chaim Brisker)
@@ -43,7 +43,7 @@ As more and more people started going to yeshiva, more and more people started h
 1. Many of the same pros as the kehilla.[^4]
 2. In addition, a Chassidus transcends space. You can be part of a chassidus even if you don't live near the main chassidus.[^4]
 3. Chassidus emphasizes a strong emotional connection to Yiddishkeit.[^4]
-4. A chassidus is a tremendous powerhouse. If a rebbe wants something to get done, he has a whole army to mobilize to get it done.[^4] (For an example, see the Gerer Rebbe's support of the Bais Yaakov movement {<font color="#ff0000">need to add a link here</font>})
+4. A chassidus is a tremendous powerhouse. If a rebbe wants something to get done, he has a whole army to mobilize to get it done.[^4] (For an example, see the Gerer Rebbe's support of the Bais יעקב movement {<font color="#ff0000">need to add a link here</font>})
 ### Cons
 1. Similar to kehillos, there is little drive for personal growth. There is a tremendous respect for the rebbe, but not particularly for talmidei חכמים.[^4] (This probably varies based on the chassidus. Some have more of a focus on תורה.)
 2. Chassidus relies on a rebbe having a personal kesher with his chassidim. This works as long as the chassidus is small, but as the chassidus grows, practically, this becomes impossible. Lubavitch is an exception in that the rebbe was able to know what his chassidim were doing.[^4]
@@ -81,16 +81,16 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 1. Hashem punishes כלל ישראל a little at a time so the punishment is not overwhelming, and so that it inspires תשובה.[^18]
 2. This is in contrast to the way Hashem gives punishment to other nations. For them, Hashem "saves up" the punishment and "pays them back" all at once.[^18]
 # Physical Proximity Affects Zechusim of Tazadikim
-1. כלל ישראל lost the battle of עי partially because Yehoshua needed to go with the soldiers for his zechusim to have a positive affect.[^19]
-   It seems that the affect of Yehoshua's zechusim was tied to his physical location.[^20]
-   {<span style="color:rgb(255, 0, 0)">This may be because if Yehoshua was there then he would be in danger as well. I don't know if that is much of a חידוש. Of course Hashem is more likely to act to save a צדיק then if a צדיק is not in danger. However, in this situation, the צדיק voluntarily put himself in danger so perhaps it is reasonable that Hashem wouldn't save the צדיק. A difference is that does this only apply to situations where the צדיק is in danger, or in any situation that a צדיק is nearby.</span>}
+1. כלל ישראל lost the battle of עי partially because יהושע needed to go with the soldiers for his zechusim to have a positive affect.[^19]
+   It seems that the affect of יהושע's zechusim was tied to his physical location.[^20]
+   {<span style="color:rgb(255, 0, 0)">This may be because if יהושע was there then he would be in danger as well. I don't know if that is much of a חידוש. Of course Hashem is more likely to act to save a צדיק then if a צדיק is not in danger. However, in this situation, the צדיק voluntarily put himself in danger so perhaps it is reasonable that Hashem wouldn't save the צדיק. A difference is that does this only apply to situations where the צדיק is in danger, or in any situation that a צדיק is nearby.</span>}
 # The Mussar Movement
 1. The mussar movement started getting involved in yeshivos because of Rav ישראל. Rav ישראל originally wanted the movement to target the masses but he was able to pivot when he saw it would be more effective to have the movement in yeshivos.[^3]
 2. Volozhin was not part of the mussar movement. However, after Volozhin, most yeshivos became part of it.[^4]
 ## The anti-Mussar Movement
 1. To clarify, nobody is against yiras shamayim and good מדות. That is not what the disagreement centers around.
 3. It created an alternative focus to learning (and learning is obviously the main thing).[^3]
-4. It gave a lot of the power to the mashgiach (taking away a lot of the power from the main person with the daas תורה in the yeshiva, namely, the Rosh Yeshiva of the yeshiva.)[^3]
+4. It gave a lot of the power to the mashgiach (taking away a lot of the power from the main person with the דעת תורה in the yeshiva, namely, the Rosh Yeshiva of the yeshiva.)[^3]
 # NCSY
 ## History
 1. Started in the 1950s by Rabbi Stolper.[^21]
@@ -104,21 +104,21 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 {<span style="color:rgb(255, 0, 0)">There are lots of ראשונים/Achronim brought down in this section, but I don't know where these come come from. It would definitely be nice to find the actual sources of these opinions.</span>}
 ## Different Ways Things Are Hidden
 1. Some things are hidden in what appears to be "wild stories", like [[#^35e4bc|the סוגיא דרבה בר בר חנה]].
-2. Sometimes, chazzal use "exaggerations", like chazzal may say that someone is "chayav binafsho", even if that is not the halacha.[^23] {<span style="color:rgb(255, 0, 0)">Need an explicit example of this</span>}
+2. Sometimes, chazzal use "exaggerations", like chazzal may say that someone is "chayav binafsho", even if that is not the הלכה.[^23] {<span style="color:rgb(255, 0, 0)">Need an explicit example of this</span>}
 ## Specific Examples
 ### סוגיא דרבה בר בר חנה (בבא בתרא עג. - עה.)
    {<span style="color:rgb(255, 0, 0)">See https://drive.google.com/file/d/1exVOfC29_W4AIZy6-zEeTeYaaauPXZqu/view for a big discussion of this sugya</span>} ^35e4bc
 #### Basics
 {<span style="color:rgb(255, 0, 0)">Need to fill this in</span>}
 #### Explanation
-##### The Gra
+##### The גר"א
 *(As presented by Rav Aharon Lopionsky[^23])*
 1. The deepest secrets of the תורה are found here.
 2. The corruption of the world has forced Hashem to hide the most precious parts of the תורה in what seems like fairy tales.
 ### Machlokes between Rabbi Eliezer and the Rabbanan (Bava Metzia 59. - 59:)
 #### Basics
 1. Rabbi Eliezer had a machlokes with numerous other rabbanan about an whether a certain type of oven is ראוי לקבל טומעה.
-2. Rabbi Eliezer caused numerous nissim to happen to prove his prove his point, such as a nearby carob tree uprooted itself and moved away, a nearby river started flowing backward, the walls of the בית medrash started falling down, and a bas kol declared that Rabbi Eliezer was correct.
+2. Rabbi Eliezer caused numerous nissim to happen to prove his prove his point, such as a nearby carob tree uprooted itself and moved away, a nearby river started flowing backward, the walls of the בית מדרש started falling down, and a bas kol declared that Rabbi Eliezer was correct.
 #### Explanation
 ##### רבינו Chananel
 *(As presented by Rav Aharon Lopionsky[^23])*
@@ -126,7 +126,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. The nissim discussed were done through the power of tefilah, not through the power of נבואה, as there were no neviim anymore by that time.
 3. However, it is difficult to understand this way because one is not supposed to do nissim.
 4. As such, an alternative way to understand the 'גמ is that it was a dream.
-5. Usually, the 'גמ would state if a story was a dream, but it did not do so here because this dream was akin to נבואה. (There are examples of a navi receiving נבואה despite the fact that it is not explicitly mentioned that the navi reveived neva, such a Yehoshua with the malach outside of Yericho according to some מפרשים {<span style="color:rgb(255, 0, 0)">Need to get exact source</span>})
+5. Usually, the 'גמ would state if a story was a dream, but it did not do so here because this dream was akin to נבואה. (There are examples of a navi receiving נבואה despite the fact that it is not explicitly mentioned that the navi reveived neva, such a יהושע with the malach outside of Yericho according to some מפרשים {<span style="color:rgb(255, 0, 0)">Need to get exact source</span>})
 ### Man Grows Breasts (שבת 53:)
 #### Basics
 1. A mans' wife died and he was unable to afford a wet-nurse.
@@ -164,13 +164,13 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 1. The Ramchal {<span style="color:rgb(255, 0, 0)">I think</span>} writes that agadita is hidden in mashalim because:
 	1. Agadita deals with the deep secrets of the תורה, and the same way one may not want to share their deepest secrets, even if it isn't embarrassing or anything, it's just that it is extremely personal and so they are not appropriate to publicize.[^23]
 	2. People can make mistakes and these topics are extremely core to Yiddishkeit and so we can't have people make mistakes with them.[^23]
-2. Because of the "corruption of the world", Hashem hides deep secrets of the תורה, as [[#The Gra|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}
-3. The Ramchal writes that chazzal would "exaggerate", like by saying that someone is chayav binafsho for violating something because there is a certain sense in which the person is chayav. For example, if someone wounds someone else, in a sense, strict justice would require the person to receive that wound. Obviously, that is not the halacha for whatever reason (the תורה may have decided that that would be barbaric, for example).[^23]
-4. According to the רשב"ם some agadita is supposed to be understood only allegorically, some only al pi pshat, and some both.[^23]
+2. Because of the "corruption of the world", Hashem hides deep secrets of the תורה, as [[#The גר"א|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}
+3. The Ramchal writes that chazzal would "exaggerate", like by saying that someone is chayav binafsho for violating something because there is a certain sense in which the person is chayav. For example, if someone wounds someone else, in a sense, strict justice would require the person to receive that wound. Obviously, that is not the הלכה for whatever reason (the תורה may have decided that that would be barbaric, for example).[^23]
+4. According to the רשב"ם some agadita is supposed to be understood only allegorically, some only על pi pshat, and some both.[^23]
 5. Sometimes, agadita can be a dream, as [[#רבינו Chananel|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}
 6. Sometimes, agadita can be giving the meaning behind a physical phenomenon, as [[#באר הגולה|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point. It is supposed to be for the באר הגולה by Explanation for Earthquakes (Berachos 59.)</span>}
 ## Where Agadita is Written
-1. Agadita is generally found in Shas, Midrashim with a mesorah (Midrash Rabbah, Tanchuma, and Pirkei Dirabbi Eliezer), and the Zohar.[^23]
+1. Agadita is generally found in Shas, Midrashim with a mesorah (מדרש Rabbah, Tanchuma, and Pirkei Dirabbi Eliezer), and the Zohar.[^23]
 2. In addition, there are a few blatt in Bava Basra of extremely strange agadita (known as Agadita Dirabba Bar Bar Chana).[^23]
 # עולם הבא Based on Subjective or Objective Measure
 1. At least to some degree, how much עולם הבא one earns is based on the object מצוות one does, not just based on how much one fulfills their potential.[^24] {<span style="color:rgb(255, 0, 0)">I would like to come back to this and explain what the חובות הלבבות does say and then how I interpreted it.</span>}
@@ -182,7 +182,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 # עולם הבא and תחית המתים
 1. <span style="visibility:hidden">l</span>עולם הבא refers to a time after תחית המתים. (It might also be before תחית המתים, but it is certainly after).
 ## References from תנ"ך
-1. <span style="visibility:hidden">l</span>אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ….<span style="visibility:hidden">l</span>[^28] The literal translation is "Then Yehoshua *will build*…". The reference to the future is a reference to after תחית המתים.<span style="visibility:hidden">l</span>[^29]
+1. <span style="visibility:hidden">l</span>אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ….<span style="visibility:hidden">l</span>[^28] The literal translation is "Then יהושע *will build*…". The reference to the future is a reference to after תחית המתים.<span style="visibility:hidden">l</span>[^29]
 # Hashem May Affect Peoples' Decisions
 1. Hashem can sometimes put thoughts or remove thoughts or strengthen certain emotions in people to cause certain results.
 ## Specific Examples
@@ -190,7 +190,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. Hashem caused סיסרא to march out and fight against כלל ישראל. {<span style="color:rgb(255, 0, 0)">See meforshim on שופטים ד יב-יד</span>}
 3. Hashem put it into the minds of כלל ישראל to go and fight סיסרא.<span style="visibility:hidden">l</span>[^31]
 4. <span style="display: block; text-align: justify;">According to some, גדעון didn't initially ask שבט אפרים for help when dealing with the מדינים because Hashem caused him not to think of asking them.[^32]</span>
-5. <span style="display: block; text-align: justify;">Hashem caused Yiftach's daughter to come out and greet him as a punishment for Yiftach making a neder that was extremely open to chance (see [[Yiftach and his Daughter#For Making a Risky Neder|here]] for more details about this point and the rest of the article for more details about the rest of the story).</span>
+5. <span style="display: block; text-align: justify;">Hashem caused Yiftach's daughter to come out and greet him as a punishment for Yiftach making a נדר that was extremely open to chance (see [[Yiftach and his Daughter#For Making a Risky נדר|here]] for more details about this point and the rest of the article for more details about the rest of the story).</span>
 # Davening
 ## One Gets Things They Don't Ask For
 1. <span style="display: block; text-align: justify;">One does not need to daven for specific things to receive them. Even if one just davens for good things in general, Hashem will give him his specific needs. This is clear from the fact that many times we ask Hashem for things and He does not give them to us because it is not in our best interest. We certainly aren't asking to not receive these things that we think we really want. Yet Hashem gives us what is best for us, anyway.[^33]</span>
@@ -206,7 +206,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. <span style="display: block; text-align: justify;">According to some מפרשים, when Gideon came to destroy the tower, people from the town fought against him. Gideon killed those people (which was seemingly a large part of the city) and then proceeded to destroy the tower (see [[Gideon and the Cities of סכות and פנואל#^f85451|here]]. For more details, read the rest of the article).</span>
 3. <span style="display: block; text-align: justify;">It seems that when someone does something wrong and deserves a punishment, if that person (or group of people) escalates the situation (they won't accept the punishment and the only way one can administer the punishment is if worse than they deserved is inflicted on them), we say that the person should do so. One does not back down because they will have to do this.[^5]</span>
 # Davening for Help with Nisayonos
-1. <span style="display: block; text-align: justify;">Yaakov davened for Hashem to help Shimshon with his nisayonos when Yaakov saw that Shimshon was going to struggle in this area. Hashem answered Yaakov's tefilos and did help Shimshon.[^37]<span style="color:rgb(255, 0, 0)"> Need to see בראשית מט יח</span></span>
+1. <span style="display: block; text-align: justify;">יעקב davened for Hashem to help Shimshon with his nisayonos when יעקב saw that Shimshon was going to struggle in this area. Hashem answered יעקב's tefilos and did help Shimshon.[^37]<span style="color:rgb(255, 0, 0)"> Need to see בראשית מט יח</span></span>
 2. <span style="display: block; text-align: justify;">It seems that one can daven for Hashem to help one with their nisayonos.[^5]</span>
 # Importance of Intention and Focus when Doing מצוות
 1. <span style="color:rgb(255, 0, 0)">See חובות הלבבות page תקמד-תקמה</span>
@@ -226,8 +226,8 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 1. Because one is supposed to learn from their rebbi, rather than just copy them, it is important that one tries to learn from the גדולים who are closer to his generation.[^40]
 2. Even though people from earlier generations are greater, they are usually far too great for us and many times, the underlying reason for their decision would only be correct for people who are much closer to their מדרגה than we are.[^40]
 3. <span style="color:rgb(255, 0, 0)">This is discussed by a Maharsha somewhere. If I find out where, I should add it.</span>
-# Schar for Doing Hishtadlus
-1. Hashem wants people to do hishtadlus. If a person does hishtadlus with the intention that they are doing this because Hashem told them to do this, they receive schar.[^41]
+# Schar for Doing השתדלות
+1. Hashem wants people to do השתדלות. If a person does השתדלות with the intention that they are doing this because Hashem told them to do this, they receive schar.[^41]
 # Losing One's Money for not Using it Properly
 1. One loses their money for not using it properly.[^42]
 # Footnotes
@@ -245,10 +245,10 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^11]: It seems that Rav Gershon Ribner understood the situation that Rav Aharon would respond this way only to points that were not so good. As mentioned [[#^b75c18|before]], this is disagreed about.
 [^12]: Conversation with Chaim Shotkin.
 [^13]: See footnote 11.
-[^14]: Ralbag on Yehoshua 7:1
-[^15]: The Ralbag explicitly says that this is not a violation of fairness, as opposed to directly punishing someone if they did not do something wrong, which is obviously unfair.
-[^16]: If the Ralbag really meant that the child really did deserve it, then I feel like he should have said it.
-[^17]: Malbim on Yehoshua 7:1 ד"ה וימעלו based off the Abarbanel
+[^14]: רלב"ג on יהושע 7:1
+[^15]: The רלב"ג explicitly says that this is not a violation of fairness, as opposed to directly punishing someone if they did not do something wrong, which is obviously unfair.
+[^16]: If the רלב"ג really meant that the child really did deserve it, then I feel like he should have said it.
+[^17]: מלבי"ם on יהושע 7:1 ד"ה וימעלו based off the Abarbanel
 [^18]: שופטים ה ב חומת אנך ד"ה בפרע פרעות
 [^19]: 'יהושע ז י מנחה קטנה ד"ה ויאמר ה
 [^20]: Own thoughts based on the ma'areh מקום
@@ -256,10 +256,10 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^22]: Conversations with people
 [^23]: Rav Aharon Lopiansky : Shiur on Agadita
 [^24]: Based on חובות הלבבות שער עבודת אלקים פרק ו, paragraph beginning with "הענין השני" on page שפח in the blue ג פירושים version
-[^25]: Ralbag on Yehoshua, Toaliyos in פרק 8, Toeles 14; Ralbag on Shoftim, Toaliyos in פרק 5, Toeles 1
-[^26]: Ralbag on Shoftim, Toaliyos in פרק 5, Toeles 2
+[^25]: רלב"ג on יהושע, Toaliyos in פרק 8, Toeles 14; רלב"ג on Shoftim, Toaliyos in פרק 5, Toeles 1
+[^26]: רלב"ג on Shoftim, Toaliyos in פרק 5, Toeles 2
 [^27]: .ע"ז ה
-[^28]: Yehoshua 8:30
+[^28]: יהושע 8:30
 [^29]: יהושע ח ל מנחה קטנה שם
 [^30]: שופטים א ו-ז רלב"ג ומלבי"ם שם
 [^31]: שופטים ה ב מצודת דוד ד"ה בהתנדב עם
@@ -270,7 +270,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^36]: רלב"ג תועלת טו בשופטים פרק י
 [^37]: רלב"ג תועלת י בשופטים פרק טז
 [^38]: Tiferes Dovid : Chapter 4 (pg 46-47)
-[^39]: מלכים ב יב ג Malbim שם (as presented by Tiferes Dovid : Chapter 4 (footnote 42))
+[^39]: מלכים ב יב ג מלבי"ם שם (as presented by Tiferes Dovid : Chapter 4 (footnote 42))
 [^40]: Tiferes Dovid : Chapter 4 (footnote 43)
-[^41]: חובות הלבבות שאר הבטחון פרק ה Pas Lechem ד"ה Livchor (pg 554)
-[^42]: חובות הלבבות שאר הבטחון פרק ה טוב הלבנון ד"ה Vichoshech (pg 556)
+[^41]: חובות הלבבות שאר הבטחון פרק ה פס לחם ד"ה Livchor (pg 554)
+[^42]: חובות הלבבות שאר הבטחון פרק ה טוב הלבנון ד"ה וחושך (pg 556)

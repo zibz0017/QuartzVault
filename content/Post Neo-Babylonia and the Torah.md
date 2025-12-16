@@ -101,13 +101,13 @@
 # Achashverosh (Ahasuerus)
 1. Comes up in Megillas Esther, Ezra, and Nechemia.
 ## מפרשים
-1. רש"י and the Gra say that he was a king under Cyrus the Great (Koresh).[^32] The reason they say this is because there was no time for him to rule. Cyrus ruled until the end of that גלות and the story was obviously in גלות so it couldn't be after Cyrus. Before Cyrus was Darius I (secular historians aren’t sure who this is.[^33]) and Darius’s father wasn’t a king. In addition, the megillah specifically mentions his kingdom, so it sounds like it is trying to preclude the other Achashverosh[^34] (I am confused by what the שפתי chachomim meant the father of Darius not being a king because he also implies that the Achashverosh of the purim story ruled from Hodu to Kush as opposed to the other Achashverosh who only ruled over Persia and Media. In addition, the Evven Ezra calls him a king [1st Evven Ezra after his introduction]. Maybe he just meant that he wasn’t a king over from Hodu to Kush).
+1. רש"י and the גר"א say that he was a king under Cyrus the Great (Koresh).[^32] The reason they say this is because there was no time for him to rule. Cyrus ruled until the end of that גלות and the story was obviously in גלות so it couldn't be after Cyrus. Before Cyrus was Darius I (secular historians aren’t sure who this is.[^33]) and Darius’s father wasn’t a king. In addition, the megillah specifically mentions his kingdom, so it sounds like it is trying to preclude the other Achashverosh[^34] (I am confused by what the שפתי chachomim meant the father of Darius not being a king because he also implies that the Achashverosh of the purim story ruled from Hodu to Kush as opposed to the other Achashverosh who only ruled over Persia and Media. In addition, the Evven Ezra calls him a king [1st Evven Ezra after his introduction]. Maybe he just meant that he wasn’t a king over from Hodu to Kush).
     
 2. However, in Ezra 4:6, רש"י says that the Achashverosh over there is the same one in the Megillah and he reigned after Cyrus [[רש"י](https://www.sefaria.org/Ezra.4.6?lang=bi&with=רש"י&lang2=en)]. (I think it might not be clear if רש"י on Ezra is actually רש"י). {Need source}
     
 3. רש"י on 4:7 also says that כרש, דריוש and ארתחששתא are really the same person, quoting Rosh Hashanah 3b and that ארתחששתא is really the name for Persian emperors (like Pharoh in Egypt). [[רש"י](https://www.sefaria.org/Ezra.4.7?lang=bi&with=רש"י&lang2=en)] (Not sure how this fits with the fact that Darius was the father of Cyrus as we said in point i.)
     
-4. The Evven Ezra seems to learn that he ruled after Koresh (not sure what he does with the שפתי חכמים’s point). He says that he is ארתחששתא (Secular scholars think this is Artaxerxes I but the מפרשים there [[רש"י](https://www.sefaria.org/Ezra.4.7?lang=bi&with=רש"י&lang2=en), [Malbim](https://www.sefaria.org/Ezra.4.7?lang=bi&with=Malbim&lang2=en)] say that he is Cyrus. I’m not sure if he is saying that this is one pshat or 2 separate pshatim. Overall, I had a hard time reading the piece). [1st Evven Ezra after his introduction]
+4. The Evven Ezra seems to learn that he ruled after Koresh (not sure what he does with the שפתי חכמים’s point). He says that he is ארתחששתא (Secular scholars think this is Artaxerxes I but the מפרשים there [[רש"י](https://www.sefaria.org/Ezra.4.7?lang=bi&with=רש"י&lang2=en), [מלבי"ם](https://www.sefaria.org/Ezra.4.7?lang=bi&with=מלבי"ם&lang2=en)] say that he is Cyrus. I’m not sure if he is saying that this is one pshat or 2 separate pshatim. Overall, I had a hard time reading the piece). [1st Evven Ezra after his introduction]
     
 
 ## Secular view
@@ -135,7 +135,7 @@ Counter: The Babylonians had a god named marduk so Marduka may not have been an 
 
   
 
- See Seder עולם Rabbah 29 - 30; Medrash Lekach טוב intro to Ester; Megillah 11b-12a; Avodah Zarah 9a; See if Rabbi Breidowitz has anything on תורה Anytime; The Meiri’s intro to Pirkei Avos; The רמב"ם’s intro to Pirkei Avos; Any other ראשון’s intro to Pirkei Avos that goes through the history; Rav Yaakov Weinberg on the רמב"ם’s history; Intros of ראשונים to Ester, Daniel, Ezra, Ezra, and Nechamia; רש"י and Evven Ezra to Daniel 1:1; רש"י D”H “ויבא חנני” on Rosh Hashanah 3b; Rashba and Ritva there; 'תוס D”H “שנת” there; Artscroll footnote 18 on Rosh Hashanah 3b; Rav Sadia Gaon Emuson Vdaos פרק 8; Abarbanel Maayonei Hayeshuah 2:3, 10:7-8 and 11:3; Rabbi David Ganz Tzemach Dovid part 2 pg 186-191; Maharal Be’er Hagollah pg 139-140
+ See Seder עולם Rabbah 29 - 30; מדרש Lekach טוב intro to Ester; Megillah 11b-12a; Avodah Zarah 9a; See if Rabbi Breidowitz has anything on תורה Anytime; The Meiri’s intro to Pirkei Avos; The רמב"ם’s intro to Pirkei Avos; Any other ראשון’s intro to Pirkei Avos that goes through the history; Rav Yaakov Weinberg on the רמב"ם’s history; Intros of ראשונים to Ester, Daniel, Ezra, Ezra, and Nechamia; רש"י and Evven Ezra to Daniel 1:1; רש"י D”H “ויבא חנני” on Rosh Hashanah 3b; Rashba and Ritva there; 'תוס D”H “שנת” there; Artscroll footnote 18 on Rosh Hashanah 3b; Rav Sadia Gaon Emuson Vdaos פרק 8; Abarbanel Maayonei Hayeshuah 2:3, 10:7-8 and 11:3; Rabbi David Ganz Tzemach Dovid part 2 pg 186-191; Maharal Be’er Hagollah pg 139-140
 
 # Footnotes
 
@@ -170,6 +170,6 @@ Counter: The Babylonians had a god named marduk so Marduka may not have been an 
 [^29]: [Wikipedia : Seleucus II](https://en.wikipedia.org/wiki/Seleucus_II_Callinicus#:~:text=After%20the%20death,and%20Queen%20Laodice)
 [^30]: [Oxford Classical Dictionary : Laodice, Wife of Antiochus](https://oxfordre.com/classics/oso/viewentry/10.1093$002facrefore$002f9780199381135.001.0001$002facrefore-9780199381135-e-3581?p=emailACL/gnD0qaxM6&d=/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-3581#:~:text=The%20first%20wife,supporters%20of%20Laodice)
 [^31]: I am confused by this number. He only ruled for 20 years, but this makes it seem like he ruled for 21 years.
-[^32]: 1st רש"י and Gra on Megilas Esther
+[^32]: 1st רש"י and גר"א on Megilas Esther
 [^33]: [Wikipedia : Darius the Mede](https://en.wikipedia.org/wiki/Darius_the_Mede)
 [^34]: שפתי חכמים Alef on Megilas Esther

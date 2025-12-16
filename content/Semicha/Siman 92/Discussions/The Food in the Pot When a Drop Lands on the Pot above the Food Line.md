@@ -1,4 +1,4 @@
-*Presented by ש"ך ס"ק כה, כט, ל*
+*Presented by מחבר סעיף ז, רמ"א סעיף ז, ש"ך ס"ק כה, כט, ל*
 # Background
 1. There is a מחלוקת about whether the we treat the food in the pot as אסור.
 # Reason for Those Who Say it is אסור

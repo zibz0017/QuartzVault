@@ -50,23 +50,33 @@ For further discussion of this machlokes (and some other details), see [[Backgro
 ## נ"ט בר נ"ט
 1. If one wants to eat a food that was cooked in a meat/dairy בן יומו כלי and then eat a food of its opposite, they do not need to wait or wash their hands. For more details, see here. <span style="color:rgb(255, 0, 0)">add link to נ"ט בר נ"ט</span>
 # Fat From Meat/Chicken
-1. the fat from meat and chicken has the same DIN as the actual meat and chicken themselves.[^19]
+1. the fat from meat and chicken has the same דין as the actual meat and chicken themselves.[^19]
 # Meat/Dairy Equipment
 1. רמ"א (פשוט פשט): One can eat something dairy right after eating a food made in the כלי of its opposite even without washing one's hands or doing kinuach and hadacha.
 2. <span style="visibility:hidden">l</span>ש"ך, <span style="visibility:hidden">l</span>רמ"א (According to the ש"ך): One may eat something from a meat/dairy כלי that still has some ממשות and then right after, eat its opposite.[^20]
 # Dirty Pots
 1. The ש"ך says that if one cooks a dish in a pot that still has some ממשות on the bottom, they may not eat it with its opposite, but they don't need to wait. For more discussion of this opinion, see [[Dirty Pots (ש''ך ס''ק יט)|here]].
 # Eating Meat/Milk Followed by it opposite on the Same Table
+<span style="color:rgb(255, 0, 0)">Come back to this</span>
 1. If one is putting the food straight on the table, they must change the tablecloth.[^21]
 2. If one is putting the food on
 # Knives
-## Cutting Dairy with a Meat Knife or Vice-versa
-1. ש"ך: One cannot do this.
-2. ט"ז: One can do this if they do נעיצה first.
-## Cutting Bread to Eat with Dairy with a Meat Knife or Vice-versa
-1. מהרש"ל: One cannot do this, even if they do נעיצה.<span style="visibility:hidden">l</span>[^22] For further discussion of the מהרש"ל's שיטה, see [[מהרש''ל on Doing נעיצה on Knife between Dairy and Meat|here]].
-2. ש"ך: [^22]
-3. ט"ז: One can do this if they simply clean the knife first. For discussion about this opinion, see [[Questions on the ט''ז Regarding Knives|here]].
+## לכתחילה
+### Cutting Cold Food
+*Note: בן יומו is not mentioned. It seems that these הלכות are the same whether the knife is בן יומו or not.*
+#### Cutting Dairy with a Meat Knife or Vice-versa
+1. ש"ך: One cannot do this.[^22]
+2. ט"ז: One can do this if they do נעיצה first. However, the מנהג is not to do this, even with נעיצה.<span style="visibility:hidden">l</span>[^23]
+#### Cutting Parve Food to Eat with Dairy with a Meat Knife or Vice-versa
+1. מהרש"ל: One cannot do this, even if they first do נעיצה.<span style="visibility:hidden">l</span>[^24] For further discussion of the מהרש"ל's שיטה, see [[מהרש''ל on Doing נעיצה on Knife between Dairy and Meat|here]].
+2. ש"ך, פרי מגדים: One must first do נעיצה. However, the מנהג is not to do this, even with נעיצה.<span style="visibility:hidden">l</span> בשעת הדחק, one can be be מקל if they do נעיצה.<span style="visibility:hidden">l</span>[^25] <span style="color:rgb(255, 0, 0)">This seems to be in סתירה to what we said over [[Semicha/Siman 96/Halachos#^39fa1d|here]].</span>^17b424
+3. ט"ז: One can do this if they simply clean the knife first.[^26] For discussion about this opinion, see [[Questions on the ט''ז Regarding Knives|here]].
+## בדיעבד
+1. <span style="color:rgb(255, 0, 0)">Add link to סימן צו סעיף ה</span>
+## Cutting Hot Food with Opposite Knife
+1. See [[Semicha/Siman 94/Halachos#Cutting Hot Food with Opposite Knife|here]].
+## Cutting דבר חריף
+<span style="color:rgb(255, 0, 0)">Need to add link to סימן צו</span>
 # Unorganized Notes
 ## סעיף 3
 1. Can't eat תבשיל of meat and milk together.
@@ -82,15 +92,15 @@ For further discussion of this machlokes (and some other details), see [[Backgro
 ## סעיף 4
 1. After eating meat/milk, you must clean the table from crumbs/take off the tablecloth before switching to the other one.
 2. You can't use a knife used for meat (milk) for food that you will eat with milk (meat).
-3. Rema and ש"ך: Midina, if you do נעיצה, you can use the knife for the other one, לכתחילה (a meat knife to be used for dairy and vice versa). However, כלל ישראל have separate meat and milk knives and this is proper. If someone is in a situation that they only have one knife, they can use נעיצה and use the knife.
+3. Rema and ש"ך: מדינא, if you do נעיצה, you can use the knife for the other one, לכתחילה (a meat knife to be used for dairy and vice versa). However, כלל ישראל have separate meat and milk knives and this is proper. If someone is in a situation that they only have one knife, they can use נעיצה and use the knife.
    מהרש"ל: You can only do נעיצה on a knife if it has been made אסור.
    In short, it seems that one should have separate meat and milk knives. If someone is in a situation that they only have one knife then they may do נעיצה to use the knife for the other one. (סעיף 4 and ש"ך 22)
 4. One may use a meat (dairy) knife to cut bread that they will eat with dairy (meat). They just have to make sure the knife is clean (meaning, even without נעיצה). As worst this is only nat bar nat (בליעות from the food into the knife and from the knife into the bread). And it isn't even that because בליעות only transfer with knives when there is a דבר חריף. (ט"ז 6)
 
 [^1]: הג"ה סעיף א
 [^2]: מחבר סעיף א
-[^3]: ס"ק ז, Pri Megadim שם
-[^4]: ס"ק ב, Pri Megadim שם
+[^3]: ס"ק ז, פרי מגדים שם
+[^4]: ס"ק ב, פרי מגדים שם
 [^5]: מחבר סעיף א, רמ"א סעיף א, ש"ך ס"ק ד
 [^6]: ש"ך ס"ק ג
 [^7]: מחבר סעיף ב
@@ -102,10 +112,14 @@ For further discussion of this machlokes (and some other details), see [[Backgro
 [^13]: ש"ך ס"ק יא, יג
 [^14]: ס"ק טו
 [^15]: ס"ק ד
-[^16]: ט"ז ס"ק ה, Pri Megadim שם
+[^16]: ט"ז ס"ק ה, פרי מגדים שם
 [^17]: מחבר סעיף ג
 [^18]: רמ"א סעיף ג
 [^19]: רמ"א סעיף ג, ש"ך ס"ק יח
 [^20]: ש"ך ס"ק יט
 [^21]: מחבר סעיף ד
 [^22]: ש"ך ס"ק כב
+[^23]: ט"ז ס"ק ו, ז
+[^24]: ש"ך ס"ק כב, פרי מגדים שם
+[^25]: ש"ך ס"ק כב, פרי מגדים על ט"ז ס"ק ז
+[^26]: ט"ז ס"ק ו

@@ -21,7 +21,7 @@
 3. However, it should be noted that if the water (or whatever liquid) was mixed with the dairy, then it *may not* be eaten, because then we only have נ"ט בר נ"ט (meat to pot and pot to liquid).
    So if someone cooked the fish in a sauce, the even if the sauce was mixed already mixed with the dairy, one may not eat the food.
 # Indications that the רמ"א Does not Agree with This
-1. The lashon of the רמ"א
+1. The לשון of the רמ"א
 # דבר חריף
 1. If something is a דבר חריף גמור, even in these cases of נ"ט בר נ"ט בר נ"ט, the בליעות transfer through. As such, the הלכה in [[#Case 2]] and [[#Case 3]] is that one may not eat the food, if we were dealing with a דבר חריף גמור.
 2. <span style="color:rgb(255, 0, 0)">Need to come back to פתחי תשובה ס"ק ד</span>

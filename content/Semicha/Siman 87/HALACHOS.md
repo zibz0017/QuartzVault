@@ -1,6 +1,6 @@
 # Issurei דאורייתא of בב״ח
 1. Cooking milk and meat together.[^1]
-2. Getting HANNAH from meat and milk which has been cooked together.[^1]
+2. Getting הנאה from meat and milk which has been cooked together.[^1]
 3. Eating milk and meat which has been cooked together.[^1]
 ## Definition of "Cooked Together"
 1. "Cooked together" means cooking and baking and things like that. Things like salting and pickling don't count.[^2]
@@ -10,47 +10,47 @@
 ### Issurim of Eating or Cooking
 1. There is no minimum amount. A person is עובר for eating or cooking any amount at all.[^4]
 2. A person is עובר for eating in any fashion, even in ways which are not אסור regarding other issurim, like swallowing without chewing. (Other איסורים, like eating treif, are מותר if swallowed.)[^5] 
-### איסור of Getting HANNAH
+### איסור of Getting הנאה
 #### שיטות
 1. רמב"ם: There is no minimum amount. A person is always עובר.
-2. Various other ראשונים and Achronim: Some say the mixture needs to be a kizayis. Others say that the person needs to get a perutah's worth of hannah.<span style="color:rgb(255, 0, 0)">(It is not clear to me if these opinions argue with each other or agree.)</span>
+2. Various other ראשונים and Achronim: Some say the mixture needs to be a kizayis. Others say that the person needs to get a perutah's worth of הנאה.<span style="color:rgb(255, 0, 0)">(It is not clear to me if these opinions argue with each other or agree.)</span>
 # General ISSUREI דרבנן of בב״ח
 1. <span style="display: block; text-align: justify;">Eating meat and milk that has not been cooked together. As mentioned, meat and milk that has been salted or pickled together is only אסור דרבנן.</span>
-   <span style="display: block; text-align: justify;">One may get HANNAH or cook <span style="color:rgb(255, 0, 0)">{Need source. See סעיף 3}</span> meat and milk together for which there is only an איסור דרבנן to eat it (for example, cooking chicken and milk together, or getting HANNAH from meat and milk that has not been cooked together). For further discussion, see [[Cooking or Getting HANNAH from Foods Which Are Only אסור to Eat MIDIRABANAN|here]].</span>
-# What Meat/Milk Count for בשר BICHALAV
-## בשר BICHALAV דאורייתא
-1. Most meat and milk from domesticated kosher animals can create בשר BICHALAV issues.[^6]
+   <span style="display: block; text-align: justify;">One may get הנאה or cook <span style="color:rgb(255, 0, 0)">{Need source. See סעיף 3}</span> meat and milk together for which there is only an איסור דרבנן to eat it (for example, cooking chicken and milk together, or getting הנאה from meat and milk that has not been cooked together). For further discussion, see [[Cooking or Getting הנאה from Foods Which Are Only אסור to Eat MIDIRABANAN|here]].</span>
+# What Meat/Milk Count for בשר בחלב
+## בשר בחלב דאורייתא
+1. Most meat and milk from domesticated kosher animals can create בשר בחלב issues.[^6]
 2. For a discussion about niveilah and cheilev from a kosher animal with milk, see [[Niveilah and Cheilev with Milk|here]].
-## בשר BICHALAV דרבנן
-1. Bird meat (such as chicken and turkey), and meat of undomesticated kosher animals (like deer meat) according to most POSKIM.[^7][^8] For further discussion, see [[Bird and Wild Animal Meat and Milk|here]].
+## בשר בחלב דרבנן
+1. Bird meat (such as chicken and turkey), and meat of undomesticated kosher animals (like deer meat) according to most פוסקים.[^7][^8] For further discussion, see [[Bird and Wild Animal Meat and Milk|here]].
    Similarly, milk from undomesticated animals Chalav דרבנן.[^9]
 ## What Does not Count
 1. Fish is parve.[^7] However, there is still an issue of סכנה to eat this with milk. For further discussion, see [[Fish with Milk and Meat|here]].
-2. According to most POSKIM, milk/meat from a non-kosher animal with its kosher opposite does not have an איסור of בשר BICHALAV.[^7][^10][^11] (Obviously, there are still the ISSURIM related to non-kosher animals in general.) For further discussion, see [[Milk or Meat from Non-Kosher Animals with its kosher opposite|here]].
+2. According to most פוסקים, milk/meat from a non-kosher animal with its kosher opposite does not have an איסור of בשר בחלב.[^7][^10][^11] (Obviously, there are still the ISSURIM related to non-kosher animals in general.) For further discussion, see [[Milk or Meat from Non-Kosher Animals with its kosher opposite|here]].
 # Alternative Milks/Meats
-<span style="color:rgb(255, 0, 0)">Perhaps combine this section with the [[#What Meat/Milk Count for בשר BICHALAV]] section</span>
+<span style="color:rgb(255, 0, 0)">Perhaps combine this section with the [[#What Meat/Milk Count for בשר בחלב]] section</span>
 ## Group 1
 1. Almond milk.[^12]
 2. Milk from a human (whether from a female[^13] or male[^14]).
-### HALACHA
-1. MEIKAR HADIN, these are parve. However, there is a problem of [[#מראית עין]].[^13] <span style="color:rgb(255, 0, 0)">There may only be a problem of מראית עין regarding חלב אישה. It doesn't explicitly say that there is a מראית עין problem when it comes to חלב איש.</span>
+### הלכה
+1. מעיקר HADIN, these are parve. However, there is a problem of [[#מראית עין]].[^13] <span style="color:rgb(255, 0, 0)">There may only be a problem of מראית עין regarding חלב אישה. It doesn't explicitly say that there is a מראית עין problem when it comes to חלב איש.</span>
 ## Group 2
 1. Some byproducts from cheesemaking. See [[Cheesemaking Byproducts|here]] for a discussion.
 2. Milk from a dead animal.[^15]
 3. Milk from a male animal.[^16]
-4. Blood.[^17] (This is only referring to the איסור of בב״ח, not the STAM איסור of eating blood.)
+4. Blood.[^17] (This is only referring to the איסור of בב״ח, not the סתם איסור of eating blood.)
 5. Placenta.[^18]
 6. Hide.[^18] However, for hide is the same as flesh underneath, some say that this is אסור דאורייתא.[^19]
 7. Sinews.[^18]
 8. Bones.[^18]
 9. Horns.[^18]
 10. Hooves.[^18]
-### HALACHA
+### הלכה
 1. אסור to cook with milk/meat MIDIRABANAN (at least לכתחילה),[^20][^18] <span style="color:rgb(255, 0, 0)">{This is what the הג"ה says. I don't know what he means by this.}</span> and certainly to eat.[^21][^18] For why we don't allow cooking these items with their milk/meat opposites, but by milk from non-kosher animals we are not concerned, see [[Cooking Non-kosher Animal Milk with Meat vs Other Alternate Milks and Meats|here]].
 ## Group 3
 1. Fetus.[^18]
 2. Some byproducts from cheesemaking. See [[Cheesemaking Byproducts|here]] for a discussion.
-### HALACHA
+### הלכה
 1. This is considered full-fledged meat/milk. It is אסור midioraysa to cook or eat with its meat/milk opposite.[^18][^22]
 ## Disputed Cases
 ### Milk Drunk by a Now-dead Animal
@@ -61,15 +61,15 @@
 1. מחבר:<span style="visibility:hidden">l</span>[^23] This is a MACHLOKES. It seems that he holds like the first opinion, in which case, it would be מותר לכתחילה.
 2. רמ"א:<span style="visibility:hidden">l</span>[^24] This is a MACHLOKES and it is not fine, even בדיעבד.
 #### Case 2
-1. The milk has undergone some degree of digestion (karush).
+1. The milk has undergone some degree of digestion (קרוש).
 ##### שיטות
 1. מחבר:<span style="visibility:hidden">l</span>[^25] This is fine, לכתחילה.
 2. רמ"א (as explained by the ש"ך):<span style="visibility:hidden">l</span>[^24] מעיקר הדין, there is no issue. However, there is a מראית עין problem. בדיעבד, this is fine (as is true in general by מראית עין issues).
-3. מהרש"ל, ר"ן, או"ה (all presented by the ש"ך):<span style="visibility:hidden">l</span>[^26] There is a problem meikar hadin, even בדיעבד.
+3. מהרש"ל, ר"ן, או"ה (all presented by the ש"ך):<span style="visibility:hidden">l</span>[^26] There is a problem מעיקר hadin, even בדיעבד.
 #### Case 3
-1. A person salts the animal while there is some of this milk still in the animals stomach or he leaves the milk in the animal's stomach for 24 hours. He then mixes this milk with other milk used to make cheese. The potential issue is that this milk has acquired בליעות of meat from the stomach of the animal through melicha or kevisha.
+1. A person salts the animal while there is some of this milk still in the animals stomach or he leaves the milk in the animal's stomach for 24 hours. He then mixes this milk with other milk used to make cheese. The potential issue is that this milk has acquired בליעות of meat from the stomach of the animal through melicha or כבישׁה.
 ##### Side Notes
-1. לכתחילה a person should not leave the milk in the animal's stomach the length of time that it would take for it to cool down. This is because the milk in the stomach is full of acid and so the kevisha process occurs much faster.[^27]
+1. לכתחילה a person should not leave the milk in the animal's stomach the length of time that it would take for it to cool down. This is because the milk in the stomach is full of acid and so the כבישׁה process occurs much faster.[^27]
 2. While we are usually מחמיר to say that transfer occurred instantly when the meat has been salted, and even if it has been salted relatively lightly, if the milk has already been mixed with other milks we are more מקל because there we can rely on the שיטה of the מחבר, (explained shortly) who is מקל the moment the milk is drunk. Additionally, there is only a concern for an איסור דרבנן is this case[^28] (assuming that the milk was not cooked after. See [[#^16a5de|here]].[^19])
 ##### שיטות
 For some more details about the שיטות, see [[Using Milk in an Animal's Stomach to Make Cheese|here]]. <span style="color:rgb(255, 0, 0)">Need to take out some of the details I wrote here and put them in the linked article</span>
@@ -104,11 +104,11 @@ All opinions:[^31] This is אסור.
 ### Examples
 1. A person accidentally mixed Chalav אישה into his pot of meat while it is cooking.[^13]
 ## Case 4
-1. A person wants to cook or get HANNAH from foods which appears like there is an איסור דאורייתא on doing this. (Whether there is an איסור דרבנן of בשר BICHALAV to eat together, or not.)
+1. A person wants to cook or get הנאה from foods which appears like there is an איסור דאורייתא on doing this. (Whether there is an איסור דרבנן of בשר בחלב to eat together, or not.)
 ### שיטות
 1. Various מפרשים (Brought down by the [[מראית עין by ISSUREI DIRBANAN#Answer 1|ש"ך's first answer]]):[^35] There is a problem of מראית עין.
-2. ש"ך ([[מראית עין by ISSUREI DIRBANAN#Answer 2|Second answer]]), מחבר (According to this answer), רמ"א (According to this answer):[^35] There is no problem of מראית עין when it comes to cooking by ISSUREI דרבנן of בשר BICHALAV.
-3. ש"ך ([[מראית עין by ISSUREI DIRBANAN#Answer 3|Third answer]]):[^35] There is a problem of cooking/getting HANNAH when using alternative milks with meat. There is no problem when using non-kosher meat/milk with its kosher opposite. (It would seem that this answer would certainly agree with the LEVUSH ([[#^519575|below]]) that there is no problem of cooking chicken with meat.)
+2. ש"ך ([[מראית עין by ISSUREI DIRBANAN#Answer 2|Second answer]]), מחבר (According to this answer), רמ"א (According to this answer):[^35] There is no problem of מראית עין when it comes to cooking by ISSUREI דרבנן of בשר בחלב.
+3. ש"ך ([[מראית עין by ISSUREI DIRBANAN#Answer 3|Third answer]]):[^35] There is a problem of cooking/getting הנאה when using alternative milks with meat. There is no problem when using non-kosher meat/milk with its kosher opposite. (It would seem that this answer would certainly agree with the LEVUSH ([[#^519575|below]]) that there is no problem of cooking chicken with meat.)
 4. ט"ז, רמ"א (According to the ט"ז, and, seemingly, the PASHUT reading):[^36] There is a problem with any milk (including alternative milks and milk from non-kosher animals) and meat (including chicken, and meat from non-kosher animals).
    (The ט"ז himself feels that there is no problem with meat/milk from non-kosher animals and its kosher opposite, but he doesn't want to be מקל against the רמ"א.)
 5. LEVUSH:[^37] There is no problem of cooking chicken with milk. ^519575
@@ -121,22 +121,22 @@ All opinions:[^31] This is אסור.
 1. A complete egg is parve. A partially formed egg is (at least to some degree) considered to be the meat of the chicken. There is a discussion about what are the requirements of an egg to be considered completely formed.
 ## In All Cases
 1. One does not need to wait after eating the egg before eating milchigs, even in cases where one may not eat it with milchigs.[^38] For a discussion of why one doesn't have to wait after eating a egg that they may not eat with meat, see [[Eggs#Why One Doesn't Have to Wait after Eating "Fleishig" Eggs|here]].
-## MEIKAR HADIN
+## מעיקר HADIN
 ### Case 1
 1. Egg with yolk and albumen with a hard shell, whether embedded in the innards or not.
-#### HALACHA
-1. Fine to eat with meat לכתחילה.<span style="visibility:hidden">l</span>[^39] There is seemingly a סתירה between this halacha here and the הלכות by אבר מן החי. For further discussion, see [[Eggs#The סתירה Between הלכות of אבר מן החי and הלכות of Eggs|here]].
+#### הלכה
+1. Fine to eat with meat לכתחילה.<span style="visibility:hidden">l</span>[^39] There is seemingly a סתירה between this הלכה here and the הלכות by אבר מן החי. For further discussion, see [[Eggs#The סתירה Between הלכות of אבר מן החי and הלכות of Eggs|here]].
 ### Case 2
 1. Egg with yolk and albumen with a soft shell, and not embedded in the innards
-#### HALACHA
+#### הלכה
 1. One should not eat this with milchigs לכתחילה. This is okay בדיעבד (meaning, if one accidentally mixed it with milchigs).[^40]
 ### Case 3
 1. Egg with only yolk (no albumen), with a hard shell, and not embedded in the innards.
-#### HALACHA
+#### הלכה
 1. One should not eat this with milchigs, even בדיעבד. In a case of הפסד מרובה, the ש"ך says that this is fine and the מחבר would presumably agree.[^41]
 ### Case 4
 1. Egg with yolk and albumen with a soft shell, and embedded in the innards.
-#### HALACHA
+#### הלכה
 1. One should not eat this with milchigs, even בדיעבד.<span style="visibility:hidden">l</span>[^41] Presumably, one can make a Kol Shekein that one may be מקל in a case of הפסד מרובה as we are even מקל in such a case where there is no albumen.
 ### Case 5
 1. Egg with only yolk, with a hard shell, and embedded in the innards.
@@ -165,11 +165,11 @@ All opinions:[^31] This is אסור.
 1. Smoking meat and milk together.[^17]
 2. Cooking meat and milk together in hot springs.[^17]
 3. Cooking meat and milk together in the sun. <span style="color:rgb(255, 0, 0)">{need source}</span>
-## HALACHA
+## הלכה
 1. אסור MIDIRABANAN.[^44]
 # Previously Cooked Meat and Milk
-<span style="color:rgb(255, 0, 0)">Should be moved earlier as one of the מראי mekomos are on סעיף 1</span>
-1. Even if the meat and milk have been previously cooked seperately, there is still an איסור to cook them together. We do not say ein bishul achar bishul.
+<span style="color:rgb(255, 0, 0)">Should be moved earlier as one of the מראי מקומות are on סעיף 1</span>
+1. Even if the meat and milk have been previously cooked seperately, there is still an איסור to cook them together. We do not say אין bishul achar bishul.
 2. If they have previously been cooked together, then:
 	1. ש"ך:<span style="visibility:hidden">l</span>[^45] אסור to cook them together. 
 	2. <span style="color:rgb(255, 0, 0)">Not sure who</span>:[^46] There is potential to say that it is okay, but he is unsure.
@@ -203,7 +203,7 @@ All opinions:[^31] This is אסור.
 [^16]: סימן 87 סעיף 6 מחבר, ש"ך sk 16
 [^17]: סימן 87 סעיף 6 מחבר, ש"ך sk 14
 [^18]: סימן 87 סעיף 7
-[^19]: סימן 87 Pri Megadim presented by פתחי תשובה sk 15
+[^19]: סימן 87 פרי מגדים presented by פתחי תשובה sk 15
 [^20]: סימן 87 סעיף 6 מחבר, הג"ה
 [^21]: סימן 87 סעיף 6 הג"ה (presumably, the מחבר agrees)
 [^22]: סימן 87 סעיף 8
@@ -229,8 +229,8 @@ All opinions:[^31] This is אסור.
 [^42]: ת"ח כלל ע דין א as presented by ש"ך סימן פז ס"ק י
 [^43]: סי' פז ט"ז ס"ק ו
 [^44]: סימן פז מחבר, הג"ה סיף ו, ש"ך ס"ק יג
-[^45]: Gilyon Maharsha D"H Echad Liisur Bishul on Shulchan Aruch סעיף א
-[^46]: Gilyon Maharsha D"H Yeish Omrim on Shulchan Aruch סעיף ו
+[^45]: Gilyon Maharsha D"H Echad Liisur Bishul on Shulchan ערוך סעיף א
+[^46]: Gilyon Maharsha D"H Yeish Omrim on Shulchan ערוך סעיף ו
 [^47]: סימן פז הג"ה סעיף 10, ש"ך ס"ק 33
 [^48]: סימן פז פתחי תשובה 19
 [^49]: סימן פז מחבר סעיף 11, ש"ך ס"ק 34

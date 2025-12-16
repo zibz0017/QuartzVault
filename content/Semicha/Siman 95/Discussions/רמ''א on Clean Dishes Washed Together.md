@@ -10,7 +10,7 @@
 2. As for the non-בן יומו receiving בליעות from the בן יומו dish, because it is not a בן יומו, the בליעות it receives are considered נ"ט בר נ"ט דהיתרא. As such, both dishes are fine.
 # Reason the water is אסור
 *Presented by ש"ך ס"ק יד and ט"ז ס"ק י*
-1. Water is not considered chashuv. As such, water is never considered to be "בדיעבד". בדיעבד is only when because one has done something, they may have to throw something out that is worth something.
+1. Water is not considered חשוב. As such, water is never considered to be "בדיעבד". בדיעבד is only when because one has done something, they may have to throw something out that is worth something.
 2. Water is basically valueless and so even though one has already cooked it with both the dairy and meat dish, we don't consider the situation בדיעבד. As such, the water has to be thrown out.
-3. This is even though one of the dishes were not בן יומו. We do not rely on the fact that the בליעות are pagum.
-4. Despite this, the ש"ך says that midina, one may use the water with the same type of food as the בן יומו dish. (Although he would agree that one should not. It is not clear to me what the ט"ז would say.)
+3. This is even though one of the dishes were not בן יומו. We do not rely on the fact that the בליעות are פגום.
+4. Despite this, the ש"ך says that מדינא, one may use the water with the same type of food as the בן יומו dish. (Although he would agree that one should not. It is not clear to me what the ט"ז would say.)

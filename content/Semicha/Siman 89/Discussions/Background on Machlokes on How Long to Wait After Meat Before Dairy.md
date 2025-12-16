@@ -7,4 +7,4 @@
 1. There is a discussion about whether this is shaos zmanios or not. According to most (if not all) opinions, this is not shaos zmanios.
 # Choleh
 *Presented by פתחי תשובה ס"ק ג*
-1. If a choleh needs to drink חלב דרבנן (like MEI חלב), they only need to wait one hour after eating meat.
+1. If a choleh needs to drink חלב דרבנן (like מי חלב), they only need to wait one hour after eating meat.
