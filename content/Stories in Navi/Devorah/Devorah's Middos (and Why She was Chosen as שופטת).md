@@ -1,6 +1,6 @@
 1. <span style="display: block; text-align: justify;">Devorah made the wicks for the משכן. Because of this, she was zoche to knowledge of תורה, נבואה, and to chosen as שופטת.<span style="visibility:hidden">l</span>[^1][^2]</span>
 2. <span style="display: block; text-align: justify;">Devorah did מצוות with tremendous zerizus[^3][^4] and feeling.[^4] Because she was a neviah and she acted with zerizus, she was chosen as שופטת.<span style="visibility:hidden">l</span>[^3]</span>
-3. <span style="display: block; text-align: justify;">Devorah was a tremendous נבואה to the point that light would emanate from her when she would receive a נבואה, similar to משה רבינו.[^5]</span>
+3. <span style="display: block; text-align: justify;">Devorah was a tremendous נבואה to the point that light would emanate from her when she would receive a נבואה, similar to משה רבינו.<span style="visibility:hidden">l</span>[^5]</span>
 # Footnotes
 
 [^1]: .מגילה יד with חידושי אגדות ד"ה מאי אשת לפידות

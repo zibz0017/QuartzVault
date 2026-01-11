@@ -1,1 +1,0 @@
-<span style="color:rgb(255, 0, 0)">{I need to see חידושי Rav Akiva Eiger on סימן 87 סעיף 6 D"H Hamivashel}</span>

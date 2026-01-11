@@ -7,7 +7,7 @@ If I measure the height of a bunch of people, I will get a certain mean, and a c
 If I randomly decide to add 5 inches to everyone's height, the mean will move up by 5 inches.
 The standard deviation will not change at all. Everyone is still the same distance from the mean as they were before.
 # Multiplying Constant to Random Variables
-If you multiply every value in a random variable, the mean and standard deviation will both change by a factor of that constant.
+If you multiply every value in a random variable, the mean and standard deviation will both change by a factor of that constant and the variance will change by a factor of that constant, squared. For example, if one multiplies every value by 3, the mean and standard deviation will be 3 times higher, and the variance will be 9 times higher ($3^2=9$).
 ## Working out the Math
 The standard deviation of a random variable is: $$\sqrt{\frac{\sum_{i=1}^n{\left(x_i-\mu\right)}^2}{n}}$$
 If we multiply every value by $k$, then $x_i-\mu$ will be $k$ times higher, for every value of $x$. For example, if I am measuring the height of a bunch of people and the mean is 6 feet (72 inches) and someone is 5" 11' (71 inches) and then I multiply all of the heights by 5, the mean will be 30 feet (360 inches) and the height of this person will be 29" 7' (355 inches), now 5 inches away from the mean.

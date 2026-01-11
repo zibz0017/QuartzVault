@@ -35,8 +35,8 @@ There are discrete "buckets" of possible values and we can map the probabilities
 When charting the probability of a continuous random variable, we are going to use graph, like this:
 ![[Pasted image 20250610221007.png]]
 This is called a [[Density Curve|density curve]] (see there for more details).
-The reason we can't use the bar chart is because we don't have an infinite number of discrete "buckets". In the temperature example, the temperature can be $70\degree F$. It may be $70.1\degree F$. It may be $70.2\degree F$. It may be $70.3\degree F$. It may be $70.0142\degree F$, and it keeps going, as discussed earlier. There is no way to map this using a bar chart. We would have a near-infinite number of bars to draw.
-Additionally, the odds that an event occurs at any precise value is basically 0. What are the odds that the temperature tomorrow is precisely $70.0142\degree F$ and not $70.0142000000001\degree F$ or $70.01419999999999\degree F$? It's basically 0 as there are technically an infinite number of possible temperatures that there may be.
+The reason we can't use the bar chart is because we don't have an infinite number of discrete "buckets". In the temperature example, the temperature can be $70\degree F$. It may be $70.1\degree F$. It may be $70.2\degree F$. It may be $70.3\degree F$. It may be $70.01\degree F$. It may be $70.0001\degree F$. It may be $70.01385092837\degree F$, and it keeps going, as discussed earlier. There is no way to map this using a bar chart. We would have a near-infinite number of bars to draw.
+Additionally, the odds that an event occurs at any precise value is basically 0. What are the odds that the temperature tomorrow is precisely $70.1\degree F$ and not $70.100000000001\degree F$ or $70.099999999999\degree F$? It's basically 0 as there are technically an infinite number of possible temperatures that there may be.
 # How Frequencies Are Recorded
 ## Exact Amount
 As the name implies, the exact amounts are given.
@@ -98,12 +98,16 @@ A person records the relative frequencies of how much customers spend in a store
 | $5.00                 | .1                 |
 When given relative frequencies (which is just a percentage of the total), to calculate the expected value, we just need to add the numbers multiplied by their relative frequencies. As such, we get:
 $$(1.00 \times .05) + (2.00 \times .15) + (3.00 \times .4) + (4.00 \times .3) + (5.00 \times .1) \Rightarrow$$$$.05+.3+1.2+1.2+.5=\boxed{3.25}$$
-## What this means
+## What This means
 The expected value is a good guess for what we can expect a result to be, on average. In [[#Example 1|example 1]], we we would expect to exercise, on average, $2\frac{1}{3}$ times per week. Obviously, we can't do a $\frac{1}{3}$ workout. What that means is that over time, we would expect that average. Like over 3 weeks, we would expect to have exercised around 7 time.
 This is just an estimate. it isn't guaranteed that this person will exercise 7 times in 3 weeks, but this is the best guess that we can come up with based on the data that we have.
 ## Symbol
 The symbol for expected value is the same as the symbol for average, which is: $\mu$.
 If we wanted to write the expected value for random variable $X$ is 7 (for example), we write: $\mu_X=7$.
+## Law of Large Numbers
+If we take many samples of a random variable, the average of the will be close to the actual expected value, and the more samples we take, the closer it will usually get.
+For example, lets say we want to count the amount of heads in 2 coin flips. The expected value is $np$, as discussed, and so that would be $2 \times .5 = 1$. However, it is very reasonable that we get 2 heads or 2 tails. Even if we run this experiment twice, it is reasonable that we get 3 heads or 3 tails in total, which would bring our average between the 2 samples to 1.5 or .5 (the probability would be around .62 or 62%). However, after 10 flips, the probability of having an average of at least 1.5 or at most .5 drops to around .04, or 4%. After 100 flips, the probability of averaging at least 1.5 or at most .5 is 0.0000005636 or er 0.00005636%. In fact, the probability of averaging only over 1.3 or under .7 heads is only around .002 or .2%.
+The idea basically is that while you can get lucky or unlucky a few times, it is very unlikely to keep happening.
 # [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Standard Deviation (σ or $s$)|Standard Deviation]] And [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Variance|Variance]]
 The standard deviation and variance can be good measure of the spread of a discrete random variable. See those articles for how to calculate.
 ## Example

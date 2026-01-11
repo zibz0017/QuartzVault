@@ -1,5 +1,5 @@
 # Yeshivos
-## Shpitziness in European Yeshivos
+## Classiness in European Yeshivos
 Some yeshivos in Europe (such as Yeshiva Chachmei Lublin, Slabodka, Radin, and Volozhin) had their bochurim dressed nicely (walking with silver walking sticks), had beautiful buildings as well as pay the townspeople to make food for the bochurim instead of relying on tzedakah from them. This was for a few reasons:
 1. In terms of dressing nicely and having beautiful buildings, during this time, universities were on the rise. Their students looked sophisticated (dressed nicely, clean shaven, etc.) as well as acted sophisticated (analyzed and thought deeply about things). Yeshiva bochurim needed to keep up with them for a few reasons:
 	1. To avoid a Chillul Hashem (people would look down on yeshiva bochurim).
@@ -80,7 +80,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 ## Hashem's Chesed During Punishment
 1. Hashem punishes כלל ישראל a little at a time so the punishment is not overwhelming, and so that it inspires תשובה.[^18]
 2. This is in contrast to the way Hashem gives punishment to other nations. For them, Hashem "saves up" the punishment and "pays them back" all at once.[^18]
-# Physical Proximity Affects Zechusim of Tazadikim
+# Physical Proximity Affects Zechusim of צדיקים
 1. כלל ישראל lost the battle of עי partially because יהושע needed to go with the soldiers for his zechusim to have a positive affect.[^19]
    It seems that the affect of יהושע's zechusim was tied to his physical location.[^20]
    {<span style="color:rgb(255, 0, 0)">This may be because if יהושע was there then he would be in danger as well. I don't know if that is much of a חידוש. Of course Hashem is more likely to act to save a צדיק then if a צדיק is not in danger. However, in this situation, the צדיק voluntarily put himself in danger so perhaps it is reasonable that Hashem wouldn't save the צדיק. A difference is that does this only apply to situations where the צדיק is in danger, or in any situation that a צדיק is nearby.</span>}
@@ -203,7 +203,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 	2. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter (to original point):</span> Perhaps this was accepted practice in those times so it was okay then, but perhaps since this is not accepted in our times, it is not okay anymore.</span>
 # Criminal Escalating the Situation
 1. <span style="display: block; text-align: justify;">Gideon was going to punish the city of פנואל by destroying the tower there (see [[Gideon and the Cities of סכות and פנואל#Why Gideon Destroyed the Tower in פנואל|here]] for why).</span>
-2. <span style="display: block; text-align: justify;">According to some מפרשים, when Gideon came to destroy the tower, people from the town fought against him. Gideon killed those people (which was seemingly a large part of the city) and then proceeded to destroy the tower (see [[Gideon and the Cities of סכות and פנואל#^f85451|here]]. For more details, read the rest of the article).</span>
+2. <span style="display: block; text-align: justify;">According to some מפרשים, when Gideon came to destroy the tower, people from the town fought against him. Gideon killed those people (which was seemingly a large portion of the city's population) and then proceeded to destroy the tower (see [[Gideon and the Cities of סכות and פנואל#^f85451|here]]. For more details, read the rest of the article).</span>
 3. <span style="display: block; text-align: justify;">It seems that when someone does something wrong and deserves a punishment, if that person (or group of people) escalates the situation (they won't accept the punishment and the only way one can administer the punishment is if worse than they deserved is inflicted on them), we say that the person should do so. One does not back down because they will have to do this.[^5]</span>
 # Davening for Help with Nisayonos
 1. <span style="display: block; text-align: justify;">יעקב davened for Hashem to help Shimshon with his nisayonos when יעקב saw that Shimshon was going to struggle in this area. Hashem answered יעקב's tefilos and did help Shimshon.[^37]<span style="color:rgb(255, 0, 0)"> Need to see בראשית מט יח</span></span>
@@ -222,14 +222,16 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. We see such an idea in navi. It says that יהואש served Hashem all the days that his rebbi, יהוידע was alive, but noto after יהוידע was nifter. According to some, this was because יהואש copied his rebbi, but he didn't actually learn the reasoning behind what his rebbi did, so when he wasn't able to ask his rebbi what to do anymore, he ended up straying.[^39]
 3. In some ways, Rav Dovid acted differently than the Alter because of this point. When saying shmuessen, the Alter would give a shmuess about a certain point, and then expand and say many different things about the topic.
    When Rav Dovid would give a shmuess, he would stick to what he was able to glean from the מראה מקום.<span style="visibility:hidden">l</span>[^40]
+4. Rav חיים Brisker had many talmidim, such as Rav Shimon Shkop, Rav Isser Zalman Meltzer, Rav Baruch Ber, and Rav חיים's own son, Rav Yizchak Zev. They were all unique from each other in many different ways, even though they all had the same rebbi. They each applied what they learned from their rebbi how it made sense for themselves. They didn't just try to all make themselves into carbon copies of their rebbi.[^41]
+5. Rus deviated from what Naami asked her to do because Rus understood what Naami really wanted. Shmuel similarly deviated from exactly what he was told for the same reason <span style="color:rgb(255, 0, 0)">not sure who was telling him to do something</span>. We see more examples of great people using their own intelligence to understand what they learned and how it applies to different situations.[^42]
 ## Learning from Closer Generations
 1. Because one is supposed to learn from their rebbi, rather than just copy them, it is important that one tries to learn from the גדולים who are closer to his generation.[^40]
 2. Even though people from earlier generations are greater, they are usually far too great for us and many times, the underlying reason for their decision would only be correct for people who are much closer to their מדרגה than we are.[^40]
-3. <span style="color:rgb(255, 0, 0)">This is discussed by a Maharsha somewhere. If I find out where, I should add it.</span>
+3. <span style="color:rgb(255, 0, 0)">This is discussed by a מהרש"א somewhere. If I find out where, I should add it.</span>
 # Schar for Doing השתדלות
-1. Hashem wants people to do השתדלות. If a person does השתדלות with the intention that they are doing this because Hashem told them to do this, they receive schar.[^41]
+1. Hashem wants people to do השתדלות. If a person does השתדלות with the intention that they are doing this because Hashem told them to do this, they receive schar.[^43]
 # Losing One's Money for not Using it Properly
-1. One loses their money for not using it properly.[^42]
+1. One loses their money for not using it properly.[^44]
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8
@@ -272,5 +274,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^38]: Tiferes Dovid : Chapter 4 (pg 46-47)
 [^39]: מלכים ב יב ג מלבי"ם שם (as presented by Tiferes Dovid : Chapter 4 (footnote 42))
 [^40]: Tiferes Dovid : Chapter 4 (footnote 43)
-[^41]: חובות הלבבות שאר הבטחון פרק ה פס לחם ד"ה Livchor (pg 554)
-[^42]: חובות הלבבות שאר הבטחון פרק ה טוב הלבנון ד"ה וחושך (pg 556)
+[^41]: Tiferes Dovid : Chapter 4 (footnote 44)
+[^42]: Tiferes Dovid : Chapter 4 (footnote 45)
+[^43]: חובות הלבבות שאר הבטחון פרק ה פס לחם ד"ה Livchor (pg 554)
+[^44]: חובות הלבבות שאר הבטחון פרק ה טוב הלבנון ד"ה וחושך (pg 556)

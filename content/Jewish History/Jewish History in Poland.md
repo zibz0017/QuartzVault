@@ -106,60 +106,61 @@
 4. For about the last 20 years of his life, the Kotzker only dealt with his closest talmidim. [^29]
 5. The chassidus seemed to have been too extreme for it to really last. [^29]
 ## Ger
-1. After the Kotzker was nifter in the mid 1800s, the חידושי Harim took over the chassidus. [^29]
+1. After the Kotzker was nifter in the mid 1800s, the חידושי Harim took over the chassidus. [^29] The חידושי Harim was one of the closest תלמידים of the Kotzker and stayed with him through the split with [[#Ishbitza (Radziner)|Ishbitza]].[^32]
 2. The Chassidus morphed into what we know as Ger. {<font color="#ff0000">need to look into how that happened</font>} [^29]
 3. The חידושי Harim was a tremendous gaon and was very charismatic. He was very sought after by a few chassiduses to become their rebbe. {<font color="#ff0000">Need to check that.</font>} [^29]
 4. He was originally a תלמיד of the Kushnitzer but after the father died and the son took over {don’t know which rebbe of Kushnitz this is referring to} he had some sort of fight and ended up joining Peshischa. [^29]
 5. All of his kids {or sons, I don’t know which} died during his lifetime. He felt this was because of his fight with the Kushnitzer. However, he still felt that he made the correct decision to leave Kushnitz. [^29]
 6. He turned down the intensity that was brought in by the Kotzker by a lot. [^29] {<font color="#ff0000">I’m not sure how things went exactly. Was he the rebbe after the death of the Kotzker and Kotzk sort of merged into Peshischa or was he the rebbe of Peshischa at at the same time as the Kotzker was the rebbe of Kotzk?</font>}
-7. The divrei תורה are much more peshat oriented. They seem to be trying to understand what the passuk is saying (I don’t think this is to the exclusion of Kutzk and Peshischa divrei תורה.) [^29]
-8. After the death of the חידושי Harim, the chassidus was then led by Rabbi Chanoch Henach Hakohen Levin from 1866 until 1870. [^32]
-9. The Sfas Emes was the grandson of the חידושי Harim and he took over the chassidus afterwards at 22 years old. [^29][^32]
-10. He was orphaned of both of his parents by the time he was 8 years old and was brought up by the חידושי Harim until the death of the חידושי Harim.[^29][^32]
-11. The ספר Sfas Emes is similar to the style of the חידושי Harim in that it seeks peshat and tries to make sense of the passuk (with references to higher concepts as well). [^29]
+7. The divrei תורה are much more פשט oriented. They seem to be trying to understand what the passuk is saying (I don’t think this is to the exclusion of Kutzk and Peshischa divrei תורה.) [^29]
+8. After the death of the חידושי Harim, the chassidus was then led by Rabbi Chanoch Henach Hakohen Levin from 1866 until 1870. [^33]
+9. The Sfas Emes was the grandson of the חידושי Harim and he took over the chassidus afterwards at 22 years old. [^29][^33]
+10. He was orphaned of both of his parents by the time he was 8 years old and was brought up by the חידושי Harim until the death of the חידושי Harim.[^29][^33]
+11. The ספר Sfas Emes is similar to the style of the חידושי Harim in that it seeks פשט and tries to make sense of the passuk (with references to higher concepts as well). [^29]
 12. The Sfas emes died from heartache in 1905 as the Russians drafted many of his Chassidim to fight in the Russo-Japanese War. [^29]
 13. His ספר lives on. It is incredibly popular in Ger. (Almost sounds like a Chiddushei Halev in Chofetz חיים.) [^29]
 ## Piaseczno (Piacezna) Rebbe
-1. Rav Kalonymus Kalman Shapira was born in 1889[^33][^34]
-2. He had Yichus. His grandfather, father, and father-in-law were all rebbes.[^33]
-3. He was more worldly than the average rebbe. He knew languages, played instruments and read a lot.[^33]
-4. He wrote numerous sefarim, such as the Eish Kodesh, ספר Chovas Hatalmidim, a ספר for married people (which he did not finish), and an introduction for people learning Kabbalah. [^33][^34]
-5. חובות Hatalmidim is a guidebook for chassidishe bochurim. It is similar to Alei Shor for Litvishe Bochurim (I don’t know in what sense this is. R’ Lopiansky did not explain what he meant). [^33]
-6. In the days of the Piacezna, the חינוך was very strict. Ger was the popular Chassidus at that point and Ger maintained a lot of the intensity and brutal honesty of Kutzk. Because of this, many children were going off the דרך. [^33]
-7. The Piacezna looked at this situation as a problem with the rabbeim and the system in general, not with the kids (meaning, the style of חינוך had to change, not the kids). [^33]
-8. His system was much more positive. He focused on instilling into the kids the importance of being Jewish and the importance of their role as the future כלל ישראל. This is at least part of what ספר חובות Hatalmidim is about. The ספר is still extremely relevant in our times. [^33]
-9. He founded a yeshiva called דעת משה in 1923. [^33]
-10. Near the beginning of World War II, his son and daughter-in-law were killed by a German bombing raid. [^33][^34]
-11. During the war, he was sent to the Warsaw Ghetto. [^33][^34]
-12. He was deported to the Trawniki concentration camp where he was killed in 1943. [[^34]
-13. His ספר, Eish Kodesh, was found posthumously in a milk jug. [^33][^34]
+1. Rav Kalonymus Kalman Shapira was born in 1889[^34][^35]
+2. He had Yichus. His grandfather, father, and father-in-law were all rebbes.[^34]
+3. He was more worldly than the average rebbe. He knew languages, played instruments and read a lot.[^34]
+4. He wrote numerous sefarim, such as the Eish Kodesh, ספר Chovas Hatalmidim, a ספר for married people (which he did not finish), and an introduction for people learning Kabbalah. [^34][^35]
+5. חובות Hatalmidim is a guidebook for chassidishe bochurim. It is similar to Alei Shor for Litvishe Bochurim (I don’t know in what sense this is. R’ Lopiansky did not explain what he meant). [^34]
+6. In the days of the Piacezna, the חינוך was very strict. Ger was the popular Chassidus at that point and Ger maintained a lot of the intensity and brutal honesty of Kutzk. Because of this, many children were going off the דרך. [^34]
+7. The Piacezna looked at this situation as a problem with the rabbeim and the system in general, not with the kids (meaning, the style of חינוך had to change, not the kids). [^34]
+8. His system was much more positive. He focused on instilling into the kids the importance of being Jewish and the importance of their role as the future כלל ישראל. This is at least part of what ספר חובות Hatalmidim is about. The ספר is still extremely relevant in our times. [^34]
+9. He founded a yeshiva called דעת משה in 1923. [^34]
+10. Near the beginning of World War II, his son and daughter-in-law were killed by a German bombing raid. [^34][^35]
+11. During the war, he was sent to the Warsaw Ghetto. [^34][^35]
+12. He was deported to the Trawniki concentration camp where he was killed in 1943. [[^35]
+13. His ספר, Eish Kodesh, was found posthumously in a milk jug. [^34][^35]
 ## Ishbitza (Radziner)
 ### Formation
-1. Breakoff of Kotzk. [^33]
-2. Kotzk was getting very harsh with its chassidim. For example, chassidim were expected to be by the rebbe and leave their families for months (while their families didn’t have ways to support themselves). [^33]
-3. It came to a head on Simchas תורה. The Kotzker wasn’t coming out to dance hakafos with his chassidim. He felt that his chassidim weren’t ready to dance with the תורה. They only acted like they loved the תורה but they didn’t actually feel that way. This went on for several hours. [^33]
-4. One of the close chassidim named Rav Mordechai יוסף Leiner thought that this was not right. He took a group of chassidim to a different shul where they danced hakafos. [^33]
-5. This led to Rav Leiner forming his own Chassidus. This was the beginning of Ishbitz. [^33]
-6. Rav Leiner was joined by Rav Leibel Eiger (son of Rav Shlomo Eiger and grandson of Rav Akiva Eiger) and Rav Tzadok Hakohen Rabinowitz. [^33]
-7. Rav Leibel Eiger originally learned by his grandfather, Rav Akiva Eiger. After his grandfather’s passing he started learning by the חידושי Harrim (before he became the rebbe of Ger). This exposed him to chassidus.[^35]
-8. Rav Leibel Eiger joining the chassidus created a schism between him and his father. Rav Akiva Eiger was more tolerant. [^33]
+1. Breakoff of Kotzk.[^34]
+2. Kotzk was getting very harsh with its chassidim. For example, chassidim were expected to be by the rebbe and leave their families for months (while their families didn’t have ways to support themselves).[^34]
+3. It came to a head on Simchas תורה in 1839.[^32] The Kotzker wasn’t coming out to dance hakafos with his chassidim. He felt that his chassidim weren’t ready to dance with the תורה. They only acted like they loved the תורה but they didn’t actually feel that way. This went on for several hours. [^34]
+4. One of the close chassidim named Rav Mordechai יוסף Leiner thought that this was not right. He took a group of chassidim to a different shul where they danced hakafos. [^34]
+5. This led to Rav Leiner forming his own Chassidus. This was the beginning of Ishbitz. [^34]
+6. Rav Leiner was joined by Rav Leibel Eiger (son of Rav Shlomo Eiger and grandson of Rav Akiva Eiger) and Rav Tzadok Hakohen Rabinowitz. [^34]
+7. Other close chassidim of the Kotzker, such as the חידושי Harim, stayed with the Kotzker.[^32]
+8. Rav Leibel Eiger originally learned by his grandfather, Rav Akiva Eiger. After his grandfather’s passing he started learning by the חידושי Harrim (before he became the rebbe of Ger). This exposed him to chassidus.[^36]
+9. Rav Leibel Eiger joining the chassidus created a schism between him and his father. Rav Akiva Eiger was more tolerant. [^34]
 ### Elements
-1. Back to the focus on the simple Jew, but did keep some elements of the “be real with yourself” from Kotzk. [^33]
-2. The תורה is deep but pshat oriented (seemed similar to the תורה of Kutzk and Ger from the way it was described). [^33]
-3. One unique thing that is focused on in the תורה of Ishbitz is trying to figure out the good in an aveirah. [^33]
-4. This leads to a lot of controversy over the תורה that is said as it almost sounds like it is defending doing עבירות, like doing עבירות lishmah that Shabsai Tzvi said to do. (Bizman Hazeh, their תורה is accepted, you just have to know that the authors may not mean exactly what it sounds like they are saying. In the past, it seems that their sefarim were attacked on the basis of reading them literally.) [^33]
-5. Two examples of this are a discussion that Pinchas didn’t understand the deep intentions of Zimri, and that it was good that Korach fought against משה because that gave the people more אמונה when he lost. [^33]
+1. Back to the focus on the simple Jew, but did keep some elements of the “be real with yourself” from Kotzk. [^34]
+2. The תורה is deep but pshat oriented (seemed similar to the תורה of Kutzk and Ger from the way it was described). [^34]
+3. One unique thing that is focused on in the תורה of Ishbitz is trying to figure out the good in an aveirah. [^34]
+4. This leads to a lot of controversy over the תורה that is said as it almost sounds like it is defending doing עבירות, like doing עבירות lishmah that Shabsai Tzvi said to do. (Bizman Hazeh, their תורה is accepted, you just have to know that the authors may not mean exactly what it sounds like they are saying. In the past, it seems that their sefarim were attacked on the basis of reading them literally.) [^34]
+5. Two examples of this are a discussion that Pinchas didn’t understand the deep intentions of Zimri, and that it was good that Korach fought against משה because that gave the people more אמונה when he lost. [^34]
 ### Leadership
-1. As mentioned, the chassidus was started by Rav Mordechai יוסף Leiner, who became known as the Ishbitzer. His תורה was recorded in the ספר מי Hashiloach by his grandson, Rav Gershon Henach of Radzin (who later became the rebbe of the Radziner chassidim) and so the Ishbitzer is also known by the name of the ספר.[^36]
-12. After the death of Rav Mordechai יוסף Leiner in 1854, the chassidus split in two. One part settled in Radzin (Radziner chassidim) and was led by his son, Rav Yaakov Leiner. The other part settled in Lublin and was led by Rav Leibel Eiger.[^35]
+1. As mentioned, the chassidus was started by Rav Mordechai יוסף Leiner, who became known as the Ishbitzer. His תורה was recorded in the ספר מי Hashiloach by his grandson, Rav Gershon Henach of Radzin (who later became the rebbe of the Radziner chassidim) and so the Ishbitzer is also known by the name of the ספר.[^37]
+12. After the death of Rav Mordechai יוסף Leiner in 1854, the chassidus split in two. One part settled in Radzin (Radziner chassidim) and was led by his son, Rav Yaakov Leiner. The other part settled in Lublin and was led by Rav Leibel Eiger.[^36]
 ### Branches
 
 #### Radzin
-1. Rav יעקב authored the ספר בית יעקב and so also went by the name of his ספר. He led the chassidus until his death in 1878.[^37]
-2. After his death, his son, Rav Gershon Henach Leiner took over the chassidus. He wrote the ספר orchos chaim and was subsequently known by the name of the ספר. He led the chassidus until his death in 1890.[^37]
+1. Rav יעקב authored the ספר בית יעקב and so also went by the name of his ספר. He led the chassidus until his death in 1878.[^38]
+2. After his death, his son, Rav Gershon Henach Leiner took over the chassidus. He wrote the ספר orchos chaim and was subsequently known by the name of the ספר. He led the chassidus until his death in 1890.[^38]
 #### Lublin
-1. Rav Eiger led the chassidus with Rav Tzadok Rabinowitz as his right-hand man. After the death of Rav Eiger in 1888, Rav Tzadok Rabinowitz took over and Rav Avraham Eiger, Rav Leibel Eiger’s son, became his right-hand man. (It doesn’t explicitly say that Rav Avraham was the right-hand man, but some sources say that Rav Tzadok took over and others say that they both took over, so it seemed to me that Rav Tzadok was the main rebbe while Rav Avraham was his assistant, especially considering the fact that Rav Tzadok worked with Rav Leibel and so was already a generation up.) [^35][^38]
-2. Rav Tzadok led the chassidus until his death in 1900. Because Rav Tzadok did not have any children, the chassidus went back to Rav Eiger’s lineage until WWII. [^35]
+1. Rav Eiger led the chassidus with Rav Tzadok Rabinowitz as his right-hand man. After the death of Rav Eiger in 1888, Rav Tzadok Rabinowitz took over and Rav Avraham Eiger, Rav Leibel Eiger’s son, became his right-hand man. (It doesn’t explicitly say that Rav Avraham was the right-hand man, but some sources say that Rav Tzadok took over and others say that they both took over, so it seemed to me that Rav Tzadok was the main rebbe while Rav Avraham was his assistant, especially considering the fact that Rav Tzadok worked with Rav Leibel and so was already a generation up.) [^36][^39]
+2. Rav Tzadok led the chassidus until his death in 1900. Because Rav Tzadok did not have any children, the chassidus went back to Rav Eiger’s lineage until WWII. [^36]
 # Other Noteworthy Occurrences
 ## Vaad Daled Aratzos
 1. During the 1600 and 1700s there was a pan-communal group called the vaad daled aratzos (sometimes called the vaad hey aratzos or vaad gimmel aratzos, depending on how you divided the lands). [^1]
@@ -168,26 +169,26 @@
 4. They met twice a year, usually at the great fair of Berlin. [^1]
 5. They would פסקען shailos, put people in cheirem and take them out, and they would deal with “franchises”. Jews would manage lands in Ukraine (discussed shortly) and sometimes one Jew would try to undercut another Jew by telling the Polish nobleman who owns the land that he could do a better job running the place than the current Jew running the place was doing. [^1]
 ## Rav Meir Shapiro
-1. Rav Meir Shapiro was great in many ways. He was an iluy, people-smart, a visionary, charismatic, and situationally savvy in the sense that he knew how to play politics. [^39]
-2. He was born in 1887 and was nifter in 1933.[^39][^40]
-3. His two major projects were daf yomi and Yeshiva Chachmei Lublin (יח"ל). [^39]
-4. He wanted יח"ל to be very shpitzy, similar to what the Alter of Slabodka did in Slabodka. He wanted a nice building, he wanted the bochurim to dress elegantly, and he wanted to pay for the bochurim’s room and board. See [Shpitziness in European Yeshivos](https://docs.google.com/document/d/1G9MyZ7hkdbQ55tiod1kWFLN2z-TGUhaIFnR8WyFCVq4/edit#bookmark=id.arjl6mm7obgo) for why this was important. [^39]
-5. Before this, the store owners would have bochurim sleep in shops to keep away thieves. Rav Meir Shapiro drily noted the tremendous זכות the Polish thieves had. [^39]
-6. He fundraised for seven years to create the yeshiva. [^39]
-7. Poland didn’t really have a general דרך halimud. This was because nearly every chassidus had their own yeshiva and there was very little cross-pollination (a chassid in one chassidus was not likely to go learn at the yeshiva of a different chassidus). [^39]
-8. As such, Rav Meir Shapiro traveled to Lithuania to examine the different darchei limud there and then create one. (By this time Rav Chaim Brisker’s mehalech was widespread amongst the yeshivos). [^39]
-9. The דרך halimud he came up with was four years of kodshim (Rav Lopiansky didn’t know why this was) followed by three years of standard semichah. [^39]
-10. The yeshiva building was massive. It was six floors and had 20,000 sefarim. [^39]
-11. The bochurim walked around with fancy silver walking sticks. [^39]
-12. The yeshiva did not align itself with any particular chassidus. This was necessary to attract bochurim from all different chassiduses. (This ties back into Rav Meir Shapiro’s savviness and understanding of people.) [^39]
-13. There were some general chassidish elements to the yeshiva: The yeshiva had a mikvah and had a Friday night tish. [^39]
-14. After the death of Rav Meir Shapiro, the yeshiva hired a new rosh yeshiva. [^39]
-15. He had some interesting שיטות and so the yeshiva moved on from him after a few years. [^39]
-16. The yeshiva hired a massive תלמיד chochom after this. [^39]
-17. Both of these roshei yeshivos were chassidish. Chassidim were not going to learn under a Litvish rosh yeshiva. [^39]
-18. Under this rosh yeshiva, the yeshiva started to regain some momentum it lost since the death of Rav Meir Shapiro. [^39]
-19. Unfortunately, this did not last long as the Nazis destroyed the yeshiva in 1940. [^39]
-20. During its time, the yeshiva produced some great talmidei חכמים, such as Rav Shmuel Vosner. [^39]
+1. Rav Meir Shapiro was great in many ways. He was an iluy, people-smart, a visionary, charismatic, and situationally savvy in the sense that he knew how to play politics. [^40]
+2. He was born in 1887 and was nifter in 1933.[^40][^41]
+3. His two major projects were daf yomi and Yeshiva Chachmei Lublin (יח"ל). [^40]
+4. He wanted יח"ל to be very shpitzy, similar to what the Alter of Slabodka did in Slabodka. He wanted a nice building, he wanted the bochurim to dress elegantly, and he wanted to pay for the bochurim’s room and board. See [Shpitziness in European Yeshivos](https://docs.google.com/document/d/1G9MyZ7hkdbQ55tiod1kWFLN2z-TGUhaIFnR8WyFCVq4/edit#bookmark=id.arjl6mm7obgo) for why this was important. [^40]
+5. Before this, the store owners would have bochurim sleep in shops to keep away thieves. Rav Meir Shapiro drily noted the tremendous זכות the Polish thieves had. [^40]
+6. He fundraised for seven years to create the yeshiva. [^40]
+7. Poland didn’t really have a general דרך halimud. This was because nearly every chassidus had their own yeshiva and there was very little cross-pollination (a chassid in one chassidus was not likely to go learn at the yeshiva of a different chassidus). [^40]
+8. As such, Rav Meir Shapiro traveled to Lithuania to examine the different darchei limud there and then create one. (By this time Rav Chaim Brisker’s mehalech was widespread amongst the yeshivos). [^40]
+9. The דרך halimud he came up with was four years of kodshim (Rav Lopiansky didn’t know why this was) followed by three years of standard semichah. [^40]
+10. The yeshiva building was massive. It was six floors and had 20,000 sefarim. [^40]
+11. The bochurim walked around with fancy silver walking sticks. [^40]
+12. The yeshiva did not align itself with any particular chassidus. This was necessary to attract bochurim from all different chassiduses. (This ties back into Rav Meir Shapiro’s savviness and understanding of people.) [^40]
+13. There were some general chassidish elements to the yeshiva: The yeshiva had a mikvah and had a Friday night tish. [^40]
+14. After the death of Rav Meir Shapiro, the yeshiva hired a new rosh yeshiva. [^40]
+15. He had some interesting שיטות and so the yeshiva moved on from him after a few years. [^40]
+16. The yeshiva hired a massive תלמיד chochom after this. [^40]
+17. Both of these roshei yeshivos were chassidish. Chassidim were not going to learn under a Litvish rosh yeshiva. [^40]
+18. Under this rosh yeshiva, the yeshiva started to regain some momentum it lost since the death of Rav Meir Shapiro. [^40]
+19. Unfortunately, this did not last long as the Nazis destroyed the yeshiva in 1940. [^40]
+20. During its time, the yeshiva produced some great talmidei חכמים, such as Rav Shmuel Vosner. [^40]
 ## Sarah Schenirer and the בית יעקב Movement
 ### Background: חינוך in the Late 1800s - WWI
 1. See [[#Focus on Education in the Late 1800s|here]].
@@ -201,14 +202,14 @@
 9. WWI destroyed the Jewish community and way of life. At this point, people weren't sticking to the "old system" anymore. That had clearly been utterly annihilated by the war.[^8]
 ### Sarah Schenirer
 #### Growing Up
-1. Sarah Schenirer was born in the 1883 in Krakow.[^41]
-2. Her parents were Belzer chassidim from great families and gave her a strong תורה background.[^42]
+1. Sarah Schenirer was born in the 1883 in Krakow.[^42]
+2. Her parents were Belzer chassidim from great families and gave her a strong תורה background.[^43]
 3. Like all the other girls of the time, she went to public school.[^8]
 #### Personality
-1. She was adventurous and liked being outdoors and going on hikes,[^8] yet she also was intelligent and loved to learn תורה.[^43]
+1. She was adventurous and liked being outdoors and going on hikes,[^8] yet she also was intelligent and loved to learn תורה.[^44]
 #### During WWI
-1. During WWI she moved with her family to Vienna.[^8][^44]
-2. While there, she was strongly influenced by Rabbi Flesch.[^8][^45]
+1. During WWI she moved with her family to Vienna.[^8][^45]
+2. While there, she was strongly influenced by Rabbi Flesch.[^8][^46]
    Generally דרשות were long on pilpul (complicated questions and answers) and short on inspiration. Rabbi Flesch's דרשות were the opposite; short and to the point. This both inspired Sarah Schenirer, as well gave her a style to teach תורה.[^8] ^8829d1
 #### Personal Life
 1. Sarah Schenirer got married. She wanted to get divorced immediately, but people convinced her to stay on. Sher got divorced after three years.[^8]
@@ -222,7 +223,7 @@
 ### The בית יעקב Movement
 #### Support from גדולים
 1. Because she was from Belz, Sarah Schenirer asked her brother to get a haskama from the Belzer rebbe.[^8]
-2. At first, the Belzer rebbe gave his haskama to the movement, but then later rescinded it. It is not know why.[^8][^46]
+2. At first, the Belzer rebbe gave his haskama to the movement, but then later rescinded it. It is not know why.[^8][^47]
 3. The Chofetz חיים (perhaps the גדול hador of the non-chassidish world) and the Gerer rebbe gave her their haskamos. This gave the movement a lot of support.[^8] ^8085a2
 #### Starting off
 1. In 1918, Sarah Schenirer opened her first school. It was run out of her home in Krakow.[^8]
@@ -230,23 +231,23 @@
 1. Sarah Schenirer created a seminary to train teachers as the בית יעקב movement was growing so fast, she did not have enough teachers.[^8]
 #### The Success of the Movement
 1. In 1940, everything was destroyed by the Nazis in WWII.[^8]
-2. Before then, there were hundreds of בית Yaakovs with about 40,000 girls.[^8] [^46]
+2. Before then, there were hundreds of בית Yaakovs with about 40,000 girls.[^8] [^47]
 #### Style of Teaching
 1. Lessons focused on the inspiration rather than on the pilpul (as [[#^8829d1|mentioned]]).[^8]
 2. The תורה of Rav Shimshon Raphael Hirsch was commonly taught as it was high on inspiration and low on pilpul, and because many Germans opened school (see [[#^6bfabc|later]]) and they were more familiar with the תורה of Rav Hirsch.
 3. חינוך for girls was all about things like "don't do this and don't do that" and "stay quite and don't be seen or heard". This rarely works on the youth, but this time of history was particularly bad for this. This was an age of movements (communism, socialism, Zionism, etc.). It was an age of people thinking big and trying to change the world. This "classic" style of girls' education was trampled by this momentum.[^8]
 4. Sarah Schenirer was full of energy and life. As such, the girls would go on [^48]hikes, make and sing songs, and put on plays.[^8]
 #### Reaction
-1. The non-frum did not like the בית יעקב movement. They made fun and mocked it.[^8][^46] They wanted to get rid of the old and "modernize". Obviously, the Bies יעקב movement did not fit with their outlook.[^46]
+1. The non-frum did not like the בית יעקב movement. They made fun and mocked it.[^8][^47] They wanted to get rid of the old and "modernize". Obviously, the Bies יעקב movement did not fit with their outlook.[^47]
 2. At first, the frum did not accept the movement either (because people were attached to "the old way" as [[#^724bc9|mentioned]]).[^8]
 #### Help From Others
-1. While Sarah Schenirer was the spark behind the movement, many German Jews helped with the logistics, creating a curriculum, and opening schools. (The German Jews had tremendous organizational skills.)[^46] ^6bfabc
-2. Because of the Gerer Rebbe's support, as [[#^8085a2|mentioned]], the Gerer's got involved in opening schools, as well. A Gerer actually took over the movement after Sarah Schenirer was nifteres in 1938.[^46]
+1. While Sarah Schenirer was the spark behind the movement, many German Jews helped with the logistics, creating a curriculum, and opening schools. (The German Jews had tremendous organizational skills.)[^47] ^6bfabc
+2. Because of the Gerer Rebbe's support, as [[#^8085a2|mentioned]], the Gerer's got involved in opening schools, as well. A Gerer actually took over the movement after Sarah Schenirer was nifteres in 1938.[^47]
 3. At some point relatively early, Agudah got involved.
 ### בית Yaakovs in Other Countries
 1. Lithuania, Germany, and Israel had their own girls' schools. {<span style="color:rgb(255, 0, 0)">I need to do research on these and on how they affected the modern day בית Yaakovs.</span>}
 ### Impact
-1. Many say that if not for Sarah Schenirer, כלל ישראל would have ceased to exist (bderech hatevah). the yeshivos were producing, but what good would it have been if there weren't any frum girls for them to marry.[^46]
+1. Many say that if not for Sarah Schenirer, כלל ישראל would have ceased to exist (bderech hatevah). the yeshivos were producing, but what good would it have been if there weren't any frum girls for them to marry.[^47]
 
 # Footnotes
 
@@ -281,18 +282,19 @@
 [^29]: Rav Aharon Lopiansky : Poland Trip Shiur #5
 [^30]: [Wikipedia : Peshischa](https://en.wikipedia.org/wiki/Peshischa)
 [^31]: [Wikipedia : Kotzk](https://en.wikipedia.org/wiki/Kotzk)
-[^32]: [Wikipedia : Sfas Emes](https://en.wikipedia.org/wiki/Yehudah_Aryeh_Leib_Alter)
-[^33]: Rav Aharon Lopiansky : Poland Trip Shiur #7
-[^34]: [Wikipedia : Piaseczno Rebbe](https://en.wikipedia.org/wiki/Kalonymus_Kalman_Shapira)
-[^35]: [Mishpacha : Rav Leibel Eiger](https://mishpacha.com/a-chassidic-label-for-rav-leibel/https://mishpacha.com/a-chassidic-label-for-rav-leibel/)
-[^36]: [Wikipedia : Rav Mordechai יוסף Leiner](https://en.wikipedia.org/wiki/Mordechai_Yosef_Leiner)
-[^37]: [Wikipedia : Ishbitza-Radzin](https://en.wikipedia.org/wiki/Izhbitza-Radzin)
-[^38]: [Wikipedia : Rav Tzadok Hakohen Rabinowitz](https://en.wikipedia.org/wiki/Zadok_HaKohen)
-[^39]: Rav Aharon Lopiansky : Poland Trip Shiur #8
-[^40]: [Wikipedia : Rav Meir Shapiro](https://en.wikipedia.org/wiki/Meir_Shapiro)
-[^41]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=July%2015%2C%201883%0AKrak%C3%B3w%2C%20Poland)
-[^42]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=Her%20parents%20were%20both%20scions%20of%20influential%20rabbinic%20families.%5B1%5D%20Her%20father%20provided%20her%20with%20religious%20texts%20that%20he%20had%20translated%20into%20Yiddish.)
-[^43]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=She%20was%20intelligent%20and%20had%20a%20strong%20desire%20to%20learn%2C%20and%20was%20envious%20of%20her%20brothers%27%20opportunity%20to%20learn%20and%20interpret%20the%20Torah.)
-[^44]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=During%20World%20War%20I%2C%20Schenirer%20and%20her%20family%20fled%20from%20Poland%20to%20Vienna.)
-[^45]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=While%20there%2C%20she%20became%20influenced%20by%20Rabbi%20Moshe%20Flesch%2C)
-[^46]: Rav Aharon Lopiansky : Poland Trip Shiur #16
+[^32]: [JSoundBites.com : "Those Who Know Don't Speak" The Story of the Kotzk-Izhbitz Dispute](https://jsoundbites.podbean.com/e/those-who-know-dont-speak-the-story-of-the-kotzk-izhbitz-dispute/#:~:text=During%20the%20active,his%20own%20dynasty.) {<span style="color:rgb(255, 0, 0)">Probably want better source. Like actually listen to the podcast rather than using the blurb on the page</span>}
+[^33]: [Wikipedia : Sfas Emes](https://en.wikipedia.org/wiki/Yehudah_Aryeh_Leib_Alter)
+[^34]: Rav Aharon Lopiansky : Poland Trip Shiur #7
+[^35]: [Wikipedia : Piaseczno Rebbe](https://en.wikipedia.org/wiki/Kalonymus_Kalman_Shapira)
+[^36]: [Mishpacha : Rav Leibel Eiger](https://mishpacha.com/a-chassidic-label-for-rav-leibel/https://mishpacha.com/a-chassidic-label-for-rav-leibel/)
+[^37]: [Wikipedia : Rav Mordechai יוסף Leiner](https://en.wikipedia.org/wiki/Mordechai_Yosef_Leiner)
+[^38]: [Wikipedia : Ishbitza-Radzin](https://en.wikipedia.org/wiki/Izhbitza-Radzin)
+[^39]: [Wikipedia : Rav Tzadok Hakohen Rabinowitz](https://en.wikipedia.org/wiki/Zadok_HaKohen)
+[^40]: Rav Aharon Lopiansky : Poland Trip Shiur #8
+[^41]: [Wikipedia : Rav Meir Shapiro](https://en.wikipedia.org/wiki/Meir_Shapiro)
+[^42]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=July%2015%2C%201883%0AKrak%C3%B3w%2C%20Poland)
+[^43]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=Her%20parents%20were%20both%20scions%20of%20influential%20rabbinic%20families.%5B1%5D%20Her%20father%20provided%20her%20with%20religious%20texts%20that%20he%20had%20translated%20into%20Yiddish.)
+[^44]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=She%20was%20intelligent%20and%20had%20a%20strong%20desire%20to%20learn%2C%20and%20was%20envious%20of%20her%20brothers%27%20opportunity%20to%20learn%20and%20interpret%20the%20Torah.)
+[^45]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=During%20World%20War%20I%2C%20Schenirer%20and%20her%20family%20fled%20from%20Poland%20to%20Vienna.)
+[^46]: [Wikipedia : Sarah Schenirer (specific location in article)](https://en.wikipedia.org/wiki/Sarah_Schenirer#:~:text=While%20there%2C%20she%20became%20influenced%20by%20Rabbi%20Moshe%20Flesch%2C)
+[^47]: Rav Aharon Lopiansky : Poland Trip Shiur #16

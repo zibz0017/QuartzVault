@@ -126,7 +126,7 @@ $$V(Binomial) = n \times p(1-p)$$
 or just:
 $$V(Binomial) = \boxed{np(1-p)}$$
 ## Standard Deviation
-### formula
+### Formula
 The standard deviation is just the square root of the variance. As such, the formula is:
 $$\sqrt{np(1-p)}$$
 # "10% Rule"
@@ -137,3 +137,5 @@ Obviously, the smaller of a percentage of the data is, the less of a difference 
 At the same time, that does not mean that we prefer to work with small samples. Obviously large samples are better. It just means that in terms of achieving independence (or close to it), having a smaller sample is better.
 # Bernoulli Trial
 When we have a binomial but we only focus on a single instance of the experiment, that is called a Bernoulli Trial. For more details, see [[Bernoulli Trial|here]].
+# Poisson Process
+A Poisson process is a binomial with a near infinite number of trials. For more details, see [[Poisson Process|here]].

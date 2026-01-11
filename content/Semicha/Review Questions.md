@@ -231,6 +231,20 @@ Can one cook horse meat and milk together?
 1. Do you need a הקר when you are fleishig and eating at the same table as someone eating dairy?
 ## Answer
 1. It is a מחלוקת, but most פוסקים say that it is fine. (ספר הלכות בב״ח פרק ב סעיף צו pg צד)
+# Question 34
+1. What are hotzaos?
+## Answer
+1. Related to הקר <span style="color:rgb(255, 0, 0)">Need to add more detiails.</span> (סימן פט)
+# Question 35
+1. Why do we wait after meat before eating dairy?
+## Answer
+1. Because there is taste stuck in the mouth.
+2. Because the food gets stuck in the teeth.
+3. (סימן פח)
+# Question 36
+1. If someone absentmindedly licks their fingers which have chicken soup on them, do you need to wait before eating dairy?
+## Answer
+1. This is not explicitly discussed but the פתחי תשובה says that even where the reasons to wait don't apply, one still needs to wait. As such, it would see that one would need to wait.
 # Question 101
 1. Can a cheeseburger be אסור דרבנן?
 ## Answer

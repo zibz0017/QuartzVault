@@ -1,0 +1,6 @@
+*Presented by ספר הלכות בב״ח פרק ב סעיף קו with footnote שב (pg צז)*
+1. The issue with sharing a כלי is only for two people eating foods which are אסור for each other at the same time. If they are not eating at the same time (one person eats dairy, and afterward, the other person eats meat, for example), they may share a כלי.
+2. This is because this is just a חשש; it isn't really an actual concern. As such, we are מקל in other situations.
+# Own Thoughts
+1. This would seemingly be the reason why even if one takes a drink while eating fish, they would not need a new glass for they eat meat.
+2. I don't really understand why there is a difference about using the glass at the same time or at different times. The potential problem is that there may be ממשות on the cup. If there are ממשות, it is a problem even if the cup is used later, and if there are no ממשות, there is no problem at all.

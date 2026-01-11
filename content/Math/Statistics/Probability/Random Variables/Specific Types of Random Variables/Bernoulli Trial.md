@@ -20,7 +20,7 @@ The formula for getting the variance is $\boxed{p(1-p)}$
 ### Proof
 The variance is the average of the squared distances from the mean.
 As said above, the mean is $p$.
-We want to get how far the "failure" is from the mean, and the success is from $p$, and we want to weight them by how common they are (similar to what we just did when calculating the mean, we used the probability of getting a success or a failure), and then need to square these values and add them together.
+We want to get how far the "failure" and "success" is from the mean, and we want to weight them by how common they are (similar to what we just did when calculating the mean, we used the probability of getting a success or a failure), and then need to square these values and add them together.
 Starting with the "failure", a "failure" is $0$, so its distance from the mean is $0-p$ (because $p$ is the mean). Then we need to square it (because we are getting the squared distance from the mean) and then we need to get how common it is. As discussed earlier, the probability of getting a failure is $1-p$. Putting that all together we get $(1-p)(0-p)^2$.
 Now for the "success", a "success" is $1$, so its distance from the mean is $1-p$ (because $p$ is the mean). Then we need to square it (because we are getting the squared distance from the mean) and then we need to get how common it is. As discussed earlier, the probability of getting a success is $p$. Putting that all together we get $p(1-p)^2$.
 Now putting them both together we get:
@@ -29,8 +29,10 @@ Writing out the terms that are squared we get:
 $$(1-p)p^2 + p(p^2-2p+1)$$
 Now using the distributive property on the parentheses we get:
 $$p^2-p^3+p^3-2p^2+p$$
-Simplifying, the $p^3$ and $-p^3$ cancel out. In addition, we can add the $p^2$ to the $-2p^2$. Then we can simplify. That comes out to:
+Simplifying, the $-p^3$ and $p^3$ cancel out. In addition, we can add the $p^2$ to the $-2p^2$. Then we can simplify. That comes out to:
 $$-p^2+p = \boxed{p(1-p)}$$
 ## Standard Deviation
 ### Formula
 The standard deviation is the square root of the variance. As such, the standard deviation is $\boxed{\sqrt{p(1-p)}}$.
+# Binomial
+A binomial is a series of Bernoulli trials. for more details, see [[Binomial|here]].

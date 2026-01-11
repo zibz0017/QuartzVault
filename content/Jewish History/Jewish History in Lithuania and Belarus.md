@@ -87,7 +87,7 @@
 4. <span style="display: block; text-align: justify;">Kletsk tried to "steal" these talmidim but Slutsk didn't stand for it, so after some time, they made their way to Slutsk.</span>
 5. <span style="display: block; text-align: justify;">The yeshiva started in 1897, with Rav Isser Zalman as the rosh yeshiva.[^14]</span>
 ### Continuation of Slutsk
-1.<span style="display: block; text-align: justify;">In 1903, the Ridvaz made aliyah, so the Rav Isser Zalman was appointed as rav of the town.[^14]</span>
+1. <span style="display: block; text-align: justify;">In 1903, the Ridvaz left to Chicago (and eventually went to Tzfas), so the Rav Isser Zalman was appointed as rav of the town.[^14]</span> <span style="color:rgb(255, 0, 0)">Need source. Current source is only a source for the year that the Ridvaz left and that Rav Isser Zalman became the rav.</span>
 2. <span style="display: block; text-align: justify;">In 1914, before the ourbreak of WWI, Rav Aharon Kotler married Rav Isser Zalman's daughter.[^14]</span>
 3. <span style="display: block; text-align: justify;">Because of financial hardship, Rav Isser Zalman had to go fundraise, so Rav Aharon would be the acting rosh yeshiva in a sense during his absence.[^14]</span>
 ### Creation of Kletsk

@@ -27,7 +27,7 @@
 #### Focus on ראשונים
 1. For this reason, Rav Dovid would focus on ראשונים as they were closer to the emes and so there is more to pull out.[^10] (And they wrote more exactly so one can rely on diyukim[^11])
 2. Rav Chaim uncovered many of the yesodos developed in Rav חיים על HaRambam from רש"י and 'תוס.<span style="visibility:hidden">l</span>[^12] Rav Chaim said that the goal is to uncover the chiddushim of the ראשונים, not come up with our own.[^13]
-3. Practically, we do need help from the אחרונים to be able to understand the ראשונים, but the main focus should still be on understanding the ראשונים.[^14]
+3. Practically, we do need help from the אחרונים to be able to understand the ראשונים, but the main focus should still be on understanding the ראשונים.<span style="visibility:hidden">l</span>[^14]
 #### Focus on Major Machlokesim
 1. Many ראשונים will talk about all the major points of the sugya. This gives one a lot of material to work with.[^12]
 2. Also, this pushes one to figure out why the other מפרשים disagree. (It should be a small point of contention, not a wide machlokes.)[^12]
