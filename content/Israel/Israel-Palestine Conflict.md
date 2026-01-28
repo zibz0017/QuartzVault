@@ -4,9 +4,9 @@
 2. Israel did this either because they wanted to create an organization that could fight against the PLO[^1] or because they wanted an organization that they could broker peace with.[^2]
 3. At the time, the PLO was considered a legitimate and major threat as they were committing massive terror attacks, such as hijacking planes.[^2]
 4. At the time, radical Islam was not seen as a threat (the PLO was a secular movement) {Not sure what their motives were, or if they still are the same now}.[^2]
-5. There were some experts who were worried about what this charity could turn into, but without the benefit of hindsight, it may be hard to determine how legitimately these concerns should have been taken.[^2]
+5. There were some experts who were worried about what this "charity" could turn into, but without the benefit of hindsight, it may be hard to determine how legitimately these concerns should have been taken.[^2]
 # Claims of Israel Violating International Law:
-*Note: This analysis does not include the fact that according to הלכה, perhaps the right thing is to kill innocent goyim and the like for the sake of saving Jews. This is looking at it from a secular moral perspective.*
+*Note: This does not include the fact that according to הלכה, perhaps the right thing is to kill innocent גויים and the like for the sake of saving Jews. This is looking at it from a secular moral perspective.*
 ## Recent Claims
 ### White Phosphorus
 1. There are claims that Israel uses white phosphorus. {<font color="#ff0000">Need source</font>}
@@ -16,7 +16,7 @@
 	3. <span style="color:rgb(255, 192, 0)">Possible Counter:</span> Israel may have been using it for a smokescreen which is also legal. {<span style="color:rgb(255, 0, 0)">Need source</span>}
 ### Israeli leaders use Genocidal language
 1. Israeli leaders used genocidal language when referring to the Palestinians at the beginning of the 2023 Gaza War. ("Treat them like animals."; "No water, no food, no electricity.") {<font color="#ff0000">Need source. South Africa claim of genocide against Israel has a lot of quotes.</font>}
-	1. <span style="color:rgb(255, 192, 0)">Counter:</span> Some of the quotes may be referring to Hamas particularly, even if they say "Gaza" or "Gazans" (the same way a Ukrainian might discuss fighting the "Russians" even though he is only talking about the Russian army, not the Russian people).
+	1. <span style="color:rgb(255, 192, 0)">Counter:</span> Some of the quotes may be referring to Hamas particularly, even if they say "Gaza" or "Gazans" (the same way Ukraine may discuss fighting the "Russians" even though this is only referring to the Russian army, not the Russian people).
 	2. <span style="color:rgb(255, 192, 0)">Counter:</span> It is not uncommon for leaders to use very hawkish language even if they actually do not carry out such hawkish policy. They are playing politics and so they may need to make certain strong statements to maintain the support of the people. {<span style="color:rgb(255, 0, 0)">need to get some examples</span>} [^2]
 ### Turning off Water
 1. At the beginning of the 2023 Gaza War, Israel turned off some of the water that was going into Gaza. {<font color="#ff0000">Need source</font>}
@@ -48,7 +48,7 @@
 ### Definition of Terrorist
 1. Israel has a relatively loose definition of “terrorist”. According to Israel, many people who are very tangentially involved in Hamas or have relatives involved in Hamas are considered to be terrorists. This makes a difference in terms of who Israel is counting when it says that it killed a certain number of terrorists. {<font color="#ff0000">Need source</font>}
 ### ICJ (International Court of Justice) Case that Israel is Committing Genocide
-1. South Africa has brought before the ICJ a case that Israel is committing genocide on 29 of December, 2023.[^6]
+1. South Africa has brought before the ICJ a case that Israel is committing genocide on December 29, 2023.[^6]
 2. Africa was trying to get an immediate ceasefire. That did not happen. It is not so unusual for the court to issue that one side in a war is baseless. The ICJ in 2022 called for an immediate ceasefire by Russia in its war with Ukraine.[^7]
 ## Historical Claims:
 ### Menachem Begin Accepting Peace
@@ -69,7 +69,7 @@ https://www.justsecurity.org/91781/taking-stock-of-icj-decisions-in-ukraine-v-ru
 
 # Footntoes
 
-[^1]: [Wikipedia : Hamas](https://en.wikipedia.org/wiki/Hamas#:~:text=Hamas%20was%20founded%20by%20Palestinian,affiliated%20with%20the%20Muslim%20Brotherhood.)
+[^1]: [Wikipedia : Hamas (specific location in article)](https://en.wikipedia.org/wiki/Hamas#:~:text=Hamas%20was%20founded%20by%20Palestinian,affiliated%20with%20the%20Muslim%20Brotherhood.)
 [^2]:  [YouTube : Destiny Debates A Jewish Pro-Palestine](https://www.youtube.com/watch?v=-N3cKIvV6qU&t=7154s) {<font color="#ff0000">Need a better source than this</font>}
 [^3]: [Wikipedia : Dahiya Doctrine](https://en.wikipedia.org/wiki/Dahiya_doctrine)
 [^4]:  [U.S. Naval Institute : Invasion Most Costly](https://www.usni.org/magazines/proceedings/1995/august/invasion-most-costly)

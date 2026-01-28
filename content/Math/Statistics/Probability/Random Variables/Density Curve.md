@@ -34,6 +34,7 @@ For example, to find what percentage of data is below 1.43 standard deviations, 
 As can be seen, around 92.4% of the data lies below the 1.43 standard deviations.
 
 One can use these table to find out how much of the data is above a point that is a certain amount of standard deviations, or is between two different points at different standard deviations.
+<span style="color:rgb(255, 0, 0)">There is something called the "standard correction" which is important to note when using a z-table.</span>
 ## Bimodal Distribution
 Similar to a normal distribution except the data peaks in two different places, with a small valley between, and trails off to both sides.
 

@@ -232,97 +232,102 @@ Background: A person has a chiyuv to do a bedika, not just to make sure that the
 # Selling חמץ to a גוי
 1. It is preferable for the sale of חמץ to a גוי to go into effect on the 13th day rather than on the 14th night. However, it is okay if not.[^112]
 2. When selling חמץ, one should be more inclusive when discussing the חמץ that is being sold, rather than more specific. For example, a person should say that all the חמץ in a certain room is being sold, rather than specify that the package of cookies or whatever is being sold. This is preferable because it will include חמץ that one didn't find.[^112]
+## Sold after the Zman איסור
+1. חמץ sold after the zman איסור remain אסור, even if the גוי later sells it to a Jew.[^131]
+2. For the הלכות about what happens to the money, see סימן תמג סעיף ג.
 # חמץ of Another in a Jewish Home
 {<span style="color:rgb(255, 0, 0)">I don't know in what practical case these הלכות are relevent. Perhaps this applies to חמץ part of the mechiras חמץ </span>}
 ## חמץ of a גוי
 ### Basic הלכה
 #### Jew Accepted Responsibility
-1. If a Jew has the חמץ of a גוי in his possession and the Jew accepted responsibility for it:[^131]
-	1. Preferably, the Jew should make sure to return the חמץ to the גוי.[^132]
-	2. If the Jew can't, he should sell the חמץ (and do bittul).[^132]
-	3. If the Jew did not do this, he has to do biur on the חמץ at the time of biur חמץ.[^131] {<span style="color:rgb(255, 0, 0)">Add link to discussion of when the time to do biur חמץ is</span>}
+1. If a Jew has the חמץ of a גוי in his possession and the Jew accepted responsibility for it:[^132]
+	1. Preferably, the Jew should make sure to return the חמץ to the גוי.[^133]
+	2. If the Jew can't, he should sell the חמץ (and do bittul).[^133]
+	3. If the Jew did not do this, he has to do biur on the חמץ at the time of biur חמץ.[^132] {<span style="color:rgb(255, 0, 0)">Add link to discussion of when the time to do biur חמץ is</span>}
 ##### Why the Jew May Destroy the חמץ
 Two reasons:
-	1. While it is אסור to steal from a גוי, it is muttar to damage a גוי.[^133]
-	2. Something that a Jew is watching for a גוי is considered ownerless regarding that Jew if it will cause him to be עובר on an aveirah.[^134]
+	1. While it is אסור to steal from a גוי, it is muttar to damage a גוי.[^134]
+	2. Something that a Jew is watching for a גוי is considered ownerless regarding that Jew if it will cause him to be עובר on an aveirah.[^135]
 #### Jew Did not Accept Responsibility
-1. If the Jew did not accept responsibility then there is no problem.[^135] However, if the גוי asks the Jew on פסח, it is preferable for the Jew not to watch it, even though he is not accepting responsibility.[^136]
+1. If the Jew did not accept responsibility then there is no problem.[^136] However, if the גוי asks the Jew on פסח, it is preferable for the Jew not to watch it, even though he is not accepting responsibility.[^137]
 ##### גוי Brings His Own חמץ
-1. A גוי can bring his own חמץ into the house of a Jew.[^137] There is no concern that the Jew will eat the חמץ because the גוי is watching it. Also, Baal Yeirah is only for one's own חמץ.[^138]
-2. The Jew may not eat with the גוי eating חמץ, even if both have placemats (which works for בשר vichalav).[^139]
-3. The table the גוי eats on must be cleaned well afterwards and the גוי takes his food with him.[^140]
+1. A גוי can bring his own חמץ into the house of a Jew.[^138] There is no concern that the Jew will eat the חמץ because the גוי is watching it. Also, Baal Yeirah is only for one's own חמץ.[^139]
+2. The Jew may not eat with the גוי eating חמץ, even if both have placemats (which works for בשר vichalav).[^140]
+3. The table the גוי eats on must be cleaned well afterwards and the גוי takes his food with him.[^141]
 ### How to Keep the חמץ
-1. If the חמץ is in the Jews house, the Jew must make a mechitza that is at least 10 tefachim high between him and the חמץ to keep the person from accidentally eating the חמץ.[^141]
-2. The mechitza must be solid material (not cloth).[^141]
-3. One cannot place an upside-down כלי over the חמץ as we are concerned that someone may accidentally use the כלי, exposing the חמץ.[^142]
+1. If the חמץ is in the Jews house, the Jew must make a mechitza that is at least 10 tefachim high between him and the חמץ to keep the person from accidentally eating the חמץ.[^142]
+2. The mechitza must be solid material (not cloth).[^142]
+3. One cannot place an upside-down כלי over the חמץ as we are concerned that someone may accidentally use the כלי, exposing the חמץ.[^143]
 4. {<span style="color:rgb(255, 0, 0)">It seems that this is how one who sold חמץ to a גוי should keep it. Add a link to this point.</span>}
 ### If One Did not Get Rid of the חמץ Before the Zman איסור
 {<span style="color:rgb(255, 0, 0)">Combine with section [[#If the Jew Did not Destroy the חמץ]]. I need to check the sources. From ס"ק 8, it sounds like the food is not אסור bihannah only if the Jew only accepted responsibility for pshia. In ס"ק 5, it sounds like even in the Jew accepted responsibility for more than that.</span>}
-1. If the Jew did not do biur, if the Jew only accepted responsibility for pshia, the Jew can rely on the opinion that says that these הלכות only apply when the person accepts responsibility for gineiva and aveida.[^132]
-2. He would then return it to the גוי as soon as he could, even on פסח.[^132]
-3. In this situation, the Jew can't touch the חמץ.[^132]
-4. The חמץ is not אסור bihana.[^132]
+1. If the Jew did not do biur, if the Jew only accepted responsibility for pshia, the Jew can rely on the opinion that says that these הלכות only apply when the person accepts responsibility for gineiva and aveida.[^133]
+2. He would then return it to the גוי as soon as he could, even on פסח.[^133]
+3. In this situation, the Jew can't touch the חמץ.[^133]
+4. The חמץ is not אסור bihana.[^133]
 ### Possible Additional Cases
 #### Jew Only Accepted Responsibility for Pshia
-1. Some say that this is even if the Jew only accepted responsibility for pshia (negligence. Meaning, he is a shomer chinam). We are choshesh for this opinion.[^143]
+1. Some say that this is even if the Jew only accepted responsibility for pshia (negligence. Meaning, he is a shomer chinam). We are choshesh for this opinion.[^144]
 #### The גוי is Intimidating
-1. According to some, if the גוי is a powerful personal and can hold the Jew responsible, even if the Jew didn't officially accept responsibility. One should be choshesh for this opinion.[^144]
-2. Others argue that this is only if the Jew actually does a maaseh kinyan to accept acrayis.[^145]
+1. According to some, if the גוי is a powerful personal and can hold the Jew responsible, even if the Jew didn't officially accept responsibility. One should be choshesh for this opinion.[^145]
+2. Others argue that this is only if the Jew actually does a maaseh kinyan to accept acrayis.[^146]
 #### Jew Rents Location of חמץ to a גוי
-1. Even if the Jew lends or rents out the location of the גוי's חמץ, the Jew still needs to do biur on the חמץ as the Jew is still the owner of the location.[^146]
+1. Even if the Jew lends or rents out the location of the גוי's חמץ, the Jew still needs to do biur on the חמץ as the Jew is still the owner of the location.[^147]
 #### Jew Transfers Responsibility to a גוי
-1. Even if the Jew gives the חמץ to a גוי to watch, according to most people this is still a problem.[^147]
+1. Even if the Jew gives the חמץ to a גוי to watch, according to most people this is still a problem.[^148]
 #### Non-Jewish Tenant
-1. A Jew does not need to destroy the חמץ of a non-Jewish tenant.[^148]
+1. A Jew does not need to destroy the חמץ of a non-Jewish tenant.[^149]
 #### If the Jew Did not Destroy the חמץ
-1. If the Jew did not destory the חמץ, after פסח, he may return it to the גוי and get הנאה from the חמץ.[^149]
+1. If the Jew did not destory the חמץ, after פסח, he may return it to the גוי and get הנאה from the חמץ.[^150]
 #### גוי Places חמץ on Jew's Property Against the Jew's Will
-1. If this occurred before פסח or on chol hamoed, the Jew must put it behind a wall (assuming the Jew can't get rid of it) [[#How to Keep the חמץ|as discussed]].[^150]
-2. If it was on פסח, then the Jew covers it with a כלי {<span style="color:rgb(255, 0, 0)">add link</span>}.[^150] (I am not sure why the Jew can't bring a wall (like a mechitza) to block the chometz. Perhaps this is because this wall is considered to have halachic significance and so that would be considered building a wall, similar to the הלכות of boneh on שבת (סימן 315 סעיף 1 with סעיף Katans {<span style="color:rgb(255, 0, 0)">add link</span>}.[^47])
+1. If this occurred before פסח or on chol hamoed, the Jew must put it behind a wall (assuming the Jew can't get rid of it) [[#How to Keep the חמץ|as discussed]].[^151]
+2. If it was on פסח, then the Jew covers it with a כלי {<span style="color:rgb(255, 0, 0)">add link</span>}.[^151] (I am not sure why the Jew can't bring a wall (like a mechitza) to block the chometz. Perhaps this is because this wall is considered to have halachic significance and so that would be considered building a wall, similar to the הלכות of boneh on שבת (סימן 315 סעיף 1 with סעיף Katans {<span style="color:rgb(255, 0, 0)">add link</span>}.[^47])
 ## חמץ of a Jew
-1. The owner of the חמץ is עובר on the איסור.[^151]
-2. If the property owner accepted responsibility, he is עובר on the איסור, as well ([[#Jew Accepted Responsibility|as we said by a גוי]]).[^151]
-3. <span style="display: block; text-align: justify;">The Jew should make sure to sell it by the normal time. If he does not, he should burn it by the regular time, even if he did accept responsibility over it.[^152]</span>
+1. The owner of the חמץ is עובר on the איסור.[^152]
+2. If the property owner accepted responsibility, he is עובר on the איסור, as well ([[#Jew Accepted Responsibility|as we said by a גוי]]).[^152]
+3. <span style="display: block; text-align: justify;">The Jew should make sure to sell it by the normal time. If he does not, he should burn it by the regular time, even if he did accept responsibility over it.[^153]</span>
 4. (Perhaps relevant if a Jew is renting storage space from another Jew.)
 # Mixtures of חמץ and Non-חמץ on פסח
 ## All Mixtures
-1. If one eats less than a כזית within כדי אכילת פרס, they are עובר on the lav of Bal Yeirah Uval Yimatzei.[^153]
-2. If one eats a כזית within כדי אכילת פרס then they are עובר on a kares.[^153]
-3. Midirabanan, one can't eat any mixture that has חמץ in it, even if the חמץ is מבטל midioraysa. As such, one would have to destroy such a mixture.[^153]
-4. There is no issue if a mixture is inedible.[^154]
-5. However, one needs to get rid of any edible mixture, even if it is not meant to be a food.[^155] (Also, see [[#Complete Change|here]].) ^7f05fb
-6. <span style="display: block; text-align: justify;">If חמץ that is אינו ראוי לאכילת כלב accidentally falls into food, that food may be eaten.[^156]</span> ^f6f6d4
+1. If one eats less than a כזית within כדי אכילת פרס, they are עובר on the lav of Bal Yeirah Uval Yimatzei.[^154]
+2. If one eats a כזית within כדי אכילת פרס then they are עובר on a kares.[^154]
+3. Midirabanan, one can't eat any mixture that has חמץ in it, even if the חמץ is מבטל midioraysa. As such, one would have to destroy such a mixture.[^154]
+4. There is no issue if a mixture is inedible.[^155]
+5. However, one needs to get rid of any edible mixture, even if it is not meant to be a food.[^156] (Also, see [[#Complete Change|here]].) ^7f05fb
+6. <span style="display: block; text-align: justify;">If חמץ that is אינו ראוי לאכילת כלב accidentally falls into food, that food may be eaten.[^157]</span> ^f6f6d4
 ## מין Bishe'eino Mino
-1. If there is 60x non-חמץ to חמץ, one is not עובר on on an aveirah midioraysa (as the חמץ is batel).[^153]
+1. If there is 60x non-חמץ to חמץ, one is not עובר on on an aveirah midioraysa (as the חמץ is batel).[^154]
 ## מין במינו
-1. If the non-חמץ is more than the חמץ then one is not עובר on an aveirah midioraysa (as the חמץ is batel).[^153]
+1. If the non-חמץ is more than the חמץ then one is not עובר on an aveirah midioraysa (as the חמץ is batel).[^154]
 ## Cooked Mixtures
-1. If one cooks a mixture with a bit חמץ with non-חמץ, to the point that the חמץ cooks out, the taste still remains. As such, one is עובר on a lav for eating it, but not עובר on Bal Yeirah Uval Yimatzei.[^153] ^64bc71
+1. If one cooks a mixture with a bit חמץ with non-חמץ, to the point that the חמץ cooks out, the taste still remains. As such, one is עובר on a lav for eating it, but not עובר on Bal Yeirah Uval Yimatzei.[^154] ^64bc71
 # חמץ After פסח
-1. If חמץ was left over until after פסח, if there was a chiyuv דאורייתא to destory the חמץ, one may not get hanah from it.[^153]
-2. If the chiyuv was only דרבנן, one may get hanah.[^153]
-3. If there is a lav for eating the חמץ, but not bal yeirah uval yimatzei (like [[#^64bc71|in this case]]) then it is a machlokes if one can get hanah from the food after פסח. One can be מקל if there will be a large loss. Regardless, one should not eat it.[^153] ^54decf
+1. If חמץ was left over until after פסח, if there was a chiyuv דאורייתא to destory the חמץ, one may not get hanah from it.[^154]
+2. If the chiyuv was only דרבנן, one may get hanah.[^154]
+3. If there is a lav for eating the חמץ, but not bal yeirah uval yimatzei (like [[#^64bc71|in this case]]) then it is a machlokes if one can get hanah from the food after פסח. One can be מקל if there will be a large loss. Regardless, one should not eat it.[^154] ^54decf
 # Specific Foods
-1. <span style="display: block; text-align: justify;">Schnapps is not even considered to be a [[#Mixtures of חמץ and non-חמץ on פסח|mixture]]. It is considered straight חמץ.[^157]</span>
-2. <span style="display: block; text-align: justify;">Beer is אסור on פסח. One is עובר on Bal Yeirah for owning it.[^158]</span>
+1. <span style="display: block; text-align: justify;">Schnapps is not even considered to be a [[#Mixtures of חמץ and non-חמץ on פסח|mixture]]. It is considered straight חמץ.[^158]</span>
+2. <span style="display: block; text-align: justify;">Beer is אסור on פסח. One is עובר on Bal Yeirah for owning it.[^159]</span>
 # Foods that Have Been Changed
 ## Complete Change
-1. <span style="display: block; text-align: justify;">If חמץ has completely changed in a way that it is barely recognizable (such as one mixes flour and water to make glue, or flour and milk to wash clothing), one does not need to get rid of it, even if one can tell that it is חמץ.[^159] (I believe that this is only if this has changed to a non-food purpose. Also, see [[#^7f05fb|here]]. I think the difference may be that our case is dealing with a more complete change of the חמץ than over there, but I am not sure.)</span>
-2. <span style="display: block; text-align: justify;">There is a machlokes between the מחבר and רמ"א about how much it has to change to be considered "changed". However, if this mixture was over 30 days old by the time פסח came around, it is considered "changed" according to both opinions.[^160]</span>
-3. <span style="display: block; text-align: justify;">One should make sure not to put such things on the table (or any place that will have food) because it is still אסור to eat.[^161]</span>
-4. <span style="display: block; text-align: justify;">Similarly one doesn't need to get rid of חמץ that is mixed in with non-foods (even if it is edible, and sometimes even eaten by a sick person), although there is a machlokes about if one can eat such a mixture.[^162]</span>
-5. <span style="display: block; text-align: justify;">If a mixture is for a non-food purpose, then if there is less than a kezayis in one place, there is no issue. This is even if there is a kezayis within the whole כלי (for example, if someone uses a חמץ glue to hold together a כלי. There is no issue unless there is a kezayis of חמץ is all in one spot. There is no issue if there is more than a kezayis of חמץ throughout the כלי).[^163]</span>
-6. <span style="display: block; text-align: justify;">If the חמץ was originally food and it just happened to get trapped in the כלי, there is a machlokes if all of the chamtz throughout the כלי gets combined together to count as a kezayis. However, if the חמץ is a little metunaf, it does not combine according to all opinions.[^164] {<span style="color:rgb(255, 0, 0)">I don't think this belongs here.</span>}</span>
+1. <span style="display: block; text-align: justify;">If חמץ has completely changed in a way that it is barely recognizable (such as one mixes flour and water to make glue, or flour and milk to wash clothing), one does not need to get rid of it, even if one can tell that it is חמץ.[^160] (I believe that this is only if this has changed to a non-food purpose. Also, see [[#^7f05fb|here]]. I think the difference may be that our case is dealing with a more complete change of the חמץ than over there, but I am not sure.)</span>
+2. <span style="display: block; text-align: justify;">There is a machlokes between the מחבר and רמ"א about how much it has to change to be considered "changed". However, if this mixture was over 30 days old by the time פסח came around, it is considered "changed" according to both opinions.[^161]</span>
+3. <span style="display: block; text-align: justify;">One should make sure not to put such things on the table (or any place that will have food) because it is still אסור to eat.[^162]</span>
+4. <span style="display: block; text-align: justify;">Similarly one doesn't need to get rid of חמץ that is mixed in with non-foods (even if it is edible, and sometimes even eaten by a sick person), although there is a machlokes about if one can eat such a mixture.[^163]</span>
+5. <span style="display: block; text-align: justify;">If a mixture is for a non-food purpose, then if there is less than a kezayis in one place, there is no issue. This is even if there is a kezayis within the whole כלי (for example, if someone uses a חמץ glue to hold together a כלי. There is no issue unless there is a kezayis of חמץ is all in one spot. There is no issue if there is more than a kezayis of חמץ throughout the כלי).[^164]</span>
+6. <span style="display: block; text-align: justify;">If the חמץ was originally food and it just happened to get trapped in the כלי, there is a machlokes if all of the chamtz throughout the כלי gets combined together to count as a kezayis. However, if the חמץ is a little metunaf, it does not combine according to all opinions.[^165] {<span style="color:rgb(255, 0, 0)">I don't think this belongs here.</span>}</span>
 ## Spoiled Foods
-1. <span style="display: block; text-align: justify;">One does not need to get rid of food that spoiled before the zman איסור. However, if the food spoiled after the zman, one still needs to destroy it.[^165]</span>
-2. <span style="display: block; text-align: justify;">"Spoiled" means beyond ראוי לאכילת כלב, not just ראוי לאכילת אדם<span style="visibility:hidden">l</span>[^166]</span>
-3. <span style="display: block; text-align: justify;">Once the zman איסור comes, even if the food reaches אינו ראוי לאכילת כלב after then, the food must be completely destroyed. אינו ראוי לאכילת כלב is not good enough[^167]</span>
+1. <span style="display: block; text-align: justify;">One does not need to get rid of food that spoiled before the zman איסור. However, if the food spoiled after the zman, one still needs to destroy it.[^166]</span>
+2. <span style="display: block; text-align: justify;">"Spoiled" means beyond ראוי לאכילת כלב, not just ראוי לאכילת אדם<span style="visibility:hidden">l</span>[^167]</span>
+3. <span style="display: block; text-align: justify;">Once the zman איסור comes, even if the food reaches אינו ראוי לאכילת כלב after then, the food must be completely destroyed. אינו ראוי לאכילת כלב is not good enough[^168]</span>
 4. <span style="display: block; text-align: justify;">If חמץ that was אינו ראוי לאכילת כלב was not destroyed and accidentally fell into other food, see [[#^f6f6d4|here]].</span>
 # חמץ Utensils
-1. <span style="display: block; text-align: justify;">Certain kneading bowls which are comprised of different parts and therefore have large cracks or crevices need to be sold to a גוי (as we are concerned that there is a kezayis of חמץ there). Even if regular mixing bowls which do not have these cracks or crevices may not be used for פסח (as we are concerned that there is still a משהו of חמץ, which is אסור to eat).[^168]</span> ^33c449
+1. <span style="display: block; text-align: justify;">Certain kneading bowls which are comprised of different parts and therefore have large cracks or crevices need to be sold to a גוי (as we are concerned that there is a kezayis of חמץ there). Even if regular mixing bowls which do not have these cracks or crevices may not be used for פסח (as we are concerned that there is still a משהו of חמץ, which is אסור to eat).[^169]</span> ^33c449
 2. <span style="display: block; text-align: justify;">It is unclear if this previous הלכה applies to other כלים that may similarly be difficult to clean. Logically it would seem that it should apply. However, in ס"ק 51 the משנה Berura says that a bread basket which is also hard to clean just needs to be put away for פסח and doesn't need to be sold.[^47]</span>
 # הנאה From חמץ
-1. <span style="display: block; text-align: justify;">הנאה from חמץ includes selling the חמץ, giving it to a גוי, and feeding one's animals. As such, whenever one may not get הנאה from חמץ, they may not do any of these things.[^169]</span>
+1. <span style="display: block; text-align: justify;">הנאה from חמץ includes selling the חמץ, giving it to a גוי, and feeding one's animals. As such, whenever one may not get הנאה from חמץ, they may not do any of these things.[^170]</span>
+# חמץ Grain Planted after the Zman איסור
+1. See סימן תמג ס"ק יז.
 # Footnotes
 
 [^1]: סימן 443 סעיף 1
@@ -455,42 +460,43 @@ Two reasons:
 [^128]: סימן 439 ס"ק 3
 [^129]: סימן 439 סעיף 1 ס"ק 1
 [^130]: סימן 439 ס"ק 4
-[^131]: סימן 440 ס"ק 2, 4
-[^132]: סימן 440 ס"ק 8
-[^133]: מנחת חינוך מצוה יא אות ז בקומץ המנחה brought down by סימן 440 דרשו footnote 8
-[^134]: סימן 118 ס"ק 5 brought down by סימן 440 דרשו footnote 8
-[^135]: סימן 440 סעיף 1
-[^136]: סימן 440 ס"ק 10
-[^137]: סימן 440 סעיף 3
-[^138]: סימן 440 ס"ק 16
-[^139]: סימן 440 ס"ק 17, 18
-[^140]: סימן 440 ס"ק 18
-[^141]: סימן 440 סעיף 2 ס"ק 12
-[^142]: סימן 440 סעיף 2 ס"ק 13
-[^143]: סימן 440 סעיף 1 ס"ק 8
-[^144]: סימן 440 סעיף 1 ס"ק 9
-[^145]: סימן 440 ס"ק 2
-[^146]: סימן 440 ס"ק 3
-[^147]: סימן 440 סעיף 1 ס"ק 6
-[^148]: סימן 440 ס"ק 11
-[^149]: סימן 440 ס"ק 5
-[^150]: סימן 440 סעיף 2 ס"ק 14, 15
-[^151]: סימן 440 סעיף 4 ס"ק 19
-[^152]: סימן 443 סעיף ב, ס"ק יד
-[^153]: סימן 442 ס"ק 1
-[^154]: סימן 442 סעיף 1
-[^155]: סימן 442 ס"ק 2
-[^156]: סימן 442 ס"ק 42
-[^157]: סימן 442 ס"ק 2, 5
-[^158]: סימן 442 סעיף 5 ס"ק 24
-[^159]: סימן 442 סעיף 3 ס"ק 13-15
-[^160]: סימן 442 ס"ק 17
-[^161]: סימן 442 ס"ק 16
-[^162]: סימן 442 סעיף 4 ס"ק 20, 23
-[^163]: סימן 442 סעיף 7 ס"ק 32
-[^164]: סימן 442 סעיף 7 ס"ק 33
-[^165]: סימן 442 סעיף 2, 9 ס"ק 9
-[^166]: סימן 442 ס"ק 10, 39
-[^167]: סימן 442 ס"ק 39, 40
-[^168]: סימן 442 סעיף 11 ס"ק 46, 47
-[^169]: סימן 443 ס"ק 6
+[^131]: סימן תמג ס"ק יז
+[^132]: סימן 440 ס"ק 2, 4
+[^133]: סימן 440 ס"ק 8
+[^134]: מנחת חינוך מצוה יא אות ז בקומץ המנחה brought down by סימן 440 דרשו footnote 8
+[^135]: סימן 118 ס"ק 5 brought down by סימן 440 דרשו footnote 8
+[^136]: סימן 440 סעיף 1
+[^137]: סימן 440 ס"ק 10
+[^138]: סימן 440 סעיף 3
+[^139]: סימן 440 ס"ק 16
+[^140]: סימן 440 ס"ק 17, 18
+[^141]: סימן 440 ס"ק 18
+[^142]: סימן 440 סעיף 2 ס"ק 12
+[^143]: סימן 440 סעיף 2 ס"ק 13
+[^144]: סימן 440 סעיף 1 ס"ק 8
+[^145]: סימן 440 סעיף 1 ס"ק 9
+[^146]: סימן 440 ס"ק 2
+[^147]: סימן 440 ס"ק 3
+[^148]: סימן 440 סעיף 1 ס"ק 6
+[^149]: סימן 440 ס"ק 11
+[^150]: סימן 440 ס"ק 5
+[^151]: סימן 440 סעיף 2 ס"ק 14, 15
+[^152]: סימן 440 סעיף 4 ס"ק 19
+[^153]: סימן 443 סעיף ב, ס"ק יד
+[^154]: סימן 442 ס"ק 1
+[^155]: סימן 442 סעיף 1
+[^156]: סימן 442 ס"ק 2
+[^157]: סימן 442 ס"ק 42
+[^158]: סימן 442 ס"ק 2, 5
+[^159]: סימן 442 סעיף 5 ס"ק 24
+[^160]: סימן 442 סעיף 3 ס"ק 13-15
+[^161]: סימן 442 ס"ק 17
+[^162]: סימן 442 ס"ק 16
+[^163]: סימן 442 סעיף 4 ס"ק 20, 23
+[^164]: סימן 442 סעיף 7 ס"ק 32
+[^165]: סימן 442 סעיף 7 ס"ק 33
+[^166]: סימן 442 סעיף 2, 9 ס"ק 9
+[^167]: סימן 442 ס"ק 10, 39
+[^168]: סימן 442 ס"ק 39, 40
+[^169]: סימן 442 סעיף 11 ס"ק 46, 47
+[^170]: סימן 443 ס"ק 6

@@ -6,7 +6,7 @@
 ## Pot is בן יומו
 1. If the pot is a בן יומו, part of the pot just under 60x the size of the drop becomes חנ"ן.
 ## Pot is not בן יומו
-1. If the pot is not a בן יומו, part of the pot just under 60x the size of the drop gets the בליעות of the drop, but it does not become חנ"ן.
+1. If the pot is not a בן יומו, part of the pot just under 60x the size of the drop gets the בליעות of the drop, but it does not become חנ"ן. For a discussion about how the pot is possibly not a בן יומו (it is cooking food right now), see [[Drop Hits Pot above Food and Pot is not בן יומו|here]].
 # How One Should Pour the Food out of the Pot
 1. One should wait for the pot to cool down and then pour the food out. This is even if the food is enough to be מבטל the איסור in the pot because we are not מבטל איסור, לכתחילה.
 # If One Poured over the Spot

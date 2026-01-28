@@ -3,7 +3,7 @@
 # Reasons the רמ"א Would Permit the Dishes if One is not a בן יומו
 *Presented by ט"ז ס"ק ט*
 ## [[סתירה in רמ''א סעיף ב and סעיף ג#Answer 1|Reason 1]]
-1. According to reason 1 (the problem with 2 בן יומו dishes is that the בליעות from both dishes go straight into the water and mix, and so we don't have נ"ט בר נ"ט דהיתרא), when one of the dishes is not בן יומו, we only have בליעות from one of the dishes.
+1. According to reason 1 (the problem with 2 בן יומו dishes is that the בליעות from both dishes go straight into the water and immediately mix, and so we don't have נ"ט בר נ"ט דהיתרא), when one of the dishes is not בן יומו, we only have בליעות from one of the dishes.
 2. As such, the בליעות that enter the water from the בן יומו dish are נ"ט בר נ"ט דהיתרא.
 ## [[סתירה in רמ''א סעיף ב and סעיף ג#Answer 2|Reason 2]]
 1. According to reason 2 (the problem with 2 בן יומו dishes is that the dishes may touch and so the בליעות will transfer straight from one dish to the other and so we won't have נ"ט בר נ"ט דהיתרא), when one of the dishes is not בן יומו, there is obviously no concern that it can make the other dish אסור.

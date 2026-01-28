@@ -1,7 +1,7 @@
 # General Vaccines
 
 ## Double-blind Random Control Trials for Vaccines
-1. Randomized double blind placebo control (RDBPC) studies are considered the “gold standard” of epidemiologic studies.[^1]
+1. Randomized double blind placebo controlled (RDBPC) studies are considered the “gold standard” of epidemiologic studies.[^1]
 2. Lots of vaccines do not go through double-blind random control trials (trials against a saline placebo).[^2]
 3. However, this is only true for vaccines that already have previously working versions {<font color="#ff0000">or any cure at all? I’m not sure.</font>} and they are trying to improve the vaccine in some way. The reason for this is that it is unethical to run a random control trial (meaning, some people get the cure and others only receive a placebo) when there are working versions of the vaccine available. {<font color="#ff0000">or some other medically proven working cure of any kind?</font>}. Instead what they do is test the vaccine against previous versions of the vaccine that they know are effective. New vaccines are tested in placebo controlled trials.[^2]
 	1. <font color="#9bbb59">Possible counter:</font> While this sounds like a reasonable policy is this the way it is actually carried out?[^3]
@@ -12,7 +12,7 @@
 1. Vaccines are only tested on an individual level (meaning, the effects of one particular vaccine on a person). The effects of many vaccines in quick succession being used on people are not tested. {<font color="#ff0000">Need source</font>}
 	1. <font color="#9bbb59">Possible counter:</font> While this is true, the question is does that make it worth it to not get vaccines
 ## Aluminum in Vaccines
-1. There is aluminum in vaccines and it is far higher than the recommended daily maximum. {I heard this from ישראל Peikes. He said he checked it up and it is true. I should ask him for the source.}
+1. There is aluminum in vaccines and it is far higher than the recommended daily maximum. {<span style="color:rgb(255, 0, 0)">I heard this from Yisrael Peikes. He said he checked it up and it is true. I should ask him for the source.</span>}
 	1. <font color="#9bbb59">Possible counter:</font> While this is true, the question is how bad is it to pass this mark relatively infrequently.
 # Coronavirus Vaccine
 ## Reasons to be Skeptical (of the Vaccine and the Government/CDC/WHO)

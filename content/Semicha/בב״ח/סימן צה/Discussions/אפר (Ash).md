@@ -1,6 +1,6 @@
 *Presented by מחבר סעיף ד, ש"ך ס"ק כא, ט"ז ס"ק טו, פתחי תשובה ס"ק ו*
 # מחבר
-1. Someone puts ash into a בן יומו dairy/meat pot. A dish of the opposite type with ממשות falls into the pot (and the pot is a כלי ראשון).
+1. Someone puts אפר (ash) into a בן יומו dairy/meat pot. A dish of the opposite type with ממשות falls into the pot (and the pot is a כלי ראשון).
 2. The הלכה is that the ash is נותן טעם לפגם and so the dish is fine.
 # שיטות against the מחבר
 1. The ש"ך and ט"ז say that there is no source for this הלכה. They bring cases numerous cases that seem to show that this is not a התר.

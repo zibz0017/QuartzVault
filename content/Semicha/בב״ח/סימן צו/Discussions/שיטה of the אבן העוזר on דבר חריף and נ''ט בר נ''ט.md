@@ -6,7 +6,7 @@
 1. The reason for נ"ט בר נ"ט is that the taste get weaker by every transfer. ט"ז נ"ט בר נ"ט
 ### דבר חריף
 1. A דבר חריף pulls all of the בליעות out of כלי that it is with.
-2. However, a דבר חריף expunges its flavor into the next thing the same as anything else. It does not expunge all of its flavor (unless it is going into another דבר חריף).
+2. However, a דבר חריף expunges its flavor into the next thing the same as anything else. It does not expunge all of its flavor (unless it is going into another דבר חריף). (This second point is seemingly the point of contention between him and the Magen Avraham. The Magen Avraham would presumably say that the taste is fully expunged into the next item.)
 ## Applications
 1. When someone cuts meat/dairy with a knife, there is a "step down". בליעות from the food go into the knife, but the knife doesn't pull all of the בליעות out of the food. The knife has the status of a נ"ט.
 2. If someone then cuts a דבר חריף with that knife, the knife absorbs all of the flavor from the knife. It gets the same status as the knife, and so it also has the status of a נ"ט.

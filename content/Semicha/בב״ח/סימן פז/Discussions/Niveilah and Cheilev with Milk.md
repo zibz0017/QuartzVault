@@ -9,10 +9,12 @@
 ## Cooking
 1. There is an איסור of בב״ח. There is no איסור of cooking niveilah/cheilev, so אין איסור Chal על איסור does not apply.
 ## הנאה
-1. הנאה is tricky because eating is a form of הנאה, and there is an איסור of eating niveilah/cheilev.
-   At the same time, הנאה includes more than just eating, and there is no איסור on getting הנאה from niveilah/cheilev (aside from eating it).
-2. This leads to a מחלוקת about this case.
-3. As such, we פסקען that במקום הפסד, one can be מקל, but otherwise, it is אסור.
+### ראשונים
+1. רמב"ם: If an איסור achila does not apply to a food, that איסור can't אסור the food for הנאה. In this case, because the food is not אסור to eat (in terms of בב״ח), it is not אסור to get הנאה because of בב״ח, either.
+2. 'תוס: The איסור achila and איסור הנאה are not connected. Just because there is no איסור on the eating does not mean that there is no איסור on getting הנאה.
+### אחרונים
+1. דגול מרבבה: One does not lose out if they are מקל in a case of הפסד.
+2. פרי מגדים: One may not receive הנאה in all cases.
 # Potential Applications
 1. Sometimes pet food can come with niveilah and milk. It would appear that this is אסור because one may not get הנאה from נבלה and milk (unless this is a case of הפסד מרובה, which it presumably is not).
 2. Can one work in a non-kosher restaurant if they will have to cook cheeseburgers or something like that?

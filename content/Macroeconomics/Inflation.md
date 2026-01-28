@@ -17,4 +17,4 @@
 [^1]: [Marginal Revolution University : Price Confusion and Money Illusion](https://mru.org/courses/principles-economics-macroeconomics/costs-of-inflation-price-confusion-money-illusion)
 [^2]: Own thoughts
 [^3]: [Marginal Revolution University : Financial Intermediation Failure](https://mru.org/courses/principles-economics-macroeconomics/costs-of-inflation-financial-intermediation-failure)
-[^4]: Conversation with ישראל Peikes
+[^4]: Conversation with Yisrael Peikes

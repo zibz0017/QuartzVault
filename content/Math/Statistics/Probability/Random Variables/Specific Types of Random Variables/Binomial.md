@@ -48,9 +48,14 @@ And that is our final answer.
 Putting it into a formula, it is:
 $$probability \space of \space a \space single \space permutation \times amount \space of \space different \space permutations$$
 ## At Least $x$ Amount
-The way to calculate the odds of getting *at least* a certain amount, we need to calculate the odds of getting each amount individually.
-For example, if we wanted to calculate the odds of spinning *at least* 3, 1s or 2s, in the next 5 rolls, we have to calculate the odds of spinning, ⅗, and then calculate the odds of spinning ⅘, and then calculate the odds of spinning 5/5, and then add them all up.
+The way to calculate the exact odds of getting *at least* a certain amount, we need to calculate the odds of getting each amount individually.
+For example, if we wanted to calculate the odds of spinning *at least* 3, 1s or 2s, in the next 5 rolls, we have to calculate the odds of spinning 3 1s or 2s out of 5, and then calculate the odds of spinning 4/5, and then calculate the odds of spinning 5/5, and then add them all up.
 This applies whether the event is 50/50 or not.
+To get the probability of getting at least a certain amount, we need the average (discussed [[#Random Variable Expected Value (Average) Expected Value (Average)|here]]) and the standard deviation (discussed [[#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance and Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation|here]]). We then need to calculate how many standard deviations the amount that we want to get is from the mean. Then we can use a [[Density Curve#Z-Table|z-table]] to be able to calculate the probability.
+Let's say we want to get the probability of rolling at least 30 1s and 2s out of the next 100 rolls, the mean will be $np$, or $100 \times \frac{1}{3} = 33.333$. The standard deviation is $\sqrt{np(1-p)}$ which becomes $\sqrt{100 \times .333 (1 - .333)} \approx 4.714$.
+Since we want to get at least 30 1s or 2s, we need to figure out how many standard deviations 30 is from our mean. This is $(30-33.333) \div 4.714 \approx -.707$.
+We can then use a z-table, which tell us that around .239 of the data is below this point, so the probability of getting more than this is approximately $1-.239=\boxed{.761}$, or around $\boxed{76.1\%}$.
+<span style="color:rgb(255, 0, 0)">Need to come back here. When using a z-table. You are supposed to use the "standard correction". I didn't do that.</span>
 # Binomial Distributions
 The distribution of a binomial is the percentage of each possible result in the binomial.
 For example, let's say I want to see how many heads I get in 5 coin flips. We can calculate the likelihood of getting 0, 1, 2, 3, 4, or 5 heads. The calculations would be done as discussed [[#Getting $x$ Amount in 50/50 Events|above]]:
@@ -82,7 +87,7 @@ If we graph this, it will look like this:
 ![[Coin Flip Distribution.png]]
 
 ## Binomial Distributions Approximate [[Density Curve#Normal Distribution|Normal Distributions]]
-As can be seen in the example above, the binomial distribution somewhat approximates a bell curve, or a normal distribution. The more trials you have, the more the binomial will approximate the normal distribution. It is useful to work with normal distributions because there are certain rules about estimating the probabilities of normal distributions (see the linked article for further discussion).
+Binomial distributions can somewhat approximate a bell curve, or a normal distribution. This depends on the probability and the amount of trials. The more trials you have, the more the binomial will approximate the normal distribution. It is useful to work with normal distributions because there are certain rules about estimating the probabilities of normal distributions (see the linked article for further discussion). For a "rule of thumb" for when we consider a binomial distribution "normal", see [[Sampling#The "Normal Distribution Rule"|here]].
 # [[Random Variable#Expected Value (Average)|Expected Value (Average)]]
 ## Formula
 The expected value (or average) of a binomial is:
@@ -96,8 +101,8 @@ The probability of success is $p$ (by definition. $p$ is literally the probabili
 A binomial is the value of these Bernoulli Trials added together.
 As discussed [[Adjusting and Combining Random Variables#Random Variable Expected Value (Average) Expected Value (Average)|here]] when adding random variables together, the expected value of these random variables added together is equal to the expected value of each random variable added together.
 As such, the expected value of a binomial is equal to the expected value of each Bernoulli Trial added together, or something like this:
-$$E(Binomial) = E(Bernoulli \space Trial) + E(Bernoulli \space Trial) + ... E(Bernoulli \space Trial)$$
-($E$ means expected value of...)
+$$E(Binomial) = E(Bernoulli \space Trial) + E(Bernoulli \space Trial) + … E(Bernoulli \space Trial)$$
+($E$ means expected value of…)
 We add the expected value for the Bernoulli Trials as many times as there are trials in the binomial. If there are 5 trials, then we add the expected value 5 times to get the expected value of the binomial.
 To make it simpler, instead of adding the expected value together a bunch of times, we can use multiplication, which looks like:
 $$E(Binomial) = n \times E(Bernoulli \space Trial)$$
@@ -106,7 +111,7 @@ As discussed [[Bernoulli Trial#Random Variable Expected Value (Average) Expected
 $$E(Binomial) = n \times p$$
 or just:
 $$E(Binomial) = \boxed{np}$$
-# [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Variance|Variance]] and [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Standard Deviation (σ or $s$)|Standard Deviation]]
+# [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Variance|Variance]] And [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Standard Deviation (σ or $s$)|Standard Deviation]]
 ## Variance
 ### Formula
 The formula is:
@@ -116,8 +121,8 @@ Similar to what we said by [[#Random Variable Expected Value (Average) Expected 
 Bernoulli Trials are random variables where there are two possible values, 1 or 0, dependent on whether there is a success or a failure.
 The probability of success is $p$ and the probability of failure is $1-p$.
 As mentioned [[Adjusting and Combining Random Variables#Variance|here]], when we add the variances of numerous random variables, the variance of this "combined random variable" is equal to the variances of each random variable added together, which looks something like this:
-$$V(Binomial) = V(Bernoulli \space Trial) + V(Bernoulli \space Trial) + ... V(Bernoulli \space Trial)$$
-($V$ means variance of...)
+$$V(Binomial) = V(Bernoulli \space Trial) + V(Bernoulli \space Trial) + … V(Bernoulli \space Trial)$$
+($V$ means variance of…)
 We simplify this by using multiplication instead of addition, which becomes:
 $$V(Binomial) = n \times V(Bernoulli \space Trial)$$
 ($n$ is the amount of Bernoulli Trials in the binomial.)
@@ -129,6 +134,7 @@ $$V(Binomial) = \boxed{np(1-p)}$$
 ### Formula
 The standard deviation is just the square root of the variance. As such, the formula is:
 $$\sqrt{np(1-p)}$$
+
 # "10% Rule"
 Because each test must be independent, technically, if we run a series of tests without replacement, the tests will not be independent. The odds of the later tests will depend on the results of the earlier tests.
 For example, if I plan on selecting a card from a standard deck of cards 3 times and I want to see if any of them are kings, the odds of the first test is $\frac{4}{52}$, but the odds of the next test depend on the result of my first test. If I picked a king on the first test, the odds of picking another king on the second test is $\frac{3}{51}$, and if I didn't pick a king on the first test, the odds of picking a king on the second test is $\frac{4}{51}$.

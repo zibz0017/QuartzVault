@@ -2,8 +2,8 @@ Tzvi Balin
 Yaakov Berman
 Sruli Feldstein (Can't go on Thursday afternoon)
 Meir Fink 12/18/25
-Uri Greenberg
-Shlomo Kandov
-Matan Shaltiel
-Yosef Siebzener
-Dov Sokolin
+Uri Greenberg **(2/5/26)**
+Shlomo Kandov 1/8/26
+Matan Shaltiel 1/22/26
+Yosef Siebzener **(2/19/26)**
+Dov Sokolin **(3/5/26)**

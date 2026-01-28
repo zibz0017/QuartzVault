@@ -13,7 +13,7 @@
 5. If you stole under $100, the prosecutor may dismiss the case. After six months, the case closes and it will not go on your permanent record.[^10]
 ## Large Amounts
 1. If you stole over $1000, it is considered Grand Larceny.[^11] As said before, being in possession of stolen is its own crime. Because it is over $1000, this is called Criminal Possession of Stolen Property in the fourth degree.[^12]
-2. The punishment for these are discussed [[#^e6aede|above]].
+2. The punishment for these are discussed [[#^e6aede|below]].
 ## Credit, Debit, and Public Benefit Cards
 1. If you stole a credit card or debit card, it is considered Grand Larceny in the fourth degree.[^13] Being in possession of a stolen credit card, debit card, or public benefits card is considered [^14]
 2. These are both Class E felonies. The punishment for each is:[^15] ^e6aede

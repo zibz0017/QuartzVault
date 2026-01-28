@@ -37,7 +37,7 @@ It depends on the case:
 1. The cup is a כלי שיני and so everything is fine.
 2. However, if the cup was a כלי ראשון:
 	1. The spoon is אסור.
-	2. The coffee needs to be 60x the amount of the spoon that went in, and there is also Shiur hamidume <span style="color:rgb(255, 0, 0)">Need to come back to this to explain this</span>
+	2. The coffee needs to be 60x the amount of the spoon that went in, and there is also שיעור המדומה <span style="color:rgb(255, 0, 0)">Need to come back to this to explain this</span>
 	3. If the coffee becomes אסור, the cup becomes אסור.
 # Question 6
 1. What if there was no milk in the coffee?

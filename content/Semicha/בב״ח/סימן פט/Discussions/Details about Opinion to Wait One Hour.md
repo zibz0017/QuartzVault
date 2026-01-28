@@ -1,3 +1,2 @@
-You must not be planning on eating dairy when you stop your meat meal.[^1]
-
-[^1]:  ט"ז 3, רמ"א א
+*Presented by רמ"א סעיף א, ט"ז ג*
+1. You must not be planning on eating dairy when you stop your meat meal. When you finish your meal, you actually need to think that your meal is done.

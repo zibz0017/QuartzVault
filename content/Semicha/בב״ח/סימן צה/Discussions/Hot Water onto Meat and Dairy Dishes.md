@@ -1,18 +1,19 @@
-*Presented by ש"ך ס"ק כ*
+*Presented by ט"ז ס"ק יב, ש"ך ס"ק כ, פרי מגדים שפתי דעת ס"ק כ*
 
 # שיטה of the רמ"א
 1. In all cases, the dishes are מותר.
 ## Reason
 1. Dishes are hard and so the hot water can't pull out בליעות and put בליעות into them same time. As such, no בליעות enter the dishes and so they are מותר.
 2. Even if there is actual food, the same principle applies: the בליעות can't be pulled out of the food and then put into the dishes.
-# שיטה of the ש"ך
+# שיטה of the ש"ך and ט"ז
 ## Case 1
 1. Both dishes were בן יומו but clean.
 ### הלכה
 1. Everything is fine. 
 ### Reason
-1. This is because the בליעות leave the dishes and enter the water. At that point, they are נ"ט בר נ"ט דהיתרא. As such, nothing becomes אסור.
-2. This point is debated. The ש"ך himself holds of this. The רמ"א disagrees and says that the בליעות instantly mix in the water and, as such, we don't view it like they entered the water בהתר. This מחלוקת is discussed [[סתירה in רמ''א סעיף ב and סעיף ג|here]].
+1. We have a combination of reasons to be מקל:
+	1. According to the מחבר, the בליעות leave the dishes and enter the water. At that point, they are נ"ט בר נ"ט דהיתרא and they can't אסור anything. (The רמ"א disagrees with this, as discussed [[סתירה in רמ''א סעיף ב and סעיף ג|here]].)
+	2. The svarah of the רמ"א that dishes are too hard to absorb בליעות through ערוי, as discussed [[#שיטה of the רמ"א|above]].
 ## Case 2
 1. Both dishes were dirty.
 ### הלכה

@@ -14,5 +14,5 @@
    For example, if someone cooked meatballs in the pot in the previous 24 hours and it filled up the whole pot and then they cooked milk that *fills up half of the pot*, the milk only needs to be 60x the thickness of the walls of the bottom half of the pot.
 2. This is because the בליעות only travel from the pot from where it is touching from the food. It does not travel from the rest of the pot to the food.
 3. Usually, the food in the pot will not be 60x the walls of the pot (unless the pot is unusually large and the walls are unusually thin).
-# Shiur Hamiduma
-1. The walls of the pot only absorb בליעות as a percentage of how much dairy/meat was is in the food that was previously cooked there. For more details, see [[סימן צב הלכות#Shiur Hamiduma|here]].
+# שיעור המדומה
+1. The walls of the pot only absorb בליעות as a percentage of how much dairy/meat was is in the food that was previously cooked there. For more details, see [[סימן צב הלכות#שיעור המדומה|here]].
