@@ -1,0 +1,6 @@
+*Presented by הג"ה סעיף ד, ש"ך ס"ק ט, י, ט"ז ס"ק י*
+# Case
+1. אסור בליעות are absorbed into another food. That food gets mixed up with other foods and now you don't know which food is the אסור one.
+# שיטות
+1. רמ"א: This is איסור בלוע, and so the same way we say that איסור בלוע can be מבוטל by [[סימן קא הלכות#^c44783|חתיכה הראויה להתכבד]] and [[סימן ק הלכות#^63379b|בריה]], we say the same thing by דבר שיש לו מתירין.
+2. ט"ז, ש"ך, מהרש"ל: The fact that there are only בליעות here does not make a difference. It will still not be מבוטל. By חתיכה הראויה להתכבד and בריה, the idea is that because we are only dealing with the בליעות of the איסור, it is no longer a חתיכה הראויה להתכבד or בריה. By דבר שיש לו מתירין, the same logic applies to the food itself as to בליעות. The same way the food itself will eventually become מותר, the בליעות will become מותר.

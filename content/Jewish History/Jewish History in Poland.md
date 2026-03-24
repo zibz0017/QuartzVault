@@ -55,39 +55,39 @@
 1. Includes a tremendous amount of גדולים, such as:
 	1. [[#Rav Yaakov Pollak]]
 	2. [[#Rav Shalom Shachna]]
-	3. The [[#Maharshal]]
+	3. The [[#מהרש"ל]]
 	4. The רמ"א (Rav Moshe Isserles 1530 – 1572 [^18])
 	5. The מהרש"א (Rav Shmuel Eidels 1555 – 1631 [^19])
 	6. The [[#The Smah|Smah]]
 	7. The Maharam (Rav Meir Lublin 1558 – 1616 [^20])
-	8. The Bach (Rav Yoel Sirkis 1561 – 1640. Father-in-law of the ט"ז<span style="visibility:hidden">l</span>[^21])
-	9. The ט"ז (David ha-Levi Segal 1586 – 1667 [^21])
+	8. The ב"ח (Rav Yoel Sirkis 1561 – 1640. Father-in-law of the ט"ז&lrm;[^21])
+	9. The ט"ז (David Halevi Segal 1586 – 1667 [^21])
 	10. The ש"ך (Rav Shabbtai HaKohen 1621–1662 [^22])
 	11. The בית Shmuel (Rav Shmuel בן Uri Shraga Phoebus 1625 or 1650 - 1701 [^23])
 ## Rav Yaakov Pollak
 1. Rav Yaakov Pollak lived from 1460 or 70 - 1541. [^24]
 2. Was the rebbi of Rabbi Shalom Shachna of Lublin, Meïr of Padua (Maharam Padua) and the Maharal of Prague. [^24]
 3. He, along with his תלמיד Rav Shachna, is considered the father of the learning style of Rettinsburg Pilpul which is a style of pilpul which is not accepted.[^25]
-4. The style of pilpul takes the assumption that the gemarah knew every step at every step. So every time you go through a step in the gemarah, you have to relearn the whole gemarah. Also, the style of pilpul might seek to address a question in a way that might work in cheshbon but is totally not mistaver and therefore not pshat in the gemarah.[^25]
+4. The style of pilpul takes the assumption that the gemarah knew every step at every step. So every time you go through a step in the gemarah, you have to relearn the whole gemarah. Also, the style of pilpul might seek to address a question in a way that might work in חשבון but is totally not מסתבר and therefore not pshat in the gemarah.[^25]
 ## Rav Shalom Shachna
 1. Rav Shalom Shachna lived from 1490 or 1510 - 1558.[^26]
-2. He was the father-in-law and rebbi of the Rema.[^25][^26]
+2. He was the father-in-law and rebbi of the רמ"א.[^25][^26]
 3. Established a big yeshiva in Lublin in 1515.[^26]
  ^f7cb43
 4. As mentioned, he is considered the father of Rettinsburg Pilpul, along with his Rebbi, Rav Yaakov Pollak. [^25]
-## Maharshal
+## מהרש"ל
 1. Rav Shlomo Luria (1510 – November 7, 1573).[^27]
 2. Took over the Yeshiva of Lublin after the death of Rav Shalom Shachna and later opened his own yeshiva.[^27]
-3. Wrote Chochmas Shlomo (his pirush at the back of the gemarah) and Yam של Shlomo, amongst other things.[^25][^27]
-4. Was opposed to the Shulchan ערוך and Rema-style approach to giving over הלכה. The רא"ש and the רי"ף, for example, write on the gemarah. A posek has to learn them and then he can come to his own psakim. The Shluchan ערוך is not like that. The Shulchan ערוך writes clear cut psakim. The Maharshal felt that this was against the mesorah. The gemarah was the last piece of universally accepted codified הלכה and that was it. There was to be no more after that. 
+3. Wrote חכמת Shlomo (his פרוש at the back of the gemarah) and Yam של Shlomo, amongst other things.[^25][^27]
+4. Was opposed to the Shulchan ערוך and רמ"א-style approach to giving over הלכה. The רא"ש and the רי"ף, for example, write on the gemarah. A posek has to learn them and then he can come to his own psakim. The Shluchan ערוך is not like that. The Shulchan ערוך writes clear cut psakim. The מהרש"ל felt that this was against the mesorah. The gemarah was the last piece of universally accepted codified הלכה and that was it. There was to be no more after that. 
    For this reason, he was against the רמב"ם as well.
    This is part of why he wrote his Yam של Shlomo. [^25]
-5. It seems that כלל ישראל has accepted the Shulchan ערוך and Rema-style of psak. [^25]
-6. The Maharshal was a bit sharp sometimes. He was not one to pull punches. [^25]
+5. It seems that כלל ישראל has accepted the Shulchan ערוך and רמ"א-style of psak. [^25]
+6. The מהרש"ל was a bit sharp sometimes. He was not one to pull punches. [^25]
 ## The Smah
 1. Rav Yehoshua Hakohen Falk (1555 – 29 March 1614). Also known as the Mahari Katz. [^28]
 2. Also authored the Prishah and the Drishah. [^25]
-3. He was a תלמיד of the Rema and the Maharshal. [^28]
+3. He was a תלמיד of the רמ"א and the מהרש"ל. [^28]
 # Polish Chassidus
 1. Includes [[#Peshischa]], [[#Kotzk]], [[#Piaseczno (Piacezna) Rebbe|Piaseczno]] (commonly spelled Piacezna, even though Piaseczno is the way the name of the town is spelled) and [[#Ger]] (which may be the most popular and well known form a chassidus). [^29]
 ## The Chozeh of Lublin
@@ -112,19 +112,19 @@
 4. He was originally a תלמיד of the Kushnitzer but after the father died and the son took over {don’t know which rebbe of Kushnitz this is referring to} he had some sort of fight and ended up joining Peshischa. [^29]
 5. All of his kids {or sons, I don’t know which} died during his lifetime. He felt this was because of his fight with the Kushnitzer. However, he still felt that he made the correct decision to leave Kushnitz. [^29]
 6. He turned down the intensity that was brought in by the Kotzker by a lot. [^29] {<font color="#ff0000">I’m not sure how things went exactly. Was he the rebbe after the death of the Kotzker and Kotzk sort of merged into Peshischa or was he the rebbe of Peshischa at at the same time as the Kotzker was the rebbe of Kotzk?</font>}
-7. The divrei תורה are much more פשט oriented. They seem to be trying to understand what the passuk is saying (I don’t think this is to the exclusion of Kutzk and Peshischa divrei תורה.) [^29]
+7. The divrei תורה are much more פשט oriented. They seem to be trying to understand what the פסוק is saying (I don’t think this is to the exclusion of Kutzk and Peshischa divrei תורה.) [^29]
 8. After the death of the חידושי Harim, the chassidus was then led by Rabbi Chanoch Henach Hakohen Levin from 1866 until 1870. [^33]
 9. The Sfas Emes was the grandson of the חידושי Harim and he took over the chassidus afterwards at 22 years old. [^29][^33]
 10. He was orphaned of both of his parents by the time he was 8 years old and was brought up by the חידושי Harim until the death of the חידושי Harim.[^29][^33]
-11. The ספר Sfas Emes is similar to the style of the חידושי Harim in that it seeks פשט and tries to make sense of the passuk (with references to higher concepts as well). [^29]
+11. The ספר Sfas Emes is similar to the style of the חידושי Harim in that it seeks פשט and tries to make sense of the פסוק (with references to higher concepts as well). [^29]
 12. The Sfas emes died from heartache in 1905 as the Russians drafted many of his Chassidim to fight in the Russo-Japanese War. [^29]
-13. His ספר lives on. It is incredibly popular in Ger. (Almost sounds like a Chiddushei Halev in Chofetz חיים.) [^29]
+13. His ספר lives on. It is incredibly popular in Ger. (Almost sounds like a Chiddushei Halev in חפץ חיים.) [^29]
 ## Piaseczno (Piacezna) Rebbe
 1. Rav Kalonymus Kalman Shapira was born in 1889[^34][^35]
 2. He had Yichus. His grandfather, father, and father-in-law were all rebbes.[^34]
 3. He was more worldly than the average rebbe. He knew languages, played instruments and read a lot.[^34]
 4. He wrote numerous sefarim, such as the Eish Kodesh, ספר Chovas Hatalmidim, a ספר for married people (which he did not finish), and an introduction for people learning Kabbalah. [^34][^35]
-5. חובות Hatalmidim is a guidebook for chassidishe bochurim. It is similar to Alei Shor for Litvishe Bochurim (I don’t know in what sense this is. R’ Lopiansky did not explain what he meant). [^34]
+5. חובות Hatalmidim is a guidebook for chassidishe bochurim. It is similar to Alei שור for Litvishe Bochurim (I don’t know in what sense this is. R’ Lopiansky did not explain what he meant). [^34]
 6. In the days of the Piacezna, the חינוך was very strict. Ger was the popular Chassidus at that point and Ger maintained a lot of the intensity and brutal honesty of Kutzk. Because of this, many children were going off the דרך. [^34]
 7. The Piacezna looked at this situation as a problem with the rabbeim and the system in general, not with the kids (meaning, the style of חינוך had to change, not the kids). [^34]
 8. His system was much more positive. He focused on instilling into the kids the importance of being Jewish and the importance of their role as the future כלל ישראל. This is at least part of what ספר חובות Hatalmidim is about. The ספר is still extremely relevant in our times. [^34]
@@ -147,9 +147,9 @@
 ### Elements
 1. Back to the focus on the simple Jew, but did keep some elements of the “be real with yourself” from Kotzk. [^34]
 2. The תורה is deep but pshat oriented (seemed similar to the תורה of Kutzk and Ger from the way it was described). [^34]
-3. One unique thing that is focused on in the תורה of Ishbitz is trying to figure out the good in an aveirah. [^34]
-4. This leads to a lot of controversy over the תורה that is said as it almost sounds like it is defending doing עבירות, like doing עבירות lishmah that Shabsai Tzvi said to do. (Bizman Hazeh, their תורה is accepted, you just have to know that the authors may not mean exactly what it sounds like they are saying. In the past, it seems that their sefarim were attacked on the basis of reading them literally.) [^34]
-5. Two examples of this are a discussion that Pinchas didn’t understand the deep intentions of Zimri, and that it was good that Korach fought against משה because that gave the people more אמונה when he lost. [^34]
+3. One unique thing that is focused on in the תורה of Ishbitz is trying to figure out the good in an עבירה. [^34]
+4. This leads to a lot of controversy over the תורה that is said as it almost sounds like it is defending doing עבירות, like doing עבירות lishmah that Shabsai Tzvi said to do. (בזמן הזה, their תורה is accepted, you just have to know that the authors may not mean exactly what it sounds like they are saying. In the past, it seems that their sefarim were attacked on the basis of reading them literally.) [^34]
+5. Two examples of this are a discussion that פנחס didn’t understand the deep intentions of Zimri, and that it was good that קרח fought against משה because that gave the people more אמונה when he lost. [^34]
 ### Leadership
 1. As mentioned, the chassidus was started by Rav Mordechai יוסף Leiner, who became known as the Ishbitzer. His תורה was recorded in the ספר מי Hashiloach by his grandson, Rav Gershon Henach of Radzin (who later became the rebbe of the Radziner chassidim) and so the Ishbitzer is also known by the name of the ספר.[^37]
 12. After the death of Rav Mordechai יוסף Leiner in 1854, the chassidus split in two. One part settled in Radzin (Radziner chassidim) and was led by his son, Rav Yaakov Leiner. The other part settled in Lublin and was led by Rav Leibel Eiger.[^36]
@@ -167,7 +167,7 @@
 2. This is the precursor for organizations like Agudah. [^1]
 3. The groups were largely Polish but sometimes Lithuanian communities would be part as well. [^1]
 4. They met twice a year, usually at the great fair of Berlin. [^1]
-5. They would פסקען shailos, put people in cheirem and take them out, and they would deal with “franchises”. Jews would manage lands in Ukraine (discussed shortly) and sometimes one Jew would try to undercut another Jew by telling the Polish nobleman who owns the land that he could do a better job running the place than the current Jew running the place was doing. [^1]
+5. They would פסקען shailos, put people in חרם and take them out, and they would deal with “franchises”. Jews would manage lands in Ukraine (discussed shortly) and sometimes one Jew would try to undercut another Jew by telling the Polish nobleman who owns the land that he could do a better job running the place than the current Jew running the place was doing. [^1]
 ## Rav Meir Shapiro
 1. Rav Meir Shapiro was great in many ways. He was an iluy, people-smart, a visionary, charismatic, and situationally savvy in the sense that he knew how to play politics. [^40]
 2. He was born in 1887 and was nifter in 1933.[^40][^41]
@@ -176,7 +176,7 @@
 5. Before this, the store owners would have bochurim sleep in shops to keep away thieves. Rav Meir Shapiro drily noted the tremendous זכות the Polish thieves had. [^40]
 6. He fundraised for seven years to create the yeshiva. [^40]
 7. Poland didn’t really have a general דרך halimud. This was because nearly every chassidus had their own yeshiva and there was very little cross-pollination (a chassid in one chassidus was not likely to go learn at the yeshiva of a different chassidus). [^40]
-8. As such, Rav Meir Shapiro traveled to Lithuania to examine the different darchei limud there and then create one. (By this time Rav Chaim Brisker’s mehalech was widespread amongst the yeshivos). [^40]
+8. As such, Rav Meir Shapiro traveled to Lithuania to examine the different דרכי limud there and then create one. (By this time Rav Chaim Brisker’s מהלך was widespread amongst the yeshivos). [^40]
 9. The דרך halimud he came up with was four years of kodshim (Rav Lopiansky didn’t know why this was) followed by three years of standard semichah. [^40]
 10. The yeshiva building was massive. It was six floors and had 20,000 sefarim. [^40]
 11. The bochurim walked around with fancy silver walking sticks. [^40]
@@ -224,7 +224,7 @@
 #### Support from גדולים
 1. Because she was from Belz, Sarah Schenirer asked her brother to get a haskama from the Belzer rebbe.[^8]
 2. At first, the Belzer rebbe gave his haskama to the movement, but then later rescinded it. It is not know why.[^8][^47]
-3. The Chofetz חיים (perhaps the גדול hador of the non-chassidish world) and the Gerer rebbe gave her their haskamos. This gave the movement a lot of support.[^8] ^8085a2
+3. The חפץ חיים (perhaps the גדול hador of the non-chassidish world) and the Gerer rebbe gave her their haskamos. This gave the movement a lot of support.[^8] ^8085a2
 #### Starting off
 1. In 1918, Sarah Schenirer opened her first school. It was run out of her home in Krakow.[^8]
 #### Seminary

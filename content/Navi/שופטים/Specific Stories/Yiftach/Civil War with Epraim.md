@@ -12,9 +12,9 @@
 ### Yiftach Fought Without Them
 1. <span style="display: block; text-align: justify;">Gideon, a previous shofet, had also fought against the enemies of כלל ישראל without אפרים, and they were insulted the, as well.[^7] The fact that now it happened again compounded the insult.[^8]</span>
 ### Yiftach was Chosen as Leader Without Their Imput
-1. <span style="display: block; text-align: justify;">אפרים was upset because they felt that Gilad was a relatively unimportant part of shevet יוסף.[^9][^10][^11] This was because they were either entirely across the Yarden (which only had half of Menashe, as opposed to the Eretz ישראל side which had the other half of Menashe plus the entire אפרים)[^11] or they were actually divided: half of Gilad was across the Yarden in shevet Menashe's land, and half were in Eretz ישראל, in shevet אפרים's land.[^10] As such, they did not feel that Gilad had the right to choose the leader.[^10][^12]</span> ^a260b0
+1. <span style="display: block; text-align: justify;">אפרים was upset because they felt that Gilad was a relatively unimportant part of shevet יוסף.[^9][^10][^11] This was because they were either entirely across the Yarden (which only had half of Menashe, as opposed to the ארץ ישראל side which had the other half of Menashe plus the entire אפרים)[^11] or they were actually divided: half of Gilad was across the Yarden in shevet Menashe's land, and half were in ארץ ישראל, in shevet אפרים's land.[^10] As such, they did not feel that Gilad had the right to choose the leader.[^10][^12]</span> ^a260b0
 ## How אפרים Insulted Yiftach
-1. <span style="display: block; text-align: justify;">The simple reading of the passuk is that אפרים threatened to burn down Yiftach's house with him inside.[^2] (The מצודת דוד learns the passuk this way.[^13])</span>
+1. <span style="display: block; text-align: justify;">The simple reading of the פסוק is that אפרים threatened to burn down Yiftach's house with him inside.[^2] (The מצודת דוד learns the פסוק this way.[^13])</span>
 2. <span style="display: block; text-align: justify;">According to the מנחה קטנה, אפרים only threatened to destroy Yiftach's house, but not with him inside. Yiftach's house (which was presumably nice as he was the shofet), was an honor for him. By burning down Yiftach's house, and attacking his honor through the destruction of something physical, אפרים hoped Yiftach would learn that all the more so, he should care about the honor of humans (meaning, the honor of אפרים).[^14]</span>
 3. Additionally, אפרים called Gilad an unimportant part of shevet יוסף, [[#^a260b0|as discussed]].
 ## Could אפרים Have Been Appeased
@@ -28,7 +28,7 @@
 	1. <span style="display: block; text-align: justify;">According to this, I don't even begin to understand what אפרים was upset about. What did they mean that Yiftach didn't invite them if Yiftach, in fact, did? Perhaps the message was lost on the way, or only arrived there after the battle was over?</span>
 4. <span style="display: block; text-align: justify;">אפרים had ample opportunity to save כלל ישראל as Amon had been antagonizing כלל ישראל for years. If they were ever going to do it, they had their chance.[^20]</span>
 5. <span style="display: block; text-align: justify;">Yiftach told אפרים that he had been kicked out from his family and that had turned him into a humble person. As such, he did not leave אפרים out because he thought he was so great he didn't need them or anything like that.[^21]</span>
-6. <span style="display: block; text-align: justify;">Yiftach pointed out that he had risked his life, and he had won through only with a נס<span style="visibility:hidden">l</span>[^22][^20] (he only had a small army against Amon[^22]).</span>
+6. <span style="display: block; text-align: justify;">Yiftach pointed out that he had risked his life, and he had won through only with a נס&lrm;[^22][^20] (he only had a small army against Amon[^22]).</span>
 7. <span style="display: block; text-align: justify;">Yiftach told אפרים that if he had lost, אפרים would have a reasonable: perhaps if he would have included אפרים in his army he would have won. But now that he was victorious without אפרים, their complaint was unjustified.[^23]</span>
 ## Who From אפרים Fought
 1. <span style="display: block; text-align: justify;">According to numerous מפרשים, the entire shevet אפרים was involved in this fight.[^24][^14]</span>
@@ -45,7 +45,7 @@
 3. <span style="display: block; text-align: justify;">This was a punishment for Avimelech, an evil shofet of כלל ישראל, who's followers and base of operations were in Shichem. This was a city in shevet אפרים's territory, and they should have protested Avimelech's actions. They were punished for not doing so.[^14]</span>
 ### Yiftach's Responsibility
 1. <span style="display: block; text-align: justify;">At the same time, Yiftach should have tried appeasing them as Gideon had done earlier in a similar circumstance.[^27][^15]</span>
-2. <span style="display: block; text-align: justify;">Yiftach died in a horrible way (see [[#^6b4328|here]]), but the מדרש (and the מפרשים presenting the מדרש) say that that was a punishment for not being matir נדר on his daughter. Almost nobody says that it was at least partically a punishment for killing אפרים.[^28]</span>
+2. <span style="display: block; text-align: justify;">Yiftach died in a horrible way (see [[#^6b4328|here]]), but the מדרש (and the מפרשים presenting the מדרש) say that that was a punishment for not being מתיר נדר on his daughter. Almost nobody says that it was at least partically a punishment for killing אפרים.[^28]</span>
 # Footnotes
 
 [^1]: שופטים יב א רש"י שם

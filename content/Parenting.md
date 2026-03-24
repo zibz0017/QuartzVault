@@ -107,7 +107,7 @@
 			- Child feels safe to talk to parents. Parent needs to be able to respectfully listen and validate the child. This can be difficult, particularly when the parent doesn't approve of these feelings.[^8]
 			- Warm to other family members. Shalom bayis issues are dealt with privately.[^8]
 			- Don't constantly complain about child's behavior or berate them.[^8]
-			- Dinner table and שבת/yom טוב table is important for developing a warm atmosphere. Parents need to deal with issues (like seating arrangements, etc.) with patience.[^8]
+			- Dinner table and שבת/יום טוב table is important for developing a warm atmosphere. Parents need to deal with issues (like seating arrangements, etc.) with patience.[^8]
 			- Meal length and discussions should be appropriate for the children.[^8]
 			- Child needs to feel loved unconditionally. Even if a child messes up, the parent will approach them with love. In the past, this may have been more okay. Now it is not.[^8]
 		- Psychological safety:
@@ -126,7 +126,7 @@
 		- Includes standard physical needs (clothing, food, etc.).[^9]
 		- Will support a child if something bad happens to them.[^9]
 		- Don't constantly tell kids that we can't afford things (this does not mean that one should buy their kids everything).[^9]
-		- Children should not feel that שבת/yom טוב are stressful times.[^9]
+		- Children should not feel that שבת/יום טוב are stressful times.[^9]
 		- Children should not feel that their simchos are a burden of time/money.[^9]
 		- Children must feel secure about their parents' marriage and overall shalom bayis.[^9]
 		- Children need to see parents act with a belief that Hashem will help them, rather than fall apart when things are tight.[^9]

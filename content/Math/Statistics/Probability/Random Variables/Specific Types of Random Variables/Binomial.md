@@ -48,10 +48,12 @@ And that is our final answer.
 Putting it into a formula, it is:
 $$probability \space of \space a \space single \space permutation \times amount \space of \space different \space permutations$$
 ## At Least $x$ Amount
+### Exact Calculation
 The way to calculate the exact odds of getting *at least* a certain amount, we need to calculate the odds of getting each amount individually.
 For example, if we wanted to calculate the odds of spinning *at least* 3, 1s or 2s, in the next 5 rolls, we have to calculate the odds of spinning 3 1s or 2s out of 5, and then calculate the odds of spinning 4/5, and then calculate the odds of spinning 5/5, and then add them all up.
 This applies whether the event is 50/50 or not.
-To get the probability of getting at least a certain amount, we need the average (discussed [[#Random Variable Expected Value (Average) Expected Value (Average)|here]]) and the standard deviation (discussed [[#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance and Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation|here]]). We then need to calculate how many standard deviations the amount that we want to get is from the mean. Then we can use a [[Density Curve#Z-Table|z-table]] to be able to calculate the probability.
+### Estimation with Z-table
+A way to estimate the odds of getting at least a certain amount is as follows: First, we get the average (discussed [[#Random Variable Expected Value (Average) Expected Value (Average)|here]]) and the standard deviation (discussed [[#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance and Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation|here]]). We then need to calculate how many standard deviations the amount that we want to get is from the mean. Then we can use a [[Density Curve#Z-Table|z-table]] to be able to calculate the probability.
 Let's say we want to get the probability of rolling at least 30 1s and 2s out of the next 100 rolls, the mean will be $np$, or $100 \times \frac{1}{3} = 33.333$. The standard deviation is $\sqrt{np(1-p)}$ which becomes $\sqrt{100 \times .333 (1 - .333)} \approx 4.714$.
 Since we want to get at least 30 1s or 2s, we need to figure out how many standard deviations 30 is from our mean. This is $(30-33.333) \div 4.714 \approx -.707$.
 We can then use a z-table, which tell us that around .239 of the data is below this point, so the probability of getting more than this is approximately $1-.239=\boxed{.761}$, or around $\boxed{76.1\%}$.
@@ -87,7 +89,7 @@ If we graph this, it will look like this:
 ![[Coin Flip Distribution.png]]
 
 ## Binomial Distributions Approximate [[Density Curve#Normal Distribution|Normal Distributions]]
-Binomial distributions can somewhat approximate a bell curve, or a normal distribution. This depends on the probability and the amount of trials. The more trials you have, the more the binomial will approximate the normal distribution. It is useful to work with normal distributions because there are certain rules about estimating the probabilities of normal distributions (see the linked article for further discussion). For a "rule of thumb" for when we consider a binomial distribution "normal", see [[Sampling#The "Normal Distribution Rule"|here]].
+Binomial distributions can somewhat approximate a bell curve, or a normal distribution. This depends on the probability and the amount of trials. The more trials you have, the more the binomial will approximate the normal distribution. It is useful to work with normal distributions because there are certain rules about estimating the probabilities of normal distributions (see the linked article for further discussion). For a "rule of thumb" for when we consider a binomial distribution "normal", see [[Sampling a Binomial-Type Random Variable#The "Normal Distribution Rule"|here]].
 # [[Random Variable#Expected Value (Average)|Expected Value (Average)]]
 ## Formula
 The expected value (or average) of a binomial is:

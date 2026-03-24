@@ -8,9 +8,9 @@
 ## Liquid
 1. If one of the foods was a liquid, if it is not 60x its קליפה, if we were מקפיד that the קליפה needs to be removed, the whole liquid would become אסור, as the קליפה mixes in and there is no way to save the food (you can't remove the קליפה of a liquid).
 2. As such, since this is just a חומרה, some are מקל in this situation. הלכה למעשה, this is a מחלוקת:
-	1. ט"ז, מהרא"י, מהרש"ל:<span style="visibility:hidden">l</span> אסור.
+	1. ט"ז, מהרא"י, מהרש"ל:&lrm; אסור.
 	2. ת"ח: Only מותר in a case of הפסד מרובה.
-	3. ש"ך, רמ"א: <span style="visibility:hidden">l</span>מותר. (It would seem that the רמ"א here isn't דוקא, based off what he says in the ת"ח.)
+	3. ש"ך, רמ"א: &lrm;מותר. (It would seem that the רמ"א here isn't דוקא, based off what he says in the ת"ח.)
 ## Food Falls into Another Food
 ### קליפה is not Recognizable
 1. Same as by [[#Liquid|liquid]].

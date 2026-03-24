@@ -1,5 +1,4 @@
 *Presented in ש"ך ס"ק ד, ז*
-<span style="color:rgb(255, 0, 0)">Perhaps combine this with [[Food that is Partially Submerged in a Pot (Machlokes רש"י ר"י)]].</span>
 # שיטות
 ## ר"י
 1. A food that is partially submerged in liquid is considered to be part of the liquid. As such, if something falls onto that piece, all of the food in the pot can combine together to be מבטל the thing that fell onto the piece.

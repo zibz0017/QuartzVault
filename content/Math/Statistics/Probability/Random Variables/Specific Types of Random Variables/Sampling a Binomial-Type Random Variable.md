@@ -1,6 +1,7 @@
+<span style="color:rgb(255, 0, 0)">Perhaps I should combine this with [[Central Limit Theorem and Sampling Random Variables#Distribution of Samples from Original Distribution (Sampling Distribution)]] as they are really the same rules. The only difference is that over here, I apply the rules to binomials specifically, while over there I write the rules more generically for Random Variables.</span>
+*For sampling a non-binomial Random Variable, see [[Central Limit Theorem and Sampling Random Variables#Distribution of Samples from Original Distribution (Sampling Distribution)|here]].*
 # Definition
-Sampling is very similar to a [[Binomial|binomial]]. We have a specific amount of trials, the trials have the same probability, and there are two possible outcomes.
-The slight difference is that with a binomial, we measure the total amount of successes and failures. When it comes to sampling, we want to measure the ratio of successes and failures.
+Taking the sample of a binomial-type random variable is similar to taking the [[Binomial|binomial]]. The slight difference is that with a binomial, we measure the total amount of successes and failures. When it comes to sampling, we want to measure the ratio of successes and failures.
 For example, if I have a large bucket of red marbles and blue marbles, if I was discussing the amount of red of blue marbles I would pick out, I would be discussing a binomial. If I was discussing the ratio of red or blue marbles I would pick out, I would be discussing taking a sample.
 # Formulas
 ## Expected Value (Average)
@@ -53,7 +54,7 @@ and:
 $$n(1-p) \ge 10$$
 The basic intuition is as we said before: the more likely or less likely something is, the more the mean moves in one direction or the other, and the "less room" there is for the data to on the "small size". This will make the distribution "have a tail".
 However, if we have a larger sample size, the data "tightens up" around the mean and so there is enough room to fit the data. This makes the graph look normal.
-For example, let's say that a certain event has a 90% probability and we take 10 samples. The probability distribution for the ratio of successes looks like this (there are two graphs, but the represent the same data. I just put them both because either one may be easier to visualize):
+For example, let's say that a certain event has a 90% probability and we take 10 samples. The probability distribution for the ratio of successes looks like this (there are two graphs, but the represent the same data.):
 ![[Pasted image 20260126221627.png]]
 ![[Pasted image 20260126221706.png]]
 As can be seen, the data has a long tail to the left. There isn't a lot of "room" for data above the mean (which is at 90% successes, or 9 successes).
@@ -61,8 +62,9 @@ Here is the data when we run 100 trials (once again, with two graphs):
 ![[Pasted image 20260126221840.png]]
 ![[Pasted image 20260126221853.png]]
 Over here, the graph looks like a normal distribution. Because there is a much larger sample size, the data is much tighter around the mean (90%, or, in this case, 90 successes). There is enough "room" above the mean.
+(Side note: even though in these graphs it looks like the probability of getting a value toward the left is 0, that is certainly not actually the case. The probability is low, but it is impossible for it to be 0. The reason it looks that way is because the scale of the graph is too large. If we would make the scale of the graph smaller, the probabilities would be seen.)
 # Calculating at Least/Most a Certain Percentage
-Assuming that the distribution is normal (as [[#The "Normal Distribution Rule"|discussed]]), we can calculate what percentage of the data will be above or below a certain amount.
+Assuming that the distribution is normal (as [[#The "Normal Distribution Rule"|discussed]]), we can calculate what percentage of the data will be above or below a certain percentage.
 To do this, we would need to calculate the mean, which can be calculated as [[#Expected Value (Average)|discussed]] and the standard deviation, which also can be calculated as [[#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance And Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation|discussed]].
 We then need to see how many standard deviations the amount we are looking for is away from the mean, and then we would use a [[Density Curve#Z-Table|z-table]] to be able to make the calculation that we are looking for.
 See [[Binomial#At Least $x$ Amount|here]] for more details.

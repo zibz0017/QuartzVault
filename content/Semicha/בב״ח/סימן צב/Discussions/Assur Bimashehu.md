@@ -2,7 +2,7 @@
 # Basic הלכה
 1. Some foods are not מבוטל when they are less than 1/60. They אסור any mixture no matter how little they are compared to the מותר food in the mixture.
 ## Examples
-1. According to Rabbi Yehuda, if I have two of the same foods and one is אסור and the other is מותר, the אסור food will not be מבטל in the מותר food, no matter how much מותר food you have compared to the אסור food.
+1. According to Rabbi יהודה, if I have two of the same foods and one is אסור and the other is מותר, the אסור food will not be מבטל in the מותר food, no matter how much מותר food you have compared to the אסור food.
 2. יין נסך makes any mixture that it is part of אסור.
 3. חמץ on פסח makes any mixture that it is part of אסור.
 # Exception (According to רבינו תם)

@@ -8,5 +8,5 @@
 1. מחבר (with the ש"ך): It is a מחלוקת if one can eat all three pieces in multiple sittings.
    According to those who say one may eat all of the pieces in different sittings, one may eat two of the pieces in one sitting and the other piece in the other sitting.
    The reason one may be allowed to eat all three is because we can say that for each piece, רוב says that the איסור is one of the other ones.
-2. רמ"א:<span style="visibility:hidden">l</span> לכתחילה, one person should not eat all three pieces, even in different sittings.
+2. רמ"א:&lrm; לכתחילה, one person should not eat all three pieces, even in different sittings.
    There is a חומרה to get rid of one piece (throw it away or give it to a גוי).

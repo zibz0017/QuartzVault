@@ -1,3 +1,3 @@
 *Presented in the RA"E on ש"ך ס"ק 19**
-1. There is bittul in 60 regarding eating and getting הנאה, but not for cooking. In other words, if the meat/milk is 60x more than its opposite, there is no issue with eating or getting הנאה, but there is an issue with cooking this.
+1. There is בטל in 60 regarding eating and getting הנאה, but not for cooking. In other words, if the meat/milk is 60x more than its opposite, there is no issue with eating or getting הנאה, but there is an issue with cooking this.
 <span style="color:rgb(255, 0, 0)">I need to figure out what to do with this. This is currently not backlinked into the main article. Should I somehow try to tie this in, or should I just cut/paste it into the main article?</span>

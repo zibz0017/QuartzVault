@@ -23,7 +23,7 @@
 Settlers faced a collection of hardships such as:
 1. Lack of food due to a lack of agricultural knowledge[^1] and poor land {<span style="color:rgb(255, 0, 0)">need source</span>}.
 2. Harassment from nearby Arabs. For example, Arabs would sometimes graze their animals on the crops of the settlers.[^1]
-   There were some individual cases of more extreme violence, like Jews in Petach Tikva who were attacked by local Arabs in 1886[^5] and Avraham Yalofsky who was killed by Arabs from a neighboring village in 1888.[^3]
+   There were some individual cases of more extreme violence, like Jews in Petach Tikva who were attacked by local Arabs in 1886[^5] and אברהם Yalofsky who was killed by Arabs from a neighboring village in 1888.[^3]
 3. Malaria. Some settlements were able to overcome this issue by draining swamps and planting eucalyptus trees (which repel mosquitos).[^3]
 ### First Settlements
 1. Rosh Pina and Petach Tikva were established in 1878 (and then reestablished in the early 1880s after being abandoned due to the [[#Hardships|usual hardships]]).[^1]

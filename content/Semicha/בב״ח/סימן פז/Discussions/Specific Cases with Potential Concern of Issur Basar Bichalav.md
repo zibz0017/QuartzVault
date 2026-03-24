@@ -6,7 +6,7 @@
 1. The הלכה in all of these cases is the same. See [[#הלכה in All Cases|below]].
 ### Explanations
 <span style="color:rgb(255, 0, 0)">For more explanations, see the biurim in the בדי Hashmulchan here</span>
-#### Chasam SOFER
+#### חתם סופר
 1. The reason for this is because there are many different sfeikos stacked together.
 	1. Even if there is meat/milk cooking in the pot now, did the גוי ever cook the milk/meat opposite in this pot?
 	2. Even if the גוי did cook the milk/meat opposite, did he cook it in the previous 24 hours?
@@ -33,7 +33,7 @@
 # Using the Container for Heating Water to Wash One's Head for Some other Purpose
 1. There was some container that was used to heat water to wash one's head. Someone wants to use this container to heat up water for some other purpose.
 2. However, this container contains ash from the top of the oven. This ash may contain bits of meat and milk that have fallen there. By heating up this container, one is cooking these pieces together.
-3. For a discussion about why there is no problem with using the pot to heat water to wash one's head (presumably, heating the water to wash one's head is a form of הנאה, and so this should seemingly be אסור as well), see [[The איסור of הנאה From Meat and Milk Cooked Together|here]].
+3. For a discussion about why there is no problem with using the pot to heat water to wash one's head (presumably, heating the water to wash one's head is a form of הנאה, and so this should seemingly be אסור as well), see [[The Issur of Hannah From Meat and Milk Cooked Together|here]].
 ## הלכה
 1. The הלכה in all of these cases is the same. See [[#הלכה in All Cases|below]].
 ### Explanations
@@ -48,7 +48,7 @@
 ## הלכה
 1. The הלכה in all of these cases is the same. See [[#הלכה in All Cases|below]].
 ### Explanation
-1. The Darchei משה says that there is no concern for this because there is no problem when it comes to meat and milk that we cannot see.
+1. The דרכי משה says that there is no concern for this because there is no problem when it comes to meat and milk that we cannot see.
 # הלכה in All Cases
 1. בדיעבד, this is certainly all fine and even לכתחילה, this is just a חומרה.
 2. If the pots are metal, then there is no issue at all. This is because the בב״ח is cooked out of the pots the same way they were cooked in. As such, by the time that one is using the pots, the בב״ח has been cooked out and there is not issue.

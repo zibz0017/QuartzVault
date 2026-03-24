@@ -6,17 +6,17 @@ See [[Tiferes Dovid]].
 3. In addition, saying chaburos give a certain pressure to have things clear, because if you do not, the people you are saying the chabura over to will tear into you.[^1]
 ## Pilpul Shiurim
 1. Pilpul shiurim are very difficult. The growth comes from the difficulty.[^2]
-2. Even if one "drops out" before the shiur is over, the growth one gets from working and struggling to get whatever one was able to get from the pilpul shiur makes it worth it to have them, despite all of the early dropping out.[^2]
+2. Even if one "drops out" before the שיעור is over, the growth one gets from working and struggling to get whatever one was able to get from the pilpul שיעור makes it worth it to have them, despite all of the early dropping out.[^2]
 ### General Advice
 1. Speak to your fellow talmidim and ask them your questions and to explain steps. Don't just try to only get things from the rebbi.[^2]
 2. As mentioned before, one should keep in mind the fact that the growth comes from the struggle.[^2]
 ## Seder Hayom in Chevron Yeshiva
-1. The seder hayom in chevron yeshiva under Rav Meir Chadash was very similar to Chofetz חיים's current seder hayom (albeit, they were greater than us).[^3]
-2. In Chevron Yeshiva, morning seder was iyun and afternoon and night seder, were bekiyos.[^4]
-3. One was expected to cover 4 to 5 blatt a week with רש"י, 'תוס, and some רא"ש and ר"ן.[^4]
-4. Rav Meir Chadash was not happy with the bochurim who only learned iyun and no bekiyos.[^4]
+1. The seder hayom in chevron yeshiva under Rav Meir Chadash was very similar to חפץ חיים's current seder hayom (albeit, they were greater than us).[^3]
+2. In Chevron Yeshiva, morning seder was עיון and afternoon and night seder, were bekiyos.[^4]
+3. One was expected to cover 4 to 5 blatt a week with רש"י, 'תוס, and some רא"ש and ר"ן.&lrm;[^4]
+4. Rav Meir Chadash was not happy with the bochurim who only learned עיון and no bekiyos.&lrm;[^4]
 # Kesharim with Rabbeim
-1. Obviously having a kesher with the roshei yeshiva is great, but if one feels like that can't for whatever reason (they aren't pushy enough to make it happen, for example), then one shouldn't forget about making a kesher with rabbeim on the hanhala.[^2]
+1. Obviously having a kesher with the roshei yeshiva is great, but if one feels like that can't for whatever reason (they aren't pushy enough to make it happen, for example), then one shouldn't forget about making a kesher with rabbeim on the hanhala.&lrm;[^2]
 2. Naturally, because one learns תורה, mussar,, hashkafa, etc., in yeshiva, one will feel a kesher to the yeshiva and the rabbeim there. This is obviously a very good thing. This is part of why one's main rebbi shouldn't be their branch rebbi (meaning, because over time, one is going to feel less connected to that branch and feel more connected to the yeshiva).[^2]
 # Shmiras Eiynayim
 ## General Advice
@@ -24,17 +24,17 @@ See [[Tiferes Dovid]].
 ## Particular Advice
 1. Going to an amusement park in the summer seems like a bad idea.[^2]
 ## Discussions in Public
-1. The yeshiva does not discuss these things in public because of tznius. If one needs particular help, they should seek private eitzah.[^2]
+1. The yeshiva does not discuss these things in public because of צניעות. If one needs particular help, they should seek private eitzah.[^2]
 # Gashmius
 ## Setting Limits
 1. One needs to have limits on gashmius. This is because gahmius is the antithesis of תורה and causes the תורה not to have an affect on a person. These is the famous shmuz of Shevna Hasofer who was a tremendous תלמיד chochom, but because of his attachment to gashmius, he ended up going off of the דרך, and the reason for this was because the attachment to gashmius did not allow the תורה to penetrate and change him.[^2]
 2. Once someone gets used to a certain level of gashmius it is difficult to give that up and "go down" a level. As such, increasing one's level of gashius is not some short-term commitment. It may make a difference down the road.[^2]
-## Wealth vs Gashmius
+## Wealth Vs Gashmius
 1. To some degree, the wealthier one gets, the more gashmius they can have. However, one still needs to have limits because of the reasons discussed above.[^2]
 # Government Programs
 1. There is a negative to being a taker and taking government programs.[^2]
 2. That being said, there is a balance that needs to be made. If one is going to have to leave yeshiva, or if one will stay but there will be financial stress, or if a mother is going to have to work a second job and have less time for her kids, it would seem reasonable to accept government programs or to take a pay cut to be able to qualify. One should keep in mind that this is not ideal, though.[^2] (I assume that  this does not mean that if someone feels depressed or something about taking government programs, they should keep this in mind. I assume the roshei yeshiva were referring to the average person who does not think that there are any negatives at all to doing this.)
-# Harbatzas Hatorah
+# Harbatzas התורה
 ## Motivating Thoughts
 1. One needs to think about the fact that for every person they can be mekarev (especially if the person was not frum to start, but even if they were already frum and they grew) they can have many descendants who are frum, or at least greater than they would have been, all because of what you did with one person.[^1]
 ## Idealism About "Doing Something Big"
@@ -43,16 +43,16 @@ See [[Tiferes Dovid]].
 3. On the flip side, some of the very successful projects (like Miami, for example) had major struggles before turning into the successes that they are today.[^2]
 ## Moving out of Town
 ### One's Children
-1. There are numerous sources that one's kids will be protected from bad influences when one goes out of town for the right reasons. The sources include the Sforno {<font color="#ff0000">I need to find the Sforno that says this</font>}, our mesorah from Rav Dovid from the Chofetz חיים, and Rav Aharon has a memrah like this as well (Rabbi Grunblatt confirmed that this memrah was indeed said by Rav Aharon).[^2]
+1. There are numerous sources that one's kids will be protected from bad influences when one goes out of town for the right reasons. The sources include the Sforno {<font color="#ff0000">I need to find the Sforno that says this</font>}, our mesorah from Rav Dovid from the חפץ חיים, and Rav Aharon has a memrah like this as well (Rabbi Grunblatt confirmed that this memrah was indeed said by Rav Aharon).[^2]
 2. This can be explained metaphysically, but this also makes sense from a natural standpoint. The kids feel like they are with their parents, trying to build something. This helps them stay on the straight and narraw.[^2]
-# Going to Simchos vs Seder
+# Going to Simchos Vs Seder
 1. There is no exact science for when to go to a simcha and when to stay by seder.[^1]
 2. The way things currently are, chassanim expect their friends to be by their chupa. This obviously causes people to miss a lot of seder. If we could change the expectation so that friends only come for the dancing, this would save a lot of seder time. The way things are now (meaning, with the current expectations the way they are), this would be asking a lot of chassanim. But if we could change the expectation, then chassanim wouldn't really mind.[^1]
 # How to View Political Turmoil
 1. We have to keep in mind that our efforts in avodas Hashem is what really makes the difference.[^1]
 # Tzedaka
-## Keren עולם Hatorah
-1. The Israeli government stopped giving money to Israeli yeshivos. As such, an organization (Keren עולם Hatorah) was created to try to raise the money from America to cover the deficit.[^5]
+## Keren עולם התורה
+1. The Israeli government stopped giving money to Israeli yeshivos. As such, an organization (Keren עולם התורה) was created to try to raise the money from America to cover the deficit.[^5]
 2. While there is obviously a tremendous tzorech, one shouldn't take money away from other institutions that they donate to to give to this need. Rather people should dig a bit deeper in their pockets (At least, this is what the גדולים running the organization said. I couldn't find this online, though).
 3. For yeshiva guys who are struggling to make ends meet, one wouldn't need to give very much to this.[^1]
 4. (I don't know why this isn't viewed as such a priority. Perhaps because the burden is being shared by כלל ישראל. I'm not sure.)
@@ -62,16 +62,24 @@ See [[Tiferes Dovid]].
 # Basics of Yahadus
 1. We always talk about taking small steps when working on oneself {<span style="color:rgb(255, 0, 0)">Add link to shmuz or hashkafa or something</span>}. However, there are certain things that someone just has to do right. One example of this is talking during davening. It just has to be something that one just doesn't do.[^1]
 2. This is because:
-	1. It is such a basic part of Yahadus.[^1]
+	1. It is such a basic part of Yahadus.&lrm;[^1]
 	2. It is a tremendous chilul Hashem.[^1]
-	3. At times (like by davening, if someone talks after barchu, for example), it can be a big עבירה.[^1]
+	3. At times (like by davening, if someone talks after barchu, for example), it can be a big עבירה.&lrm;[^1]
 # Talking by Davening
-1. One shouldn't talk during davening, even by the מותר parts, because one might come to talk during the parts that are not מותר.[^1]
-2. Also, see [[#Basics|here]].
+1. One shouldn't talk during davening, even by the מותר parts, because one might come to talk during the parts that are not מותר.&lrm;[^1]
+2. Also, see [[#Basics of Yahadus|here]].
+# קל וחומר in מדרשים
+1. A קל וחומר given over by מדרשים should be treated like a regular קל וחומר. One can ask questions and give answer for it and say shmuessen on those answers (assuming that they are muchrach).[^6]
+# הרגשה to do קירוב (Doing JEP)
+1. This is obviously something that is very important.[^7]
+2. One way to develop this is by taking advantage of opportunities to do קירוב, like by doing JEP.[^7]
+3. One way to motivate oneself to do programs like JEP is to think that these kids have ancestors that lived in Europe who gave up everything to remain frum and for all we know, may have been together with our ancestors in some shtetl.[^7]
 # Footnotes
 
 [^1]: Kollel Va'ad : 7/24/24
 [^2]: Kollel Va'ad : 5/29/24
 [^3]: Thursday night hashkafa : 7/25/24
 [^4]: Interview with Rav Dovid Cohen, Published in the Yated
-[^5]: [Keren עולם Hatorah](https://kerenolamhatorah.org/)
+[^5]: [Keren עולם התורה](https://kerenolamhatorah.org/)
+[^6]: This seems to be what Rabbi Harris did [[8638#Shmuess 1|here]].
+[^7]: Thursday night hashkafa : 9/7/23

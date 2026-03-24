@@ -25,7 +25,7 @@
 	2. The food may not be considered a דבר חריף. According to some, only radishes are considered to be a דבר חריף.
 	3. סתם knifes are not בן יומו, and according to some, a non-בן יומו knife can't transfer בליעות, even with a דבר חריף.
 	4. The knife may have been "kashered" by previous cuts it has made.
-3. (This is similar to what we say [[Why One Can Eat a דבר חריף Cut with an Unknown Utensil#Tzdadim to Be מקל|here]].)
+3. (This is similar to what we say [[Why One Can Eat a דבר חריף Cut with an Unknown Utensil#צדדים to Be מקל|here]].)
 #### מטה יהונתן
 ##### Question
 1. Why don't we say that that the as the knife cuts through the דבר חריף, it: 

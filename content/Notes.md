@@ -1,5 +1,5 @@
 - One needs to destroy their חמץ to be mekayem the מצוה of tashbisu.[^1]
-- The preferable method for destroying חמץ is by burning it. This is because according to one שיטה, we learn the destruction of חמץ from the destruction of nossar, which was done through burning. This is certainly so if one finds חמץ after the zman איסור {<span style="color:rgb(255, 0, 0)">link to that</span>} or on yom טוב itself.[^2] (meaning that at this point, the person is not able to be mafkir the חמץ as discussed {<span style="color:rgb(255, 0, 0)">link to that</span>} and so one has to especially מקפיד to destroy the חמץ.) add
+- The preferable method for destroying חמץ is by burning it. This is because according to one שיטה, we learn the destruction of חמץ from the destruction of nossar, which was done through burning. This is certainly so if one finds חמץ after the זמן איסור {<span style="color:rgb(255, 0, 0)">link to that</span>} or on יום טוב itself.[^2] (meaning that at this point, the person is not able to be mafkir the חמץ as discussed {<span style="color:rgb(255, 0, 0)">link to that</span>} and so one has to especially מקפיד to destroy the חמץ.) add
 - When one burns חמץ, it needs to be burned down to coal[^3] (or ash, I assume).
 - One can also crumble the חמץ up and toss it to the wind (make sure that the חמץ is small enough that if one finds it they will not get hanah from it)[^4] or throw it to the sea. If one does throw it into the sea, they should make sure to crumble it up, especially if it is something hard, like stale bread, which may not break down in the water so easily.[^5]
 - One can also mix חמץ with something disgusting, like feces.[^6]
@@ -8,52 +8,52 @@
 - (As said, before, burning the חמץ is the preferred method)
 - It is preferable to burn the חמץ in the day.[^8] This is because:
 	1. Burning the חמץ is learned from nossar, as discussed.[^8] {<span style="color:rgb(255, 0, 0)">link to that</span>}
-	2. This is a reminder to do the second bittul.[^9]
+	2. This is a reminder to do the second בטל.[^9]
 - One should make sure to burn the חמץ in the fifth hour so they have time to be מבטל the חמץ before the sixth hour (because at that point it is too late, as discussed {<span style="color:rgb(255, 0, 0)">link to that</span>})[^9]
 - One has a chiyuv of tashbisu beginning 30 days before the chag. As such, if someone destroys the חמץ within 30 days before, they fulfill their mitzvah of tashbisu.[^10] This is especially true if someone wants to destroy their חמץ right after the bedika because they are nervous that the חמץ may get scattered from where they have it hidden away.[^8]
 - If someone has hoshanos from sukkos, they should burn it with the חמץ as since the hoshanos have already been used in a מצוה, it is proper to use them to be mekayeim another מצוה.[^9]
 ---
-- The תורה records the tremendous nissim that Hashem did to strengthen our אמונה.[^11]
+- The תורה records the tremendous נסים that Hashem did to strengthen our אמונה.[^11]
 ---
 - At least according to some שיטות, even though כלל ישראל needed to accept peace with the Canaanim if they were willing to accept upon themselves certain things, it was preferable for them not to accept up themselves these things and then fight and get destroyed by כלל ישראל. This is because:
 	1. Hashem wanted to punish them for their chataim.[^12][^13]
 	2. They would get כלל ישראל to sin.[^12][^13]
 ---
-- It is a machlokes if one has a slave that they are responsible for their food, may they pay the slave enough חמץ before פסח to cover the whole chiyuv of food that will come on פסח. The משנה Berura seems to be מקל.[^14]
-- However, may not explicitly tell the slave to keep the חמץ for פסח because then one is getting hanah from חמץ on פסח. Rather, one would just give it to the slave and not mention that the slave should keep it around until פסח.[^14] (It seems that since this was the owner's חמץ, even though it is not his חמץ anymore, it is still אסור to cause it to give him hanah. This would be similar to what we say that one should not throw חמץ by the time of biur into one's fish tank, because they would be benefiting from חמץ after the zman איסור.[^15] I assume that the reason is the same: even though one is מבטל the חמץ, they are still benefiting from the חמץ after the zman of איסור.)
+- It is a מחלוקת if one has a slave that they are responsible for their food, may they pay the slave enough חמץ before פסח to cover the whole chiyuv of food that will come on פסח. The משנה Berura seems to be מקל.[^14]
+- However, may not explicitly tell the slave to keep the חמץ for פסח because then one is getting hanah from חמץ on פסח. Rather, one would just give it to the slave and not mention that the slave should keep it around until פסח.[^14] (It seems that since this was the owner's חמץ, even though it is not his חמץ anymore, it is still אסור to cause it to give him hanah. This would be similar to what we say that one should not throw חמץ by the time of biur into one's fish tank, because they would be benefiting from חמץ after the זמן איסור.[^15] I assume that the reason is the same: even though one is מבטל the חמץ, they are still benefiting from the חמץ after the זמן of איסור.)
 - Also, the slave should not eat the חמץ in the house of the master if the slave decides to eat the חמץ on פסח as this looks like the master paid the slave the חמץ on פסח, which is אסור.[^14]
 - (Does this perhaps also apply to a modern day cleaning lady or some other kind of employee that receives their lunch from their employer? Meaning, that one may give their employee enough חמץ to satisfy all the lunches that they owe their employee over פסח, before פסח? Keep in mind that even if this is correct, the employee should not eat the חמץ in the house of the employer.[^7])
 - If one gives all their חמץ to a גוי, they are not mekayem the מצוה of tashbisu (although they this is effective for not being עובר on bal yeiraeh). As such, one should keep at least a kezayis of חמץ so can be mekayem tashbisu.[^16]
-- One may get hana from the coals or the ashes of the חמץ if one burned the חמץ before the zman איסור.[^17] (Similar to what was said before about being allowed to put חמץ into feces even if it will eventually end up in front of a pig and it will eat the חמץ.)
-- If one destroys the חמץ after the zman איסור, then one cannot get hana from the coals or ashes.[^17]
+- One may get hana from the coals or the ashes of the חמץ if one burned the חמץ before the זמן איסור.[^17] (Similar to what was said before about being allowed to put חמץ into feces even if it will eventually end up in front of a pig and it will eat the חמץ.)
+- If one destroys the חמץ after the זמן איסור, then one cannot get hana from the coals or ashes.[^17]
 ---
-- Shmuess: According to the רלב"ג, כלל ישראל defeated the nations of כנען because of the זכות of כלל ישראל and because Hashem promised the avos that He would give Eretz ישראל to the כלל ישראל (I think that the לשון didn't sound like it was in the זכות of the avos per se; it was more that Hashem promised them). It was not particularly in the זכות of משה רבינו.[^18]
+- Shmuess: According to the רלב"ג, כלל ישראל defeated the nations of כנען because of the זכות of כלל ישראל and because Hashem promised the avos that He would give ארץ ישראל to the כלל ישראל (I think that the לשון didn't sound like it was in the זכות of the avos per se; it was more that Hashem promised them). It was not particularly in the זכות of משה רבינו.[^18]
 - We see the tremendous power of the zechusim of כלל ישראל. Now, this was the children of the Dor Deiah, so they were on a מדרגה much higher than ours (although you can counter that they were "going up against" the zechusim of משה רבינו, who is obviously far greater than anyone else). And we obviously are not saying that the zechusim the גדולים doesn't make much of a difference, because it obviously does. Yet we see that the זכות of כלל ישראל at large is very potent; potentially more potent than the zechusim of the גדולים of the generation.[^7]
 - *I never actually presented this shmuz to my chabura or to a rebbi. Also, I'm not sure if this qualifies as a shmuz in the sense that the מראה מקום might already be saying this explicitly.*
 ---
 - If one finds חמץ in their rishus on chol hamoed, they immediately go and burn it to make sure that nobody accidentally eats it.[^19]
-- If one finds חמץ that they were מבטל before yom טוב in their rishus on the chag (practically, nearly all cases), one covers the חמץ with a כלי until chol hamoed and burns it on chold hamoed night.[^20]
-- This is because it is אסור to move the חמץ because it is muktza (there is no use for it on the chag)[^21] and one can't burn it in it's place because that is not considered a tzorech of the day.[^20]
-- It is a machlokes about what one does if one finds חמץ on the first day of the chag that one was not מבטל before yom טוב.[^21][^22]
+- If one finds חמץ that they were מבטל before יום טוב in their rishus on the chag (practically, nearly all cases), one covers the חמץ with a כלי until chol hamoed and burns it on chold hamoed night.[^20]
+- This is because it is אסור to move the חמץ because it is מוקצה (there is no use for it on the chag)[^21] and one can't burn it in it's place because that is not considered a tzorech of the day.[^20]
+- It is a מחלוקת about what one does if one finds חמץ on the first day of the chag that one was not מבטל before יום טוב.[^21][^22]
   According to some, there is no difference between חמץ that was מבטל and חמץ that was not. As such, one covers it with a כלי until chol hamoed.[^21]
   According to others, though, since the איסור is bal yeiraeh uval yimatzei (a דאורייתא), and the איסור of moving it is mukta (a דרבנן) it is מותר to move the חמץ. In addition, it is מותר to burn it as, according to this שיטה, this can be considered a tzorech of the day, at least, to some degree.[^21]
-- There is another machlokes about the stringency of yom טוב שיני (regarding the איסור of muktza, not regarding the איסור of bal yeiraeh uval yimatzei. It seems to be assumed that bal yeireh uval yyimatzei is considered equally strict on both days).[^22]
-  According to some, the second day is less strict (meaning, we have less concern for violating muktza), and so if one finds חמץ on the second day, they burn it immediately (like by chol hamoed and we do not say that it is אסור to move the חמץ on the second day) and if one found חמץ on the first day which they covered with a כלי, they burn it at the beginning of the second day, meaning, at night (as, once again, we are less concerned about the איסור of moving the חמץ on the second day).[^22]
-  According to others, the two days of yom טוב have the same level of stringency (regarding the איסור of muktza, not regarding the איסור of bal yeiraeh uval yimatzei).[^22]
-- Practically, in the machlokes about finding non-mevateled חמץ on the first day of פסח, we pasked like the first שיטה (meaning, that we do not move the חמץ or destroy it, but rather just cover it with a כלי)[^21] and we in the machlokes about the stringency of the second day of פסח (regarding the איסור of muktza, not regarding the איסור of bal yeiraeh uval yimatzei), we פסקען that the second day is more lenient than the first day, and so one can move and destroy חמץ.[^22]
-- As such, if one finds חמץ on the first day of פסח that was not מבטל, then one not destroy it immediately or move it at all. Rather one covers it with a כלי, as we פסקען like the שיטה that says that on yom טוב ראשון, one may not move or burn חמץ.[^21]
-- However, if one finds חמץ on the second day of פסח, one immediately destroys the חמץ (without burning it, as will be explained shortly), as we פסקען like the שיטה that the איסור of moving the חמץ is less strict (the איסור of lighting things on fire onyom טוב שיני is also presumably less strict. However, it seems that since there are other ways to destroy the חמץ (by throwing it into a river, or crumbling it up and throwing it to the wind) one might as well do that rather than burn it as some argue that this is still אסור on yom טוב שיני).[^22]
+- There is another מחלוקת about the stringency of יום טוב שיני (regarding the איסור of מוקצה, not regarding the איסור of bal yeiraeh uval yimatzei. It seems to be assumed that bal yeireh uval yyimatzei is considered equally strict on both days).[^22]
+  According to some, the second day is less strict (meaning, we have less concern for violating מוקצה), and so if one finds חמץ on the second day, they burn it immediately (like by chol hamoed and we do not say that it is אסור to move the חמץ on the second day) and if one found חמץ on the first day which they covered with a כלי, they burn it at the beginning of the second day, meaning, at night (as, once again, we are less concerned about the איסור of moving the חמץ on the second day).[^22]
+  According to others, the two days of יום טוב have the same level of stringency (regarding the איסור of מוקצה, not regarding the איסור of bal yeiraeh uval yimatzei).[^22]
+- Practically, in the מחלוקת about finding non-mevateled חמץ on the first day of פסח, we pasked like the first שיטה (meaning, that we do not move the חמץ or destroy it, but rather just cover it with a כלי)[^21] and we in the מחלוקת about the stringency of the second day of פסח (regarding the איסור of מוקצה, not regarding the איסור of bal yeiraeh uval yimatzei), we פסקען that the second day is more lenient than the first day, and so one can move and destroy חמץ.[^22]
+- As such, if one finds חמץ on the first day of פסח that was not מבטל, then one not destroy it immediately or move it at all. Rather one covers it with a כלי, as we פסקען like the שיטה that says that on יום טוב ראשון, one may not move or burn חמץ.[^21]
+- However, if one finds חמץ on the second day of פסח, one immediately destroys the חמץ (without burning it, as will be explained shortly), as we פסקען like the שיטה that the איסור of moving the חמץ is less strict (the איסור of lighting things on fire onyom טוב שיני is also presumably less strict. However, it seems that since there are other ways to destroy the חמץ (by throwing it into a river, or crumbling it up and throwing it to the wind) one might as well do that rather than burn it as some argue that this is still אסור on יום טוב שיני).[^22]
 - In addition, any חמץ which was found on the first day of פסח and covered with a כלי, is destroyed immediately on the second day of פסח (meaning, at night) as, once again, we פסקען that the second day of פסח is less strict than the first (in terms of the איסור of moving the חמץ) and so it is מותר to move.[^22]
 - Just to reiterate, this previous discussion is about חמץ that was not מבטל. Nearly all cases are about חמץ which was מבטל. In those cases, one covers any חמץ which was found on either day, one waits until the night of chol hamoed and burns it, as said before.
 ---
-- It would seem that the preferable option would be to destroy the חמץ in its place without burning it (like by mixing it with feces or something similar that makes the food inedible) as this destroys the חמץ without violating muktzah or havara. However, the משנה Berura does not say to do this so it seems that the משנה Berura disagrees.[^7]
-- If someone can ask a גוי to get rid of the חמץ (by throwing it into a river or something like that) one would think that they should do this, as it is a shvus dishvus במקום מצוה (the shvusim are amira liakum and muktza, and the מצוה is getting rid of חמץ). However, we don't do this.[^23] This is because:
-	- The גוי is going to think you are trying to do some sort of witchcraft.[^24] {<span style="color:rgb(255, 0, 0)">Does this reason still apply bizman hazeh?</span>}
+- It would seem that the preferable option would be to destroy the חמץ in its place without burning it (like by mixing it with feces or something similar that makes the food inedible) as this destroys the חמץ without violating מוקצה or havara. However, the משנה Berura does not say to do this so it seems that the משנה Berura disagrees.[^7]
+- If someone can ask a גוי to get rid of the חמץ (by throwing it into a river or something like that) one would think that they should do this, as it is a shvus dishvus במקום מצוה (the shvusim are amira liakum and מוקצה, and the מצוה is getting rid of חמץ). However, we don't do this.[^23] This is because:
+	- The גוי is going to think you are trying to do some sort of witchcraft.[^24] {<span style="color:rgb(255, 0, 0)">Does this reason still apply בזמן הזה?</span>}
 	- If you don't accompany the גוי down to the river (which many times, one is not going to), the גוי may eat the חמץ.[^24] (I assume the problem is that giving a גוי חמץ is considered to getting hana from the חמץ.)
 ---
 - If a גוי left his חמץ in the house of a yid, the yid may not move it with his hands, even on chol hamoed, because we are concerned that the yid may come to eat it.[^25] (A yid is only allowed to move his own חמץ which he is going to destroy because we are not concerned that the yid is going to eat it since he has already decided in his mind to destroy it.[^26])
 ---
-- One may not tell a גוי to do anything on שבת that a Jew may not do (midioraysa. Things that are אסור midirabanan will be discussed later). This does not extend to חומרות and minhagim.[^27]
+- One may not tell a גוי to do anything on שבת that a Jew may not do (מדאורייתא. Things that are אסור מדרבנן will be discussed later). This does not extend to חומרות and minhagim.[^27]
 - This even applies when a Jew tells the גוי on ערב שבת to do something on שבת[^28] or if the Jew tell the גוי on שבת to do something after שבת which would have been אסור on שבת.[^29]
 - You can hint to a גוי on ערב שבת to do something on שבת. One can not hint to a גוי on שבת itself.[^30]
 - Even in this case, though, a Jew may only get hanah from the action if is a דבר שאין גוף הישראל נהנה, for example, if there is a light on in a room and the גוי lights another light {<span style="color:rgb(255, 0, 0)">Link to an explanation</span>}. If not, a Jew may not get hanah from the action of the גוי until after שבת.[^31]
@@ -61,22 +61,22 @@
 - You can tell a גוי on ערב שבת to do something if you do not tell him when you want him to do it, even if the גוי ends up doing it on שבת.[^33]
 - If the only day that it is reasonably possible for the גוי to do what he was asked is on שבת (for example, you ask the גוי to buy something for you and the only market day is שבת), then this is as if you explicitly told the גוי to buy the thing for you on שבת and is אסור.[^34]
 - However, if it is slightly reasonable for the גוי to do it on a different day (for example, there is a smaller market day on a different day), then this is muttar.[^34] (Practically, one should probably speak to a רוב about what exactly is considered "slightly reasonable".)
-- You also can't make it obvious that you need the גוי to do the melacha on שבת without explicitly telling him (for example, if the market is open on multiple days, but you tell the גוי that you are leaving on motzai שבת).[^34]
-- It is a machlokes if one is allowed to get hanah from the item if the גוי decides to do the melacha on שבת (meaning, in a case that the Jew properly didn't tell the גוי to do the mekacha on שבת and that it is at least reasonable that the גוי would be able to do the melacha on a different day).[^34]
+- You also can't make it obvious that you need the גוי to do the melacha on שבת without explicitly telling him (for example, if the market is open on multiple days, but you tell the גוי that you are leaving on מוצאי שבת).[^34]
+- It is a מחלוקת if one is allowed to get hanah from the item if the גוי decides to do the melacha on שבת (meaning, in a case that the Jew properly didn't tell the גוי to do the mekacha on שבת and that it is at least reasonable that the גוי would be able to do the melacha on a different day).[^34]
 - See סימן 252 (and the end of סימן 307 סעיף 2) about having a גוי sell something for a Jew on שבת.
 ---
 - Amirah liakum by dirabanans:
-- You may tell a גוי to do an איסור דרבנן if there is a kitzas choleh, a tzorech harbei, for the sake of a mitzvah,[^35] or for darchei shalom.[^36] (This is called a שבות דשבות במקום… חולה\צריך הרבה\מצוה, or a שבות דשבות מפני דרכי שלום).
+- You may tell a גוי to do an איסור דרבנן if there is a kitzas חולה, a tzorech harbei, for the sake of a mitzvah,[^35] or for דרכי shalom.[^36] (This is called a שבות דשבות במקום… חולה\צריך הרבה\מצוה, or a שבות דשבות מפני דרכי שלום).
 - (It seems that extends שבות דשבות may extend beyond amirah liakum. {<span style="color:rgb(255, 0, 0)">Need source</span>})
 - A גוי may not violate a דאורייתא for the sake of a mitzvah.[^37]
 - A tzorech harbei is a significant loss of money or someone in somewhat intense physical pain.[^38]
 - Some say that the one can only ask a גוי to violate a דרבנן for the מצוה of milah (which is the example brought down in the 'גמ). However, the הלכה is as we said before, not like this שיטה.[^39]
 - Some say that one may ask a גוי to violate an איסור דאורייתא for the sake of a מצוה. However, we do not פסקען this way except for milah.[^40]
-- It is a machlokes if asking a גוי to ask another גוי also violates amirah liakum and is a דרבנן (meaning, this is not a shvus dishvus. For example, asking a גוי to ask another גוי to light a candle for you (or violate some other דאורייתא)). The משנה Berura paskens that one can not rely on this trick. However, במקום צריך הרבה, one can be מקל. Even such, one can not get benefit from this until after שבת.[^40]
-- In a situation of tremendous financial loss, one can hint to a גוי to עובר on a דאורייתא.[^41] The reason for this is that we are scared that if we do not allow this, the Jew may in such a state of panic that he will be עובר on the aveirah himself to save his money.[^42]
+- It is a מחלוקת if asking a גוי to ask another גוי also violates amirah liakum and is a דרבנן (meaning, this is not a shvus dishvus. For example, asking a גוי to ask another גוי to light a candle for you (or violate some other דאורייתא)). The משנה Berura paskens that one can not rely on this trick. However, במקום צריך הרבה, one can be מקל. Even such, one can not get benefit from this until after שבת.[^40]
+- In a situation of tremendous financial loss, one can hint to a גוי to עובר on a דאורייתא.[^41] The reason for this is that we are scared that if we do not allow this, the Jew may in such a state of panic that he will be עובר on the עבירה himself to save his money.[^42]
 - You can say something like "anyone who saves my money/possessions will not be disappointed" within earshot of a גוי.[^43] However, you can not tell the גוי more directly, "if you save my money you will not be disappointed".[^44] {<span style="color:rgb(255, 0, 0)">I don't know what the protocols for hinting are.</span>}
 - Some argue on this and say that one can only ask a גוי to be עובר on a דאורייתא in a situation of fire. However, if one is מקל by other modes of potential destruction, they will not lose out. It is certainly permitted to simply call a גוי over and simply let him figure out what he should do on his own.[^45]
-- If a Jew asks a גוי to do melacha on שבת, the Jew can not get benefit from it until the amount of time it takes to do the melacha has elapsed on motzai שבת (meaning, if it takes ten minutes for the melacha to be done by the גוי, the Jew can not get benefit from the melacha the גוי did until ten minutes after the end of שבת).[^46] {<span style="color:rgb(255, 0, 0)">I believe that this is only by dioraysos, not by dirabanons.</span>}
+- If a Jew asks a גוי to do melacha on שבת, the Jew can not get benefit from it until the amount of time it takes to do the melacha has elapsed on מוצאי שבת (meaning, if it takes ten minutes for the melacha to be done by the גוי, the Jew can not get benefit from the melacha the גוי did until ten minutes after the end of שבת).[^46] {<span style="color:rgb(255, 0, 0)">I believe that this is only by dioraysos, not by dirabanons.</span>}
 - You can not tell a גוי to cook your meat for himself, even if you don't owe him food. This is because your amirah is leading to an איסור that couldn't have happened otherwise (you gave him permission to cook your meat)[^47] You can't even give a גוי meat on ערב שבת and tell him to cook it for himself on שבת.[^48] (As we saw before {<span style="color:rgb(255, 0, 0)">need to add link</span>} the איסור of amirah liakum applies from ערב שבת).
 - You can tell a גוי to cook his own meat for himself.[^47]
 - You can do any דרבנן (such as amirah liakum) during bein hashmashos for the sake of a mitzvah.[^49]
@@ -86,15 +86,15 @@
 - {<span style="color:rgb(255, 0, 0)">I don't know how relevant the next few הלכות until the  "---" are.</span>}
 - According to some you can tell a גוי to bring something he owes to the house of a Jew.[^49]
 - This is only if the גוי owns the object as we can view it that the גוי is doing the mekacha for himself, not for the Jew. If the Jew owns the object, then this is not allowed.[^51]
-- If the object is muktza, then even if the גוי owns it, this is a shvus dishvus and so is only מותר במקום… חולה\צריך הרבה\מצוה, as said before {<span style="color:rgb(255, 0, 0)">add link</span>}.[^51]
+- If the object is מוקצה, then even if the גוי owns it, this is a shvus dishvus and so is only מותר במקום… חולה\צריך הרבה\מצוה, as said before {<span style="color:rgb(255, 0, 0)">add link</span>}.[^51]
 - The Jew can even leave money out for the גוי to take. Even though this transfers the ownership of the the stuff the גוי brought to the Jew, this happens only after the גוי takes the money, which is after he already brought the stuff, so this is fine.[^52]
-- If a גוי brought some muktza things for a Jew on שבת, but the Jew did not ask the גוי to bring the items, the Jew may tell the גוי to leave the items wherever the גוי pleases (meaning, one might think that this can be interpreted as the Jew telling the גוי to move the muktza items, which would be a shvus dishvus. We are saying that this is not a problem).[^52] {<span style="color:rgb(255, 0, 0)">Perhaps this is nogeiah to an Amazon package with something muktza in it. A Jew can tell the גוי to bring it wherever he wants. Can you tell the גוי to put it in a specific area, though? Can you tell the גוי to bring it inside your house?</span>}.
+- If a גוי brought some מוקצה things for a Jew on שבת, but the Jew did not ask the גוי to bring the items, the Jew may tell the גוי to leave the items wherever the גוי pleases (meaning, one might think that this can be interpreted as the Jew telling the גוי to move the מוקצה items, which would be a shvus dishvus. We are saying that this is not a problem).[^52] {<span style="color:rgb(255, 0, 0)">Perhaps this is nogeiah to an Amazon package with something מוקצה in it. A Jew can tell the גוי to bring it wherever he wants. Can you tell the גוי to put it in a specific area, though? Can you tell the גוי to bring it inside your house?</span>}.
 - A גוי can make something on שבת for a Jew to buy after שבת, even if the Jew is there watching the process so he can know exactly which item to buy after שבת. This is for the same reason, namely, since the גוי owns the item, we can view it that the גוי is doing the melacha for himself.[^53]
 - This is even if the גוי owes money to the Jew and he is doing this to pay back his debt and the Jew will lose the right to collect if he doesn't take the item the גוי is making (in other words, there is a very compelling argument to say that we view this as the גוי working on behalf of the Jew. Still, we say that since the גוי owns the item, we view it that he is doing the melacha for himself).[^54]
 ---
-- It is מותר to invite a גוי to one's home for שבת, but not for yom טוב. This is because we are concerned one may cook extra for the גוי on yom טוב, which is אסור to do. This is obviously not a concern on שבת since one can't cook at all.[^55]
+- It is מותר to invite a גוי to one's home for שבת, but not for יום טוב. This is because we are concerned one may cook extra for the גוי on יום טוב, which is אסור to do. This is obviously not a concern on שבת since one can't cook at all.[^55]
 - You can't give the גוי food to go, whether explicitly (by giving the גוי some food and telling him to bring it home) or implicitly (where it is clear that this is what you want the גוי to do). This is because onlookers might think that the גוי is acting on behalf of the Jew, and it would be אסור for the Jew to tell the גוי to violate a laav {<span style="color:rgb(255, 0, 0)">דאורייתא or דרבנן, I think</span>} on his behalf.[^56] {<span style="color:rgb(255, 0, 0)">Even if it is not on the Jews behalf, wouldn't this still be אסור because the Jew is enabling the איסור to happen as we said in סימן 307 סעיף 21 ס"ק 73?</span>}
-- It is a maclokes if one can hand food to a גוי (as opposed to just putting it in front of him) when the גוי is inside the rishus hayachid because he may bring it out of the rishus hayachid and so it would be as if the Jew did the akirah part of the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
+- It is a מחלוקת if one can hand food to a גוי (as opposed to just putting it in front of him) when the גוי is inside the rishus hayachid because he may bring it out of the rishus hayachid and so it would be as if the Jew did the akirah part of the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 - The Jew may allow the גוי to take the food from him if the גוי planned on eating it in the rishus hayachid. At this point, even if he takes it out to the rishus harabim, it is not considered like the Jew did the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 - If the גוי is in the rishus harabim and he extended his hand into the rishus hayachid, then according to anyone, even if the גוי took the food (or any item) from the Jew, or the Jew put it on the ground in front of the גוי, this is אסור as this looks like the Jew told the גוי to do something on his behalf. This is even if the items belong to the גוי.[^58] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 ---
@@ -105,14 +105,14 @@
 - Nebuchadnezzar had Chanya, Mishael, and Azarya thrown into a kivshan haeish for refusing to bow down to an idol. Hashem made a neis and they lived. However, they did not leave the fire until Nebuchadnezzar told them to leave the fire, as they learned from נח that since Nebuchadnezzar told them to go into the fire, it was not respectful to leave without waiting for him to tell them to.[^60]
 - Well, of course Nebuchadnezzar didn't tell them to leave the fire. He didn't think that would survive, obviously. So how much disrespect would it have been to leave the fire without waiting for him to tell them to do so?[^62]
 - In addition, Chanaya, Mishael, and Azaria had a lot of other thoughts and emotions at that time. Obviously, they were tremendously grateful that they survived. In addition, they were probably thinking about the large kiddush Hashem that this created. How could they be thinking about some small lack of respect.[^62]
-- Also, Nebuchadnezzar was a tremendous rashah, who threw Chanaya, Mishael, and Azaria into a kivshan haeish for not bowing down to avodah zara. It doesn't seem that Nebuchadnezzar deserves much kaovd.[^62]
+- Also, Nebuchadnezzar was a tremendous rashah, who threw Chanaya, Mishael, and Azaria into a kivshan haeish for not bowing down to עבודה זרה. It doesn't seem that Nebuchadnezzar deserves much kaovd.[^62]
 - Also, Hashem is keeping this neis going as long as they are standing in the fire. Perhaps they shouldn't cause the neis to be extended more than the neis needs to be. Also, in a sense they are putting their lives on the line that they were right.[^62]
-- We see how important it is to avoid even a small lack of kavod. Nebuchadnezzar was a king, and so despite he wickedness, he did deserve kavod. And Chanaya, Mishael, and Azaria knew that this was the correct thing to do, and so they knew that Hashem would extend the neis for this purpose.[^62]
+- We see how important it is to avoid even a small lack of כבוד. Nebuchadnezzar was a king, and so despite he wickedness, he did deserve כבוד. And Chanaya, Mishael, and Azaria knew that this was the correct thing to do, and so they knew that Hashem would extend the neis for this purpose.[^62]
 - Perhaps this is specific to a king or to Hashem himself, though. Perhaps we treat the violation of respect to a king and certainly to Hashem, more stringently than we treat other violations of respect.[^7]
 ---
-- When משה רבינו was in shamayim, Hashem made a neis that משה did not need to eat or drink. This was because when one is somewhere, they are supposed to do what the people of that place do. Since the beings in shomayim do not eat, Hashem made a neis for משה to not have to eat. When the malachim came to earth by Avraham, they ate, or at least appeared to eat, to follow the what the creatures on Earth do.[^63]
-- It is obviously no small thing for Hashem to make a neis. Yet we see Hashem making a neis for משה to not have to eat to not have this small violation of דרך eretz.[^62]
-- We see the importance of not having even a small violation of דרך eretz.[^62]
+- When משה רבינו was in shamayim, Hashem made a neis that משה did not need to eat or drink. This was because when one is somewhere, they are supposed to do what the people of that place do. Since the beings in shomayim do not eat, Hashem made a neis for משה to not have to eat. When the malachim came to earth by אברהם, they ate, or at least appeared to eat, to follow the what the creatures on Earth do.[^63]
+- It is obviously no small thing for Hashem to make a neis. Yet we see Hashem making a neis for משה to not have to eat to not have this small violation of דרך ארץ.[^62]
+- We see the importance of not having even a small violation of דרך ארץ.[^62]
 ---
 - Antoninus {<span style="color:rgb(255, 0, 0)">Need to confirm this</span>} built a secret tunnel so he could sneak to Rebbi's house and learn תורה from him.[^64]
 - One day, Rav Chanina Bar Chama was by Rebbi when Antoninus arrived there.[^64]
@@ -125,17 +125,17 @@
 - Obviously, doing techias hameisim is only done in extreme circumstances.[^62]
 - {<span style="color:rgb(255, 0, 0)">I don't really get the shmuz. It seems like it is saying that bringing bad news is actually something that is a pretty bad thing to do, but I think rebbi said that it is not such a bad thing.</span>}
 ---
-- Heshem created Chava from the rib of אדם because it is a part of the body that always remains tznius (I don't get how this works but I don't think that that is relevant).[^65]
+- Heshem created Chava from the rib of אדם because it is a part of the body that always remains צניעות (I don't get how this works but I don't think that that is relevant).[^65]
 - Hashem did not create Woman from other parts of the body for a variety of reasons. For example, Hashem did not create Woman from the mouth because Hashem did not want Woman to talk too much, or from ear because Hashem did not want Woman to eavesdrop.[^65]
 - However, despite this, different women in history have violated some of these very things that Hashem wanted to avoid, undoing Hashem's efforts, in a sense.[^65]
-- In regards to eavesdropping, we see this with שרה. She listened to the malach tell Avraham that they were going to have a baby.[^65]
+- In regards to eavesdropping, we see this with שרה. She listened to the malach tell אברהם that they were going to have a baby.[^65]
 - Listening to malachim is no small feat. Obviously, only the greatest of people can listen to malachim and it is something that testifies to their greatness.[^62]
 - In addition, the לשון is pretty harsh. It sounds like this action undid Hashem's efforts, in a sense.[^62]
 - We see that even mixed in with an act of tremendous greatness, there could be something which is powerfully wrong.[^62]
 ---
-- Dina followed what her mother Leah did and "went out". This is because Leah, Dina's mother also showed a similar slight lack of tznius by going out to יעקב.[^66]
-- This act of "going out" by Leah was when she "bought" the right to be with יעקב that night. Because it was done in purity, she was zoche to conceive Yisachar from that night. Clearly the action was largely a positive and pure action.[^62]
-- In addition, Dina had many other positive influences from her parents. It would seem that this one action by Leah would get lost amongst so many other positive influences that Dina received over her like.[^62]
+- דינה followed what her mother לאה did and "went out". This is because לאה, דינה's mother also showed a similar slight lack of צניעות by going out to יעקב.[^66]
+- This act of "going out" by לאה was when she "bought" the right to be with יעקב that night. Because it was done in purity, she was זוכה to conceive Yisachar from that night. Clearly the action was largely a positive and pure action.[^62]
+- In addition, דינה had many other positive influences from her parents. It would seem that this one action by לאה would get lost amongst so many other positive influences that דינה received over her like.[^62]
 - We see that even mixed in with an act of tremendous greatness, there could be something which is powerfully wrong.[^62]
 ---
 - The unemployment rate is the ratio of people who are part of the labor force who are not employed, divided by the whole labor force (unemployed vs employed). It can be viewed as: unemployed / (unemployed + employed).[^67]
@@ -161,7 +161,7 @@
 - Rav Dovid would "fight" with his talmidim with back-and-forths and questions-and-answers.[^71]
 - Rav Dovid felt that one shouldn't just "accept" what he is told. He should think about it and challenge until he has it clearly in his grasp.[^72]
 - This has to be trained into people from when they are young and naturally curious and inquisitive. One does this by allowing children to think about something themselves and treating the questions they ask with respect.[^73]
-- This doesn't only apply to learning. This applies to all areas of one's avodah Hashem (like hashkafa, or understanding the reason for מצוות, etc.).[^74]
+- This doesn't only apply to learning. This applies to all areas of one's עבודה Hashem (like hashkafa, or understanding the reason for מצוות, etc.).[^74]
 - The hashkafa of the yeshiva is to spend more time focusing on musar of bein אדם lachaveiro rather than bein אדם lamakom for a few reasons:
 - It's terribly inappropriate to try to act respectfully with Hashem while at the same time, treating our friends and family poorly.[^74]
 - It's not feasible for one to have poor מדות with people that one interacts with in a very real and physical way but have proper מדות with Hashem, who only exists in one's mind.[^74]
@@ -200,7 +200,7 @@
 - However, this still seems strange. This isn't particularly logical or compelling. This is a rather poor way to ensure one's financial stability. There are far better ways one can invest one's money to ensure one's future wealth than giving it to random poor people.[^79]
 - Apparently, when the main reason we are doing something is really for the right reasons, we don't need a particularly compelling and strong reason to quiet the nefesh habahamis.[^79]
 - Why does the Rid say that if there are פורענעויות in the world, they will be on people? That is obvious.[^79]
-- Also, why did Shlomo Hamelech gives a משל about how nothing can get in the way of the will of Hashem? We don't need this spelled out, and we certainly don't need a משל for this.[^79]
+- Also, why did Shlomo המלך gives a משל about how nothing can get in the way of the will of Hashem? We don't need this spelled out, and we certainly don't need a משל for this.[^79]
 - It is extremely difficult to change our perceptions of the world. If I am wealthy, I have a hard time seeing that at some point I may not be wealthy. If that person is poor, I have a hard time seeing that he may become prosperous.[^79]
 - To help change our perceptions, we have to use different emotional tricks.[^79]
 - Even if we don't really believe that we won't be wealthy, we do believe that sometimes פורענעויות come down to this world. Even though we know this, though, we have to make the conscious step that maybe I'll be the one affected by the פורענעויות. We don't naturally take that step even though it is the obvious logical step to take because of this fact that we have a hard time seeing the fact that the current situation may change.[^79]
@@ -213,11 +213,11 @@
 - Instead the גוי should take the item himself.[^80]
 - A Jew can put the item into the גוי's bag if the גוי puts his bag down on the ground in the rishus of the Jew.[^80]
 - If a גוי violates a melacha for himself (he cooks something for himself) a Jew can get hanna from it.[^81] {<span style="color:rgb(255, 0, 0)">See סימן 276</span>}
-- It is a machlokes if there is an exception when it comes to food.[^82]
+- It is a מחלוקת if there is an exception when it comes to food.[^82]
 - The side that says that it is אסור says that there is an exception when it comes food (meaning, that one cannot get hanna from the food that a גוי cooks on שבת) because:
-	- There are issues of nolad/muktza.[^83]
+	- There are issues of nolad/מוקצה.[^83]
 	- We are גוזר against this because we are scared that the person may tell the גוי to cook on his behalf, which is אסור.[^83]
-- Others argue that there is no special exception for food. They say that there is no nolad/muktza issue and that we do not make such a gizeirah.[^84]
+- Others argue that there is no special exception for food. They say that there is no nolad/מוקצה issue and that we do not make such a gizeirah.[^84]
 - We פסקען that for the sake of a מצוה (like eating hamotzi on שבת), one can use the bread a גוי baked on שבת if one doesn't have bread and they can't get any from a neighbor.[^85]
 ---
 2.
@@ -255,13 +255,13 @@
 - There may be a lowering of salary during a recession due to a worker not being able to find a similar job for the same price (meaning, the worker can only find people willing to hire for less money). This is a somewhat inefficient way to lower salaries (the person could've just taken a pay cut at their original job).[^100]
 - {<span style="color:rgb(255, 0, 0)">The main point is that an increase in the money spent is made up of a combination of an increase in the supply and an increase in the price level (inflation). In addition, in the short term, an increase in the money supply will cause an increase in the GDP because people think that they are getting more for their work. However, as the price level increases, people are less willing to work harder, bringing down the GDP to the point one would expect it to be based on the capital/labor/ideas and organization going in to creating the products. I feel like the graphs are confusing. Maybe just make a note about different terms, like "long run aggregate supply".</span>}
 - The feelings one gets by doing musar should come from one's seichel, from the clear recognition of different things.[^74]
-- If a גוי violated a melacha and it is a ספק if it was on שבת, or if it was done for the sake of a Jew, there is a machlokes about when it can be used. If the item is potentially muktza (like picked fruit, which would be muktza if picked on שבת), everyone agrees that it is אסור to use the item.[^101]
-- If it not muktza, according to some, it can be used immediately on שבת (assuming that there is no issue of muktza, like there would be if the case is with picked fruit, in which case there is). According to others, one needs to wait כדי sheyasu on motzai שבת.[^101]
-- The machlokes is based on whether it makes a difference that this is a davar sheyeish lo matirin, or not.[^102]
-- Even the opinion that says it is מותר is more מחמיר when it comes to muktza, and so in a case of ספק muktza, it is אסור to use on שבת, as mentioned before.[^102]
-- If you have both sfeikos together, meaning, we are not sure if the גוי did the melacha on שבת and we are not sure if he did it for the sake of a Jew, then it is מותר to use on שבת because it is a sfek sfeikah.[^103]
-- We פסקען that it is אסור to use on שבת, because we are more concerned about all types of sfeikos on שבת. It is a machlokes if it is totally מותר to use immediately on motzai שבת, or if this only is true bemakom מצוה.[^104]
-- It is a machlokes if one needs to wash until the wrist or until the knuckles. We פסקען like the opinio that says until the wrist.[^105]
+- If a גוי violated a melacha and it is a ספק if it was on שבת, or if it was done for the sake of a Jew, there is a מחלוקת about when it can be used. If the item is potentially מוקצה (like picked fruit, which would be מוקצה if picked on שבת), everyone agrees that it is אסור to use the item.[^101]
+- If it not מוקצה, according to some, it can be used immediately on שבת (assuming that there is no issue of מוקצה, like there would be if the case is with picked fruit, in which case there is). According to others, one needs to wait כדי sheyasu on מוצאי שבת.[^101]
+- The מחלוקת is based on whether it makes a difference that this is a davar sheyeish lo matirin, or not.[^102]
+- Even the opinion that says it is מותר is more מחמיר when it comes to מוקצה, and so in a case of ספק מוקצה, it is אסור to use on שבת, as mentioned before.[^102]
+- If you have both sfeikos together, meaning, we are not sure if the גוי did the melacha on שבת and we are not sure if he did it for the sake of a Jew, then it is מותר to use on שבת because it is a ספק sfeikah.[^103]
+- We פסקען that it is אסור to use on שבת, because we are more concerned about all types of sfeikos on שבת. It is a מחלוקת if it is totally מותר to use immediately on מוצאי שבת, or if this only is true bemakom מצוה.[^104]
+- It is a מחלוקת if one needs to wash until the wrist or until the knuckles. We פסקען like the opinio that says until the wrist.[^105]
 - בשעת הדחק (if one has very little water) one can be מקל.[^106]
 - If one's hands are dirty, one cannot be מקל, even בשעת הדחק[^106]
 - Similar to a change in the money supply, a change in the velocity causes a short term shift in the GDP and in inflation.[^107]
@@ -374,12 +374,12 @@
 4.
 - Rav Dovid would teach his talmidim not to just accept things. They should make sure that they understood it. This was a major aspect of the חינוך.[^72]
 - Sometimes, a תלמיד would ask Rav Dovid that the Maharsha or the Pnei יהושע learn differently than the way Rav Dovid was learning. Rav Dovid would respond "Do *you* have a problem with how I am learning?".[^120] (I think this means that Rav Dovid wasn't going to just accept the way the Maharsha was learning and throw out his own pshat without a reason he understood.)
-- If the talmidim didn't accept that, Rav Dovid would turn to the Maharsha or Pnei יהושע in question and would delve into it. Eventually it would emerge that the piece did not present a problem with the shiur.[^121]
+- If the talmidim didn't accept that, Rav Dovid would turn to the Maharsha or Pnei יהושע in question and would delve into it. Eventually it would emerge that the piece did not present a problem with the שיעור.[^121]
 - Hispaalus one feels comes from a deep and clear understanding of things. This is even for simple and obvious things.[^74]
 - This hispaalus needs to be directed by one's seichel.[^74] (I think this means that at different times, it is important to feel different emotions. For example, when fighting a nisayon, thinking about the severity of the עבירה may be helpful. If someone fails the nisayon, perhaps thinking about the severity of the עבירה will make the person feel depressed and feel like giving up, which is counterproductive. At that point, thinking about how Hashem accepts someone who does legitimate תשובה might be a better thing to focus on.)
-- Rav Yaakov Kaminetzky agreed that this was the mehaleich in getting hispaalus of Rav Dovid.[^74]
-- Rav Dovid would say that there is a difference between shiur (not for הלכה limaysa purposes) and mussar shmuzen. Shmuzen were supposed to give over foundational concepts. As such, it is extremely important for them to be accurate. Therefore, whatever was said had to be muchrach from חז"ל, since in our times, we don't have the ability to trust our seichel. (There are other reasons for this, as well.)[^122]
-- When it comes to shiur, the main point is to train talmidim how to learn. As such, if it answers the questions and fits in the sugya and is reasonable to say, then that is fine.[^122]
+- Rav Yaakov Kaminetzky agreed that this was the מהלך in getting hispaalus of Rav Dovid.[^74]
+- Rav Dovid would say that there is a difference between שיעור (not for הלכה limaysa purposes) and mussar shmuzen. Shmuzen were supposed to give over foundational concepts. As such, it is extremely important for them to be accurate. Therefore, whatever was said had to be muchrach from חז"ל, since in our times, we don't have the ability to trust our seichel. (There are other reasons for this, as well.)[^122]
+- When it comes to שיעור, the main point is to train talmidim how to learn. As such, if it answers the questions and fits in the sugya and is reasonable to say, then that is fine.[^122]
 ---
 6.
 - Hashem gave man control of his faculties except for specific things.[^123]
@@ -394,7 +394,7 @@
 - The Rosh Yeshiva had a yesod that there are certain techunos which are ingrained into a person that can't be changed, or at least not changed very much. This is as opposed to מדות which can be changed.[^128]
 - We see this in a different maamar חז"ל which talks about for people who are born red and have a desire for blood. The advice to them is to become a shochet or a mohel, to avoid becoming a robber or murderer. We don't just tell the person to control himself.[^128]
 - It seems that there is only so much one is able to squelch techunos. As such, the way to deal with it is try to channel it properly as opposed to fighting against it.[^128]
-- It is mistaver to assume that a person should try to some degree to limit one's speech (in line with the many other maamarei חז"ל) but it a person with this techuna is not going to be able to totally smother it, and so they have to utilize it.[^128]
+- It is מסתבר to assume that a person should try to some degree to limit one's speech (in line with the many other maamarei חז"ל) but it a person with this techuna is not going to be able to totally smother it, and so they have to utilize it.[^128]
 - Once they are doing that, they should try and make sure that they are using this properly.[^128]
 - I don't quite understand the difference between מדות and techunos. Are techunos just מדות which are way more entrenched into a person?[^7]
 - In English, we would probably refer to them as character traits versus personality traits. (This doesn't answer the question in the previous point. I'm just putting this out there).[^7]
@@ -415,7 +415,7 @@
 - A משל for this is if someone has what they think may be a precious stone they have evaluated. If the evaluator says that the stone is worthless, the person isn't going to throw the stone away. The person will obviously continue to do research to hopefully find out that the evaluator was wrong. This is because the stone has become precious in the eyes of the owner.[^126]
 - The same is with a חידוש. After working on something and coming out with a חידוש, it becomes precious to you, so you shouldn't be so quick to disregard it.[^126]
 - There is a מדרש that discusses Rav Yochanan walking past some fields and the like that he sold to be able to learn. Rav Yochanan was happy to see them. He didn't feel bad about the fact that he had to sell his valuable assets to learn תורה. Instead, he had tremendous appreciation for what he was able to get in exchange for these worldly possessions. We need to try and develop this appreciation for the תורה (especially the chiddushim that we sweat and toiled over).[^132]
-- Rav Dovid was known to give shiur with tremendous excitement because of his tremendous love of the תורה.[^132]
+- Rav Dovid was known to give שיעור with tremendous excitement because of his tremendous love of the תורה.[^132]
 - Pleasure Prediction Sheet: Make a few columns. One is to write down a fun activity you are going to do. One for a prediction for how much pleasure you think you are going to get from a particular task. Another for how much pleasure you actually got. And another for who you did it with (if it was by yourself, write "self").[^133]
 - This can be useful for dispelling some false beliefs as discussed before. In addition, this can also be used for dispelling the belief that you need to be doing things with others to have a good time. (Obviously, the things have to be on the same level. If you go to a fancy restaurant with friends and compare that to staying home by yourself and eating a microwave dinner, of course the activity alone is going to be worse.)[^133]
 - What if you predict that you won't have a good time and you are right? This probably comes from negative thoughts (like if you are eating in a restaurant by yourself, you might be thinking that people are looking at you and thinking that you are a loser that has no friends).[^133]
@@ -580,7 +580,7 @@
 - In 1937, defense was a major focus of the Zionists. As such, there was considerable military training. Soldiers were trained to do night patrols and launch counterattacks on Arabic villages.[^159]
 - The British worked together with the Jewish soldiers. They supplied the Jews with trucks and armored cars.[^159]
 - Yitzchak Landsberg (who later changed his name to Sadeh) set up Jewish mobile patrols were in specific areas to defend specific settlements.[^159]
-- When the passuk says "וירח את ריח בגדיו"[^160] (referring to when יצחק smelled the garments of יעקב when he was about to give him the bracha) it means that יצחק saw the "traitors" (בוגדיו) of כלל ישראל. This is a reference to יוסף Meshisa.[^161]
+- When the פסוק says "וירח את ריח בגדיו"[^160] (referring to when יצחק smelled the garments of יעקב when he was about to give him the ברכה) it means that יצחק saw the "traitors" (בוגדיו) of כלל ישראל. This is a reference to יוסף Meshisa.[^161]
 - When the Romans conquered the בית Hamikdash, they wanted to send a Jew inside (as a ginny pig of sorts). They sent in יוסף Meshisa, who was a Jew but a traitor. The Romans told him that in exchange for going in, he could take one thing from the בית Hamikdash.[^161]
 - יוסף Meshisa went in and took out the menorah.[^161]
 - The Romans didn't want to give him that (it seems they didn't expect him to take that) and they told him to go in again and take something else.[^161]
@@ -589,31 +589,31 @@
 - This is what יצחק saw in יעקב. Not all of the great צדיקים and talmidei chachomim. He saw this.[^162]
 - Every Jew has a pure neshama inside of them. This neshama can't be tainted. It can be covered by layers of dirt, but the neshama itself can't be tainted. As such, a Jew always has the ability to "detonate". They can tap into the purity of their neshama, and in one moment, make a full turnabout.[^162]
 - This is what יצחק saw when he was about to give יעקב the ברכות: the great potential and purity inside of every Jew.[^162]
-- If someone wants to know how great the reward for doing מצוות is, they just need to look at the עבירה of the eitz hadaas.[^163]
+- If someone wants to know how great the reward for doing מצוות is, they just need to look at the עבירה of the עץ hadaas.[^163]
 - אדם did one עבירה and look at how much death was brought to the world because of it?[^163] (Everyone who has died is because of this one עבירה).
 - Hashem's midda of doing good is more than his midda of doing bad. As such, if for an עבירה one receives such a punishment, one can only imagine the good one receives for doing מצוות.[^163]
 - We see the power of every individual person. A random person by doing a מצוה can make such a difference in the world.[^162] {<span style="color:rgb(255, 0, 0)">I am not sure what was being added over what the מראה מקום already said. Maybe rebbi was just spelling it out?</span>}
-- Avraham was standing in the בית hamikdash at the time of the churban.[^164]
-- Hashem came to Avraham and asked him what he was doing there? Avraham said that he was there to plead on behalf of his children.[^164]
+- אברהם was standing in the בית hamikdash at the time of the churban.[^164]
+- Hashem came to אברהם and asked him what he was doing there? אברהם said that he was there to plead on behalf of his children.[^164]
 - He then proceeded to make different pleas on their behalf, like perhaps the עבירות were done by mistake, or perhaps only part of כלל ישראל were עובר. But Hashem rejected every one of them.[^164]
-- At this point, Avraham put his hands on his head and started crying. He said "is there no hope for them?"[^164]
+- At this point, אברהם put his hands on his head and started crying. He said "is there no hope for them?"[^164]
 - Hashem said that there כלל ישראל is like an olive tree. The purpose of an olive is at its end. So, too, כלל ישראל will be able to return later. (In other words, כלל ישראל is going to do תשובה later).[^165]
-- This is the same Avraham who appreciated the greatness of everyone. When the three malachim came to his tent (and Avraham did not know what they really were) he wanted to be able to serve them as it was an honor for Avraham to be able to serve them.[^166][^162]
-- This was because Avraham had a real understanding of the greatness of every person.[^162]
-- And yet, this same Avraham, even he did not have the full understanding of the depth of that greatness. When כלל ישראל was going through the churban and getting punished for their עבירות, Avraham didn't think that they could do תשובה. And yet, they were able to.[^162]
-- We see this tremendous power of the purity of the neshama. This power is so great, that it was even beyond Avraham's understanding of how great it was.[^162]
+- This is the same אברהם who appreciated the greatness of everyone. When the three malachim came to his tent (and אברהם did not know what they really were) he wanted to be able to serve them as it was an honor for אברהם to be able to serve them.[^166][^162]
+- This was because אברהם had a real understanding of the greatness of every person.[^162]
+- And yet, this same אברהם, even he did not have the full understanding of the depth of that greatness. When כלל ישראל was going through the churban and getting punished for their עבירות, אברהם didn't think that they could do תשובה. And yet, they were able to.[^162]
+- We see this tremendous power of the purity of the neshama. This power is so great, that it was even beyond אברהם's understanding of how great it was.[^162]
 - A man from Moav is not allowed to convert to כלל ישראל because they did not give כלל ישראל food and drink when כלל ישראל left מצרים.[^167]
 - However, a women from Moab is allowed to. This is because they were not supposed to go out to כלל ישראל to give them food and drink because ofכל כבודה בת מלך פנימה .[^167]
-- The daughters of Moav were not known for their greatness. And yet, they were able to feel this hargasha of כל כבודה בת מלך פנימה. (If they didn't feel it and just decided not to greet כלל ישראל because of the same lack of empathy as the men, they wouldn't have been any better off.)[^162]
+- The daughters of Moav were not known for their greatness. And yet, they were able to feel this הרגשה of כל כבודה בת מלך פנימה. (If they didn't feel it and just decided not to greet כלל ישראל because of the same lack of empathy as the men, they wouldn't have been any better off.)[^162]
 - We see how even non-Jews have a pure neshama that can feel very lofty and proper feelings.[^162]
 - Rav Yochan Ven Messiah told his son to go hire some workers. The son did and as part of the deal, arranged to give them mezonos.[^168]
-- Rav Yochanan ben Messiah told his son that he should not have offered mezonos (which, I assume is somewhat vague) as the workers are the sons of Avraham, יצחק and יעקב. As such, even giving them a feast like Shlomo Hamelech had would be beneath their stature.[^168]
+- Rav Yochanan ben Messiah told his son that he should not have offered mezonos (which, I assume is somewhat vague) as the workers are the sons of אברהם, יצחק and יעקב. As such, even giving them a feast like Shlomo המלך had would be beneath their stature.[^168]
 - As such, Rav Yochanan ben Messiah told his son that if the workers had not started working yet, he should attempt to rework the agreement.[^168]
-- We see how great even random Jews are. It would have been beneath their stature to receive a feast of Shlomo Hamelech.[^162] {<span style="color:rgb(255, 0, 0)">I am not sure what was being added over what the מראה מקום already said. Maybe rebbi was just spelling it out?</span>}
-- Before Lavan went on his way after confronting Avraham, he gave a bracha to his daughters.[^169]
-- The possuk is showing us that the bracha of Lavan was going to make a difference as Lavan was a tzelem elokim and, as he was giving his children a bracha, he did it bichol nafsho.[^170]
-- Rachel and Leah had יעקב as a husband and יצחק as a father-in-law. Surely if they were in need of a bracha, they could go to one of these two people. How much could a bracha from a rasha like Lavan make a difference?[^162]
-- We see the power of a tzelem Elokim. Every human has the power to affect the briah so profoundly. Even Lavan's bracha added something to his daughters, despite the great people in their lives.[^162]
+- We see how great even random Jews are. It would have been beneath their stature to receive a feast of Shlomo המלך.[^162] {<span style="color:rgb(255, 0, 0)">I am not sure what was being added over what the מראה מקום already said. Maybe rebbi was just spelling it out?</span>}
+- Before לבן went on his way after confronting אברהם, he gave a ברכה to his daughters.[^169]
+- The possuk is showing us that the ברכה of לבן was going to make a difference as לבן was a צלם אלקים and, as he was giving his children a ברכה, he did it bichol nafsho.[^170]
+- רחל and לאה had יעקב as a husband and יצחק as a father-in-law. Surely if they were in need of a ברכה, they could go to one of these two people. How much could a ברכה from a rasha like לבן make a difference?[^162]
+- We see the power of a צלם אלקים. Every human has the power to affect the briah so profoundly. Even לבן's ברכה added something to his daughters, despite the great people in their lives.[^162]
 - If one's answer is based and logical, it is okay to say, even if there are some docheks.[^171]
 - This is especially true if one is answering questions that they don't have other answers for.[^171]
 - While pashtus in לשון is definitely a virtue, it is not the only virtue. There are other things that need to be accounted for when assessing if an answer is good or not.[^172]
@@ -743,9 +743,9 @@
 - This can be especially difficult for bright talmidim. It may be extremely difficult to reign them in because they might be able to answer any question on what they are saying, but what they are saying isn't good. Yet they won't see it. They need to be trained more to be able to see it.[^204]
 - Through the generations, we get less and less seichel. As such, we have to appreciate that the words of the earlier generations are full of wisdom that are beyond us and so our job is to work on the תורה of the earlier generations.[^205]
 - When one does this, Hashem will give one the ability to understand the תורה.[^205]
-- Shlomo Hamelech compares תורה to a search for precious jewels.[^206]
+- Shlomo המלך compares תורה to a search for precious jewels.[^206]
 - Just like jewels are precious because of the tremendous work it takes to uncover them, so too, the words of תורה are precious because of the effort it takes to understand them. The work put in isn't a bad thing at all. It is what gives the תורה it's value.[^205] {<span style="color:rgb(255, 0, 0)">Isn't תורה valuable because it is the knowledge of Hashem, regardless of the work put in?</span>}
-- (Also see footnote 97 which brings down the end of this Chasam Sofer.)
+- (Also see footnote 97 which brings down the end of this חתם סופר.)
 - Guilt comes from thinking that you did something bad, and therefore you are bad.[^207]
 - This can continue into feelings of depression, continue into thoughts that you are worried that people will find out about what you did (shame and anxiety) and that maybe the person who you wronged will retaliate (anxiety).[^207]
 - Either of these two points (you did something terrible, and therefore you are a terrible person) can contain possible cognitive distortions:[^207]
@@ -793,7 +793,7 @@
 - Practically, banks hold more than the reserve ratio requires for a variety of reasons, such as loans not being particularly profitable, or if a bank is expecting an increase in withdrawals. This lowers the multiplier effect (because banks are lending out less money).[^215]
 - Also, if people don't deposit the money back into the bank (meaning, they hold on to it by hiding it at home, for example), that also hurts the multiplier effect.[^215]
 - During a recession, both of these things occur, so multiplier effect goes down. The Fed, therefore, has to do more to have an affect.[^215]
-- A תלמיד needs to keep in mind that between yeridas hadoros, the fact that his rebbi has been learning and teaching תורה for much longer than the תלמיד has, and the fact that the rebbi learned from his rebbi, who was probably greater than the rebbi himself, his rebbi is probably correct about a pshat, even if it doesn't seem correct to the תלמיד at first. (This is especially considering the fact that the rebbi may be giving the shiur over in a way that is not the clearest on purpose, as discussed {<span style="color:rgb(255, 0, 0)">in chapter 2. Add link</span>}.)[^216]
+- A תלמיד needs to keep in mind that between yeridas hadoros, the fact that his rebbi has been learning and teaching תורה for much longer than the תלמיד has, and the fact that the rebbi learned from his rebbi, who was probably greater than the rebbi himself, his rebbi is probably correct about a pshat, even if it doesn't seem correct to the תלמיד at first. (This is especially considering the fact that the rebbi may be giving the שיעור over in a way that is not the clearest on purpose, as discussed {<span style="color:rgb(255, 0, 0)">in chapter 2. Add link</span>}.)[^216]
 - How the Fed affected the economy before 2008:
 - The Fed would buy or sell treasury bills from banks (called open market operations). This would increase of decrease their money in reserves, which affects the federal funds rate.[^217]
 - The federal funds rate is the interest rate banks would charge each other to lend them money.[^217]
@@ -1036,7 +1036,7 @@
 - Point B represents a certain quantity demanded for at least the price at that point. Point D represent the same number of sellers who are willing to sell for the price at point B minus the taxes (this could be stated the other way as well. As was discussed, this does not make a difference).[^261]
 - (I think this can be summarized. I don't need to go through all of the steps)
 - Rav Dovid was extremely patient with his talmidim. The "harshest" language he would use was "forgive me, but we can't just stay stuck on this one point".[^262]
-- Even when the other talmidim were growing impatient, Rav Dovid would not desist from trying to explain the cheshbon to this תלמיד.[^262]
+- Even when the other talmidim were growing impatient, Rav Dovid would not desist from trying to explain the חשבון to this תלמיד.[^262]
 - If explaining it numerous times didn't help the תלמיד, Rav Dovid would try other things to try to get the תלמיד to understand. (I don't know what is meant by this.)[^263]
 - When Rav Dovid would give tochacha, he would do it in a respectful way. He would tell the תלמיד "doing such is think is proper for a חשוב ben תורה like yourself."[^263]
 - (There is a quote here[^263] from Rav Pam but I am having a hard time reading it.)
@@ -1071,8 +1071,8 @@
 - Some Zionists, including David Ben-Gurion, made a conference at the Biltmore Hotel in New York.
 - At the meeting, the Zionists decided that the Jewish Agency was the governing body of Palestine and made creating a Jewish State an official policy position, as opposed to just creating a Jewish National Home.[^269][^270] {<span style="color:rgb(255, 0, 0)">I don't really get what the difference is</span>} This became known as the Biltmore Conference, or the Biltmore Program.[^271]
 - Settlements kept being built through 1942.[^270]
-- The Rema, regarding the הלכות of giving kavod to one's rebbi, says that one's rebbi muvhak is one that teaches him iyun and gives him his sense of emes and yashrus.[^272]
-- The Chasam Sofer says that the goal of a rebbi is to teach his תלמיד when to make extrapolations from one point to another and when not to. This can be extremely difficult as many seemingly similar points have minute differences which make an extrapolation incorrect. A rebbi does this by allowing the תלמיד to come to his own conclusion and then explain to the תמיד how they are supposed to view the comparison.[^273]
+- The רמ"א, regarding the הלכות of giving כבוד to one's rebbi, says that one's rebbi muvhak is one that teaches him עיון and gives him his sense of emes and yashrus.[^272]
+- The חתם סופר says that the goal of a rebbi is to teach his תלמיד when to make extrapolations from one point to another and when not to. This can be extremely difficult as many seemingly similar points have minute differences which make an extrapolation incorrect. A rebbi does this by allowing the תלמיד to come to his own conclusion and then explain to the תמיד how they are supposed to view the comparison.[^273]
 - It is extremely important for the תורה leaders to be able to have a firm grasp on the dakei haemes as the depth of their understanding has a profound effect on the rest of the people. If they really understand the small minutia, there is a tremendous positive effect on the rest of the people, and the opposite is true as well.[^274]
 - In 1943, Britain dropped the quotas for Jews in countries under the threat of the Nazis.[^275]
 - A "passageway" through Turkey opened up. Jews would go to Turkey by ship and then take a train down to Palestine.[^275]
@@ -1097,7 +1097,7 @@
 - An estimated 200,000 Jews died in the Soviet army over WWII.[^277]
 - Rav Dovid was so machshiv the importance of a rebbi that sometimes, Rav Dovid would advice talmidim not to go learn in the great yeshivos of Europe because he felt that the talmidim there would not have a rebbi there.[^278]
 - Although some talmidim were able to be successful even without a rebbi, Rav Dovid felt that this was something exceptionally rare.[^278]
-- Rav Dovid tried getting the Chofetz חיים to become the rosh yeshiva of the yeshiva in Radin when Rav Dovid was there so Rav Dovid could have a rebbi. While this didn't happen, the Chofetz חיים did get Rav Naftoli Trop for this reason.[^278]
+- Rav Dovid tried getting the חפץ חיים to become the rosh yeshiva of the yeshiva in Radin when Rav Dovid was there so Rav Dovid could have a rebbi. While this didn't happen, the חפץ חיים did get Rav Naftoli Trop for this reason.[^278]
 - Rabbi Akiva Eiger said that the purpose of learning is to hone one's sense of yashrus, even if this means that the person is going to have to sacrifice learning bekiyos.[^279]
 - The person doesn't need to worry that perhaps they are going to argue on the words of a ראשון somewhere that they did not see because a the words of the ראשונים are yashar, and so a person trained in yashrus will be naturally avoid saying the opposite of the ראשונים, even without realizing it.[^279]
 - Rav חיים Voloshiner said that the greatness of a גדול is entirely defined by his sense of yashrus.[^280]
@@ -1122,7 +1122,7 @@
 - Some people learn with tremendous depth, learning until the point of עד שידו מגעת (ad sheyado magaas. Meaning, learning as in-depth as one can).[^283]
 - They examine the exact לשון and try to get full clarity in the ראשונים. Sometimes, these people may only cover on daf or even only an amud a week.[^283]
 - This deep understanding of תורה can actually teach you about a wide variety of topics as many sugyos overlap with a variety of other sugyos, and so studying one in-depth teaches you about a whole plethora of sugyos.[^283]
-- For example, the sugya of ירך שנתבשל בה גיד הנשה (yerech shanisbashel bah gid hanashe. A thigh that was cooked without removing the גיד הנשה first) is a small sugya in shaas but is relevant to at least nine different sugyos (see source for an exact list).[^283]
+- For example, the sugya of ירך שנתבשל בה גיד הנשה (yerech shanisbashel bah גיד הנשה. A thigh that was cooked without removing the גיד הנשה first) is a small sugya in shaas but is relevant to at least nine different sugyos (see source for an exact list).[^283]
 - Others try to cover ground, sometimes covering 30 blatt in a week.[^283]
 - These people don't learn how to properly think. They don't develop their sense of yashrus and so they cannot properly makes connections from one sugya to another.[^283]
 - The ability to make proper connections between topics is a main point in learning.[^283]
@@ -1254,7 +1254,7 @@
 - Example 1: In 1938, congress passed the first minimum wage law. The wage was relatively low compared to the average wage in continental US. However, average wages in Puerto Rico were much lower and the minimum wage applied there as well. This led to enormous unemployment in Puerto Rico. Eventually congress exempted Puerto Rico.[^297]
 - Example 2: France in the early 2000s had a relatively high minimum wage. They also had laws that made it hard to fire workers. As a result, firms were reluctant to hire young workers as they are relatively unskilled, and you don't really know how good of a worker they will be. In 2005 (when the economy was relatively strong), unemployment amongst those 25 years old and younger was 23%.[^297]
 - There is also deadweight loss, meaning, that there are some potential employers and employees who would be willing to make a deal for less than minimum wage but are now not allowed to (see previous image).[^297]
-- Yidias Hatorah means understanding the underlying logic for whatever it is that one is learning.[^298]
+- Yidias התורה means understanding the underlying logic for whatever it is that one is learning.[^298]
 - A person who knows one masechta may be considered a תלמיד chacham,[^299] while someone who knows all of shas and may be considered an am haaretz.[^300] This is because of the point just mentioned: one's understanding of what learns is the main point.[^298]
 - This is because without understanding the underlying logic, one doesn't know how to apply what they learn. Sometimes, a slight change in the situation can radically change what the הלכה is. One can only realize this if they have a strong grasp on the underlying logic of the הלכה.[^301]
 - Price floors create unwanted increased quality.[^302]
@@ -1304,12 +1304,12 @@
 - (Specialization and comparative advantage are closely related topics. Specialization makes one good at producing something. This leads to comparative advantages.[^308])
 - The Livush מרדכי there further says that the only way one can understand the words of the ראשונים is with tremendous pilpul with talmidim.[^309] {<span style="color:rgb(255, 0, 0)">I am not sure why this can't be done with chaveirim.</span>}
 - This pilpul has to be focused on trying to understand the underlying svaros of the ראשונים. It can't be focused on trying to say some big חידוש. This type of pilpul (meaning, the pilpul trying to understand the words of the ראשונים) is what we see in the Ketzos and the Nesivos.[^309]
-- Mishlei 12:8, as explained by רבינו Yonah, talks about how a person who hears the truth but refuses to recognize it is scorned. This indicates that even such a person has the potential to straighten himself and see the truth (why would this person be scorned for something beyond his abilities?)[^310] {<span style="color:rgb(255, 0, 0)">I don't know how high of a level of yashrus this person can reach based on this passuk. However, since the passuk isn't clear, it would seem to be read that such a person is scorned in most situations that they refuse to recognize the truth. This would imply that a person has great potential to see truth.</span>}
+- Mishlei 12:8, as explained by רבינו Yonah, talks about how a person who hears the truth but refuses to recognize it is scorned. This indicates that even such a person has the potential to straighten himself and see the truth (why would this person be scorned for something beyond his abilities?)[^310] {<span style="color:rgb(255, 0, 0)">I don't know how high of a level of yashrus this person can reach based on this פסוק. However, since the פסוק isn't clear, it would seem to be read that such a person is scorned in most situations that they refuse to recognize the truth. This would imply that a person has great potential to see truth.</span>}
 - A similar point was expressed by Rav Chaim Brisker. A תלמיד asked Rav Chaim why it was particularly necessary for a תלמיד to have a rebbi once they reached the point that they could read and understand the Ketzos, Nesivos, Rabbi Akiva Eiger, and similar sfarim? The תלמיד could just learn those.[^310]
-- Rav Chaim answered that the rebbi is needed to teach the תלמיד yashrus in svara. The only way this can be taught is through back and forth. Simply reading the Ketzos or similar sfarim will not get you this yashrus.[^310]
+- Rav Chaim answered that the rebbi is needed to teach the תלמיד yashrus in סברא. The only way this can be taught is through back and forth. Simply reading the Ketzos or similar sfarim will not get you this yashrus.[^310]
 - Similarly, Rav Chaimalso said that a rebbi isn't someone who just presents nice pshat, but rather, he is someone who tries and straighten the way his talmidim think.[^311]
-- A story illustrating this is said about Rav Dovid and the Chofetz חיים. Rav Dovid and the Chofetz חיים were learning a 'תוס together. The Chofetz חיים told Rav Dovid to try and think of an answer for 'תוס's question. Rav Dovid thought of something and the Chofetz חיים approved of the answer, praising Rav Dovid for it. Rav Dovid then thought of a "geshmak חידוש" type of answer. The Chofetz חיים did not approve of that one.[^311]
-- The Chofetz חיים had such a strong yashrus in svara that he would be able to be mechavein to a train of questions and answers through generations. He would be mechavein to 'תוס's question on רש"י, the בית יוסף's answer to the question, the Magen Avraham's attack on the בית יוסף, etc.[^311]
+- A story illustrating this is said about Rav Dovid and the חפץ חיים. Rav Dovid and the חפץ חיים were learning a 'תוס together. The חפץ חיים told Rav Dovid to try and think of an answer for 'תוס's question. Rav Dovid thought of something and the חפץ חיים approved of the answer, praising Rav Dovid for it. Rav Dovid then thought of a "geshmak חידוש" type of answer. The חפץ חיים did not approve of that one.[^311]
+- The חפץ חיים had such a strong yashrus in סברא that he would be able to be mechavein to a train of questions and answers through generations. He would be mechavein to 'תוס's question on רש"י, the בית יוסף's answer to the question, the מגן אברהם's attack on the בית יוסף, etc.[^311]
 - One only develops this sense of yashrus with a lot of work.
 - Koheles רבה,[^312] as explained by the Maharzu and Matnas Kehuna there, discusses how a person starts out learning by getting things wrong. He is then corrected. The person needs to work to the point of exhaustion and needs to withstand the feelings of discouragement (presumably, from getting constantly corrected) to be able to understand why the correct answer is correct and what he said is incorrect.[^313]
 - Once WWII was over, Jews were hopeful that there would be a push to create a Jewish State in Palestine.[^314]
@@ -1504,7 +1504,7 @@
 - One trick to rid yourself of the need for others' approval is to carry a wrist counter {<span style="color:rgb(255, 0, 0)">I feel like this isn't something people are going to do. Maybe count on your phone instead? This  really applies whenever a suggestion with a wrist counter came up.</span>} and every time you do an action that you approve of (you do something nice, you do something you were pushing off, etc.) click the button. At night, see what number you are up to and record it. Keep doing this every day. After some time, you will begin to feel your own approval for yourself and you won't need others' approval.[^341]
 - Obviously, approval feels good and disapproval stings. This is normal. We aren't trying to get rid of these feelings entirely. We just want to get rid of the need for and reliance on approval. {<span style="color:rgb(255, 0, 0)">The same is true for the other things that will be discussed</span>}[^341]
 - Even if one is granted extra intelligence and understanding, this won't help him understand תורה unless one has also developed proper מדות, because תורה is made up of many finely detailed points.[^342]
-- (See אמונה ובטחון Chapter 3 Os 24 ד"ה ואין חכם בתורה, Igaros חזון איש חלק 1 Os 3, ספורנו to דברים 32:15 ד"ה שמנת,, רבינו בחיי at the beginning of parshas Kedoshim, and רבינו בחיי on שמות 18:20)[^343]
+- (See אמונה ובטחון Chapter 3 Os 24 ד"ה ואין חכם בתורה, Igaros חזון איש חלק 1 Os 3, ספורנו to דברים 32:15 ד"ה שמנת,, רבינו בחיי at the beginning of פרשת Kedoshim, and רבינו בחיי on שמות 18:20)[^343]
 - Love:
 - Start with tallying up the pros and the cons of this need for love (as discussed by approval).[^344]
 - Keep in mind that being needy and dependent on people makes it harder to be loved. People aren't interested in clingy people.[^344]
@@ -1535,19 +1535,19 @@
 - The Pnei יהושע writes that he would sometimes spend many years on one sugya.[^351]
 - Pirkei Avos (2:7 as explained by רבינו Yonah there) says that anxiety over ones possessions will shorten one's life, while anxiety over תורה, which naturally should have the same effect, will lengthen one's days.[^352]
 - It is clear from there that the level of anxiety for תורה one should have is at least the level that one has about their possessions.[^352]
-- A תלמיד of Rav Naftali Trop said that Rav Naftali would sometimes give multiple pshatim in shiur on a topic. Each pshat he gave was beautiful and would have been praised by the גדולים in Europe. However, Rav Naftoli would keep working because for some reason or other, he didn't like what he was saying. He would keep going until he found a pshat he liked.[^353]
-- This point is further seen from the fact that Rav Naftoli would only give one shiur a week and he would spend the the week working on the shiur. Yet, he focuses on one topic and doesn't incorporate much from shas. He was clearly using his extraordinary brain power to try and explain one point as bet as he could.[^353]
+- A תלמיד of Rav Naftali Trop said that Rav Naftali would sometimes give multiple pshatim in שיעור on a topic. Each pshat he gave was beautiful and would have been praised by the גדולים in Europe. However, Rav Naftoli would keep working because for some reason or other, he didn't like what he was saying. He would keep going until he found a pshat he liked.[^353]
+- This point is further seen from the fact that Rav Naftoli would only give one שיעור a week and he would spend the the week working on the שיעור. Yet, he focuses on one topic and doesn't incorporate much from shas. He was clearly using his extraordinary brain power to try and explain one point as bet as he could.[^353]
 - the middah of Emes is also helpful when it comes to paskening הלכה למעשה for oneself.[^354]
 - A person has a lot of negios and that can blind a person from getting the הלכה right.[^354]
 - Even if the person has yirah, that may not be enough to fight these negios.[^354]
 - If someone couples the yirah with this midah of emes, that can get them to overcome the negios.[^354]
-- To clarify, the middah of emes is about emes for its own sake, not just about avoiding doing an aveirah (as that is what yirah is). A person with the middah of emes will even be careful about not doing עבירות by mistake because that would be the result of a distortion of the truth.[^355]
+- To clarify, the middah of emes is about emes for its own sake, not just about avoiding doing an עבירה (as that is what yirah is). A person with the middah of emes will even be careful about not doing עבירות by mistake because that would be the result of a distortion of the truth.[^355]
 - See אור ישראל maamar 29, the end of chapter 5 earlier in this ספר and אמונה ובטחון Chapter 3 Os 30.[^356]
-- The רלב"ג in Parsha Yisro discusses how a judge needs to have a love for truth so they can judge honestly.[^357]
+- The רלב"ג in Parsha יתרו discusses how a judge needs to have a love for truth so they can judge honestly.[^357]
 - Tochacha:
 - A person needs to be able to accept tochacha.[^358]
-- רבינו בחיי (beginning of parshas שמות) says that the תורה is entirely tochacha.[^358]
-- This seems difficult to understand as it appears that much of the תורה is not tochacha. There are many parts of the תורה that do not talk about issurim at all.[^358]
+- רבינו בחיי (beginning of פרשת שמות) says that the תורה is entirely tochacha.[^358]
+- This seems difficult to understand as it appears that much of the תורה is not tochacha. There are many parts of the תורה that do not talk about אסורים at all.[^358]
 - It appears that this means that the תורה is full of wisdom that is actually beyond human comprehension and it is only because Hashem bestows upon us understanding that we are able to understand it.[^358]
 - A person who is not willing to accept the wisdom of the תורה and straighten his דעת along the yashrus dictated by the תורה will end up arguing on the תורה itself.[^358]
 - See אור ישראל Igeres 4 (mentioned before) that discusses this same point.[^358]
@@ -1560,14 +1560,14 @@
 - Sometimes, perfectionism is coupled with anxiety, sometimes about specific situations. For example, one may want to wash their hands a lot, or double check all of the locks in a house after he knows that they are all locked.[^359]
 - A person can make extreme focus on these particular situations and do not give in to the compulsion. You can write down how emotionally distraught you after some interval of time, and then after the next interval, etc.[^359]
 - It is extremely difficult to do something purely lishma.
-- Dovid Hamelech said that when Yishai was with his wife, he did not have totally pure intentions. Part of his intentions was his own הנאה.[^360]
-- Yishai was one of the few people who didn't do any עבירות his whole life. Clearly he was on a very high מדרגה. Yet Dovid knew that even he wasn't totally pure when he would have tashmish because it is nearly impossible for a human to be able to do something totally lishma. Certainly we who are nowhere near this מדרגה can have to realize that we can do things with a lot more lisheim shamayim.[^361]
+- דוד המלך said that when Yishai was with his wife, he did not have totally pure intentions. Part of his intentions was his own הנאה.[^360]
+- Yishai was one of the few people who didn't do any עבירות his whole life. Clearly he was on a very high מדרגה. Yet דוד knew that even he wasn't totally pure when he would have tashmish because it is nearly impossible for a human to be able to do something totally lishma. Certainly we who are nowhere near this מדרגה can have to realize that we can do things with a lot more lisheim shamayim.[^361]
 - 'תוס asks a סתירה between the 'גמ (ברכות 17a) which says that people should only do things lishma, and it would be preferable for a person to not have been created rather than do things shelo lishma, and the 'גמ (Pesachim 50b) which says that a person should do things shelo lisham because by doing things shelo lishma, they will come to do things lishma. ('תוס gives his own answer but that is not what we are focusing on.)[^362]
 - Rav ישראל Salanter gives his own answer to this question. He says that the ברכות is referring to someone who is doing something not in line with how the מצוה is supposed to be performed. However, when someone does so the מצוה as one who is doing the מצוה properly would do the מצוה, this is valid and encouraged.[^363]
 - This will lead to the inclination to do the מצוה shelo lishma to diminish. This is because there are times that the way the מצוה should be done runs in conflict with how the person's shelo lishma intentions push him to do it a different way. The person will be acting against his shelo lishma drives.[^363]
 - Sometimes a person might feel guilty about feelings of doing things shelo lishma which can have negative repercussions. A person can try having this in mind (in addition to what was discussed earlier that it is nearly impossible for one to be fully lishma anyway).[^361]
-- Hashem promised אברם a child and אברם didn't ask for a sign. This is different than when Hashem promised אברם Eretz ישראל that אברם did ask for a sign.[^364]
-- Obviously אברם had full אמונה in Hashem and he knew Hashem would do what Hashem said. He asked for a sign regarding receiving Eretz ישראל because he was concerned that maybe כלל ישראל would do עבירות and then lose what Hashem promised them. By not asking, אברם showed a certain completeness in אמונה, a certain total reliance and giving himself over to the word of Hashem that he did not show when it came to Hashem promising אברם about the land.[^365]
+- Hashem promised אברם a child and אברם didn't ask for a sign. This is different than when Hashem promised אברם ארץ ישראל that אברם did ask for a sign.[^364]
+- Obviously אברם had full אמונה in Hashem and he knew Hashem would do what Hashem said. He asked for a sign regarding receiving ארץ ישראל because he was concerned that maybe כלל ישראל would do עבירות and then lose what Hashem promised them. By not asking, אברם showed a certain completeness in אמונה, a certain total reliance and giving himself over to the word of Hashem that he did not show when it came to Hashem promising אברם about the land.[^365]
 - We see what the highest levels of בטחון are. There is an idea that even thinking about and making cheshbonos about what Hashem promised is to some degree a lack of בטחון. On the highest medreigos, a person totally gives himself over in complete trust and doesn't think about what Hashem promised him.[^361]
 - (This is interesting to me because at the end of the day, Hashem didn't promise it to אברם if there would be עבירות done. So was אברם simply forgoing having a child if he would do עבירות? Or did he have אמונה in a way that was beyond what Hashem promised him? I am not exactly sure but I talked with Daniel Hirsch and he thought that pshat was something along the lines that simply having cheshbonos, even if they were true, can hurt one's אמונה. To me this is interesting because I would think that he is simply viewing the situation accurately. Hashem only promised him this reward in most, but not all, situations. אברם would be giving himself over as much as Hashem promised him. Perhaps that is not the way humans work. There is a massive difference between 100% and 99%, even though the 99% is actually accurate. I am not sure about this and I need to think about it. Maybe a good way to think about it like if one's parents actually love them. It is healthy, normal, and probably necessary to simply think that they do (in most situations). Now, technically, you don't know this 100%. Perhaps this isn't true. But to try and carry that around inside your head, meaning, every time one's parents do something for them to think that almost certainly did it because they love them but maybe the don't sounds like an absurd and nearly impossible way to live.) ^9afec3
 - Rav was learning תורה. He got so involved that he accidentally injured himself. A certain tzedoki was there and commented that this is similar to what כלל ישראל did when they accepted the תורה. Hashem asked them if they want the תורה and without worrying about what was in it ad taking care of themselves, they immediately accepted.[^366]
@@ -1575,8 +1575,8 @@
 - Rav further added that the reason why the tzedoki was unable to see that was because he lived his life tricking people so he was unable to think of trusting someone else as anything short of foolish.[^366]
 - We aren't talking about a normal being. We are talking about Hashem. And this is right after כלל ישראל just went through Yetzias מצרים. They have every reason to have full faith in what Hashem is doing for them. Yet, the tzedoki as so blinded by the way he treats people that he is unable to see this.[^361]
 - (I think rebbi might have also said that we see how one is supposed to fully give oneself over to Hashem and have full faith in him but I am not sure if he said this point.)
-- (I came late to the shmuz and so I only heard the end of it. I am trying to extrapolate backwards about what the מראה מקום was saying. Also, this should have gone earlier with the shmuz on Dovid.)
-- When יעקב was dying. He told יוסף to do with him a chessed של emes and bury him in Eretz ישראל. This is a chessed של emes because יוסף couldn't hope to receive anything in return now that יעקב would be dead.[^367]
+- (I came late to the shmuz and so I only heard the end of it. I am trying to extrapolate backwards about what the מראה מקום was saying. Also, this should have gone earlier with the shmuz on דוד.)
+- When יעקב was dying. He told יוסף to do with him a chessed של emes and bury him in ארץ ישראל. This is a chessed של emes because יוסף couldn't hope to receive anything in return now that יעקב would be dead.[^367]
 - Obviously יוסף is going to do what his father asks him to do. יעקב is trying to make sure that יוסף is going to take care of it in a purely lishma way.[^367]
 - One would imagine that at such an intense moment with such great צדיקים, יוסף would certainly make sure to do this מצוה purely lishma, especially considering how much love יוסף had for his father. Apparently, doing something totally lishma is extremely difficult and even in this situation, יעקב was concerned that perhaps יוסף would not be purely lishma.[^361]
 - You can use the vertical arrow method (meaning, you ask yourself "am if that were to happen, why would that bother me?") for dealing with perfectionism.[^368]
@@ -1666,7 +1666,7 @@
 - People need to develop a love for others learning, as well, to be able to understand the תורה.[^387]
 - In the days of Rebbi Shimon, a tremendously deep understanding of תורה was reached because of the love that people had for each other.[^388]
 - The תורה is built on shalom and achvah and so there is a mystical connection between love for your fellows learning and understanding the תורה.[^387]
-- (Also see Pirkei Avos 1:6 with the רמב"ם, רבינו Yonah, and Pirush הגר"א there.[^387])
+- (Also see Pirkei Avos 1:6 with the רמב"ם, רבינו Yonah, and פרוש הגר"א there.[^387])
 - Another middah one needs is the desire for learning and understanding new things.[^387]
 - There is a story with Alexander the Great that when he learned something new, he said he was a shoteh until then. This was out of his love and recognition of the importance of understanding something new.[^389]
 - It is obvious that the more one loves learning new things, the more effort one is going to put into their learning.[^387]
@@ -1686,23 +1686,23 @@
 - Despite this, Ben-Gurion ordered that they not be abandoned as he felt that the Negev was important for the future shape of the Israel.[^391]
 - Some reinforcements and supplies were given to help out.[^391]
 - A person needs the middah of anava to be able to learn תורה.[^392]
-- The Chasam Sofer talks about how if one's rebbi says something that they don't understand, they can't just decide that it is wrong, so throw it out and try to come up with a different understanding.[^392]
+- The חתם סופר talks about how if one's rebbi says something that they don't understand, they can't just decide that it is wrong, so throw it out and try to come up with a different understanding.[^392]
 - The rabbeim of previous generations had tremendous mental abilities far greater than our own. If we don't understand something, it is because of the limits of our mental capacities. This realization of one's weakness compared to previous generations is the middah of anava.[^392]
 - Therefore, a person has to be willing to work hard on his rebbi's תורה. They have to assume that there is an understanding to the words of his rebbi and only through working is he going to be able to uncover it.[^392]
 - Mishlei compares תורה to silver and precious jewels.[^393] This is because the value of תורה, like these things, is that it is hidden and takes effort to uncover. This is important for a person to keep in mind.[^392] (This point had been discussed before.)
 - Bzchus working on his rebbi's תורה, Hashem will grant him the understanding that he is looking for.[^392]
-- יוסף left his garment in the hands of אישת Potifar because it would have been a pigam to her kavod to take it. She got a grasp on it, so יוסף would have had to pull it out of her hands to take it away, which would be a pigam in her kavod.[^394]
+- יוסף left his garment in the hands of אישת Potifar because it would have been a pigam to her כבוד to take it. She got a grasp on it, so יוסף would have had to pull it out of her hands to take it away, which would be a pigam in her כבוד.[^394]
 - אישת Potifar then made sure to be the first one to reach her husband to tell the story that would incriminate יוסף and leave her innocent.[^394]
-- We see the level one needs to go to show kavod. A few tziurim:
-	1. She was totally in the wrong here, meaning the reason why there would have been a lack of kavod was totally her own fault.[^395]
+- We see the level one needs to go to show כבוד. A few tziurim:
+	1. She was totally in the wrong here, meaning the reason why there would have been a lack of כבוד was totally her own fault.[^395]
 	2. She is clearly a rasha.[^395]
 	3. It is יוסף's robe. He has a right to hold onto his stuff.[^395]
 	4. By יוסף leaving it in her hands, he was opening himself up to what eventually did happen, namely that she would use the garment as evidence against him.[^395]
-	5. How much of a lack of kavod is it to hold onto the garment? It doesn't seem like a serious pigam in her kavod, at all.[^395]
+	5. How much of a lack of כבוד is it to hold onto the garment? It doesn't seem like a serious pigam in her כבוד, at all.[^395]
 - We also see the sensitivity that people have. She just got rejected by יוסף. It would seem that that is the big gnai to her is. A small thing like having a robe pulled out of her hand does not seem like it is something that would register. Apparently it would have.[^395]
 - People asked on this that perhaps it is "bietzem" a gnai, even if she doesn't feel it. See [[8531|Shmuess 8531]] where we seem to assume that the person receiving the gnai feels it. We don't take the "bietzem" assumption.[^7]
 - We also see the power of first impressions. She made sure to go say the story first to make sure that she would be belived. Why would it matter if she went first or second? If the story is believable, then it is believable, and if it is not then it is not.[^395]
-- Clearly, going first would have made a difference. Once Potifar and the bnei bayis heard the story one way, it would be harder to shift it and get them to believe the other way.[^395]
+- Clearly, going first would have made a difference. Once Potifar and the בני bayis heard the story one way, it would be harder to shift it and get them to believe the other way.[^395]
 - Arabs committed acts of terror on the Jews while the Stern Gang and the Irgun committed acts of terror on the Arabs.[^396]
 - Arabs attacked Jews heading to Jerusalem.[^396]
 - The Irgun and Stern Gang attacks were condemned by the Jewish Agency.[^396]
@@ -1817,7 +1817,7 @@
 - The provisional council elected Chaim Weizmann as the first president.[^412]
 - Weizmann, who was in America at the time, secured a $100 million loan for Israel from the US.[^412]
 - There are 2 ways that people come to understand תורה. One way is natural, meaning, that dependent on one's level of intelligence and how much effort one puts into learning, they will understand the תורה. The other is a "gift", meaning that a person gains an understanding that is beyond his level of intelligence and effort that one put in.[^413]
-- For one to be zoche to this second level, one has to make themselves "מופקר לכל", meaning, they are willing to be "stepped on" and their pride doesn't flare up. They have a high level of anava.[^413]
+- For one to be זוכה to this second level, one has to make themselves "מופקר לכל", meaning, they are willing to be "stepped on" and their pride doesn't flare up. They have a high level of anava.[^413]
 - Receiving תורה through a "gift" is greater than receiving תורה through one's own efforts, because one's own intelligence is subject to mistakes. However, if one receives תורה as a "gift", they know that it is correct.[^414]
 - Areas under Israeli control on May 15:
 - ![[Pasted image 20250122150536.png]][^415]
@@ -1838,7 +1838,7 @@
 - Nirim, Kfar Darom, and Negba were able to repulse the attacks, at least for some time.[^419]
 - Yad מרדכי was able to repulse the attacks for five days until it fell.[^419]
 - During those five days, Israel was able to prepare defenses in Tel-Aviv and south of it.[^419]
-- According to the Chasam Sofer brought down earlier, if one doesn't understand the words of his rabbeim, one needs to realize that their words are correct and he simply doesn't understand them yet. The person needs to work to the end of his ability to understand their words.[^424]
+- According to the חתם סופר brought down earlier, if one doesn't understand the words of his rabbeim, one needs to realize that their words are correct and he simply doesn't understand them yet. The person needs to work to the end of his ability to understand their words.[^424]
 - If a person doesn't do this, this skeptical, disbelieving attitude will even extend that Hashem says.[^424]
 - This is despite the fact that it is obvious to all that Hashem is infinitely more knowledgeable than we are and so it is obvious that Hashem is correct and we are incorrect.[^424]
 - Despite this, without developing this middah of hachnaah by working on the תורה of one's rebbi that they don't understand, they will come to feel this way about the words of Hashem.[^424]
@@ -1847,7 +1847,7 @@
 - It is also extremely important for a rebbi to work on his middah of anava.[^425]
 - We see by Zecharia Hanavi that he did not properly feel the middah of anava. He viewed himself "above" the people. Because of this, the people rejected what he had to say and killed him.[^426]
 - Now, Zecharia was a navi. This means that he obviously did attain anava to a very high level (or else he would not have been a navi).[^425]
-- In addition, רש"י[^427] implies that the lack of anava in this situation was that Zecharia, due to his high position and the fact that it was Yom Kippur, didn't think that anyone would attack him for saying his נבואה. This was a misplaced confidence. This certainly does not sound like an egregious lack of anava at all.[^425]
+- In addition, רש"י[^427] implies that the lack of anava in this situation was that Zecharia, due to his high position and the fact that it was יום Kippur, didn't think that anyone would attack him for saying his נבואה. This was a misplaced confidence. This certainly does not sound like an egregious lack of anava at all.[^425]
 - Yet, despite this, כלל ישראל completely rejected what Zecharia had to say and even killed him because of it.[^425]
 - The first act of the Provisional Council was to remove any restrictions on Jewish immigration for the future, and retroactively (so all the "illegals" were now legal).[^428]
 - Even during this time, new settlements were being built. Sometimes, nearby abandoned Arab settlements were destroyed for this purpose.[^428]
@@ -1895,10 +1895,10 @@
 - During the truce, the UN mediator Count Bernadotte, tried to create a new partition with the Arabs getting most of the Negev and the Jews getting the Galilee. Jerusalem would go to the Arabs and the Jews in the city would have autonomy under the Arabs.[^441]
 - Both sides rejected this partition.[^441]
 - Anava is not only important for a rebbi when giving over tochacha. It is important whenever a rebbi is teaching anything.[^442]
-- This means that a rebbi needs to can't be מקפיד on his kavod if a תלמיד acts out of line.[^442]
+- This means that a rebbi needs to can't be מקפיד on his כבוד if a תלמיד acts out of line.[^442]
 - A rebbi needs to develop his middah of anava to make sure that in these situations, he won't respond incorrectly.[^442]
-- The רמב"ן[^443] says that when Reuven "slept" with Bilha, יעקב did not kick Reuven out from being counted from amongst the shevatim because of his anivus.[^442]
-- Even though יעקב loved Reuven so much, without his tremendous anivus he would have made this mistake.[^442]
+- The רמב"ן[^443] says that when ראובן "slept" with Bilha, יעקב did not kick ראובן out from being counted from amongst the shevatim because of his anivus.[^442]
+- Even though יעקב loved ראובן so much, without his tremendous anivus he would have made this mistake.[^442]
 - Loving a תלמיד is not enough. The rebbi needs to have anava.[^442]
 - A rebbi needs to be organized in his presentation of the material. The order the material is presented should make sense.[^444]
 - We see the importance of this from the gemaros at the beginning of Nedarim and Yevamos. The mishnayos there give lists (in Nedarim, it is lists of kinuyim from nedarim and in Yevamos, it is a list of arayos) and the 'גמ immediately begins by trying to understand why the tanna presented these things in the order that he did. This is even before the 'גמ gets into the major sugyos that follow (in Yevamos, the sugya that follows is asei doche לא sasei).[^444]
@@ -2788,11 +2788,11 @@
 - Egypt sunk an Israeli ship 13 off the Egyptian coast (which is international waters). In response, Israel destroyed oil refineries along the Suez Canal, forcing thousands of Egyptians to have to flee their homes. There were many other fights along the Suez.[^588]
 - The fighting between Israel and Egypt (and the other Arab countries to a lesser extent) between 1967 and 1970 became known as the War of Attrition.[^589]
 - In March 1969, Israel finished construction of fortifications along the Suez, called the Bar-Lev Line.[^588]
-- יהושע was chosen as the leader for כלל ישראל after משה because he put tremendous effort into his learning from when he was young and had a good reputation amongst people. Because of this, he was chosen over other great people alive at the time, such as Pinchas and Elazar.[^590]
-- דין (meaning, monetary court cases) are extremely integral to the תורה. This is why they are discussed right after Matan תורה (in Parshas Mishpatim).[^591]
+- יהושע was chosen as the leader for כלל ישראל after משה because he put tremendous effort into his learning from when he was young and had a good reputation amongst people. Because of this, he was chosen over other great people alive at the time, such as פנחס and Elazar.[^590]
+- דין (meaning, monetary court cases) are extremely integral to the תורה. This is why they are discussed right after Matan תורה (in פרשת Mishpatim).[^591]
 - As such, a judge has to spend time[^591] and put in much effort[^592] to make sure that they get the correct דין. Some things may come up that the judge did not originally realize and only after thinking about it does it occur to him.[^593]
 - A person has to keep teaching new talmidim. Even once someone gets older and they have already taught many talmidim, a person needs to teach more because even if the talmidim one has already taught are successful, one can't know if that will remain.[^594]
-- The רבנן established gezeiros and takanos to make sure that people don't accidentally come to violate the הלכות of the תורה. This is based off the passuk in ויקרא (18 30) וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י, which the 'גמ in מועד קטן learns to mean to create dirabanans to protect the תורה.[^595]
+- The רבנן established gezeiros and takanos to make sure that people don't accidentally come to violate the הלכות of the תורה. This is based off the פסוק in ויקרא (18 30) וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י, which the 'גמ in מועד קטן learns to mean to create dirabanans to protect the תורה.[^595]
 - I am not precisely sure what the difference about how to read the resolution (meaning, whether the resolution should be read as if it said "all" or "the" or not) makes. Either way, Arab countries were obviously not going to accept peace with Israel keeping most of the land, even if that satisfied the letter of the law (according to the Israeli reading) and it seems that Israel was willing to give up nearly all of the land in exchange for peace.[^7]
 - Perhaps this made a difference because Israel wanted to make some small changes to the border. Reading the resolution Israel's way would give Israel more strength to stand on. Also, perhaps reading it Israel's way would allow Israel to deal with the other aspect that the Arabs were pushing, namely, that Israel withdraw first and then negotiate peace. Reading it Israel's way can allow Israel to claim that it satisfied the condition to withdraw from occupied territory and so now peace dealings can happen (even if within those peace dealings, Israel would give up the vast amount of the occupied land).[^7]
 - Egypt and Syria responded to Israel with the Khartoum conference and the three 'no's: No peace, no negotiation, no recognition.[^596]
@@ -2859,11 +2859,11 @@
 - There were also terror attacks on Jews outside of Israel. More airliners were taken. In Munich, February 1970, Jews in an old age home were killed.[^601]
 - The mesorah of תורה was transferred from rebbi to תלמיד from משה until our times. It was written down in the forms of the משנה and 'גמ, neither of which can be edited.[^602]
 - A person needs to take time and put in effort when judging cases. Mistakes are easy to make. In addition, sometimes a thought might hit someone that they did not initially think of. A person who does not do this and makes a mistake is considered negligent, even if the person put in an honest effort.[^603]
-- The reason why Pirkei Avos discusses this by דין is because דין is extremely important. Practicing proper דין is the way one gets to know Hashem {<span style="color:rgb(255, 0, 0)">רבינו Yonah discusses practicing דין, but perhaps he means learning it? Meaning, when one learnsthe הלכות of dinim, perhaps he "understands Hashem" (as much as a person can do that)?</span>}.[^603]
+- The reason why Pirkei Avos discusses this by דין is because דין is extremely important. Practicing proper דין is the way one gets to know Hashem {<span style="color:rgb(255, 0, 0)">רבינו Yonah discusses practicing דין, but perhaps he means learning it? Meaning, when one learnsthe הלכות of דינים, perhaps he "understands Hashem" (as much as a person can do that)?</span>}.[^603]
 - The importance of דין is shown in the תורה. The תורה discusses דין right before  matan תורה (וְשָׁפְט֣וּ אֶת־הָעָם֮ בְּכׇל־עֵת֒ (שמות יח כב)) and right after (וְאֵ֙לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם (שמות כא א)).[^604]
 - A person should teach many talmidim. This is in line with בית Hillel as opposed to בית Shamai. בית Shamai was more of an elitist. בית Hillel was was much more open. He felt that you never know which talmidim you teach will end up being successful, so it is important to teach as many as possible.[^605]
 - This is actually that Hillel himself experienced. The 'גמ discusses how all of Hillel's talmidim came to see him when he was on his deathbed. Rav Yochanan בן Zachai, because of his anivus, waited outside. Hillel asked his talmidim if they were all there. They responded that they all were except for the least great of them. Hillel told his talmidim to bring him in as he was destined for greatness (which is what happened).[^606]
-- (This story seems a bit difficult to understand how it proves the point of רבינו Yonah. Rav Yochanan בן Zachai was not really a "bottom of the shiur" person. He was a tremendous גדול who hid his greatness. As such, how does one see from here that even one's "lowest" תלמיד can be destined to be greater than the "top guys"? Perhaps the idea is that even though Hillel realized Rav Yochanan be Zachai's greatness, his talmidim, who were also great people obviously did not. As such, a rebbi has to realize that he may also be missing his תלמיד's potential (although this is a situation where the תלמיד is hiding his own greatness. I don't know how one can see from here how that one's תלמיד may have untapped potential.))[^7]
+- (This story seems a bit difficult to understand how it proves the point of רבינו Yonah. Rav Yochanan בן Zachai was not really a "bottom of the שיעור" person. He was a tremendous גדול who hid his greatness. As such, how does one see from here that even one's "lowest" תלמיד can be destined to be greater than the "top guys"? Perhaps the idea is that even though Hillel realized Rav Yochanan be Zachai's greatness, his talmidim, who were also great people obviously did not. As such, a rebbi has to realize that he may also be missing his תלמיד's potential (although this is a situation where the תלמיד is hiding his own greatness. I don't know how one can see from here how that one's תלמיד may have untapped potential.))[^7]
 - Walter Eytan wrote an article in the Jerusalem Post in 1972 about how Israelis would not want to give up the West Bank, but would be willing to do so for peace.[^607]
 - He also pointed out that Israel purposely did not annex the West Bank for this reason (that they can return it in exchange for peace).[^607]
 - In May 1972, Japanese gunmen working for Palestinian terrorists killed 27 people at Lod airport (later known as Ben-Gurion airport).[^607]
@@ -2898,7 +2898,7 @@
 - Despite this, the Chief of Staff started full mobilization as 10:00. Because men were all in shul or at home (rather than working all over the place), this process went faster than it otherwise may have.[^609]
 - Egypt launched a massive assault on the Israeli forces on the Suez, with 240 planes, 2000 artillery pieces, and 8000 soldiers. The Israelis had 16 forts manned by over 400 soldiers. Despite being outgunned, they fought extremely hard, causing casualties and delaying the Egyptians.[^609]
 - ![[Pasted image 20250223234044.png]][^610]
-- The 'גמ learns out that Hashem wants us to create safeguards around the הלכות of the תורה from the words וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י (ויקרא יח ל).<span style="visibility:hidden">l</span>[^611]
+- The 'גמ learns out that Hashem wants us to create safeguards around the הלכות of the תורה from the words וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י (ויקרא יח ל).&lrm;[^611]
 - Keeping these dirabanans is a greater show of love than keeping the הלכות themselves. If one keeps the הלכה but not the dirabanans around it, it shows that one is not particular about violating the הלכה. Keeping the dirabanans shows that one does care. (Obviously, this is not referring to someone who only keeps the dirabanans and not the actual הלכה itself.)[^612]
 - As such, one can achieve tremendous growth through being mindful of these dirabanans.[^612]
 - At the same time, the Syrians launched their attack in the Golan Heights. They heavily outnumbered the Israelis there.[^613]
@@ -2980,11 +2980,11 @@
 - Third World countries broke off ties with Israel. This was despite efforts made by Israel to create relationships with these countries.[^624]
 - This war also broke Israeli confidence and gave the Egyptians confidence, even though, Israel had overall won a military victory.[^624]
 - OPEC (led by Saudi Arabia) began to flex its muscle by creating an oil embargo on countries that had helped Israel. They pushed countries against Israel.[^624]
-- One should have many talmidim to make sure תורה is not forgotten,[^616] and because of the concept of מָה עֵץ קָטָן מַדְלִיק אֶת הַגָּדוֹל, אַף תַּלְמִידֵי חֲכָמִים קְטַנִּים מְחַדְּדִים אֶת הַגְּדוֹלִים.<span style="visibility:hidden">l</span>[^625] (This seems to refer to the concept of וּמִתַּלְמִידַי יוֹתֵר מִכּוּלָּן as those are the next words of the 'גמ.)
+- One should have many talmidim to make sure תורה is not forgotten,[^616] and because of the concept of מָה עֵץ קָטָן מַדְלִיק אֶת הַגָּדוֹל, אַף תַּלְמִידֵי חֲכָמִים קְטַנִּים מְחַדְּדִים אֶת הַגְּדוֹלִים.&lrm;[^625] (This seems to refer to the concept of וּמִתַּלְמִידַי יוֹתֵר מִכּוּלָּן as those are the next words of the 'גמ.)
 - One should take council with his talmidim when answering questions, as this will help one find the answer. The 'גמ[^626] discusses how Rav would do this.[^616]
 - One should speak in a measured way, not too little and not too much. This is especially true when teaching תורה. If one speaks too little, others won't be able to understand him. If one speaks too much, people will start to tune him out.[^627]
 - In addition, different situations call for different ways of saying things (sometimes leaving some things out, and others, saying things in full) and person has to be aware of that.[^616]
-- A person should put safeguards on anything that he does to make sure that he doesn't accidentally come to doing an aveirah.[^616]
+- A person should put safeguards on anything that he does to make sure that he doesn't accidentally come to doing an עבירה.[^616]
 - Peace talks began in Egypt. The Arabs basically wanted Israel to return to its pre-1967 borders with Israel remaining on the east of the Sinai down to Sharm El-Sheik.[^628]
 - Israel wanted to basically maintain the whole Sinai (giving up the eastern bank of the Suez) and that's it.[^628]
 - In December, the peace talks moved to Geneva (called the Geneva Peace Conference). Egypt and Jordan agreed to go but refused to sit with and talk directly with Israel. Syria refused to go. The PLO wasn't invited.[^628]
@@ -3085,7 +3085,7 @@
 - The peace between Israel and Egypt held but was already a "cold peace".[^642]
 - Israel withdrew from the Sinai. Soldiers had to drag Israeli settlers away.[^642]
 - There was a fight between Israel and Egypt about a small tourist village called Taba. Both sides claimed that it was on their side of the border. In the end, Israel capitulated and gave it up to Egypt who allowed Israelis to visit the town.[^642]
-- Judges need to take their time when coming up with their psak as law is of vital importance. This is seen from the fact that the תורה says ואלה המשפטים right after the עשרת הדברות. The 'ו' (vuv, meaning 'and') connects the laws (which are discussed in פרשת משפטים) with the עשרת הדברות.<span style="visibility:hidden">l</span>[^643]
+- Judges need to take their time when coming up with their psak as law is of vital importance. This is seen from the fact that the תורה says ואלה המשפטים right after the עשרת הדברות. The 'ו' (vuv, meaning 'and') connects the laws (which are discussed in פרשת משפטים) with the עשרת הדברות.&lrm;[^643]
 - This is also important because by the judges taking a while and deliberating the case, the litigants are more likely to accept the psak.[^644]
 - There is a point when it is too much and the judges need to be careful about that as well. (רש"י on the 'גמ in שבת says that this is referring to when the judges already have a psak, but they are just delaying in giving it for whatever reason. I am not sure if this is what the רבינו בחיי is saying, or if he is saying that they are still deliberating, but at some point, enough is enough).[^645]
 - Having a lot of talmidim increases overall תורה knowledge as, simply, the more people who work on finding pshat, the greater the understanding of תורה there is.[^646]
@@ -3124,7 +3124,7 @@
 - An American envoy named Philip Habib was able to negotiate a ceasefire between the sides. The PLO agreed to leave Beirut.[^647]
 - חז"ל made safeguards around the מצוות to make sure that we don't come to accidentally violate them.[^649]
 - (Brings down ברכות 5a that the whole תורה, Shebaal Peh, Shebiksav, etc. were given at הר Sinai, as brought down in רבינו Yonah)[^650]
-- Hashem gave over the תורה to משה with the machlokesim that are in the 'גמ ("Elazar, my son, said this, and יהושע my son said that"). This is a definition of Eilu vaeilu divrei Elokim חיים (namely, that both sides of a machlokes were given over at הר Sinai).[^651]
+- Hashem gave over the תורה to משה with the machlokesim that are in the 'גמ ("Elazar, my son, said this, and יהושע my son said that"). This is a definition of Eilu vaeilu divrei אלקים חיים (namely, that both sides of a מחלוקת were given over at הר Sinai).[^651]
 - (Neviim and Kesuvim were given to משה but were not to be written down until later using ruach hakodesh, and that is why they are called Divrei Kabalah (as they came down from משה) as רבינו Yonah said.)[^650]
 - (תרגום was also given, forgotten, and rediscovered, as רבינו Yonah said.)[^650]
 - (There is a discussion about the mesorah of trop and nikudos, but I don't understand what he is saying.)[^650]
@@ -3375,7 +3375,7 @@
 - Peres set up specific crossing points for vehicles traveling from the West Bank and Gaza into Israel and told Arafat that he better tighten up control of Hamas.[^690]
 - The PA allowed solidarity meetings in Gaza for the death of Yahya Ayyash and Arafat consoled his parents. This did not go over well with Israel.[^690]
 - Despite the death of Rabin, Peres still went through with the agreement and withdrew Israeli troops from Area A except for Hebron and the whole Area B.[^690]
-- Tanaim overlapped with the last of the neviim. Rebbi Dosa בן Hurkinus[^691] and Rebbi Tzadok[^692] discussed where Chagai sat when giving over certain הלכות. Rebbi Dosa lived after the churban at the times of Rebbi Akiva[^691] [^693] and Rebbi Tzadok lived during the churban.[^694] (It seems that Chagai lived a very long life.)
+- Tanaim overlapped with the last of the neviim. Rebbi Dosa בן Hurkinus[^691] and Rebbi Tzadok[^692] discussed where Chagai sat when giving over certain הלכות. Rebbi Dosa lived after the churban at the times of Rebbi עקיבא[^691] [^693] and Rebbi Tzadok lived during the churban.[^694] (It seems that Chagai lived a very long life.)
 - Israel, Egypt, the US, and many others, had a meeting in Sharm El-Sheik, about how to stop terrorism.[^695]
 - By this time, 100 Israelis had been killed and 500 injured in terror attacks.[^695]
 - Libya and Iran were the large backers of terrorism.[^695]
@@ -3590,7 +3590,7 @@
 - (Mentions how keeping dirabanans shows one's care for the מצוות more than keeping the מצוות themselves.)[^739]
 - (Mentions that because dirabanans keep the תורה safe, Hashem has a special love for dirabanans.)[^739]
 - Rebbi Tarfon said Krias Shema while laying down, rather than sitting like בית Hillel holds (and the way we פסקען). The 'גמ says that he was "chayav misah" (doesn't seem to be literal). (It seems that this is because he didn't have proper appreciation for the words of בית Hillel.)[^740]
-- Rebbi Akiva nearly died because he wasn't given enough water to wash before eating bread (a דרבנן).[^741]
+- Rebbi עקיבא nearly died because he wasn't given enough water to wash before eating bread (a דרבנן).[^741]
 - The רבנן didn't reveal all of the reasons behind why they made certain gezeiros. This is because they were afraid it wouldn't be transmitted correctly, or perhaps it would be, but people would try to do things which one can easily make a mistake and be nichshol (for example, one is allowed to carry in reshus harabim less than 4 amos, but the רבנן didn't want to say it because they were afraid people would try it and accidentally carry too far).[^742]
 - One Minute Praising:
 - When someone begins working for the company or starts a new project, keep a close eye on them (physically, or have them write what they are doing).[^743]
@@ -3642,14 +3642,14 @@
 - The first 100 years of the Greek Empire after conquering the Persian's also has very little writing that survived. This is despite the fact that it is documented that there was a lot written at the time.[^750] (This will be discussed later.)
 - The תורה shebiksav was given over to all shevatim (משה wrote a ספר תורה for each shevet on the last day of his life). The mesorah for תורה Shebaal Peh was carried through the leaders, as the משנה says. (Obviously others knew תורה Shebaal Peh as well. I think it means that the leader was the final authority on it. As opposed to Toah Shebiksav that you can just look at the ספר תורה.)[^751]
 - The mesorah of תורה is extremely important because תורה is beyond human logic. We are not able to figure it out. The only way we have the תורה is through the mesorah.[^752]
-- A person should establish many talmidim to be able to talk over psakim with them,[^753] because they will ask questions and sharpen the rebbi's understanding (ומתלמידי יותר מכולם),[^754] and because having more talmidim increases קנאת ספרים תרבה חכמה.<span style="visibility:hidden">l</span>[^755]
+- A person should establish many talmidim to be able to talk over psakim with them,[^753] because they will ask questions and sharpen the rebbi's understanding (ומתלמידי יותר מכולם),[^754] and because having more talmidim increases קנאת ספרים תרבה חכמה.&lrm;[^755]
 - Judges should first try and reach a compromise between the parties. When that doesn't work, the judge should discuss the case with many talmidim (which he should make sure to have) to arrive at the correct דין. After, בית דין should create safeguards to make sure that people don't violate the דין. (This is an understanding of how to read the משנה as one long piece of advice.)[^756]
 - Discrepancies:
 - According to Seder עולם (written 2nd century CE), Alexander conquered the Persians in year 318 BC. According to Claudius Ptolemy (in 2nd century CE), this happened in year 331 BC.
-- According to Ezra 4:24, the בית Hamikdash was built in the second year of the reign of Darius the Great. According to Seder עולם, Darius was defeated 34 years later by Alexander. As such, it is clear the the בית Hamikdash was built in year 352 BCE (34 years before Alexander conquered the Persians in year 318). As such, the Hamikdash lasted 420 years (as it was destroyed in year 69 according to Avodah Zarah 9a. Also, there is no year 0. We go from 1 BCE to 1 CE).[^757]
+- According to עזרא 4:24, the בית Hamikdash was built in the second year of the reign of Darius the Great. According to Seder עולם, Darius was defeated 34 years later by Alexander. As such, it is clear the the בית Hamikdash was built in year 352 BCE (34 years before Alexander conquered the Persians in year 318). As such, the Hamikdash lasted 420 years (as it was destroyed in year 69 according to עבודה זרה 9a. Also, there is no year 0. We go from 1 BCE to 1 CE).[^757]
 - According to conventional chronology, Darius the Great began his reign in year 519 BCE (making the בית Hamikdash built in year 520 BC) and Alexander conquered Darius III instead, in year 331. This was 189 years.
 - According to conventional history, the בית Hamikdash lasted 589 years (from the second year of Darius the Great in 520 BCE until 70 CE. There is no year 0).[^757]
-- The 420 years of the בית Hamikdash is also recorded in Tosefta Zevachim 13:3, Yoma 9a, Eruchin 12b and Avodah Zara 9a.
+- The 420 years of the בית Hamikdash is also recorded in Tosefta Zevachim 13:3, Yoma 9a, Eruchin 12b and עבודה זרה 9a.
 - The 420 years (vs 589) can be calculated in other ways:
 - Method 1:
 - There were 5 leader between the Shimon Hatzadik (the last of the Anshei kneses hagidolah) and when Hillel began leading the people (he was the 6th).[^758]
@@ -3658,7 +3658,7 @@
 - According to conventional history, Hillel would have began his leadership in the 489th year of the בית Hamikdash. This would mean that there were 5 leaders lasting 489 years, an average of nearly 82 years of leadership each. This is unlikely.
 - רש"י says that Shimon Hatzadik led for 40 years after the Anshei Kneses Hagidolah. However, that would still leave around 75 year averages for each leader.
 - According to the Jewish calculations, Hillel started his leadership in year 320 of the בית Hamikdash. That would leave an average of 64 years per leader or, if we take רש"י's opinion, 56 years. This is much more reasonable.
-- (I am not  sure what to make of the fact that they seemed to live much longer in those days. Rebbi Akiva lived until he was 120 year sold. Also, therse calculations assume that the Anshei Kneses Hagidolah didn't last for nearly any length of time. However, even if we add a few years, I don't think it will make much of difference.)
+- (I am not  sure what to make of the fact that they seemed to live much longer in those days. Rebbi עקיבא lived until he was 120 year sold. Also, therse calculations assume that the Anshei Kneses Hagidolah didn't last for nearly any length of time. However, even if we add a few years, I don't think it will make much of difference.)
 - In 1917, the monarchy in Russia (the Romanoff Dynasty) fell and were replaced by the Bolsheviks, led by Vladimir Lenin.[^763]
 - A civil war broke out for control of the country. The White Army wanted to return Russia to the way it was (it was a mixed group but it had more upper class people) and the Red Army of the Bolsheviks (which was largely peasants) which was led by Leon Trotsky.[^763]
 - There were other armies as well. Poland, Lithuania, Ukraine, and Georgia (and perhaps others) were all fighting mostly against the Red Army. [^763]
@@ -3681,24 +3681,24 @@
 - Yochanan Kohen גדול (the father of Matisyahu the Chashmonai) lived at the same time as יהושע בן Prachia and Nitai Ha'Arbeili.[^766]
 - יהושע בן Prachia and Nitai Ha'Arbeili were the 3rd generation leaders after Shimon Hatzadik.[^767]
 - The Chanukah story (which Matisyahu was a part of) happened near the end of the Greek Empire or around 385 years after the בית Hamikdash was built.[^768] (I Googled it and saw that Matisyahu Chashmonai's death, happened in year 166 BC,[^769] which would only be about 350 years after the construction of the בית Hamikdash, counting from year 520 BCE as previously mentioned).
-- Even if we assume that Yochanan Kohen גדול lived 85 years before the Chanuka story, that would still mean that he (along with יהושע בן Prachia and Nitai Ha'Arbeili) lived 300 years after the building of the בית Hamikdash (or 265 according to my cheshbon).[^768]
+- Even if we assume that Yochanan Kohen גדול lived 85 years before the Chanuka story, that would still mean that he (along with יהושע בן Prachia and Nitai Ha'Arbeili) lived 300 years after the building of the בית Hamikdash (or 265 according to my חשבון).[^768]
 - יהושע בן Prachia and Nitai Ha'Arbeili were the 3rd generation of leaders after Shimon Hatzadik. Even with רש"י's opinion that Shimon Hatzadik led after the end of the Anshei Kneses Hagidolah, that would still mean that there are 260 (or 225) years with only 3 generation of people in charge. That sounds implausible.[^768]
 - According to Seder עולם there are around 140 years during this time. This is much more reasonable.[^768] (If you assume that Matisyahu died in 166 BC, then there are 186 years from the building of the בית Hamikdash (in year 352 BC) until the death of Matisyahu, or 146 according to רש"י).
 - Method 3:
 - Shimon Hatzadik met Alexander the Great.[^770]
-- According to conventional history, Alexander came to Eretz ישראל in 332 BCE (before having defeated the Persians).[^771] This would be about 180 years after the בית Hamikdash was built. Shimon Hatzadik would have had to live to an incredible age, and we don't have any sources for this.[^768]
-- According to Jewish history, Alexander defeated Darius 34 years after he built the בית Hamikdash, which means that Alexander came to Eretz ישראל in less than that.[^768]
+- According to conventional history, Alexander came to ארץ ישראל in 332 BCE (before having defeated the Persians).[^771] This would be about 180 years after the בית Hamikdash was built. Shimon Hatzadik would have had to live to an incredible age, and we don't have any sources for this.[^768]
+- According to Jewish history, Alexander defeated Darius 34 years after he built the בית Hamikdash, which means that Alexander came to ארץ ישראל in less than that.[^768]
 - Method 4:
-- Ezra Hasofer's father was killed around the end of the First בית Hamikdash.[^772] That would mean that Ezra was at latest born around that time.
+- עזרא Hasofer's father was killed around the end of the First בית Hamikdash.[^772] That would mean that עזרא was at latest born around that time.
 - There were 70 years between the destruction of the first בית Hamikdash and the building of the second.[^773]
-- Shimon Hatzadik was the Kohen גדול after Ezra[^774] for 40 years[^775] (this might be what Rabbi Hool meant that we know that Shimon Hatzadik led for 40 years because I don't think רש"י says it).
-- As we know that Shimon Hatzadik met Alexander, that would mean that Ezra was alive at most 40 years before this meeting (meaning, assuming that Shimon Hatzadik met Alexander at the end of his life).[^776]
-- According to conventional history, Ezra would have to have lived from around 586 BCE (when the first בית Hamikdash was destroyed according to conventional history[^777]) until 292 BCE (40 years before Alexander came to Eretz ישראל), around 300 years.[^776]
+- Shimon Hatzadik was the Kohen גדול after עזרא[^774] for 40 years[^775] (this might be what Rabbi Hool meant that we know that Shimon Hatzadik led for 40 years because I don't think רש"י says it).
+- As we know that Shimon Hatzadik met Alexander, that would mean that עזרא was alive at most 40 years before this meeting (meaning, assuming that Shimon Hatzadik met Alexander at the end of his life).[^776]
+- According to conventional history, עזרא would have to have lived from around 586 BCE (when the first בית Hamikdash was destroyed according to conventional history[^777]) until 292 BCE (40 years before Alexander came to ארץ ישראל), around 300 years.[^776]
 - Method 5:
 - Chagai, Zechariah, and Malachi were alive at the time of the building of the second בית Hamikdash and died around the beginning of the Greek era.[^778] (I think they were alive during the destruction of the first.)
 - According to conventional chronology, the Greek era began around 188 years after the building of the second בית Hamikdash. This would mean that they would all need to be at least 180 years old.[^776]
 - According to the Jewish tradition, the Greek era began 34 years after the construction of the second בית Hamikdash.[^776]
-- See Emunos Videi'os פרק 8 pg 259-260, Maayanei Hayeshua pg 288-289 and 375-376, ספר Hayuchsin Maamar 1 and 6, Tzemach Dovid part 2 pg 186-191, and Jewish History in Conflict by Mitchell First (Also, somewhere in the beginning of Berrel Wien's book on Jewish History on that time he has a footnote the mentions something that discusses this topic.)
+- See Emunos Videi'os פרק 8 pg 259-260, Maayanei Hayeshua pg 288-289 and 375-376, ספר Hayuchsin Maamar 1 and 6, Tzemach דוד part 2 pg 186-191, and Jewish History in Conflict by Mitchell First (Also, somewhere in the beginning of Berrel Wien's book on Jewish History on that time he has a footnote the mentions something that discusses this topic.)
 - Sources for conventional chronology:
 - Ptolemy's Canon/Royal Canon. A king list from the neo-Babylonians, Persians, Greeks, Romans, and Byzantine. It is known that Ptolemy (70-165 CE) had this list. It is believed that he got this information from a Greek named Hipparchus (2nd century BCE).[^779]
 - It gives the following lengths of reigns (the years these occurred is given as assumed by conventional chronology):[^779]
@@ -3754,9 +3754,9 @@
 - Many people who had supported Stalin and helped him gain power were killed.[^784]
 - These trials showed the Soviet people and foreign powers that there were enemies within the state, but Stalin waws taking care of them. (It seems that many thought that these trials were legitimate.)[^784]
 - Between 700,000 and 1.2 million were killed. Most were executed but many were sent to gulags (forced labor camps).[^784]
-- Further evidence from Tanach that Alexander defeated the Persians much earlier than conventional chronology alleges:
+- Further evidence from תנ"ך that Alexander defeated the Persians much earlier than conventional chronology alleges:
 - Daniel had a dream which was interpreted to mean that Media and Persia would conquer the world. Then, a Greek king (seemingly, Alexander) would come along and defeat Persia. However, the Greek king would suddenly die and his kingdom would be divided into four parts.[^785]
-- During the 3rd year of Cyrus (according to Rabbi Hool. I didn't look into what the passuk says), a malach tells Daniel that there would be 3 more kings for Persia followed by a fourth who would be defeated by the Greek king.[^786]
+- During the 3rd year of Cyrus (according to Rabbi Hool. I didn't look into what the פסוק says), a malach tells Daniel that there would be 3 more kings for Persia followed by a fourth who would be defeated by the Greek king.[^786]
 - It is clear that there were only 4 Persian kings before Alexander (I am confused by the word "more" in the malach's נבואה. It sounds like after Cyrus there would be another 4 kings, making 6 in total, including Daryaveish Hamadi). This refers to Cyrus, Achashveirosh, and Daryaveish. The fourth king is either a Median (Daryaveish Hamadi, maybe? רש"י doesn't say) or a different king named במבישה, a son of Cyrus, who ruled before Achashveirosh[^787] (Bardiya? He ruled before Darius and after Achashveirosh, assuming Achashveirosh was Cambyses).
 - The Uruk King list lists Cyrus, Cambyses, and Darius on the front. On the back, it has Ni din-Bel, Darius, Alexander, (and the continues with more Greek kings).[^788]
 - The list is missing all of the kings that, according to conventional chronology, occur after Darius the Great. This fits with our theory.[^788]
@@ -4019,7 +4019,7 @@
 - All of the errors have the Babylonian date one day later. That means that the Babylonian month started a day earlier than expected. If the Elephantine people were making a mistake due to bad weather, they would have began the month later (meaning, if the new moon was obscured by clouds, they would have called the month one day later).[^841]
 - It seems unlikely that there would have been 2 day mistakes, so this would not explain those 2 day mistakes.[^841]
 - As such, by looking at the Egyptian dates and Persian king years, we can know how many days apart two of the Elephantine Papyri letters were written. We can then look at the Babylonian dates.[^841]
-- תורה should only be given over to talmidim who are "ראוי והגון".<span style="visibility:hidden">l</span>[^834] (This seems to go against the way many ראשונים learn "העמידו תלמידים הרבה" in addition to the way the מדרש שמואל himself learns it. They all seem to say that תורה should be taught to anyway, except for people who have bad intentions.)
+- תורה should only be given over to talmidim who are "ראוי והגון".&lrm;[^834] (This seems to go against the way many ראשונים learn "העמידו תלמידים הרבה" in addition to the way the מדרש שמואל himself learns it. They all seem to say that תורה should be taught to anyway, except for people who have bad intentions.)
 - (Also says that one should be careful when making judgements to take a while and think it over.[^842])
 - (Also says that one can't postpone the giving over the דין once the judges have come to their decision.[^842])
 - A person needs to wait until they have learned enough before paskening shaylos.[^842]
@@ -4028,23 +4028,23 @@
 - (Also says that the משנה might be saying like בית Hillel that one should accept all talmidim and not like בית Shamai that one should only take the talmidim who are yarei shamayim and have good מדות.[^843] (He says this as a possible pshat in the משנה ("…ואפשר"). Perhaps earlier when he talked about rejecting talmidim who aren't the best he was giving a possible pshat that fit with בית Shamai and now he is giving a possible pshat like בית Hillel.))
 - However, the rebbi should not teach all talmidim the same things. The greater and more proper talmidim should be taught the deeper secrets of the תורה, while those talmidim who are not so good should be taught less and through מתוך שלא לשמה בה לשמה, these talmidim will improve.[^843] (Perhaps this is what the מדרש Shmuel earlier was referring to, namely, that talmidim shouldn't just be taught everything that they want to learn. The rebbi has to teach each תלמיד according to his level.)
 - Potential Shmuz:
-- After כלל ישראל conquered כנען and divided the land, Reuven, Gad, and half of Menashe left the rest of כלל ישראל. Upon doing this, they immediately built a mizbeach. During that time it was אסור to bring karbanos on bamos as the משכן is Shilo was set up.[^844] ^cc43d7
+- After כלל ישראל conquered כנען and divided the land, ראובן, גד, and half of Menashe left the rest of כלל ישראל. Upon doing this, they immediately built a מזבח. During that time it was אסור to bring karbanos on bamos as the משכן is Shilo was set up.[^844] ^cc43d7
 - כלל ישראל sent a delegation to reprimand them for doing this.[^844]
 - This was done in part because of fear that Hashem would punish the rest of כלל ישראל for this,[^845] and because they didn't want the rest of כלל ישראל to be influenced by this.[^846]
-- Perhaps we see the power of influence. We are talking about a great generation who saw many miracles in the conquering of Eretz ישראל. They obviously knew that it was wrong (the leaders, like יהושע and Pinchas presumably told them). So why would they have been effected? Why do you need to send a delegation over to confront them?[^7]
+- Perhaps we see the power of influence. We are talking about a great generation who saw many miracles in the conquering of ארץ ישראל. They obviously knew that it was wrong (the leaders, like יהושע and פנחס presumably told them). So why would they have been effected? Why do you need to send a delegation over to confront them?[^7]
 - We see the power of influence. If a delegation was not sent over to confront them, that would show a lack of disapproval and that could negatively affect some people.[^7]
-- <span style="color:rgb(255, 192, 0)">Counter:</span> The רלב"ג is clear that this was a particularly bad aveirah. The reason why bamos are אסור is because we want one place to serve Hashem to emphasize the fact that Hashem is one. Avodah zaros were served all over the place. This was to show a separation between Hashem and Avodah zara. Perhaps this only applies to very serious עבירות. Less serious עבירות may not have an impact.[^7]
-- <span style="color:rgb(255, 192, 0)">Counter:</span> The people sinning are frum people (or, at least, they thought they were). Perhaps that has a stronger impact then seeing someone not frum do an aveirah.[^7]
+- <span style="color:rgb(255, 192, 0)">Counter:</span> The רלב"ג is clear that this was a particularly bad עבירה. The reason why bamos are אסור is because we want one place to serve Hashem to emphasize the fact that Hashem is one. עבודה זרות were served all over the place. This was to show a separation between Hashem and עבודה זרה. Perhaps this only applies to very serious עבירות. Less serious עבירות may not have an impact.[^7]
+- <span style="color:rgb(255, 192, 0)">Counter:</span> The people sinning are frum people (or, at least, they thought they were). Perhaps that has a stronger impact then seeing someone not frum do an עבירה.[^7]
 - Potential Shmuz:
-- Reuven, Gad, and half of Menashe responded that they had pure intentions. They did not plan on bringing korbanos on the mizbeach they were building. (There is no איסור to build a mizbeach if one doesn't bring korbanos on it. I thought there might be a problem imitating the כלים of the משכן. Perhaps this wasn't an imitation (it may have had different dimensions) or maybe there is no such problem. I am not sure.)[^847] ^ae8c6d
-- They built it because of fear that the children of the rest of the rest of כלל ישראל would make fun of their children and say that Hashem doesn't have the same relationship with them.[^845] This would cause their children to have less yiras shomayim.[^848] This mizbeach would be a sign that this claim was not true and that they had the same relationship with Hashem.[^849]
-- Why would the children of Reuven, Gad, and Menashe be effected? These claims are not true. They can can just speak to the leader of their times and find out that these claims aren't true.[^7]
-- It seems that this may not have been enough. They still would have been effected by the claims from some of those living in Eretz ישראל proper. We see how much we are affected by others, even when they are wrong and easily disproven.[^7]
-- <span style="color:rgb(255, 192, 0)">Counter:</span> It could be that they really wouldn't have been affected, but it doesn't take much effort to build this mizbeach to take care of the issue, rather then have to go get the leaders and ask them the question.[^7]
+- ראובן, גד, and half of Menashe responded that they had pure intentions. They did not plan on bringing korbanos on the מזבח they were building. (There is no איסור to build a מזבח if one doesn't bring korbanos on it. I thought there might be a problem imitating the כלים of the משכן. Perhaps this wasn't an imitation (it may have had different dimensions) or maybe there is no such problem. I am not sure.)[^847] ^ae8c6d
+- They built it because of fear that the children of the rest of the rest of כלל ישראל would make fun of their children and say that Hashem doesn't have the same relationship with them.[^845] This would cause their children to have less yiras shomayim.[^848] This מזבח would be a sign that this claim was not true and that they had the same relationship with Hashem.[^849]
+- Why would the children of ראובן, גד, and Menashe be effected? These claims are not true. They can can just speak to the leader of their times and find out that these claims aren't true.[^7]
+- It seems that this may not have been enough. They still would have been effected by the claims from some of those living in ארץ ישראל proper. We see how much we are affected by others, even when they are wrong and easily disproven.[^7]
+- <span style="color:rgb(255, 192, 0)">Counter:</span> It could be that they really wouldn't have been affected, but it doesn't take much effort to build this מזבח to take care of the issue, rather then have to go get the leaders and ask them the question.[^7]
 - <span style="color:rgb(146, 208, 80)">Counter (to previous point):</span> perhaps the לשון is not so משמע this. The לשון isn't משמע that this was done to prevent the effort to go find the גדולים. It is משמע that it was done to prevent the loss of yiras shomayim.[^7]
 - <span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps people may not have expended the effort to go find out that they really did have the same place with Hashem, and these people would have been negatively effected.[^7]
-- Hashem doesn't cause Eretz ישראל to grow more than other places. Produce of every place is decided based on the מצוות of the people.[^850]
-- Hashem doesn't punish people for planning on doing an aveirah that they did yet not commit.[^851]
+- Hashem doesn't cause ארץ ישראל to grow more than other places. Produce of every place is decided based on the מצוות of the people.[^850]
+- Hashem doesn't punish people for planning on doing an עבירה that they did yet not commit.[^851]
 - WWI massively changed the economic landscape of the world. European countries had borrowed $14 billion from the US. Britain, until the war, was the most powerful country. After the war, the US had 50% of the world's production.[^852]
 - India was under British control. They strongly supported Britain in the war, supplying many troops, supplies, and money.[^853] As such, they hoped for independence now that the war was over. However, Britain maintained their control over India.[^852]
 - This led to wide protests in India. In April 1919, British soldiers fired for 10 minutes into an unarmed crowd, killing almost 400 and injuring hundreds more. This act was largely supported by people in Britain and the government. This created more negative feelings in India against Britain.[^852]
@@ -4131,10 +4131,10 @@
 - The Red Air Force defeated the Luftwaffe and established air superiority. They were further able to attack the German ground troops.[^865]
 - By the end of July, the Germans were retreating.[^865]
 - Germans suffered 50,000 casualties and lost 700 tanks.[^865]
-- Hashem blessed כלל ישראל because they did not immediately start fighting against the Reuven, Gad, and half of Menashe. They first spoke to them about what they were doing.[^866] ^697ef2
+- Hashem blessed כלל ישראל because they did not immediately start fighting against the ראובן, גד, and half of Menashe. They first spoke to them about what they were doing.[^866] ^697ef2
 - It turned out that not only were they not doing something wrong, they were even doing something that would protect the rest of כלל ישראל from doing the wrong thing and receiving punishment.[^867]
-- I don't really understand why they would have attacked them immediately without hearing what they had to say. It seems to me that perhaps they would have done this because they thought it was obvious that they had bad intentions by making this mizbeach (as מפרשים, the Mincha Ketana in particular, explain).[^7]
-- This perhaps indicates how difficult it is to hold back on out judgement and to be willing to challenge out initial assumptions. This generation was on a very high מדרגה. In addition, Gad, Reuven, and half of Menashe hadn't done anything that made it seem that they would suddenly start rebelling against Hashem. In addition, in truth, they were doing nothing wrong and, in fact, were doing something that would help prevent the rest of כלל ישראל from being עובר an aveirah. Yet, it seems that it was difficult for the rest of כלל ישראל to be patient and listen to what Gad, Reuven, and half of Menashe had to say for themselves.[^7]
+- I don't really understand why they would have attacked them immediately without hearing what they had to say. It seems to me that perhaps they would have done this because they thought it was obvious that they had bad intentions by making this מזבח (as מפרשים, the מנחה קטנה in particular, explain).[^7]
+- This perhaps indicates how difficult it is to hold back on out judgement and to be willing to challenge out initial assumptions. This generation was on a very high מדרגה. In addition, גד, ראובן, and half of Menashe hadn't done anything that made it seem that they would suddenly start rebelling against Hashem. In addition, in truth, they were doing nothing wrong and, in fact, were doing something that would help prevent the rest of כלל ישראל from being עובר an עבירה. Yet, it seems that it was difficult for the rest of כלל ישראל to be patient and listen to what גד, ראובן, and half of Menashe had to say for themselves.[^7]
 - A indication about what one's true intentions are when one plans on delivering tochacha can be seen from what one's reaction is if it turns out that the tochacha does not need to be delivered. If the person is upset, then it is probably from a bad middah. If the person is happy that the ratzon of Hashem had not been violated, then this is a sign that they had proper intentions.[^868]
 - The Germans were being pushed back throughout 1943.[^869]
 - Hitler took increased control of the army. He basically never allowed his army to retreat until it was too late.[^869]
@@ -4206,14 +4206,14 @@
 - France and German made a treaty signed in October 1925. This allowed Germany to regain economic footing.[^875]
 - Within a year, Germany was allowed to join the League of Nations. Relations between Germany and the other European countries improved.[^875]
 - However, extremism on the right and left were increasing in German.[^875]
-- According to the Alter, the reason why the כלל ישראל stayed in מצרים from Rosh Hashana until פסח was so Hashem could show his presence in the world to the Bnei ישראל. Each makka added something to כלל ישראל's אמונה.[^876]
+- According to the Alter, the reason why the כלל ישראל stayed in מצרים from Rosh Hashana until פסח was so Hashem could show his presence in the world to the בני ישראל. Each makka added something to כלל ישראל's אמונה.[^876]
 - The briah is constantly being recreated for each person.[^876]
 - Rebbi Question: Why does Hashem constantly recreate the world? Hashem is always watching the world and has hasgacha pratis. The Alter looks at the makkos as Hashem constantly recreating the world. What is this added element that the world is being constantly recreated, over classic hashgacha pratis.[^876]
-- Answer: Elsewhere, the Alter says similar. The Alter says that Hashem constantly keeps the land above the water. This raises for us a level achrayus and chashivus. Hashem is doing this for every single person, individually. Hashem creates the world for every single person (bishvili nivra haolam). As such, every moment, Hashem is recreating the world every moment for us. That means that our actions are of such importance. The whole briah is being recreated for every individual every moment. This means that, our actions at every moment warrant the creation of the world. That gives our actions tremendous importance, and puts on us a tremendous achrayis.[^876]
+- Answer: Elsewhere, the Alter says similar. The Alter says that Hashem constantly keeps the land above the water. This raises for us a level achrayus and חשיבות. Hashem is doing this for every single person, individually. Hashem creates the world for every single person (bishvili nivra haolam). As such, every moment, Hashem is recreating the world every moment for us. That means that our actions are of such importance. The whole briah is being recreated for every individual every moment. This means that, our actions at every moment warrant the creation of the world. That gives our actions tremendous importance, and puts on us a tremendous achrayis.[^876]
 - Sometimes, we feel, "who cares about what I am doing?". This perspective is totally incorrect.[^876]
 - The Alter says that this is why there is a הלכה to put geulah before tefillah. A person should refocus on this perspective when one is about to start davening shemonah esrei.[^876]
-- A bochur was invited to the seder of the Chofetz חיים. The bochur asked his rebbi Reb Yeruchim what he should do. Reb Yeruchim told him that he should go home.[^876]
-- The ספר that quoted this story said that the reason for this was because the point of the seder is to connect back to your parents, back to their parents, etc. That is the point of the seder. To instill that connection back and back and back to the first seder. Going to the Chofetz חיים's seder wouldn't instill this.[^876]
+- A bochur was invited to the seder of the חפץ חיים. The bochur asked his rebbi Reb Yeruchim what he should do. Reb Yeruchim told him that he should go home.[^876]
+- The ספר that quoted this story said that the reason for this was because the point of the seder is to connect back to your parents, back to their parents, etc. That is the point of the seder. To instill that connection back and back and back to the first seder. Going to the חפץ חיים's seder wouldn't instill this.[^876]
 - The "עיקר" is to make fences around what the תורה assurs to make sure that one doesn't accidentally come to violate the תורה's commands. When one does this, their intent should be to protect themselves from violating the תורה's commandments, not to add on something extra.[^877]
 - יהושע was chosen as the leader after משה because he was mekabel everything from משה.[^878]
 - חז"ל were able to maintain the continuation of תורה perfectly until the Anshei Kneses Hagidolah, despite the churban which should have caused problems with the transition. This was because of the rachamei shamayim.[^879]
@@ -4249,18 +4249,18 @@
 - In effect, this gave the Nazis tremendous control over Germany.[^883]
 - The communists were not popular in Germany. The rich and poor did not like collectivization as they saw it in the Soviet Union.[^883]
 - (Says that one should have many talmidim to be able to discuss cases with them)[^884]
-- This will cause one to be able to arrive at the truth, and therefore, deliver psakim, faster to avoid עינוי הדין.<span style="visibility:hidden">l</span>[^884]
+- This will cause one to be able to arrive at the truth, and therefore, deliver psakim, faster to avoid עינוי הדין.&lrm;[^884]
 - (Says that one should have many talmidim to increase the overall knowledge of תורה in the world)[^884]
 - (Says that one should have many talmidim because it is difficult to know who will become great. If one has many talmidim, the odds are that some will be)[^884]
 - According to our calculations, the 15th year of Xerxes' reign was year 300 BCE (Darius' last year was year 317 BCE and Xerxes began his reign 3 years later in 314 after a 3 year gap as has been discussed previously). Historians established that the 15th year of Xerxes' reign was the 11th year in the leap year cycle. Historians also established that year 300 BCE was also the 11th year of a leap year cycle.[^885]
 - Balak "fought" with כלל ישראל. By hiring Bilam, Balak showed that if he was able to actually fight with כלל ישראל than he would have and a machshava is considered like maaseh.[^885]
 - It seems that machshava is like a maaseh for bad things. However, this may be only when one has already took concrete steps that indicate the machshava. Also, this may only be for goyim.[^7]
-- כלל ישראל stayed true to the ratzon Hashem while the zikanim who led with יהושע were alive (14 years after יהושע died[^886]). This was because the zikanim saw the nissim in מצרים and so were able to keep כלל ישראל on the straight an narrow.[^887] (While there were others who were alive who saw the nissim, they couldn't save the generation as they weren't talmidei חכמים. The zikanim, who were the leaders, were able to keep כלל ישראל from doing bad.[^888]) (According to the Radak[^889] this is referring to the nissim done by יהושע (crossing the Yardein, stopping the sun, and the victories). According to the Radak, it would seem that כלל ישראל stayed true to the ratzon Hashem for a long time.)
-- I would have thought that seeing more nissim wouldn't have made such a difference. This seems to show that: ^b251dd
-	- It seems that one can continue to gain more levels of אמונה. The other zikanim also saw nissim. They saw the nissim in the midbar and conquering Eretz ישראל. Yet, seeing more nissim increases one's אמונה. (I don't know if this is such a חידוש, though. Obviously משה had a higher level of אמונה than the zikanim).[^7]
+- כלל ישראל stayed true to the ratzon Hashem while the zikanim who led with יהושע were alive (14 years after יהושע died[^886]). This was because the zikanim saw the נסים in מצרים and so were able to keep כלל ישראל on the straight an narrow.[^887] (While there were others who were alive who saw the נסים, they couldn't save the generation as they weren't talmidei חכמים. The zikanim, who were the leaders, were able to keep כלל ישראל from doing bad.[^888]) (According to the רד"ק[^889] this is referring to the נסים done by יהושע (crossing the Yardein, stopping the sun, and the victories). According to the רד"ק, it would seem that כלל ישראל stayed true to the ratzon Hashem for a long time.)
+- I would have thought that seeing more נסים wouldn't have made such a difference. This seems to show that: ^b251dd
+	- It seems that one can continue to gain more levels of אמונה. The other zikanim also saw נסים. They saw the נסים in the מדבר and conquering ארץ ישראל. Yet, seeing more נסים increases one's אמונה. (I don't know if this is such a חידוש, though. Obviously משה had a higher level of אמונה than the zikanim).[^7]
 	- We see how important the leadership is. This seemingly small difference in the leadership made the difference in what happened with כלל ישראל.[^7]
-	- <span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps the Metzudas Dovid was going with the Radak's pshat and so the later zikanim didn't see any nissim at all, as opposed to the earlier zikanim who saw the nissim during the times of יהושע.[^7]
-	- <span style="color:rgb(146, 208, 80)">Counter (to previous point):</span> The Metzudas Dovid says that these zikanim lived for 14 years after יהושע died and יהושע led for 14 years. Unless the next zikanim were younger than 28 years old, they also would have seen the nissim that happened in the conquest of Eretz ישראל.
+	- <span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps the מצודת דוד was going with the רד"ק's pshat and so the later zikanim didn't see any נסים at all, as opposed to the earlier zikanim who saw the נסים during the times of יהושע.[^7]
+	- <span style="color:rgb(146, 208, 80)">Counter (to previous point):</span> The מצודת דוד says that these zikanim lived for 14 years after יהושע died and יהושע led for 14 years. Unless the next zikanim were younger than 28 years old, they also would have seen the נסים that happened in the conquest of ארץ ישראל.
 - There was a significant difference between the נבואה of יהושע and Asniel בן Kinaz,[^890] potentially the same difference as there was between משה and יהושע.[^891]
 - כלל ישראל cut off the thumbs and big toes of one of the kings they defeated. This was because Hashem "put it into their minds" to do this as this was midah kineged midah as the king himself did this to other kings he defeated. This would seem to be the pshat as it is somewhat against the הלכה, which is simply to kill the kings, not torture them.[^892]
 - Perhaps this is an indication that Hashem can sometimes directly influence one's bechirah.[^7]
@@ -4276,7 +4276,7 @@
 	- מצוות: Bein אדם lamakom.
 	- Mishpatim: Bein אדם lachaveiro.
 - כלל ישראל was hated by the other nations even when כלל ישראל followed the gods of the other nations and their laws (or religion? The word used is "דת" but it is in the context of serving their gods). This is unnatural, as when one nations takes on the gods and laws of another, it becomes accepted by them. Here, the opposite happened. As such, it was clearly the hand of Hashem.[^897] (I don't really understand why it can't be that the nations were angry at כלל ישראל for taking their land?[^7])
-- <span style="visibility:hidden">l</span>י-ה-ו-ה can refer to the fact that Hashem is the creator of the world, while אלקים (or אלקי ישראל/אבותם) can refer to the fact that Hashem chose us as his people and has particular hashgacha on us (to the exclusion of anything else).[^898]
+- &lrm;י-ה-ו-ה can refer to the fact that Hashem is the creator of the world, while אלקים (or אלקי ישראל/אבותם) can refer to the fact that Hashem chose us as his people and has particular hashgacha on us (to the exclusion of anything else).[^898]
 - Because Hashem is the only being that has hashgacha on us, it is אסור for כלל ישראל to serve other gods with Hashem (שיתוף), even if the person still believes that Hashem created the world.[^898] (This seems to imply that non-Jews have other forces which act with hashgacha over them, and for this reason, שיתוף may be muttar. This is interesting as it would explain why שיתוף may be muttar for non-Jews. It also is interesting that it seems that "matters of chance" can happen to non-Jews.[^7])
 - Hashem may punish כלל ישראל by removing His hashgacha from כלל ישראל and allowing natural consequences to play out. If כלל ישראל keeps doing עבירות, then Hashem may actively punish כלל ישראל and even in situations where naturally כלל ישראל should be successful, Hashem will make them unsuccessful.[^899]
 - Calev offered his daughter in marriage for anyone who conquered Kiryat Sefer. Asniel בן Kinaz did this and married her.[^900]
@@ -4493,7 +4493,7 @@
 	- One will receive tremendous punishment if they do not fix up their מדות.[^954]
 	- A person who does not conduct business honestly and isn't patient with people is in a poor predicament. (This doesn't seem to be following הלכה. How does this indicate the point that even if one does follow הלכה it is vital to have good מדות? Perhaps somehow this person is following הלכה. Or perhaps the intensity of the punishment shows that this is not an ordinary הלכה. The הלכות relating to acting with good מדות are of primary importance.[^7])
 	- We see that Abaye lived 20 years longer than Rava because Abaye engaged in gemilus chasadim.[^955] (It is difficult to imagine that Rava didn't also do gemilus chasadim. I assume that Rava also engaged in gemilus chasadim but less than Abaye.[^7])
-- דרך Eretz is also part of the תורה and was given over at הר Sinai.[^956]
+- דרך ארץ is also part of the תורה and was given over at הר Sinai.[^956]
 - Without תורה, one will not believe that there is any purpose to acting with proper מדות and the only reason why one would act with proper מדות is for recognition, or because he has some natural drive to act that way. He will also believe that the only reason why people don't harm him is because of enforcement of law.[^956]
 - משה was able to receive the תורה because of his extreme humility. [^957]
 - It is not clear why the Greeks distorted the Persian history. Some possible theories:[^958]
@@ -4551,7 +4551,7 @@
 - Hitler though that now that Britain was alone, they would soon ask to negotiate a peace with the Germans.[^966]
 - One thing to keep in mind is that while the mashalim about Hashem are helpful, they are far from perfect.[^965]
 - Another point about ratzon is that a ratzon implies a lack of something. A mother has a certain "need" to help her child. This is not true about Hashem's ratzon.[^965]
-- (I am not fully sure about the idea that we can't go deeper than someone's bedrock ratzon. A person may have a certain ratzon because it makes them feel good. People have a desire for kavod, or for friendship, or for food, because it gives them a pleasurable feeling. And even this pleasurable feeling we can say comes from certain chemicals released in the brain. Either the משל doesn't go farther than ratzon when it comes to Hashem, or perhaps for non-physical things, like friendship, we can ask why the brain releases the chemicals when one spends time with friends or whatever it is. I am not sure about this second point.)
+- (I am not fully sure about the idea that we can't go deeper than someone's bedrock ratzon. A person may have a certain ratzon because it makes them feel good. People have a desire for כבוד, or for friendship, or for food, because it gives them a pleasurable feeling. And even this pleasurable feeling we can say comes from certain chemicals released in the brain. Either the משל doesn't go farther than ratzon when it comes to Hashem, or perhaps for non-physical things, like friendship, we can ask why the brain releases the chemicals when one spends time with friends or whatever it is. I am not sure about this second point.)
 - Three reasons why it is important to understand what Hashem's underlying ratzon for מצוות are:
 	- It gives us structure to the מצוות. This makes it easier for us to accept them.[^965]
 	- This gives us the ability to do lifnim meshuras hadin. For example, someone can think that the purpose of שבת is to spend time with one's family and so one invites his whole family every week. While that may be very nice, that is not the point of שבת.[^965] (I think R' Lopiansky might be referring to reasons for מצוות. IDK if  ones needs to know deepest levels of ratzon. שבת for example, is about Hashem created the world in 6 days and rested on 7th. Testimony of אמונה. There may be deeper levels but IDK if that is necessary.)
@@ -4560,9 +4560,9 @@
 	- Hashem's goodness (meaning kindness. "למען טובו יתברך")
 	- Hashem's emes. ("חותם של הקב"ה אמת")
 	- Hashem's honor/glory. ("למען כבודו יתברך")
-- Honor/glory hard to relate to as ratzon. Seems ugly. Even if not ugly (classic response, Hashem really deserves kavod. People don't really deserve kavod), why does Hashem care about what we say about him. (Perhaps somewhat invalid question. Can't really ask about bedrock ratzon.)[^965]
-- This helps us get an appreciation for Hashem's greatness. We give a גדול kavod for same reason. גדול doesn't want kavod. But we do it to strengthen our appreciation for what the גדול represents (being an eved Hashem).[^965]
-- Different groups have their own understanding of the baseline ratzon of Hashem (chassidim vs misnagdim, etc.). As long as it fits with all מצוות and is based on passukim, it is valid. This is "אלו ואלו".<span style="visibility:hidden">l</span>[^965]
+- Honor/glory hard to relate to as ratzon. Seems ugly. Even if not ugly (classic response, Hashem really deserves כבוד. People don't really deserve כבוד), why does Hashem care about what we say about him. (Perhaps somewhat invalid question. Can't really ask about bedrock ratzon.)[^965]
+- This helps us get an appreciation for Hashem's greatness. We give a גדול כבוד for same reason. גדול doesn't want כבוד. But we do it to strengthen our appreciation for what the גדול represents (being an עבד Hashem).[^965]
+- Different groups have their own understanding of the baseline ratzon of Hashem (chassidim vs misnagdim, etc.). As long as it fits with all מצוות and is based on פסוקים, it is valid. This is "אלו ואלו".&lrm;[^965]
 - While Britain had a vast empire of colonies, it was not able to bring those soldiers in, at least at the beginning of the war.[^967]
 - Hitler offered Britain the right to keep its colonies if it wouldn't interfere with Germany's plans to take over the rest of Europe.[^967]
 - Chamberlain refused to surrender. The British people were strongly in favor of this.[^967]
@@ -4605,7 +4605,7 @@
 - During the capture of Malaya, Japanese planes destroyed 2 British capital ships. This showed that even powerful ships require air cover. Battleships and cruisers were becoming far less important that aircraft carriers.[^977][^980]
 - In April 1942, the US bombed Japanese cities. B-25 bombers were launched off of carriers, even though they were not designed for carrier takeoffs.[^977] This attack increased American morale.[^981]
 - Japan decided to capture the Solomon Islands, Papua New Guinea, and Midway, to be able to have a string of fortified bases around Japan.[^977]
-- After משה, there was no נבואה until Shmuel (not sure if this is literal because יהושע had נבואה). Shmuel then improved the מדות of כלל ישראל and נבואה came back until Chagai.[^982] (It sounds like the Tiferes ישראל is taking the opinion that there was no נבואה during the days of the shoftim until Shmuel because כלל ישראל was not on the proper מדרגה.)
+- After משה, there was no נבואה until Shmuel (not sure if this is literal because יהושע had נבואה). Shmuel then improved the מדות of כלל ישראל and נבואה came back until Chagai.[^982] (It sounds like the Tiferes ישראל is taking the opinion that there was no נבואה during the days of the שופטים until Shmuel because כלל ישראל was not on the proper מדרגה.)
 - There were many on the Anshei Kneses Hagidolah that had נבואה.[^983]
 - They saw that נבואה was at an end and so they made many takanos to protect the תורה for the future.[^983]
 - A person shouldn't jump to conclusions about other people. Don't make hasty judgements.[^984]
@@ -4620,7 +4620,7 @@
 		- כלל ישראל left מצרים 400 years later (year 2448).[^986]
 		- The first בית Hamikdash was built 480 years later (year 2928)[^987] and stood for 410 years (year 3338).[^988]
 		- The second בית Hamikdash was built 70 years later (year 3408)[^989] and stood for 420 years (year 3828).[^988]
-		- The current system we use to count the Jewish year is different than the system used in Tanach and Seder עולם. In the current system, the year of creation is counted as year 2 (called Molad Bahard). So if we adjust our calculations to use Molad Baharad, the second בית Hamikdash was destroyed in year 3829.
+		- The current system we use to count the Jewish year is different than the system used in תנ"ך and Seder עולם. In the current system, the year of creation is counted as year 2 (called Molad Bahard). So if we adjust our calculations to use Molad Baharad, the second בית Hamikdash was destroyed in year 3829.
 		- The current Jewish year is 5785. The second בית Hamikdash was destroyed 1956 years ago (5785 - 3829 = 1956). The current secular year is 2025. This means that the second בית Hamikdash was destroyed in year 69 CE (2025 - 1956 = 69).
 	- Method 2:
 		- The fall of the Persian Empire occurred in 318 BCE.[^989]
@@ -4678,13 +4678,13 @@
 - In September 1940, the Italians invaded Egypt and made some progress. In December Britain counterattacked and pushed Italy out of Egypt and halfway through Libya (called Operation Compass).[^1011]
 - The Italians had over 130,000 soldiers captured, over 5000 killed, and lost hundreds of tanks and planes. Britain lost under 600 soldiers and a several dozen planes.[^1012] (I don't know how many tanks but I assume not many.)
 - The British also invaded Abyssinia in June 1940 and were victorious by November 1941.[^1013]
-- According to Seder עולם {I don't know where}, Achashveirosh of the megillah ruled between Cyrus and Darius the Great.[^1014]
-- This doesn't fit the standard chronology. According to the standard chronology, there was only one king who ruled for more than a few months during that time and that was Cambyses II (the son of Cyrus). He ruled for 8 years (9 if you count his accension year). According to the megillah, Achashveirosh ruled for at least 12 years.[^1014]
+- According to Seder עולם {I don't know where}, Achashveirosh of the מגילה ruled between Cyrus and Darius the Great.[^1014]
+- This doesn't fit the standard chronology. According to the standard chronology, there was only one king who ruled for more than a few months during that time and that was Cambyses II (the son of Cyrus). He ruled for 8 years (9 if you count his accension year). According to the מגילה, Achashveirosh ruled for at least 12 years.[^1014]
 - The accepted belief is that Achashveirosh is Xerxes. This is because Xerxes' name in Old Persian is Khshayarsha, which is somehat similar to Achashveirosh. However, there are a few problems with this:
 	- The previously mentioned Seder עולם.[^1014]
-	- Esther was a tzadeikes {<span style="color:rgb(255, 0, 0)">need primary source</span>}.[^1014] Xerxes' wife, named Amestris, was known for her cruelty (at least according to the Greek historians, which may be inaccurate).[^1014][^1015]
-	- The simple reading of the megillah sounds like the Jews were in exile at the time of the purim story (like 2:5-6 which talks about how מרדכי was exiled from Yerushalayim).[^1014]
-	- The מדרש {<span style="color:rgb(255, 0, 0)">need source</span>} says that the feast at the beginning of the megillah was thrown in celebration that the "70 years" predicted for the galus had passed without כלל ישראל being redeemed.[^7]
+	- אסתר was a tzadeikes {<span style="color:rgb(255, 0, 0)">need primary source</span>}.[^1014] Xerxes' wife, named Amestris, was known for her cruelty (at least according to the Greek historians, which may be inaccurate).[^1014][^1015]
+	- The simple reading of the מגילה sounds like the Jews were in exile at the time of the purim story (like 2:5-6 which talks about how מרדכי was exiled from Yerushalayim).[^1014]
+	- The מדרש {<span style="color:rgb(255, 0, 0)">need source</span>} says that the feast at the beginning of the מגילה was thrown in celebration that the "70 years" predicted for the galus had passed without כלל ישראל being redeemed.[^7]
 - In April 1939, Italy occupied Albania. In October 1940, they invaded Greece. The Italians heavily outnumbered the Greeks but by March 1941, they had been pushed out of Greece and were being driven out of Albania. Britain then sent troops from Libya to help.[^1016]
 - In April, Hitler decides to send 500,000 German troops through Yugoslavia into Albania and Greece to help his Italian allies.[^1016]
 - He quickly makes progress and pushes all the way to the southern tip of Greece.[^1016]
@@ -4697,13 +4697,13 @@
 - In the retreat, Australian troops got trapped in the port city of Tobruk, Libya, behind German lines. Allied attempts to break through and rescue them failed.[^1018]
 - In November, the Allies were finally successful and pushed the Axis forces back deep into Libya. However, the equipment needed to be repaired and the troops needed to recover.[^1018]
 - In January 1942, Rommel advanced again. The Allied forces were recovering and didn't expect Rommel's forces to be ready again so soon, so they were caught off-guard. The Axis made quick progress.[^1018]
-- The aroma of a food (reicha) has kashrus significance.[^1019]
+- The aroma of a food (ריחה) has כשרות significance.[^1019]
 - As such, לכתחילה one should avoid cooking dairy (or meat) foods with meat (or dairy) in the same enclosed space. In addition, one should avoid cooking parve foods with meat (or dairy) if one wants to eat it with dairy (or meat).[^1019]
 - בדיעבד, both foods may be eaten unless:
 	- The enclosed space had not vents. This is not relevant to most modern ovens, but is relevant to microwaves.[^1019]
 	- If one of the foods was sharp.[^1019]
 	- Parve foods cooked with meat (or dairy) can't be eaten with dairy (or meat) as this is not considered בדיעבד as one can simply choose not to eat the food with the dairy (or meat).[^1019]
-- If either of the foods is completely covered with a tight covering then reicha is not an issue (although there are others).[^1019]
+- If either of the foods is completely covered with a tight covering then ריחה is not an issue (although there are others).[^1019]
 - If one is cooking food in a hotel they should double wrap it because of non-kosher residue on the shelves.[^1019]
 - New vaccines are tested against established vaccines that are effective against a particular disease if there is an established vaccine. This is because it is considered unethical not give the control group anything real.[^1020]
 - Germany pushed the Allies back to El Alamein by July 1942. The Allies set up defenses here which stretched from the Mediterranean in the North to a depression in the south that was impassable to tanks.[^1021]
@@ -4907,7 +4907,7 @@
 - Some rebelions in camps, but hopeless.[^1041]
 - Most people didn't believe holocaust at first.[^1041]
 - However, leaders knew more than they let on. Knew in 1941 to some degree from reports about German killing Jews in su and 1942 about deportations in France.[^1042] {Come back to article in prev footnote.}
-- Judge may think to judge fast to be able to judge many cases and avoid tiring out judge and people (similar to what Yisro told משה). That is חידוש of משנה.[^1043]
+- Judge may think to judge fast to be able to judge many cases and avoid tiring out judge and people (similar to what יתרו told משה). That is חידוש of משנה.[^1043]
 - Have many talmidim. Will increase personal knowledge of תורה. Person may think that difficult to have many talmidim. That is חידוש of משנה.[^1043]
 - Person may think too many מצוות to do. Make gedarim. That will help.[^1043] (Interesting to me that making more restrictions can help.)
 - Person tempted to judge fast to show off intelligence. Have many talmidim who appreciate your תורה will help. Also, making gedarim will work on your מדות.[^1043]
@@ -4966,13 +4966,13 @@
 - 100k Philippine civilians killed. Many massacred by Japanese.[^1045]
 - Philippines mission took many US lives, as feared by critics of plan.[^1045]
 - US navy blockaded Japan. Running out of supplies by late 1944.[^1045]
-- Shimon Hatzadik was last of anshei kneses hagidolah. He didn't arrive with Ezra.[^1053] He was a Cohen Kadol.[^1054]
-- Famous story that he dressed in bigdei Cohen גדול and went out to meet Alexander the Great. Alexander bowed to Shimon Hatzadik because Alexander saw visions of Shimon Hatzadik before going out to war.[^1055] He was Cohen גדול at that time.[^1056]
-- Without תורה, the avodah in the בית Hamikdash, and gemilus chasadim, the world would cease to exist.[^1057] (I don't think it means that this is constantly required every second. The avodah didn't happen at night. I assume it means it happens in ongoing basis. רש"י doesn't mention if tefillah took the place of avodah, but I assume it does.[^7])
+- Shimon Hatzadik was last of anshei kneses hagidolah. He didn't arrive with עזרא.[^1053] He was a כהן Kadol.[^1054]
+- Famous story that he dressed in bigdei כהן גדול and went out to meet Alexander the Great. Alexander bowed to Shimon Hatzadik because Alexander saw visions of Shimon Hatzadik before going out to war.[^1055] He was כהן גדול at that time.[^1056]
+- Without תורה, the עבודה in the בית Hamikdash, and gemilus chasadim, the world would cease to exist.[^1057] (I don't think it means that this is constantly required every second. The עבודה didn't happen at night. I assume it means it happens in ongoing basis. רש"י doesn't mention if tefillah took the place of עבודה, but I assume it does.[^7])
 - Lending money to a poor person is greater that giving him money as he doesn't feel bad about it.[^1058] (We see the importance of a person's feelings. The receiver would get to keep the money (which may be a lot) if it was given to him as a gift, but still, this is not worth the pain.[^7]) ^c640a0
 - {There is a רמב"ם here but I don't understand him.}
 - Danial 6 1 says that Darius the Mede became ruler of Chaldea (part of the Babylonian Empire) after the fall of the Babylonians.[^1059]
-- According to Josephus and ancient Persian texts (presented by Ibn Ezra Daniel 6 1) Darius the Mede was Cyrus's father-in-law. Gave empire to Cyrus after dying.[^1059]
+- According to Josephus and ancient Persian texts (presented by Ibn עזרא Daniel 6 1) Darius the Mede was Cyrus's father-in-law. Gave empire to Cyrus after dying.[^1059]
 - Herodotus (lived shortly after), Xenophon, a Babylonian Chronicle (BM 35382 also called the Nabonidus Chronicle), and Cyrus Cylinder don't mention Darius the Mede and portray Cyrus as main figure in conquest.[^1059]
 - Cyrus was the ruler of the Persians for many years before conquest of Babylonia.[^1059]
 - Uruk King List and standard King List show Cyrus ruling right after Nabonidus.[^1059] (Nabonidus was last Babylonian King. Belshazzar was acting king under Nabonidus. {Need source})
@@ -4984,7 +4984,7 @@
 - It seems that Darius the Mede is another name for Cyrus.
 - According to Herodotus and Xenophon, Cambyses's was partially Median (his father's mother's father was Astyages, the Median king Cyrus defeated).[^1060]
 - Darius was sometimes used as a throne name (like pharaoh of Egypt).[^1060]
-- Many people in Tanach went by multiple names. (שרה and Yiskah, Shifrah and Yocheved, Puah and Miriam, Yisro had multiple names, Daniel and Hasach, and others.)[^1060]
+- Many people in תנ"ך went by multiple names. (שרה and Yiskah, Shifrah and Yocheved, Puah and Miriam, יתרו had multiple names, Daniel and Hasach, and others.)[^1060]
 - Yeshaya 45 1 says that Cyrus was the main person in the conquest of Babylonia. This contradicts a theoretical new person Darius the Mede who conquered Babylonia.[^1060]
 - Daniel 5 31 says that Darius the Mede was 62 years old at the time of the conquest of Babylonia. According to Cicero, Cyrus died at 70. According to the standard king list, Cyrus ruled for 9 years, making him around 62.[^1060] (He would have been 61, I think, if we don't count the accension year. Perhaps Cicero was off by a year.[^7] How this fits wit Seder עולם will be explained later.)
 - Probs:
@@ -4995,9 +4995,9 @@
 - Numerous cuneiform tablets refer to Cambyses as the King of Babylon, many of them dated to Cyrus's first year of rule over Babylon.[^1060]
 - None of the cuneiform tablets are dated to a second year of Cambyses in Babylon. This fits with Seder עולם who says that Cambyses ruled for only a year.[^1060]
 - Darius the Mede is called the son of Achashveirosh. Achashveirosh was another throne name for Cyrus.[^1060]
-- Hashem created the world because people were going to learn/keep the תורה (it isn't clear to me which רבינו Yonah is saying, or if he means both), do the avodah,[^1062] which today is accomplished through davening,[^1063] and do acts of gemilus chasadim. This fulfills Hashem's ratzon.[^1062]
+- Hashem created the world because people were going to learn/keep the תורה (it isn't clear to me which רבינו Yonah is saying, or if he means both), do the עבודה,[^1062] which today is accomplished through davening,[^1063] and do acts of gemilus chasadim. This fulfills Hashem's ratzon.[^1062]
 - This is why Hashem created the world. There are other things that people do that cause Hashem to keep the world in existence.[^1062]
-- Dovid created perakim in Tehillim and davened to Hashem about to forgive him for his עבירה (רבינו Yonah calls it an עבירה) with Bassheva. He couldn't bring a korban because korbanos aren't brought for something done bimeizid.[^1062] (I assume that רבינו Yonah is not disagreeing with the 'גמ (I think it is a 'גמ) that says that uses strong language against anyone who says that Dovid was עובר an עבירה with Bassheva. However, his language, and the fact that Dovid would have brought a korban (and davened in its place because davening can replace korbanos) shows that this was serious.[^7])
+- דוד created perakim in Tehillim and davened to Hashem about to forgive him for his עבירה (רבינו Yonah calls it an עבירה) with Bassheva. He couldn't bring a korban because korbanos aren't brought for something done bimeizid.[^1062] (I assume that רבינו Yonah is not disagreeing with the 'גמ (I think it is a 'גמ) that says that uses strong language against anyone who says that דוד was עובר an עבירה with Bassheva. However, his language, and the fact that דוד would have brought a korban (and davened in its place because davening can replace korbanos) shows that this was serious.[^7])
 - Campaign in China Burma and India.[^1064]
 - Allies viewed Shanghai Shek in China as pro west. Sent aid through Burma along "Burma Road".[^1064]
 - Japan attacked and defeated Britain in Burma in 1942.[^1064]
@@ -5080,11 +5080,11 @@
 - Germany divided into 4 zones. Berlin in SU zone, but also divided into 4.[^1067]
 - ![[Pasted image 20250516002722.png]][^1067]
 - Europe divided between Western and Russian influence.[^1067]
-- Shimon Hatzadik was by the beginning of the second בית Hamikdash. He was the Cohen גדול after Ezra.[^1068]
-- תורה (not sure if this means learning תורה or keeping the תורה), avodah, and gemilus chasadim is the way that one becomes a shaleim.[^1068]
+- Shimon Hatzadik was by the beginning of the second בית Hamikdash. He was the כהן גדול after עזרא.[^1068]
+- תורה (not sure if this means learning תורה or keeping the תורה), עבודה, and gemilus chasadim is the way that one becomes a shaleim.[^1068]
 - The whole briah was created for one to become a shaleim which is the best way to serve Hashem.[^1068] (I think this is what the Meiri is saying.)
-- Shleimus means fixing one's מדות, followed by acquiring knowledge of nature of Hashem (as much as humans can), followed by strengthening one's belief in the fact that the world was created, there is hashgacha on the world, and there is schar an onesh.[^1069]
-- Shimon Hatzadik didn't come with Ezra at the beginning of the Second בית Hamikdash. Most of the Anshei Kineses Hagidolah was nifter in his days.[^1070]
+- שלמות means fixing one's מדות, followed by acquiring knowledge of nature of Hashem (as much as humans can), followed by strengthening one's belief in the fact that the world was created, there is hashgacha on the world, and there is schar an onesh.[^1069]
+- Shimon Hatzadik didn't come with עזרא at the beginning of the Second בית Hamikdash. Most of the Anshei Kineses Hagidolah was nifter in his days.[^1070]
 - The worlds continued existence is predicated on people doing מצוות of the heart (like davening and having אמונה), מצוות of the mouth (like learning תורה), and מצוות of body (seems like most מצוות).[^1071]
 - The מצוות of the heart are greater than the מצוות of the mouth and the מצוות of the mouth and greater than the מצוות of the body. This is because מצוות of the heart utilize the "siechel ruchani" (which is perhaps inspirational thoughts that carry strong feeling. This is seemingly the most elevated pursuit), the מצוות of the mouth utilize the "seichel nefesh" (which sounds like logical thought. This is a less purely ruchnious form of thought), and the מצוות of the body utilize the body (which is the more phyical than thought).[^1071]
 - Germany lost WWI 1918. Kaiser abdicated. Civil unrest. Physically country okay cuz war was outside Germany.[^1072]
@@ -5190,11 +5190,11 @@
 - Radical policies increased dramatically.[^1075]
 - The רמב"ם has "yesodos" about Judaism. that obviously doesn't mean that you are allowed to not believe any part of the תורה. It just means that these are logical baseline assertions that without them, the rest of the the religion falls apart.[^1076]
 - One yesod is that משה נבואה was super clear and exact. Without believing this, one is not able to believe in the תורה because the תורה as we have it was only as good as משה was able to receive it from Hashem.[^1076]
-- It is clear to all neviim that they are receiving a נבואה and the message must be rather precise. Why didn't Avraham doubt that he heard right or wonder if he really received a נבואה at all when Hashem told him to kill יצחק? It must be that the נבואה is clear for all neviim (even if not as clear as it was with משה).[^1076]
-- Even before the תורה, Hashem provided ways for one to know what is good. The 'גמ (I think) says how one can look at the way the animals act and know what is proper. Cats act with tznius, for example. (I don't really get this. Who cares what the animals do?)[^1076]
+- It is clear to all neviim that they are receiving a נבואה and the message must be rather precise. Why didn't אברהם doubt that he heard right or wonder if he really received a נבואה at all when Hashem told him to kill יצחק? It must be that the נבואה is clear for all neviim (even if not as clear as it was with משה).[^1076]
+- Even before the תורה, Hashem provided ways for one to know what is good. The 'גמ (I think) says how one can look at the way the animals act and know what is proper. Cats act with צניעות, for example. (I don't really get this. Who cares what the animals do?)[^1076]
 - In addition, we have a conscience.[^1076]
 - However, for most people, neither of these things are precise. We can't learn the exact הלכות of geneiva, for example, from our conscience.[^1076]
-- For some, though, like Avraham Avinu, they were able to do this.[^1076]
+- For some, though, like אברהם Avinu, they were able to do this.[^1076]
 - Beginning of 1945, Allies making progrress toward Japan.[^1077]
 - Japan largely blockaded.[^1077]
 - Japan kept fighting. Hoped to achieve better surrender terms. Hoped US wouldn't want to suffer severe losses that were necessary for victory.[^1077]
@@ -5605,7 +5605,7 @@
 - A person should not put themselves in risky situations because:[^1152]
 	- They may get themselves killed and one is not allowed to commit suicide. One is not allowed to murder anyone including themselves. Murdering oneself can be considered even worse, similar to murdering a close relative, as one is supposed to have rachmanus on close relatives, and certainly oneself.
 	- Hashem may save the person through miraculous means. This takes away from a person's zechusim.
-- The חובות הלבבות was משמע to me that one's life would not be cut short because one put themselves at risk. It just seems to be an aveirah of suicide if one is dies. There is a classic opinion that if one puts themselves at risk then Hashem may decide to kill the person, either because there is an aveirah of putting yourself at risk (whether or not the person dies), or simply being in a risky situation, regardless how you got there, can get one killed (see [[Execution of עכן#Hashem Removed His Hashgacha|here]]. To be precise, only the מלבי"ם referenced there explicitly says that when one is in a dangerous place, one is more likely to die. The רלב"ג would seem to agree, but he doesn't explicitly say so). To me it seems that the חובות הלבבות would potentially argue on this and say that a person can't affect what Hashem wants to do to a person. It would seem that Hashem would prevent a person who isn't supposed to die yet from doing anything that will certainly result in their death (like jumping off a building). Either Hashem can prevent certain thoughts and ideas from going into their head (as discussed [[General Hashkafa#Hashem may Affect Peoples' Decisions|here]]) or Hashem may make their plan unsuccessful (they may not make it to their destination).[^7]
+- The חובות הלבבות was משמע to me that one's life would not be cut short because one put themselves at risk. It just seems to be an עבירה of suicide if one is dies. There is a classic opinion that if one puts themselves at risk then Hashem may decide to kill the person, either because there is an עבירה of putting yourself at risk (whether or not the person dies), or simply being in a risky situation, regardless how you got there, can get one killed (see [[Execution of עכן#Hashem Removed His Hashgacha|here]]. To be precise, only the מלבי"ם referenced there explicitly says that when one is in a dangerous place, one is more likely to die. The רלב"ג would seem to agree, but he doesn't explicitly say so). To me it seems that the חובות הלבבות would potentially argue on this and say that a person can't affect what Hashem wants to do to a person. It would seem that Hashem would prevent a person who isn't supposed to die yet from doing anything that will certainly result in their death (like jumping off a building). Either Hashem can prevent certain thoughts and ideas from going into their head (as discussed [[General Hashkafa#Hashem may Affect Peoples' Decisions|here]]) or Hashem may make their plan unsuccessful (they may not make it to their destination).[^7]
 - We also see how bad suicide is. Although I wonder if in a way a person is more understandable to commit suicide. There is a natural feeling that one's life is their own and one can do with it what they want, while one can't hurt someone else. In addition, someone who is suicidal probably has less rachmanus on themselves for whatever reason. The fact that they have to live with themselves makes them more likely for them to have less rachmanus on themselves, more so than for anyone else. A person may hate themselves for having a lack of self control (people who are obsessive about what they eat) or are depressed because they aren't successful, or whatever reason it is that they are suicidal.[^7]
 - Also, as mentioned, there are those שיטות (definitely the מלבי"ם and probably the רלב"ג) who hold that if one is in a dangerous situation, even if they rightfully put themselves there, this can cause them to get killed.[^7]
 - Reigns of Egyptian kings during Neo-Babylonian era (called the Saite period):[^1153]
@@ -5634,20 +5634,20 @@
 - There is corroboration from tablete BM 30650. This tablet is dated to the 11th year, but the second "1" is written over a "0". Historians assume that this was a mistake. The scribe meant to write "1" and accidentally wrote "10", thinking that it was the 10th year of Cyrus. However, Cyrus had died and it was the 1st year of Cambyses. He couldn't get rid of his mistake, so the scribe tried to just rewrite "1".[^1153]
 - It seems hard to believe that the scribe forgot about the death of Cyrus.[^1153]
 - An alternative is that this refers to the 10th year of Cambyses. If we count Cambyses reign from the beginning of his time under Cyrus, his 1st year as the actual ruler was actually the 10th year from when he began his rule under Cyrus. The scribe's mistake is more understandable.[^1153]
-- According to numerous Jewish sources, Achashveirosh from Megillas Esther ruled between Cyrus and Darius:[^1154]
-	- Esther Rabbah 8 says Darius was the son of Achashveirosh. (Also see ויקרא רבה 13, תרגום Esther 7:2, and Massechta Kallah chapter 2)
-	- Megillah 11b says Achashveirosh made the feast 70 years after Yechoniah was sent into gallus. This comes out between Cyrus and Darius.
-	- מדרש Lekach טוב (in Hakdama to Esther Rabbah) says that Achashveirosh was the son of Koresh. (תרגום Sheni 1:1 says that Achashveirosh was the son of Darius the Mede, but it has already been discussed that this is actually Achashveirosh <span style="color:rgb(255, 0, 0)">{maybe put this earlier?}</span>. Also, Megillah 12b says that Achashveirosh was a stable boy for Belshazzar. However, perhaps that may have been before he became king of Persia.)
+- According to numerous Jewish sources, Achashveirosh from מגילת אסתר ruled between Cyrus and Darius:[^1154]
+	- אסתר Rabbah 8 says Darius was the son of Achashveirosh. (Also see ויקרא רבה 13, תרגום אסתר 7:2, and Massechta Kallah chapter 2)
+	- מגילה 11b says Achashveirosh made the feast 70 years after Yechoniah was sent into gallus. This comes out between Cyrus and Darius.
+	- מדרש Lekach טוב (in Hakdama to אסתר Rabbah) says that Achashveirosh was the son of Koresh. (תרגום Sheni 1:1 says that Achashveirosh was the son of Darius the Mede, but it has already been discussed that this is actually Achashveirosh <span style="color:rgb(255, 0, 0)">{maybe put this earlier?}</span>. Also, מגילה 12b says that Achashveirosh was a stable boy for Belshazzar. However, perhaps that may have been before he became king of Persia.)
 	- Seder עולם <span style="color:rgb(255, 0, 0)">{not sure where}</span>
 - Regular historians disagree with this because:[^1154]
-	- Cambyses rules for only 8 years according to Ptolemy's king list, Herodotus, and almost 1000 Cuneiform texts which only have until Cambyses 8th year. Achashveirosh ruled for at least 12 (see Esther 3:7)
+	- Cambyses rules for only 8 years according to Ptolemy's king list, Herodotus, and almost 1000 Cuneiform texts which only have until Cambyses 8th year. Achashveirosh ruled for at least 12 (see אסתר 3:7)
 	- Historians discovered that the Persian name for Xerxes in Khshayarsha which is close to the Aramaic name for Achashveirosh: Chashirash. (I though I heard that the "X" made "ח" sound, so if you replace the "x"s in Xerxes with "ח"s, it is similar to Achashveirosh. I need to see if I hear this correctly.)
-- In response to the second point, there are other Persian kings also called Achashveirosh who were not the Achashveirosh from the megillah (see Daniel 9:1).[^1154]
-- It has been shown that Achashveirosh was a throne name. As such, even if Xerxes also went by Achashveirosh, that does not mean that he is the Achashveirosh from Megillas Esther. In fact, the name "Artaxerxes", if you replace the "Arta" with "Acha" and the "x"s with "sh"s, the name becomes very similar to "Achashveirosh". Many Persian kings had the name Artaxerxes. This would further indicate that this was a throne name (like "Pharaoh" in Egypt).[^1154]
+- In response to the second point, there are other Persian kings also called Achashveirosh who were not the Achashveirosh from the מגילה (see Daniel 9:1).[^1154]
+- It has been shown that Achashveirosh was a throne name. As such, even if Xerxes also went by Achashveirosh, that does not mean that he is the Achashveirosh from מגילת אסתר. In fact, the name "Artaxerxes", if you replace the "Arta" with "Acha" and the "x"s with "sh"s, the name becomes very similar to "Achashveirosh". Many Persian kings had the name Artaxerxes. This would further indicate that this was a throne name (like "Pharaoh" in Egypt).[^1154]
 - There are also some difficulties:
-	- מרדכי was exiled with Yechonia (Esther 2:6) and the simple reading of the megillah is that this story happened during that exile. That exile ended in the 2nd year of Darius' reign, 34 years before Xerxes came to power.[^1154]
-	- Xerxes wife (Amistris) was the daughter of a Persian military commander, married him in his 3rd year, and stayed married until he died. Esther was the daughter of Avichayil (seemingly a Jewish person and not a Persian general) and married Achashveirosh in his 7th year. Additionally, Amistris was extremely cruel and vengeful. That is not the way Esther is described by חז"ל.[^1154]
-	- As discussed earlier, the Persian Empire was a vassal under the Greeks, beginning with Xerxes. Additionally, according to everyone, the land of Israel was under Greek control during the Greek empire. This would mean that Haman's decree from the Megillah, given with a 12 month warning, didn't really mean so much. If Achashveirosh is Xerxes, Ezra, and many other Jews were in Israel. The rest of the Jews could have moved there, (or anywhere not under the influence of the diminished Persian Empire).[^1154]
+	- מרדכי was exiled with Yechonia (אסתר 2:6) and the simple reading of the מגילה is that this story happened during that exile. That exile ended in the 2nd year of Darius' reign, 34 years before Xerxes came to power.[^1154]
+	- Xerxes wife (Amistris) was the daughter of a Persian military commander, married him in his 3rd year, and stayed married until he died. אסתר was the daughter of Avichayil (seemingly a Jewish person and not a Persian general) and married Achashveirosh in his 7th year. Additionally, Amistris was extremely cruel and vengeful. That is not the way אסתר is described by חז"ל.[^1154]
+	- As discussed earlier, the Persian Empire was a vassal under the Greeks, beginning with Xerxes. Additionally, according to everyone, the land of Israel was under Greek control during the Greek empire. This would mean that Haman's decree from the מגילה, given with a 12 month warning, didn't really mean so much. If Achashveirosh is Xerxes, עזרא, and many other Jews were in Israel. The rest of the Jews could have moved there, (or anywhere not under the influence of the diminished Persian Empire).[^1154]
 # Footnotes
 
 [^1]: סימן 445 סעיף 1 ס"ק 3
@@ -5661,8 +5661,8 @@
 [^9]: סימן 445 סעיף 1 ס"ק 7
 [^10]: סימן 445 סעיף 1 ס"ק 8
 [^11]: רלב"ג on יהושע 10 12 ד"ה אז (near the end of the first paragraph)
-[^12]: מלבי"ם on יהושע 11 20 ד"ה כי (based on the Radak there)
-[^13]: Radak on יהושע 11 20 ד"ה לחזק
+[^12]: מלבי"ם on יהושע 11 20 ד"ה כי (based on the רד"ק there)
+[^13]: רד"ק on יהושע 11 20 ד"ה לחזק
 [^14]: סימן 445 ס"ק 9
 [^15]: סימן 445 ס"ק 5
 [^16]: סימן 445 סעיף 2 ס"ק 10
@@ -5711,7 +5711,7 @@
 [^59]: ילקוט שמעוני רמז נט (ח טו)
 [^60]: בראשית ח יד רבינו בחיי ד"ה יבשה הארץ
 [^61]: ילקוט שמעוני רמז נט (ח טו) (With Rabbi Harris's explanation, which I assume was from the מפרשים there)
-[^62]: Shmuz 8512 Rabbi Harris Nov/1/24 Motzai שבת Shmuz
+[^62]: Shmuz 8512 Rabbi Harris Nov/1/24 מוצאי שבת Shmuz
 [^63]: שמות רבה סדר כי תשא מז ה (לד כח) (With Rabbi Harris's explanation, which I assume was from the מפרשים there)
 [^64]: :גמרא ע"ז י
 [^65]: בראשית רבה סדר בראשית יח ב (ב כב)
@@ -5811,7 +5811,7 @@
 [^159]: Israel: A History : Chapter 5 (pg 85)
 [^160]: Berishis 27:27
 [^161]: בראשית רבה סדר תולדות סה:כב (כז:כז)
-[^162]: Shmuz 8518 Rabbi Harris Nov/30/24 Motzai שבת Shmuz
+[^162]: Shmuz 8518 Rabbi Harris Nov/30/24 מוצאי שבת Shmuz
 [^163]: ויקרא ה:יז רש"י ד"ה ולא ידע ואשם ונשא עונו {<span style="color:rgb(255, 0, 0)">רש"י here is quoting a Sifra. I should get the original source</span>}
 [^164]: :מנחות נג
 [^165]: :מנחות נג (With Rabbi Harris's explanation)
@@ -5854,7 +5854,7 @@
 [^202]: Feeling Good : Chapter 7 (pg 176-177)
 [^203]: Tiferes Dovid : Chapter 6 page 62-63
 [^204]: Tiferes Dovid : Chapter 6 footnote 68
-[^205]: Tiferes Dovid : Chapter 6 footnote 69 (Quoting the Introduction to Shaalos Vitshuvos Chasam Sofer, חלק 10, D"H zos he tiferes kol אדם)
+[^205]: Tiferes Dovid : Chapter 6 footnote 69 (Quoting the Introduction to Shaalos Vitshuvos חתם סופר, חלק 10, D"H zos he tiferes kol אדם)
 [^206]: Mishlei 2:4-5
 [^207]: Feeling Good : Chapter 8 (pg 178-181)
 [^208]: Feeling Good : Chapter 8 (pg 181-183)
@@ -5921,8 +5921,8 @@
 [^269]: [Wikipedia : Biltmore Conference (specific location in article)](https://en.wikipedia.org/wiki/Biltmore_Conference#:~:text=Prior%20to%20this,of%20the%20movement.)
 [^270]: Israel: A History : Chapter 6 (pg 112-115)
 [^271]: [Wikipedia : Biltmore Conference (specific location in article)](https://en.wikipedia.org/wiki/Biltmore_Conference#:~:text=The%20Biltmore%20Conference%2C%20also%20known%20by%20its%20resolution%20as%20the%20Biltmore%20Program%2C)
-[^272]: Rema Yoreh De'ah סימן 242 סעיף 30 as presented by Tiferes Dovid : Chapter 7 page 68
-[^273]: Chasam Sofer Shaalos Vitshuvos חלק 14 Maamar Pesuchei Chosem D"H Upeh as presented by Tiferes Dovid : Chapter 7 page 68-69
+[^272]: רמ"א יורה דעה סימן 242 סעיף 30 as presented by Tiferes Dovid : Chapter 7 page 68
+[^273]: חתם סופר Shaalos Vitshuvos חלק 14 Maamar Pesuchei Chosem D"H Upeh as presented by Tiferes Dovid : Chapter 7 page 68-69
 [^274]: Based on the Sforno in דברים 32:15 presented by Tiferes Dovid : Chapter 7 footnote 77
 [^275]: Israel: A History : Chapter 6 (pg 115-117)
 [^276]: [Encyclopedia Britannica : Gulf of Aqaba](https://www.britannica.com/place/Gulf-of-Aqaba)
@@ -5932,7 +5932,7 @@
 [^280]: Toldos Rav יוסף Zundel Misalant as presented by Tiferes Dovid : Chapter 7 page 70
 [^281]: [Marginal Revolution University : Who Pays the Tax?](https://mru.org/courses/principles-economics-microeconomics/tax-burden-elasticity-affordable-care-act-health-insurance-mandate)
 [^282]: [Marginal Revolution University : Tax Revenue and Deadweight Loss](https://mru.org/courses/principles-economics-microeconomics/deadweight-loss-definition-yacht-tax)
-[^283]: שיירי משכיל להגר"ה מקאלמייא כלל ב פרט כ in the name of the Chasam Sofer, as presented by Tiferes Dovid : Chapter 7 footnote 80
+[^283]: שיירי משכיל להגר"ה מקאלמייא כלל ב פרט כ in the name of the חתם סופר, as presented by Tiferes Dovid : Chapter 7 footnote 80
 [^284]: [Marginal Revolution University : Subsidies](https://mru.org/courses/principles-economics-microeconomics/subsidies-definition-subsidy-wedge)
 [^285]: [Marginal Revolution University : Wage Subsidies](https://mru.org/courses/principles-economics-microeconomics/wage-subsidies-minimum-wage-earned-income-tax-credit)
 [^286]: [Marginal Revolution University : A Price Is a Signal Wrapped up in an Incentive](https://mru.org/courses/principles-economics-microeconomics/price-system-spontaneous-order)
@@ -6010,7 +6010,7 @@
 [^358]: Tiferes Dovid : Chapter 9 page 81
 [^359]: Feeling Good : Chapter 14 (pg 309-318)
 [^360]: מדרש רבה ויקרא Parsha 14:5 (12:2) (as presesnted by Rabbi Opoczynski)
-[^361]: Shmuz 8528 Rabbi Opoczynski Jan/11/25 Motzai שבת Shmuz
+[^361]: Shmuz 8528 Rabbi Opoczynski Jan/11/25 מוצאי שבת Shmuz
 [^362]: ברכות יז. ד"ה העושה שלא לשמה נוח לו שלא נברא
 [^363]: אור ישראל Igeres 29
 [^364]: 'בראשית טו ו רש"י ד"ה והאמן בה
@@ -6041,7 +6041,7 @@
 [^389]: ויקרא רבה Parsha 27:1 (on ויקרא 22:27) as presented by Tiferes Dovid : Chapter 9 page 81-82
 [^390]: ספר חזון איש פרק תורה Os 21 as presented by Tiferes Dovid : Chapter 9 footnote 96
 [^391]: Israel: A History : Chapter 9 (pg 153-156)
-[^392]: Shaalos Vitshuvos Chasam Sofer חלק 14 Maamar Pesuchei Chosem D"H Zos Hi Tiferes as presented by Tiferes Dovid : Chapter 9 page 83-84 and footnote 97
+[^392]: Shaalos Vitshuvos חתם סופר חלק 14 Maamar Pesuchei Chosem D"H Zos Hi Tiferes as presented by Tiferes Dovid : Chapter 9 page 83-84 and footnote 97
 [^393]: 2:4-5
 [^394]: בראשית 39:12 with רמב"ן there
 [^395]: Akiva Rodin Friday Chabura shmuz 1/17/2025
@@ -6410,7 +6410,7 @@
 [^758]: Avos (I think a few different mishnayos mention who came after who) as presented by The Challenge of Jewish History : Chapter 2 (pg 21-22)
 [^759]: שבת 15a as presented by The Challenge of Jewish History : Chapter 2 (pg 21-22)
 [^760]: רש"י, Meiri, and Bartenura on משנה in Avos (not sure which but i think 1:2) as presented by The Challenge of Jewish History : Chapter 2 (footnote 6)
-[^761]: רמב"ם hakdama to ספר Hayad and Pirush Hamishna as presented by The Challenge of Jewish History : Chapter 2 (footnote 6)
+[^761]: רמב"ם hakdama to ספר Hayad and פרוש Hamishna as presented by The Challenge of Jewish History : Chapter 2 (footnote 6)
 [^762]: Peah 2:6 as presented by The Challenge of Jewish History : Chapter 2 (footnote 8)
 [^763]: [YouTube : Timeline - World History Documentaries : 1922 - 1991: The Complete History Of The Soviet Union](https://www.youtube.com/watch?v=8S3d8EhHy74&t=581s) (2:50 - 11:30)
 [^764]: [Wikipedia : General Secretary of the Communist Party of the Soviet Union (specific location in article)](https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union#:~:text=Stalin%2C%20elected%20General%20Secretary%20at%20the%2011th%20Party%20Congress%2C%20used%20the%20office%20to%20appoint%20loyalists%20to%20positions%20in%20the%20party%20and%20create%20a%20strong%20power%20base%20for%20himself.)
@@ -6429,7 +6429,7 @@
 [^777]: [Wikipedia : Solomon's Temple (specific location in article)](https://en.wikipedia.org/wiki/Solomon%27s_Temple#:~:text=A%20decade%20later,13%E2%80%9317)
 [^778]: ספר HaKabalah; Seder עולם Zutah (don't know where)
 [^779]: The Challenge of Jewish History : Chapter 3 (pg 26-30)
-[^780]: Seder עולם Chapter 30 and Avodah Zara 10a presented by The Challenge of Jewish History : Chapter 4 (pg 31-34)
+[^780]: Seder עולם Chapter 30 and עבודה זרה 10a presented by The Challenge of Jewish History : Chapter 4 (pg 31-34)
 [^781]: The Challenge of Jewish History : Chapter 4 (pg 31-34)
 [^782]: [YouTube : Timeline - World History Documentaries : 1922 - 1991: The Complete History Of The Soviet Union](https://www.youtube.com/watch?v=8S3d8EhHy74&t=581s) (19:25 - 25:45)
 [^783]: [Wikipedia : Dekulakization (specific location in article)](https://en.wikipedia.org/wiki/Dekulakization#:~:text=Dekulakization%20(Russian,the%20Soviet%20Union.)
@@ -6706,7 +6706,7 @@
 [^1054]: פרקי אבות א ב רש"י ד"ה שמעון הצדיק
 [^1055]: .יומא סט
 [^1056]: פרקי אבות א ב רבינו יונה ד"ה שמעון הצדיק
-[^1057]: Based on פרקי אבות א ב רש"י ד"ה על התורה and ד"ה ועל העבודה.<span style="visibility:hidden">l</span>רש"י is based on ירמיה לג כה and :תענית כז
+[^1057]: Based on פרקי אבות א ב רש"י ד"ה על התורה and ד"ה ועל העבודה.&lrm;רש"י is based on ירמיה לג כה and :תענית כז
 [^1058]: פרקי אבות א ב רש"י ד"ה ועל גמילות חסדים
 [^1059]: The Challenge of Jewish History : Chapter 14 (pg 127-129)
 [^1060]: The Library of Photiu' Volume I (pg 105, 107) as presented by The Challenge of Jewish History : Chapter 14 (pg 129-132)

@@ -5,7 +5,7 @@
 # הלכה
 *Presented by ט"ז ס"ק א, ש"ך ס"ק ב, פתחי תשובה ס"ק א*
 1. We are מקפיד on חומרות of both reasons. As such, if someone chews the food but doesn't swallow, one must wait since the meat gets stuck in the teeth (like the first reason).
-   At the same time, if one finds food in their teeth even after six hours, they have to remove it (and perhaps do kinuach and hadacha) as according to the second שיטה, we do not consider the meat do be considered to have been digested (however the person doesn't need to wait dix hours anew).
+   At the same time, if one finds food in their teeth even after six hours, they have to remove it (and perhaps do קנוח and הדחה) as according to the second שיטה, we do not consider the meat do be considered to have been digested (however the person doesn't need to wait dix hours anew).
    Similarly, if one's teeth are clean after eating, they still must wait because of the second reason.
 2. In fact, we are even מקפיד in cases where both reasons don't apply. For example, if someone chews up a תבשיל of meat (but not meat itself) but doesn't actually eat it, according to both reasons, the person doesn't have to wait. However, because of לא פלוג, the person should wait.
 # שיטה of the עטרת זהב

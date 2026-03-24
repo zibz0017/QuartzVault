@@ -12,6 +12,6 @@
 3. The ט"ז brings down a similar answer from the טור who presents an answer that the egg doesn't taste like meat. As such, there is no בב״ח issue. However, the הלכות of אבר מן החי are not dependent on taste.
    The רשב"א doesn't like this answer (and seemingly the answer from the ש"ך, [[#^9b9931|above]]) because he doesn't like this limbo state. The רשב"א says that if something is considered meat, it is considered meat in terms of all things. ^65569a
 # Why One Doesn't Have to Wait after Eating "Fleishig" Eggs
-*Presented by יד Yehuda Pirush Haaruch ס"ק ח*
+*Presented by יד יהודה פרוש הארוך ס"ק ח*
 1. As discussed [[סימן פט הלכות#Reasons to Wait|here]], the reason to wait after eating meat before eating dairy is because the taste of meat lingers in one's mouth, and because the meat gets stuck between one's teeth.
 2. Although we treat this egg like meat, it is not actually meat and so neither of these reasons apply to it.

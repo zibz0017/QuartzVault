@@ -5,7 +5,7 @@
 ## בליעות in the Knife
 1. The only way the food can become אסור is only using two חומרות:
 	1. דברים חריפים are treated as if they received the בליעות directly from the original food that the knife cut. We don't view it as a נ"ט בר נ"ט.
-	   (Regarding radishes, which are certainly a דבר חריף, this is true meikar הדין. This is not considered to be just a חומרה.)
+	   (Regarding radishes, which are certainly a דבר חריף, this is true מעיקר הדין. This is not considered to be just a חומרה.)
 	2. דברים חריפים can reawaken non-בן יומו בליעות.
 2. As such, it seems like a major חומרה to hold so strongly of both of these חומרות that we would אסור the food, even בדיעבד.
 ## שמנונית on the Knife

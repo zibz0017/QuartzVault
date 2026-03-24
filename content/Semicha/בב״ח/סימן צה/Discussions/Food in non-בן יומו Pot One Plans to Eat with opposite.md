@@ -1,4 +1,4 @@
-*Presented by מחבר סעיף ב, הג"ה סעיף ב, The Laws of Kashrus by Rabbi Forst (pg 162, footnote 44)*
+*Presented by מחבר סעיף ב, הג"ה סעיף ב, The Laws of כשרות by Rabbi Forst (pg 162, footnote 44)*
 # Case
 1. A person plans on eating parve food with dairy/meat. Should he make sure not to use a non-בן יומו כלי of the opposite type?
 # שיטות
@@ -11,5 +11,5 @@
 3. There is a vague באור הגר"א (ס"ק י) which perhaps is saying that the רמ"א holds that one may initially use the meat/dairy non-בן יומו כלי, even though they plan on eating it with the opposite type of food.
 4. There is an או"ה who somewhat implies that this is not okay.
 5. Rav Moshe Feinstein says reads the גר"א this way (that the one may initially cook the food in the dairy/meat pot, even though they plan on eating with the opposite type of food) and so he says that this is fine לכתחילה.
-6. The Chochmas אדם (מח ב) reads the או"ה and the רמ"א himself to be saying that one should not do this and so he says that one should not do this.
-7. Rabbi Forst says that he heard from Rav Elyashiv that one should be מחמיר like the Chochmas אדם.
+6. The חכמת אדם (מח ב) reads the או"ה and the רמ"א himself to be saying that one should not do this and so he says that one should not do this.
+7. Rabbi Forst says that he heard from Rav Elyashiv that one should be מחמיר like the חכמת אדם.

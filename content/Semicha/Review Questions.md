@@ -1,16 +1,16 @@
-# Question 1 (Cooking Something that is ספק Kavush בב״ח)
+# Question 1 (Cooking Something that is ספק כבוש בב״ח)
 1. You come home after שבת and see that some milk dripped onto some meat. You don't know how long the milk was there. Can one cook the meat.
 ## Answer
 ### Basic Issues
-1. The milk has gotten into the milk because of kavush.
+1. The milk has gotten into the milk because of כבוש.
 #### Discussion 1
 1. There is only an איסור דרבנן for one to soak meat in milk. (ש"ך ס"ק א)
-	1. However, once milk has gotten into the meat through kavush, to cook it at this point is אסור דאורייתא. (פתחי תשובה ס"ק ג)
+	1. However, once milk has gotten into the meat through כבוש, to cook it at this point is אסור דאורייתא. (פתחי תשובה ס"ק ג)
 	2. As such, we would say ספק דאורייתא לחומרה.
 ### Summary
 1. It would seem that it is אסור to cook the meat.
-# Question 3 (אין אנו Bekiyin)
-1. When do we say אין אנו Bekiyin?
+# Question 3 (אין אנו בקיין)
+1. When do we say אין אנו בקיין?
 ## Answer
 1. How salty is "salty".
 2. Relying on a גוי to tell us if something has איסור taste. Potentially, we may not even rely on a Jew.
@@ -89,7 +89,7 @@ It depends on the case:
 1. What is the הלכה if you stir a Bukharin meat plov (dish with meat, rice, and vegetables) with a clean dairy בן יומו spoon. What is the הלכה?
 ## Answer
 1. The spoon is אסור.
-2. The plov is מותר if the dish is 60x more than the בליעות in the part of the spoon that entered the food (the spoon may not be full of בליעות because of shiur hamidume).
+2. The plov is מותר if the dish is 60x more than the בליעות in the part of the spoon that entered the food (the spoon may not be full of בליעות because of שיעור hamidume).
 3. Otherwise, it is אסור.
 # Questions 17
 1. Is microwaving meat אסור דאורייתא or דרבנן?
@@ -98,7 +98,7 @@ It depends on the case:
 # Question 18 (Reheat a Cheeseburger)
 1. Can you reheat a cheeseburger?
 ## Answer
-1. <span style="visibility:hidden">l</span>סתירה in גליון מהרש"א. In סימן פז סעיף ו he says that one can't reheat בב״ח that has already been cooked together. However, in סעיף א he says that if they have been cooked separately and then cooked together, they may not be reheated together, but if they were cooked together then they may be reheated together.
+1. &lrm;סתירה in גליון מהרש"א. In סימן פז סעיף ו he says that one can't reheat בב״ח that has already been cooked together. However, in סעיף א he says that if they have been cooked separately and then cooked together, they may not be reheated together, but if they were cooked together then they may be reheated together.
 # Question 19
 1. Can you give בב״ח dogfood to your dog?
 ## Answer (בב״ח Dogfood)
@@ -109,7 +109,7 @@ It depends on the case:
 #### Discussion 2
 1. If the meat and dairy were not cooked together, this is only בב״ח דרבנן. As such, one would be allowed to get הנאה.
 #### Discussion 3
-1. If the meat is from a kosher animal that wasn't shechted, one can be מקל in a case of הפסד.<span style="visibility:hidden">l</span> (סימן פז פתחי תשובה ס"ק ו)
+1. If the meat is from a kosher animal that wasn't shechted, one can be מקל in a case of הפסד.&lrm; (סימן פז פתחי תשובה ס"ק ו)
 # Question 20
 1. Can one swallow a non-kosher pill?
 ## Answer
@@ -158,11 +158,11 @@ Blood falls into a cooking dairy soup, and then some of the soup falls out so we
 2. One may not eat בב״ח. Blood may be considered meat and so this may be בב״ח.
 ### Discussion 1
 1. About the איסור of eating blood, there is a מחלוקת if cooked blood is אסור דאורייתא or דרבנן.
-	1. We פסקען that it is only אסור דרבנן. As such, since there is a ספק here, we say that ספק דרבנן likula.
+	1. We פסקען that it is only אסור דרבנן. As such, since there is a ספק here, we say that ספק דרבנן לקולא.
 ### Discussion 2
-1. About the איסור of בב״ח, according to all opinions, blood is only considered to be meat, דרבנן. As such, since there is a ספק here, we say that ספק דרבנן likula.
+1. About the איסור of בב״ח, according to all opinions, blood is only considered to be meat, דרבנן. As such, since there is a ספק here, we say that ספק דרבנן לקולא.
 ### Summary
-1. Both issues (whether there is problem of eating blood, and whether there is a בב״ח issue here) are only ספקות דרבנן, and so we say ספק דרבנן likula.
+1. Both issues (whether there is problem of eating blood, and whether there is a בב״ח issue here) are only ספקות דרבנן, and so we say ספק דרבנן לקולא.
 # Question 25
 Can one cook horse meat and milk together?
 ## Answer
@@ -186,7 +186,7 @@ Can one cook horse meat and milk together?
 ### Discussion 1
 1. There is no issue of receiving הנאה from בב״ח that was only soaked together.
 ### Discussion 2
-1. Hooves are only בב״ח דרבנן. The רבנן were not גוזר on receiving הנאה from בשר דרבנן. <span style="visibility:hidden">l</span>(סימן פז, סעיף ב, ז)
+1. Hooves are only בב״ח דרבנן. The רבנן were not גוזר on receiving הנאה from בשר דרבנן. &lrm;(סימן פז, סעיף ב, ז)
 # Question 27 (Closing Box that May Have Flies on שבת)
 1. Are you allowed to close a box on שבת that may contain flies?
 ## Answer

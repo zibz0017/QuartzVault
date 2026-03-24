@@ -1,6 +1,6 @@
 *Presented by ש"ך ס"ק יח, ט"ז ס"ק יט*
 # How Much the בליעות Spread
-1. When a drop falls onto the outside of a pot, there is a discussion about whether the בליעות of the drop spread, and how much they spread. The basic שיטות are:
+1. When a drop falls onto the outside of a pot, there is a discussion about whether the בליעות of the drop spread, and how much they spread. The basic שיטות are: 
 	1. The בליעות spread throughout the whole pot and everything in it.
 	2. The בליעות spread nearly up until 60x the size of the drop.
 	3. The בליעות don't spread at all. They stay where the drop hit the pot.
@@ -17,5 +17,5 @@
 # הלכה למעשה
 1. We are מחמיר like all of the שיטות (which, in practice, is really only the latter two. The first one doesn't add any חומרות).
 2. As such, there may potentially be a חנ"ן problem. If there are meat בליעות in the pot, for example, and a drop of milk falls onto the pot above the food, the בליעות of the milk will spread through some of the top of the pot.
-   There are not בב״ח בליעות there. This is a חנ"ן problem. For more details about what happens, see [[חנ"ן in the Walls of the Pot|here]].
+   There are not בב״ח בליעות there. This is a חנ"ן problem. For more details about what happens, see [[חנ''ן in the Walls of the Pot|here]].
 <span style="color:rgb(255, 0, 0)">Need to check out ט"ז ס"ק יט</span>

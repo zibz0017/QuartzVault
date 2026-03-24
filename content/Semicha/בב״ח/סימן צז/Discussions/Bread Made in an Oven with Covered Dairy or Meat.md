@@ -25,8 +25,8 @@
 #### Applications
 1. It is unlikely for food to flow from one food to another across the racks, unless the foods are right next to each other.
 2. If the food is cooking one above the other, then there is concern that the top food may drip into the bottom food.
-3. Additionally, there is no concern that בליעות can travel from one food to another, even if there is a leak, because it can only travel across the oven or the racks. It can't travel from the oven or rack to the tray of the other food because that is trey kideiros.
+3. Additionally, there is no concern that בליעות can travel from one food to another, even if there is a leak, because it can only travel across the oven or the racks. It can't travel from the oven or rack to the tray of the other food because that is תרי קדירות.
 ## ב"ח
 1. None of these are concerns. The only problem is where you actually see a flow under the bread.
 # Other Concerns
-1. According to everyone there are concerns of [[סימן צז הלכות#Reicha (Aroma)|reicha (aroma)]] and [[סימן צב הלכות#Steam (זיעה)|זיעה (steam)]].
+1. According to everyone there are concerns of [[סימן צז הלכות#ריחה (Aroma)|ריחה (aroma)]] and [[סימן צב הלכות#Steam (זיעה)|זיעה (steam)]].

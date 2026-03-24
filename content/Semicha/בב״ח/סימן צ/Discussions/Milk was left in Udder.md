@@ -11,7 +11,7 @@
 ### Question 1
 1. Why is there is difference between udder and other meat, or between the milk itself before it was taken out and after?
 #### Answer
-1. <span style="visibility:hidden">l</span>חז"ל were not גוזר on the case with the milk still in the udder because the whole reason for חז"ל to be גוזר on חלב שחוטה is because people may get confused when they see it and think that it is מותר to cook meat in regular milk (non-חלב שחוטה). When the milk is still in the udder, people will realize that this case is unique, and so חז"ל were not גוזר (at least when the milk enters the udder when it is cold).
+1. &lrm;חז"ל were not גוזר on the case with the milk still in the udder because the whole reason for חז"ל to be גוזר on חלב שחוטה is because people may get confused when they see it and think that it is מותר to cook meat in regular milk (non-חלב שחוטה). When the milk is still in the udder, people will realize that this case is unique, and so חז"ל were not גוזר (at least when the milk enters the udder when it is cold).
 ### Question 2
 1. This case is seemingly a גזרה לגזרה. The milk is only חלב דרבנן, and we are only talking about כבישׁה, which is also a דרבנן.
 2. חז"ל are generally not גוזר in cases of גזרה לגזרה, so why were they גוזר here?

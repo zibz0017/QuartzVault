@@ -37,7 +37,7 @@
 3. <span style="display: block; text-align: justify;">Rav Eliezer Yehuda Fried became the rosh yeshiva and the Netziv (also a son-in-law of Rav Itzelle) became the assistant rosh yeshiva.</span>
 4. <span style="display: block; text-align: justify;">This remained until Rav Fried was nifter in 1854.[^7]</span>
 ##### The Netziv (Rav Naftali Zvi Yehuda Berlin)
-###### Kochos
+###### כוחות
 1. <span style="display: block; text-align: justify;">The Netziv was not particularly gifted at learning when he was younger.[^3]</span>
 2. <span style="display: block; text-align: justify;">Even when he was older, his strength was that he was a tremendous masmid and incredible worker.[^3]</span>
 ###### In the Yeshiva
@@ -48,20 +48,20 @@
 5. <span style="display: block; text-align: justify;">People viewed Rav Chaim Berlin as too frum, and so they redoubled their efforts to close the yeshiva. Unfortunately, they were successful.[^3]</span>
 6. <span style="display: block; text-align: justify;">The Netziv ended up as the longest serving rosh yeshiva of Volozhin.[^10]</span>
 ###### Sefarim
-1. <span style="display: block; text-align: justify;"><span class="hebrew">העמק שאלה</span>: A pirush on שאילתות דרב אחאי גאון. The ספר is hard to understand so the ספר became obscure. This ספר made it easier to understand and brought it out of obscurity.[^3]</span>
-2. <span style="display: block; text-align: justify;"><span class="hebrew">העמק דבר</span>: The Netziv gave a weekly parsha shiur (which was a מנהג in the yeshiva since Rav Chaim). The shiur was recorded and compiled in this ספר.[^3]</span>
+1. <span style="display: block; text-align: justify;"><span class="hebrew">העמק שאלה</span>: A פרוש on שאילתות דרב אחאי גאון. The ספר is hard to understand so the ספר became obscure. This ספר made it easier to understand and brought it out of obscurity.[^3]</span>
+2. <span style="display: block; text-align: justify;"><span class="hebrew">העמק דבר</span>: The Netziv gave a weekly parsha שיעור (which was a מנהג in the yeshiva since Rav Chaim). The שיעור was recorded and compiled in this ספר.[^3]</span>
 ###### View on Learning Secular Subjects
 1. <span style="display: block; text-align: justify;">The Netziv was not so opposed to learning secular subjects per se. He felt that for those for whom תורה was not going to be his פרנסה.[^3]</span>
 2. <span style="display: block; text-align: justify;">However, he only hired non-Jewish teachers as the only Jewish people who could teach secular subjects were maskilim. He felt that goyim would be fine teaching and leaving "haskafa" out of it, while a maskil would not be willing to "slip in" some "hashkafa".[^3]</span>
 3. <span style="display: block; text-align: justify;">Also, the Netziv did not think that it should be part of a yeshiva.[^3]</span>
 ##### Rav Chaim Brisker
 1. <span style="display: block; text-align: justify;">Rav Chaim Brisker was joined Volozhin in 1880 and stayed until it closed in 1892.[^3][^12]</span>
-2. <span style="display: block; text-align: justify;">It was during this time that the whole "[[General Hashkafa#Change in Learning Style (Rav Chaim Brisker)|Brisker mehalech]]" in learning was disseminated.[^3]</span>
+2. <span style="display: block; text-align: justify;">It was during this time that the whole "[[General Hashkafa#Change in Learning Style (Rav Chaim Brisker)|Brisker מהלך]]" in learning was disseminated.[^3]</span>
 3. <span style="display: block; text-align: justify;">Many גדולים in the following generation, such as Rav Baruch Ber Leibowitz, [[#Rav Shimon Shkop]], Rav Chaim Ozer Grodzinski, and [[#Rav Elchonon|Rav Elchonon Wasserman]], adopted, or at least incorporated, Rav Chaim's style of learning.[^3]</span>
 ### Description of the Yeshiva
 1. <span style="display: block; text-align: justify;">Volozhin had no set limud. Everyone would learn whatever they wanted.[^3]</span>
-2. <span style="display: block; text-align: justify;">There was an optional shiur in the afternoon. The shiur began in ברכות and went through נדה.[^3]</span>
-3. <span style="display: block; text-align: justify;">Despite this, the yeshiva was a unit in the sense that there was a קול תורה.<span style="visibility:hidden">l</span>[^3]</span>
+2. <span style="display: block; text-align: justify;">There was an optional שיעור in the afternoon. The שיעור began in ברכות and went through נדה.[^3]</span>
+3. <span style="display: block; text-align: justify;">Despite this, the yeshiva was a unit in the sense that there was a קול תורה.&lrm;[^3]</span>
 4. <span style="display: block; text-align: justify;">There was a rosh yeshiva who would go around and answer everyone's questions. The rosh yeshiva had to have shas on his fingertips.[^3]</span>
 ### Effect of Volozhin
 1. <span style="display: block; text-align: justify;">As discussed, you have the sefarim of the Netziv that were written. You also have Rav Chaim Brisker's style of learning.[^3]</span>
@@ -111,16 +111,16 @@
 3. <span style="display: block; text-align: justify;">Lakewood brought a real vision of תורה and creating people learning to America.[^3]</span>
 #### Style of Teaching
 1. <span style="display: block; text-align: justify;">Rav Aharon was extremely passionate when he was teaching. (For a discussion about it, see [[General Hashkafa#Rav Aharon Kotler's Intensity|here]].) This was in sharp contrast to Rav Isser Zalman who was very calm and even tempered.[^3]</span>
-2. <span style="display: block; text-align: justify;">His shiurim involved crazy cheshbon and they were extremely difficult to follow. One had to be lighting quick to keep up.[^3]</span>
+2. <span style="display: block; text-align: justify;">His shiurim involved crazy חשבון and they were extremely difficult to follow. One had to be lighting quick to keep up.[^3]</span>
 ## Baranovich
 ### Creation of the Yeshiva
-1. <span style="display: block; text-align: justify;">The yeshiva was a started in 1906 by Rav ישראל יעקב Lubchansky, a son-in-law and תלמיד of the Alter of Novardok. The yeshiva was called Yeshiva אוהל תורה.[^17][^18] (This was part of Novardok's overall hashkafa of [[#Harbatzas Hatorah|Novardok's overall hashkafa of creating yeshivos]].)[^19]</span>
+1. <span style="display: block; text-align: justify;">The yeshiva was a started in 1906 by Rav ישראל יעקב Lubchansky, a son-in-law and תלמיד of the Alter of Novardok. The yeshiva was called Yeshiva אוהל תורה.[^17][^18] (This was part of Novardok's overall hashkafa of [[#Harbatzas התורה|Novardok's overall hashkafa of creating yeshivos]].)[^19]</span>
 2. <span style="display: block; text-align: justify;">Rav Lubchansky's father was the rav of the city of Baranovich. However, Rav Lubchansky did not want to follow in his father's footsteps and so he decided to make the yeshiva instead.[^17]</span>
 3. <span style="display: block; text-align: justify;">The yeshiva was not particularly special until Rav Elchonon Wasserman joined the yeshiva as the rosh yeshiva in 1921.[^17][^18]</span>
 ### Description of the Yeshiva
 1. <span style="display: block; text-align: justify;">One thing that was unique about the yeshiva was that it was for younger bochurim. Most yeshivos had talmidim that were at least "בית מדרש age". Baranovich had talmidim between the ages 13 and 18 (and sometimes even younger).[^17]</span>
-2. <span style="display: block; text-align: justify;">The yeshiva was very structured. Different masechtos were taught to different talmidim depending on their age. Rav Elchonon was very מקפיד not to move boys to a different shiur than their age. The highest shiur was given by Rav Elchonon. The oldest boys learned on their own and had a shiur once or twice a week from Rav Elchonon.[^17] ^ac9786</span>
-3. <span style="display: block; text-align: justify;">Rav Elchonon gave a daily shiur in משנה Berurah. This eventually standardized the learning of משנה Berurah in the yeshiva world.[^17]</span>
+2. <span style="display: block; text-align: justify;">The yeshiva was very structured. Different masechtos were taught to different talmidim depending on their age. Rav Elchonon was very מקפיד not to move boys to a different שיעור than their age. The highest שיעור was given by Rav Elchonon. The oldest boys learned on their own and had a שיעור once or twice a week from Rav Elchonon.[^17] ^ac9786</span>
+3. <span style="display: block; text-align: justify;">Rav Elchonon gave a daily שיעור in משנה Berurah. This eventually standardized the learning of משנה Berurah in the yeshiva world.[^17]</span>
 4. <span style="display: block; text-align: justify;">Many גדולים who learned in Europe during this time started in Baranovich, such as Rav Shmuel Birnbaum and Rav Nachum.[^17]</span>
 #### Rabbeim in the Yeshiva
 1. <span style="display: block; text-align: justify;">Rav Lubchansky was the mashgiach in the yeshiva.[^17]</span>
@@ -130,15 +130,15 @@
 5. <span style="display: block; text-align: justify;">The strength of these גדולים is what allowed the yeshiva to remain strong, even though Rav Elchonon would leave every Elul as well as the whole entire 1938, when he went fundraising in America.[^17]</span>
 ### Rav Elchonon
 #### Background
-1. <span style="display: block; text-align: justify;">He learned from Rav Shimon Shkop as well as Rav Chaim Brisker.[^20] As such, his learning style had a heavy Brisker influence. His rebbi in hanhagah was the Chofetz חיים.[^17]</span>
-2. <span style="display: block; text-align: justify;">According to many, Rav Elchonon was the תלמיד muvhak of the Chofetz חיים.[^17]</span>
-3. <span style="display: block; text-align: justify;">He went to the Chofetz חיים to learn every Elul. When the Chofetz חיים was nifter, he went to learn by the Alter of Slabodka.[^17] {<font color="#ff0000">Need to double-check this</font>}</span>
+1. <span style="display: block; text-align: justify;">He learned from Rav Shimon Shkop as well as Rav Chaim Brisker.[^20] As such, his learning style had a heavy Brisker influence. His rebbi in hanhagah was the חפץ חיים.[^17]</span>
+2. <span style="display: block; text-align: justify;">According to many, Rav Elchonon was the תלמיד muvhak of the חפץ חיים.[^17]</span>
+3. <span style="display: block; text-align: justify;">He went to the חפץ חיים to learn every Elul. When the חפץ חיים was nifter, he went to learn by the Alter of Slabodka.[^17] {<font color="#ff0000">Need to double-check this</font>}</span>
 #### Personality
 1. <span style="display: block; text-align: justify;">Rav Elchonon was an extremely measured person.[^17]</span>
 2. <span style="display: block; text-align: justify;">He was very מקפיד on time.[^17]</span>
-3. <span style="display: block; text-align: justify;">He chose his exact wording when giving over shiur. It is said about Rav Elchonon that sometimes, if a תלמיד would not understand something, Rav Elchonon would think about what the תלמיד asked, and then repeat the point the תלמיד was asking on exactly how he said it the first time (meaning, he said exactly what he meant to say exactly how he meant to say it).[^17]</span>
+3. <span style="display: block; text-align: justify;">He chose his exact wording when giving over שיעור. It is said about Rav Elchonon that sometimes, if a תלמיד would not understand something, Rav Elchonon would think about what the תלמיד asked, and then repeat the point the תלמיד was asking on exactly how he said it the first time (meaning, he said exactly what he meant to say exactly how he meant to say it).[^17]</span>
 4. <span style="display: block; text-align: justify;">This also fits with how Rav Elchonon set up the yeshiva to be [[#^ac9786|very structured]].[^17]</span>
-5. <span style="display: block; text-align: justify;">On the day Rav Elchonon was leaving for America in 1938, he gave shiur like usual, and then off he meant. (It is important to keep in mind that he planned on going for a year, and that traveling in those days was far more of an ordeal than it is now.)[^17]</span>
+5. <span style="display: block; text-align: justify;">On the day Rav Elchonon was leaving for America in 1938, he gave שיעור like usual, and then off he meant. (It is important to keep in mind that he planned on going for a year, and that traveling in those days was far more of an ordeal than it is now.)[^17]</span>
 #### Trip to America
 1. <span style="display: block; text-align: justify;">In 1938, Rav Elchonon traveled to America to raise money to build a building for his yeshiva.[^17]</span>
 2. <span style="display: block; text-align: justify;">While in America, he became the rebbi for future askonim, such as Mike Tress, Irving Bunim {<font color="#ff0000">Need to double-check this</font>} and others. These people helped out the next generation of גדולים who came to America to spread תורה.[^17]</span>
@@ -163,7 +163,7 @@
 2. <span style="display: block; text-align: justify;">During his time in isolation, Rav יוסף became a lightning-rod for attacks froms chassidim who were badmouthing the mussar movement.[^22][^23]</span>
 3. <span style="display: block; text-align: justify;">Many גדולים tried to get him to come out of his seclusion. They told him he was creating a chilul Hashem.[^22][^23]</span>
 4. <span style="display: block; text-align: justify;">The Alter of Kelm told him he was being too self-centered. This got him to come out of seclusion.[^23]</span>
-5. <span style="display: block; text-align: justify;">This caused him to go to the opposite extreme. He created a yeshiva and [[#Harbatzas Hatorah|started opening yeshivos in many towns]].[^23]</span>
+5. <span style="display: block; text-align: justify;">This caused him to go to the opposite extreme. He created a yeshiva and [[#Harbatzas התורה|started opening yeshivos in many towns]].[^23]</span>
 ### Hashkafa
 1. <span style="display: block; text-align: justify;">We have extremely strong negios which have powerful influences us. A majority, if not all of our decisions are because of our negios, such as what other people think of you.[^22]</span>
 2. <span style="display: block; text-align: justify;">The only way to make sure that one is not susceptible to these negios is through intensely working on oneself.[^22]</span>
@@ -174,8 +174,8 @@
 1. <span style="display: block; text-align: justify;">Talmidim would do exercises to work on themselves.[^22]</span>
 2. <span style="display: block; text-align: justify;">They would go into stores and ask for crazy things to train themselves to not care about getting laughed at.[^22]</span>
 3. <span style="display: block; text-align: justify;">They would go into the woods for days and bring no supplies with them. They had בטחון that they would find what they would need. (Working on אמונה and בטחון was a very powerful testament to how real one was.)[^22]</span>
-#### Harbatzas Hatorah
-1. <span style="display: block; text-align: justify;">The yeshiva was very into harbatzas hatorah.[^22]</span>
+#### Harbatzas התורה
+1. <span style="display: block; text-align: justify;">The yeshiva was very into harbatzas התורה.[^22]</span>
 2. <span style="display: block; text-align: justify;">They set up small yeshivos in many towns across Lithuania, Belarus, and Western Russia.[^22]</span>
 3. <span style="display: block; text-align: justify;">At the height of the yeshiva, there were about 70 of these yeshivos, including [[#Baranovich]].[^22]</span>
 4. <span style="display: block; text-align: justify;">The cities were decided by throwing a dart at a map. If there was a city in the area where that needed a yeshiva, then the city was chosen.[^22] (I don't know if this was literal.)</span>
@@ -201,8 +201,8 @@
 1. <span style="display: block; text-align: justify;">The Mir Yeshiva was started in 1814, 1815, or 1817 by Rav Shmuel Tiktinsky.[^24][^25]</span>
 2. <span style="display: block; text-align: justify;">This was the second yeshiva of the "modern yeshivos", only after Volozhin.[^26]</span>
 ### Continuation of the Yeshiva
-1. <span style="display: block; text-align: justify;">The yeshiva was not very popular at first. It started growing in popularity when Rav Chaim Leb Tiktinsky, the son of Rav Shmuel Tiktinsky, took over.[^26]</span>
-2. <span style="display: block; text-align: justify;">Rav ישראל Salanter said that if someone wants to understand a daf 'גמ properly, they have to go the shiur of Rav Chaim Leb.[^27]</span>
+1. <span style="display: block; text-align: justify;">The yeshiva was not very popular at first. It started growing in popularity when Rav Chaim Leib Tiktinsky, the son of Rav Shmuel Tiktinsky, took over.[^26]</span>
+2. <span style="display: block; text-align: justify;">Rav ישראל Salanter said that if someone wants to understand a daf 'גמ properly, they have to go the שיעור of Rav Chaim Leib.[^27]</span>
 #### The Yeshiva in the 1900s
 1. <span style="display: block; text-align: justify;">After Rav Chaim Leb, his son, Rav Avraham took over.[^26]</span>
 2. <span style="display: block; text-align: justify;">He brought in Rav Eliyahu Baruch Kamai to the yeshiva around the turn of the century.[^26]</span>
@@ -226,64 +226,64 @@
 #### Escape Through Shanghai
 {<font color="#ff0000">Need to research this</font>}
 #### After WWII
-1. <span style="display: block; text-align: justify;">Rav Leizer Yudel restated the yeshiva from scratch in Eretz ישראל. He didn't have any of his donors or his talmidim and he was already in his 60s. This grew into the Mir of today. (This is an inspiration for what can happen when one perseveres.)[^26]</span>
+1. <span style="display: block; text-align: justify;">Rav Leizer Yudel restated the yeshiva from scratch in ארץ ישראל. He didn't have any of his donors or his talmidim and he was already in his 60s. This grew into the Mir of today. (This is an inspiration for what can happen when one perseveres.)[^26]</span>
 ## Radin
 ### Creation of the Yeshiva
-1. <span style="display: block; text-align: justify;">The Chofetz חיים started the yeshiva in 1869.[^32]</span>
-2. <span style="display: block; text-align: justify;">In 1883, the Chofetz חיים brought on Rav Hirsh Levinson (his son-in-law) to help him run the yeshiva. The yeshiva started gaining some popularity at that point.[^33]</span> ^41f3e7
+1. <span style="display: block; text-align: justify;">The חפץ חיים started the yeshiva in 1869.[^32]</span>
+2. <span style="display: block; text-align: justify;">In 1883, the חפץ חיים brought on Rav Hirsh Levinson (his son-in-law) to help him run the yeshiva. The yeshiva started gaining some popularity at that point.[^33]</span> ^41f3e7
 ### Continuation of the Yeshiva
-1. <span style="display: block; text-align: justify;">In 1900, the Chofetz חיים brought in Rav Moshe Landinski.[^34]</span> ^86e2cb
-2. <span style="display: block; text-align: justify;">He was a tremendous תלמיד chochom. He had such bekiyos, that sometimes the Chofetz חיים would ask him for מראי מקומות on things.[^35]</span>
+1. <span style="display: block; text-align: justify;">In 1900, the חפץ חיים brought in Rav Moshe Landinski.[^34]</span> ^86e2cb
+2. <span style="display: block; text-align: justify;">He was a tremendous תלמיד chochom. He had such bekiyos, that sometimes the חפץ חיים would ask him for מראי מקומות on things.[^35]</span>
 3. <span style="display: block; text-align: justify;">Despite this, the yeshiva was not so popular under him.[^35]</span>
-4. <span style="display: block; text-align: justify;">The Chofetz חיים asked him if he could bring in another rosh yeshiva in his stead. Even though it was difficult for Rav Landinski, he agreed,[^36] and in 1904, the Chofetz חיים brought in Rav Naftoli Trop.[^35]</span>
+4. <span style="display: block; text-align: justify;">The חפץ חיים asked him if he could bring in another rosh yeshiva in his stead. Even though it was difficult for Rav Landinski, he agreed,[^36] and in 1904, the חפץ חיים brought in Rav Naftoli Trop.[^35]</span>
 #### The "Golden Years"
 1. <span style="display: block; text-align: justify;">Under Rav Naftoli, the yeshiva started to really grow, becoming one of the largest yeshivos in Europe.[^35][^37]</span>
 2. <span style="display: block; text-align: justify;">Rav Yeruchom Levovitz was the mashgiach of the yeshiva from 1907 until 1910.[^38]</span>
 3. <span style="display: block; text-align: justify;">Rav Naftoli remained the rosh yeshiva until he was nifter in 1928.[^35]</span>
 #### Decline
-1. <span style="display: block; text-align: justify;">The Chofetz חיים then appointed Rav Boruch Feivelson (son-in-law of Rav Naftoli) and Rav Mendel Zaks (his own son-in-law) to be the roshei yeshiva.[^39]</span>
-2. <span style="display: block; text-align: justify;">At that point, the yeshiva started to decline as there was no Rav Naftoli and the Chofetz חיים himself was getting older.[^35]</span>
+1. <span style="display: block; text-align: justify;">The חפץ חיים then appointed Rav Boruch Feivelson (son-in-law of Rav Naftoli) and Rav Mendel Zaks (his own son-in-law) to be the roshei yeshiva.[^39]</span>
+2. <span style="display: block; text-align: justify;">At that point, the yeshiva started to decline as there was no Rav Naftoli and the חפץ חיים himself was getting older.[^35]</span>
 3. <span style="display: block; text-align: justify;">Rav Boruch Feivelson remained rosh yeshiva until he was nifter in 1933.[^40] Rav Zaks remained the rosh yeshiva until the yeshiva disbanded in WWII.[^35]</span>
 ### Hashkafos
 #### Modernizing
-1. <span style="display: block; text-align: justify;">The Chofetz חיים was not into the [[General Hashkafa#Change in Learning Style (Rav Chaim Brisker)|new style of learning]] (meaning, the fancy lomdus and the focusing on a few masechtos of the Brisker דרך halimud, I think). He didn't want to change from the old style of learning ברכות straight through נדה.[^35]</span>
+1. <span style="display: block; text-align: justify;">The חפץ חיים was not into the [[General Hashkafa#Change in Learning Style (Rav Chaim Brisker)|new style of learning]] (meaning, the fancy lomdus and the focusing on a few masechtos of the Brisker דרך halimud, I think). He didn't want to change from the old style of learning ברכות straight through נדה.[^35]</span>
 2. <span style="display: block; text-align: justify;">He was not into the bochurim's [[General Hashkafa#Shpitziness in European Yeshivos|modern and classy style of dress]]. He felt that one should be comfortable with only having a little bit.[^35]</span>
 3. <span style="display: block; text-align: justify;">However, he understood the needs of the bochurim and so the yeshiva was modernized. For example, Rav Naftoli Trop was brought in to bring in the Brisker style of learning.[^35]</span>
 #### Stance on Mussar
 1. <span style="display: block; text-align: justify;">He felt that yeshivos should have mussar. However, it should be "simpler" (see [[#^5756ac|here]]).</span>
-### The Chofetz חיים
+### The חפץ חיים
 #### Early Life
-1. <span style="display: block; text-align: justify;">The Chofetz חיים was born in 1838.[^41]</span>
+1. <span style="display: block; text-align: justify;">The חפץ חיים was born in 1838.[^41]</span>
 2. <span style="display: block; text-align: justify;">His father until his father died when he was ten years old.[^42]</span>
-3. <span style="display: block; text-align: justify;">The family moved to Vilna so the Chofetz חיים could continue learning under Rav Yaakov Barit.[^43]
+3. <span style="display: block; text-align: justify;">The family moved to Vilna so the חפץ חיים could continue learning under Rav Yaakov Barit.[^43]
 4. <span style="display: block; text-align: justify;">His mother remarried a man from Radin, so they moved there.[^35]</span>
-5. <span style="display: block; text-align: justify;">At 17, the Chofetz חיים married this man's daughter (his step-sister. This is מותר because one may marry a step-sibling that one does not grow up with).[^35]</span>
-6. <span style="display: block; text-align: justify;">From a young age, the Chofetz חיים was very bright and a tremendous ba'al מדות.[^35]</span>
-7. <span style="display: block; text-align: justify;">Because of this, people of the haskala tried to get the Chofetz חיים. Obviously, they did not get the Chofetz חיים. Because of his experience, the Chofetz חיים was extremely sharp with the haskala.[^35]</span>
+5. <span style="display: block; text-align: justify;">At 17, the חפץ חיים married this man's daughter (his step-sister. This is מותר because one may marry a step-sibling that one does not grow up with).[^35]</span>
+6. <span style="display: block; text-align: justify;">From a young age, the חפץ חיים was very bright and a tremendous ba'al מדות.[^35]</span>
+7. <span style="display: block; text-align: justify;">Because of this, people of the haskala tried to get the חפץ חיים. Obviously, they did not get the חפץ חיים. Because of his experience, the חפץ חיים was extremely sharp with the haskala.[^35]</span>
 #### Later Years
-1. <span style="display: block; text-align: justify;">The Chofetz חיים </span>originally supported himself through a grocery. He got the money to start it as an inheritance from a relative.[^35]</span>
-2. <span style="display: block; text-align: justify;">His wife would mostly run it but the Chofetz חיים would check the books and do things like that.[^35]</span>
+1. <span style="display: block; text-align: justify;">The חפץ חיים </span>originally supported himself through a grocery. He got the money to start it as an inheritance from a relative.[^35]</span>
+2. <span style="display: block; text-align: justify;">His wife would mostly run it but the חפץ חיים would check the books and do things like that.[^35]</span>
 3. <span style="display: block; text-align: justify;">Later in life, he supported himself through the sefarim he wrote.[^35]</span>
 #### Sefarim
 1. <span style="display: block; text-align: justify;">See [Wikipedia](https://en.wikipedia.org/wiki/Yisrael_Meir_Kagan#Works) for a list of sefarim he wrote and a basic idea of what they are about.</span>
 #### Style of Mussar
-1. <span style="display: block; text-align: justify;">The Chofetz חיים had a more "simplistic" approach to mussar.[^35] (I am not entirely sure what Rab Lopiansky meant by this. I think he might have meant that the Chofetz חיים didn't focus on deep psychology and philosophy or theoretical concepts (not that the Chofetz חיים didn't know these things because he obviously did). He had a very strong focus on ahavas Hashem and yiras Hashem. This fits with the fact that the Chofetz חיים would have conversations with Hashem. Another point that he emphasized was being true to one's word. I don't know how this would fit with the idea of knowing kochos hanefesh as having that knowledge is extremely useful for fighting the yetzer. In all likelihood, I simply didn't really understand this point.) </span>^5756ac
+1. <span style="display: block; text-align: justify;">The חפץ חיים had a more "simplistic" approach to mussar.[^35] (I am not entirely sure what Rab Lopiansky meant by this. I think he might have meant that the חפץ חיים didn't focus on deep psychology and philosophy or theoretical concepts (not that the חפץ חיים didn't know these things because he obviously did). He had a very strong focus on ahavas Hashem and yiras Hashem. This fits with the fact that the חפץ חיים would have conversations with Hashem. Another point that he emphasized was being true to one's word. I don't know how this would fit with the idea of knowing כוחות הנפש as having that knowledge is extremely useful for fighting the yetzer. In all likelihood, I simply didn't really understand this point.) </span>^5756ac
 #### Perception from the World
-1. <span style="display: block; text-align: justify;">The Chofetz חיים was unique for a Litvishe גדול in the sense that he had tremendous ruach Hakodesh. He is almost the Litvishe world's version of a rebbe.[^35]</span>
-2. <span style="display: block; text-align: justify;">The Chofetz חיים held Rav חיים Ozer to be the גדול hador, but because of his ruach hakodesh, people wouldn't go against something that the Chofetz חיים said.[^35]</span>
+1. <span style="display: block; text-align: justify;">The חפץ חיים was unique for a Litvishe גדול in the sense that he had tremendous ruach Hakodesh. He is almost the Litvishe world's version of a rebbe.[^35]</span>
+2. <span style="display: block; text-align: justify;">The חפץ חיים held Rav חיים Ozer to be the גדול hador, but because of his ruach hakodesh, people wouldn't go against something that the חפץ חיים said.[^35]</span>
 #### Some Unique Qualities
-1. <span style="display: block; text-align: justify;">The Chofetz חיים was unique in what he wrote. Most people have something specific that they find interesting or whatever and they write about that. The Chofetz חיים saw what כלל ישראל needed and he then wrote a ספר on that. This was why he started his yeshiva, as well.[^35]</span>
-2. <span style="display: block; text-align: justify;">The examples given in ספר Shmiras Halashon are very relatable. This is fascinating considering the fact that the Chofetz חיים was not one to sit around shmoozing.[^35]</span>
+1. <span style="display: block; text-align: justify;">The חפץ חיים was unique in what he wrote. Most people have something specific that they find interesting or whatever and they write about that. The חפץ חיים saw what כלל ישראל needed and he then wrote a ספר on that. This was why he started his yeshiva, as well.[^35]</span>
+2. <span style="display: block; text-align: justify;">The examples given in ספר Shmiras Halashon are very relatable. This is fascinating considering the fact that the חפץ חיים was not one to sit around shmoozing.[^35]</span>
 #### Role in Yeshiva
-1. <span style="display: block; text-align: justify;">The Chofetz חיים would raise money for the yeshiva. People had tremendous respect for the Chofetz חיים so this made it somewhat easier.[^35]</span>
+1. <span style="display: block; text-align: justify;">The חפץ חיים would raise money for the yeshiva. People had tremendous respect for the חפץ חיים so this made it somewhat easier.[^35]</span>
 2. <span style="display: block; text-align: justify;">He would have final say about accepting or kicking out certain bochurim.[^35]</span>
-3. <span style="display: block; text-align: justify;">The Chofetz חיים started off giving shiur. At some point (certainly when he [[#^86e2cb|brought in Rav Moshe Landinski]] and maybe even when he [[#^41f3e7|brought in Rav Hirsh Levinson]]) he stopped giving regular shiur.[^35][^44]</span>
+3. <span style="display: block; text-align: justify;">The חפץ חיים started off giving שיעור. At some point (certainly when he [[#^86e2cb|brought in Rav Moshe Landinski]] and maybe even when he [[#^41f3e7|brought in Rav Hirsh Levinson]]) he stopped giving regular שיעור.[^35][^44]</span>
 4. <span style="display: block; text-align: justify;">He did give a regular mussar va'ad. Unfortunately, not much of them were recorded.[^35][^45]</span>
 ## Grodno
 ### Creation of the Yeshiva
-1. <span style="display: block; text-align: justify;">The yeshiva was started in 1914 or 1916.[^46] It was called Yeshiva Shaar HaTorah.</span>
+1. <span style="display: block; text-align: justify;">The yeshiva was started in 1914 or 1916.[^46] It was called Yeshiva Shaar התורה.</span>
 2. <span style="display: block; text-align: justify;">Grodno was unique in that it was started by bochurim. During WWI, bochurim were displaced and so they started this yeshiva.[^47]</span>
-3. <span style="display: block; text-align: justify;">Rav Isser Zalman was worried about the talmidim in the yeshiva and so he, as well as the Chofetz חיים, Rav Chaim Ozer, and Rav יוסף Shlomo Kahaneman encouraged Rav Shimon Shkop to become the yeshiva in 1920.[^47][^48]</span>
+3. <span style="display: block; text-align: justify;">Rav Isser Zalman was worried about the talmidim in the yeshiva and so he, as well as the חפץ חיים, Rav Chaim Ozer, and Rav יוסף Shlomo Kahaneman encouraged Rav Shimon Shkop to become the yeshiva in 1920.[^47][^48]</span>
 4. <span style="display: block; text-align: justify;">Rav Isser Zalman originally took responsibility for the finances of the yeshiva. Eventually, this fell onto Rav Shimon.[^47]</span>
 ### Continuation of the Yeshiva
 1. <span style="display: block; text-align: justify;">While Rav Shimon was the rosh yeshiva, he did not take a salary due to the tough financial situation of the yeshiva.[^47]</span>
@@ -309,12 +309,12 @@
 #### Learning Style
 1. <span style="display: block; text-align: justify;">His learning style is a spin-off of Rav Chaim.[^47]</span>
 2. <span style="display: block; text-align: justify;">There are strong polarized feelings about his style of learning. Some people very much love it and think that this is the עיקר תורה, and some people feel that it is too pie-in-the-sky and esoteric.[^47]</span>
-3. <span style="display: block; text-align: justify;">He wrote a ספר called שערי יושר. The ספר is organized by topic. It goes through major inyanim like רוב, and chazaka, for example. This makes it a rather unique ספר in this sense as most sefarim are organized by sugyos.[^47]</span>
+3. <span style="display: block; text-align: justify;">He wrote a ספר called שערי יושר. The ספר is organized by topic. It goes through major inyanim like רוב, and חזקה, for example. This makes it a rather unique ספר in this sense as most sefarim are organized by sugyos.[^47]</span>
 #### Hashkafos {Need to add these to [[General Hashkafa|hashkafa]]}
 1. <span style="display: block; text-align: justify;">In the introduction to שערי יושר, Rav Shimon writes that one need to give "מעשר" on one's time to do chesed.[^47]</span>
 2. <span style="display: block; text-align: justify;">We see from יעקב and the fact that he was hit on the hip, that whenever someone gets involved in evil, even if they doing it totally lisheim shamayim, the evil will leave its mark.[^47]</span>
-### Yeshiva Shaar Hatorah in Queens
-1. <span style="display: block; text-align: justify;">Yeshiva Shaar Hatorah in Queens was started by Rav Kalman Epstein, a great-grandson-in-law of Rav Shimon, and Rav Sholom Spitz. It is sort of a continuation of Yeshiva Shaar Hatorah in Grodno.[^47][^55][^56]</span>
+### Yeshiva Shaar התורה in Queens
+1. <span style="display: block; text-align: justify;">Yeshiva Shaar התורה in Queens was started by Rav Kalman Epstein, a great-grandson-in-law of Rav Shimon, and Rav Sholom Spitz. It is sort of a continuation of Yeshiva Shaar התורה in Grodno.[^47][^55][^56]</span>
 
 # Footnotes
 
