@@ -7,61 +7,61 @@
   It would seem from here that even though we say that mixing חמץ with something disgusting makes it as if it is destroyed from the world, this is not if it is set up to give one hanah by doing this (like in the case where one puts the חמץ in front of a pig). If it is more indirect (like in the case where it would only eventually be brought in front of the pig) then it would be fine.[^7]
 - (As said, before, burning the חמץ is the preferred method)
 - It is preferable to burn the חמץ in the day.[^8] This is because:
-	1. Burning the חמץ is learned from nossar, as discussed.[^8] {<span style="color:rgb(255, 0, 0)">link to that</span>}
-	2. This is a reminder to do the second בטל.[^9]
+	1. <span style="display: block; text-align: justify;">Burning the חמץ is learned from nossar, as discussed.[^8] {<span style="color:rgb(255, 0, 0)">link to that</span>}</span>
+	2. <span style="display: block; text-align: justify;">This is a reminder to do the second בטל.&lrm;[^9]</span>
 - One should make sure to burn the חמץ in the fifth hour so they have time to be מבטל the חמץ before the sixth hour (because at that point it is too late, as discussed {<span style="color:rgb(255, 0, 0)">link to that</span>})[^9]
-- One has a chiyuv of tashbisu beginning 30 days before the chag. As such, if someone destroys the חמץ within 30 days before, they fulfill their mitzvah of tashbisu.[^10] This is especially true if someone wants to destroy their חמץ right after the bedika because they are nervous that the חמץ may get scattered from where they have it hidden away.[^8]
-- If someone has hoshanos from sukkos, they should burn it with the חמץ as since the hoshanos have already been used in a מצוה, it is proper to use them to be mekayeim another מצוה.[^9]
+- One has a chiyuv of tashbisu beginning 30 days before the chag. As such, if someone destroys the חמץ within 30 days before, they fulfill their mitzvah of tashbisu.[^10] This is especially true if someone wants to destroy their חמץ right after the בדיקה because they are nervous that the חמץ may get scattered from where they have it hidden away.[^8]
+- If someone has hoshanos from sukkos, they should burn it with the חמץ as since the hoshanos have already been used in a מצוה, it is proper to use them to be mekayeim another מצוה.&lrm;[^9]
 ---
-- The תורה records the tremendous נסים that Hashem did to strengthen our אמונה.[^11]
+- The תורה records the tremendous נסים that Hashem did to strengthen our אמונה.&lrm;[^11]
 ---
 - At least according to some שיטות, even though כלל ישראל needed to accept peace with the Canaanim if they were willing to accept upon themselves certain things, it was preferable for them not to accept up themselves these things and then fight and get destroyed by כלל ישראל. This is because:
-	1. Hashem wanted to punish them for their chataim.[^12][^13]
-	2. They would get כלל ישראל to sin.[^12][^13]
+	1. <span style="display: block; text-align: justify;">Hashem wanted to punish them for their chataim.[^12][^13]</span>
+	2. <span style="display: block; text-align: justify;">They would get כלל ישראל to sin.[^12][^13]</span>
 ---
-- It is a מחלוקת if one has a slave that they are responsible for their food, may they pay the slave enough חמץ before פסח to cover the whole chiyuv of food that will come on פסח. The משנה Berura seems to be מקל.[^14]
-- However, may not explicitly tell the slave to keep the חמץ for פסח because then one is getting hanah from חמץ on פסח. Rather, one would just give it to the slave and not mention that the slave should keep it around until פסח.[^14] (It seems that since this was the owner's חמץ, even though it is not his חמץ anymore, it is still אסור to cause it to give him hanah. This would be similar to what we say that one should not throw חמץ by the time of biur into one's fish tank, because they would be benefiting from חמץ after the זמן איסור.[^15] I assume that the reason is the same: even though one is מבטל the חמץ, they are still benefiting from the חמץ after the זמן of איסור.)
-- Also, the slave should not eat the חמץ in the house of the master if the slave decides to eat the חמץ on פסח as this looks like the master paid the slave the חמץ on פסח, which is אסור.[^14]
+- It is a מחלוקת if one has a slave that they are responsible for their food, may they pay the slave enough חמץ before פסח to cover the whole chiyuv of food that will come on פסח. The משנה ברורה seems to be מקל.&lrm;[^14]
+- However, may not explicitly tell the slave to keep the חמץ for פסח because then one is getting hanah from חמץ on פסח. Rather, one would just give it to the slave and not mention that the slave should keep it around until פסח.&lrm;[^14] (It seems that since this was the owner's חמץ, even though it is not his חמץ anymore, it is still אסור to cause it to give him hanah. This would be similar to what we say that one should not throw חמץ by the time of ביעור into one's fish tank, because they would be benefiting from חמץ after the זמן איסור.&lrm;[^15] I assume that the reason is the same: even though one is מבטל the חמץ, they are still benefiting from the חמץ after the זמן of איסור.)
+- Also, the slave should not eat the חמץ in the house of the master if the slave decides to eat the חמץ on פסח as this looks like the master paid the slave the חמץ on פסח, which is אסור.&lrm;[^14]
 - (Does this perhaps also apply to a modern day cleaning lady or some other kind of employee that receives their lunch from their employer? Meaning, that one may give their employee enough חמץ to satisfy all the lunches that they owe their employee over פסח, before פסח? Keep in mind that even if this is correct, the employee should not eat the חמץ in the house of the employer.[^7])
 - If one gives all their חמץ to a גוי, they are not mekayem the מצוה of tashbisu (although they this is effective for not being עובר on bal yeiraeh). As such, one should keep at least a kezayis of חמץ so can be mekayem tashbisu.[^16]
-- One may get hana from the coals or the ashes of the חמץ if one burned the חמץ before the זמן איסור.[^17] (Similar to what was said before about being allowed to put חמץ into feces even if it will eventually end up in front of a pig and it will eat the חמץ.)
+- One may get hana from the coals or the ashes of the חמץ if one burned the חמץ before the זמן איסור.&lrm;[^17] (Similar to what was said before about being allowed to put חמץ into feces even if it will eventually end up in front of a pig and it will eat the חמץ.)
 - If one destroys the חמץ after the זמן איסור, then one cannot get hana from the coals or ashes.[^17]
 ---
-- Shmuess: According to the רלב"ג, כלל ישראל defeated the nations of כנען because of the זכות of כלל ישראל and because Hashem promised the avos that He would give ארץ ישראל to the כלל ישראל (I think that the לשון didn't sound like it was in the זכות of the avos per se; it was more that Hashem promised them). It was not particularly in the זכות of משה רבינו.[^18]
+- Shmuess: According to the רלב"ג, כלל ישראל defeated the nations of כנען because of the זכות of כלל ישראל and because Hashem promised the avos that He would give ארץ ישראל to the כלל ישראל (I think that the לשון didn't sound like it was in the זכות of the avos per se; it was more that Hashem promised them). It was not particularly in the זכות of משה רבינו.&lrm;[^18]
 - We see the tremendous power of the zechusim of כלל ישראל. Now, this was the children of the Dor Deiah, so they were on a מדרגה much higher than ours (although you can counter that they were "going up against" the zechusim of משה רבינו, who is obviously far greater than anyone else). And we obviously are not saying that the zechusim the גדולים doesn't make much of a difference, because it obviously does. Yet we see that the זכות of כלל ישראל at large is very potent; potentially more potent than the zechusim of the גדולים of the generation.[^7]
 - *I never actually presented this shmuz to my chabura or to a rebbi. Also, I'm not sure if this qualifies as a shmuz in the sense that the מראה מקום might already be saying this explicitly.*
 ---
 - If one finds חמץ in their rishus on chol hamoed, they immediately go and burn it to make sure that nobody accidentally eats it.[^19]
 - If one finds חמץ that they were מבטל before יום טוב in their rishus on the chag (practically, nearly all cases), one covers the חמץ with a כלי until chol hamoed and burns it on chold hamoed night.[^20]
 - This is because it is אסור to move the חמץ because it is מוקצה (there is no use for it on the chag)[^21] and one can't burn it in it's place because that is not considered a tzorech of the day.[^20]
-- It is a מחלוקת about what one does if one finds חמץ on the first day of the chag that one was not מבטל before יום טוב.[^21][^22]
+- It is a מחלוקת about what one does if one finds חמץ on the first day of the chag that one was not מבטל before יום טוב.&lrm;[^21][^22]
   According to some, there is no difference between חמץ that was מבטל and חמץ that was not. As such, one covers it with a כלי until chol hamoed.[^21]
   According to others, though, since the איסור is bal yeiraeh uval yimatzei (a דאורייתא), and the איסור of moving it is mukta (a דרבנן) it is מותר to move the חמץ. In addition, it is מותר to burn it as, according to this שיטה, this can be considered a tzorech of the day, at least, to some degree.[^21]
 - There is another מחלוקת about the stringency of יום טוב שיני (regarding the איסור of מוקצה, not regarding the איסור of bal yeiraeh uval yimatzei. It seems to be assumed that bal yeireh uval yyimatzei is considered equally strict on both days).[^22]
   According to some, the second day is less strict (meaning, we have less concern for violating מוקצה), and so if one finds חמץ on the second day, they burn it immediately (like by chol hamoed and we do not say that it is אסור to move the חמץ on the second day) and if one found חמץ on the first day which they covered with a כלי, they burn it at the beginning of the second day, meaning, at night (as, once again, we are less concerned about the איסור of moving the חמץ on the second day).[^22]
   According to others, the two days of יום טוב have the same level of stringency (regarding the איסור of מוקצה, not regarding the איסור of bal yeiraeh uval yimatzei).[^22]
-- Practically, in the מחלוקת about finding non-mevateled חמץ on the first day of פסח, we pasked like the first שיטה (meaning, that we do not move the חמץ or destroy it, but rather just cover it with a כלי)[^21] and we in the מחלוקת about the stringency of the second day of פסח (regarding the איסור of מוקצה, not regarding the איסור of bal yeiraeh uval yimatzei), we פסקען that the second day is more lenient than the first day, and so one can move and destroy חמץ.[^22]
-- As such, if one finds חמץ on the first day of פסח that was not מבטל, then one not destroy it immediately or move it at all. Rather one covers it with a כלי, as we פסקען like the שיטה that says that on יום טוב ראשון, one may not move or burn חמץ.[^21]
-- However, if one finds חמץ on the second day of פסח, one immediately destroys the חמץ (without burning it, as will be explained shortly), as we פסקען like the שיטה that the איסור of moving the חמץ is less strict (the איסור of lighting things on fire onyom טוב שיני is also presumably less strict. However, it seems that since there are other ways to destroy the חמץ (by throwing it into a river, or crumbling it up and throwing it to the wind) one might as well do that rather than burn it as some argue that this is still אסור on יום טוב שיני).[^22]
+- Practically, in the מחלוקת about finding non-mevateled חמץ on the first day of פסח, we pasked like the first שיטה (meaning, that we do not move the חמץ or destroy it, but rather just cover it with a כלי)&lrm;[^21] and we in the מחלוקת about the stringency of the second day of פסח (regarding the איסור of מוקצה, not regarding the איסור of bal yeiraeh uval yimatzei), we פסקען that the second day is more lenient than the first day, and so one can move and destroy חמץ.&lrm;[^22]
+- As such, if one finds חמץ on the first day of פסח that was not מבטל, then one not destroy it immediately or move it at all. Rather one covers it with a כלי, as we פסקען like the שיטה that says that on יום טוב ראשון, one may not move or burn חמץ.&lrm;[^21]
+- However, if one finds חמץ on the second day of פסח, one immediately destroys the חמץ (without burning it, as will be explained shortly), as we פסקען like the שיטה that the איסור of moving the חמץ is less strict (the איסור of lighting things on fire onyom טוב שיני is also presumably less strict. However, it seems that since there are other ways to destroy the חמץ (by throwing it into a river, or crumbling it up and throwing it to the wind) one might as well do that rather than burn it as some argue that this is still אסור on יום טוב שיני).&lrm;[^22]
 - In addition, any חמץ which was found on the first day of פסח and covered with a כלי, is destroyed immediately on the second day of פסח (meaning, at night) as, once again, we פסקען that the second day of פסח is less strict than the first (in terms of the איסור of moving the חמץ) and so it is מותר to move.[^22]
 - Just to reiterate, this previous discussion is about חמץ that was not מבטל. Nearly all cases are about חמץ which was מבטל. In those cases, one covers any חמץ which was found on either day, one waits until the night of chol hamoed and burns it, as said before.
 ---
-- It would seem that the preferable option would be to destroy the חמץ in its place without burning it (like by mixing it with feces or something similar that makes the food inedible) as this destroys the חמץ without violating מוקצה or havara. However, the משנה Berura does not say to do this so it seems that the משנה Berura disagrees.[^7]
+- It would seem that the preferable option would be to destroy the חמץ in its place without burning it (like by mixing it with feces or something similar that makes the food inedible) as this destroys the חמץ without violating מוקצה or havara. However, the משנה ברורה does not say to do this so it seems that the משנה ברורה disagrees.[^7]
 - If someone can ask a גוי to get rid of the חמץ (by throwing it into a river or something like that) one would think that they should do this, as it is a shvus dishvus במקום מצוה (the shvusim are amira liakum and מוקצה, and the מצוה is getting rid of חמץ). However, we don't do this.[^23] This is because:
 	- The גוי is going to think you are trying to do some sort of witchcraft.[^24] {<span style="color:rgb(255, 0, 0)">Does this reason still apply בזמן הזה?</span>}
-	- If you don't accompany the גוי down to the river (which many times, one is not going to), the גוי may eat the חמץ.[^24] (I assume the problem is that giving a גוי חמץ is considered to getting hana from the חמץ.)
+	- If you don't accompany the גוי down to the river (which many times, one is not going to), the גוי may eat the חמץ.&lrm;[^24] (I assume the problem is that giving a גוי חמץ is considered to getting hana from the חמץ.)
 ---
 - If a גוי left his חמץ in the house of a yid, the yid may not move it with his hands, even on chol hamoed, because we are concerned that the yid may come to eat it.[^25] (A yid is only allowed to move his own חמץ which he is going to destroy because we are not concerned that the yid is going to eat it since he has already decided in his mind to destroy it.[^26])
 ---
 - One may not tell a גוי to do anything on שבת that a Jew may not do (מדאורייתא. Things that are אסור מדרבנן will be discussed later). This does not extend to חומרות and minhagim.[^27]
-- This even applies when a Jew tells the גוי on ערב שבת to do something on שבת[^28] or if the Jew tell the גוי on שבת to do something after שבת which would have been אסור on שבת.[^29]
+- This even applies when a Jew tells the גוי on ערב שבת to do something on שבת&lrm;[^28] or if the Jew tell the גוי on שבת to do something after שבת which would have been אסור on שבת.&lrm;[^29]
 - You can hint to a גוי on ערב שבת to do something on שבת. One can not hint to a גוי on שבת itself.[^30]
-- Even in this case, though, a Jew may only get hanah from the action if is a דבר שאין גוף הישראל נהנה, for example, if there is a light on in a room and the גוי lights another light {<span style="color:rgb(255, 0, 0)">Link to an explanation</span>}. If not, a Jew may not get hanah from the action of the גוי until after שבת.[^31]
+- Even in this case, though, a Jew may only get hanah from the action if is a דבר שאין גוף הישראל נהנה, for example, if there is a light on in a room and the גוי lights another light {<span style="color:rgb(255, 0, 0)">Link to an explanation</span>}. If not, a Jew may not get hanah from the action of the גוי until after שבת.&lrm;[^31]
 - You can tell a גוי to buy something for himself on שבת and that you might buy it from the גוי after שבת, even if this convinces the גוי that you will actually buy it from him.[^32] (Does this apply to additional cases other than buying and selling?)
-- You can tell a גוי on ערב שבת to do something if you do not tell him when you want him to do it, even if the גוי ends up doing it on שבת.[^33]
-- If the only day that it is reasonably possible for the גוי to do what he was asked is on שבת (for example, you ask the גוי to buy something for you and the only market day is שבת), then this is as if you explicitly told the גוי to buy the thing for you on שבת and is אסור.[^34]
+- You can tell a גוי on ערב שבת to do something if you do not tell him when you want him to do it, even if the גוי ends up doing it on שבת.&lrm;[^33]
+- If the only day that it is reasonably possible for the גוי to do what he was asked is on שבת (for example, you ask the גוי to buy something for you and the only market day is שבת), then this is as if you explicitly told the גוי to buy the thing for you on שבת and is אסור.&lrm;[^34]
 - However, if it is slightly reasonable for the גוי to do it on a different day (for example, there is a smaller market day on a different day), then this is muttar.[^34] (Practically, one should probably speak to a רוב about what exactly is considered "slightly reasonable".)
-- You also can't make it obvious that you need the גוי to do the melacha on שבת without explicitly telling him (for example, if the market is open on multiple days, but you tell the גוי that you are leaving on מוצאי שבת).[^34]
+- You also can't make it obvious that you need the גוי to do the melacha on שבת without explicitly telling him (for example, if the market is open on multiple days, but you tell the גוי that you are leaving on מוצאי שבת).&lrm;[^34]
 - It is a מחלוקת if one is allowed to get hanah from the item if the גוי decides to do the melacha on שבת (meaning, in a case that the Jew properly didn't tell the גוי to do the mekacha on שבת and that it is at least reasonable that the גוי would be able to do the melacha on a different day).[^34]
 - See סימן 252 (and the end of סימן 307 סעיף 2) about having a גוי sell something for a Jew on שבת.
 ---
@@ -70,14 +70,14 @@
 - (It seems that extends שבות דשבות may extend beyond amirah liakum. {<span style="color:rgb(255, 0, 0)">Need source</span>})
 - A גוי may not violate a דאורייתא for the sake of a mitzvah.[^37]
 - A tzorech harbei is a significant loss of money or someone in somewhat intense physical pain.[^38]
-- Some say that the one can only ask a גוי to violate a דרבנן for the מצוה of milah (which is the example brought down in the 'גמ). However, the הלכה is as we said before, not like this שיטה.[^39]
+- Some say that the one can only ask a גוי to violate a דרבנן for the מצוה of milah (which is the example brought down in the 'גמ). However, the הלכה is as we said before, not like this שיטה.&lrm;[^39]
 - Some say that one may ask a גוי to violate an איסור דאורייתא for the sake of a מצוה. However, we do not פסקען this way except for milah.[^40]
-- It is a מחלוקת if asking a גוי to ask another גוי also violates amirah liakum and is a דרבנן (meaning, this is not a shvus dishvus. For example, asking a גוי to ask another גוי to light a candle for you (or violate some other דאורייתא)). The משנה Berura paskens that one can not rely on this trick. However, במקום צריך הרבה, one can be מקל. Even such, one can not get benefit from this until after שבת.[^40]
-- In a situation of tremendous financial loss, one can hint to a גוי to עובר on a דאורייתא.[^41] The reason for this is that we are scared that if we do not allow this, the Jew may in such a state of panic that he will be עובר on the עבירה himself to save his money.[^42]
-- You can say something like "anyone who saves my money/possessions will not be disappointed" within earshot of a גוי.[^43] However, you can not tell the גוי more directly, "if you save my money you will not be disappointed".[^44] {<span style="color:rgb(255, 0, 0)">I don't know what the protocols for hinting are.</span>}
+- It is a מחלוקת if asking a גוי to ask another גוי also violates amirah liakum and is a דרבנן (meaning, this is not a shvus dishvus. For example, asking a גוי to ask another גוי to light a candle for you (or violate some other דאורייתא)). The משנה ברורהaskens that one can not rely on this trick. However, במקום צריך הרבה, one can be מקל. Even such, one can not get benefit from this until after שבת.&lrm;[^40]
+- In a situation of tremendous financial loss, one can hint to a גוי to עובר on a דאורייתא.&lrm;[^41] The reason for this is that we are scared that if we do not allow this, the Jew may in such a state of panic that he will be עובר on the עבירה himself to save his money.[^42]
+- You can say something like "anyone who saves my money/possessions will not be disappointed" within earshot of a גוי.&lrm;[^43] However, you can not tell the גוי more directly, "if you save my money you will not be disappointed".[^44] {<span style="color:rgb(255, 0, 0)">I don't know what the protocols for hinting are.</span>}
 - Some argue on this and say that one can only ask a גוי to be עובר on a דאורייתא in a situation of fire. However, if one is מקל by other modes of potential destruction, they will not lose out. It is certainly permitted to simply call a גוי over and simply let him figure out what he should do on his own.[^45]
-- If a Jew asks a גוי to do melacha on שבת, the Jew can not get benefit from it until the amount of time it takes to do the melacha has elapsed on מוצאי שבת (meaning, if it takes ten minutes for the melacha to be done by the גוי, the Jew can not get benefit from the melacha the גוי did until ten minutes after the end of שבת).[^46] {<span style="color:rgb(255, 0, 0)">I believe that this is only by dioraysos, not by dirabanons.</span>}
-- You can not tell a גוי to cook your meat for himself, even if you don't owe him food. This is because your amirah is leading to an איסור that couldn't have happened otherwise (you gave him permission to cook your meat)[^47] You can't even give a גוי meat on ערב שבת and tell him to cook it for himself on שבת.[^48] (As we saw before {<span style="color:rgb(255, 0, 0)">need to add link</span>} the איסור of amirah liakum applies from ערב שבת).
+- If a Jew asks a גוי to do melacha on שבת, the Jew can not get benefit from it until the amount of time it takes to do the melacha has elapsed on מוצאי שבת (meaning, if it takes ten minutes for the melacha to be done by the גוי, the Jew can not get benefit from the melacha the גוי did until ten minutes after the end of שבת).&lrm;[^46] {<span style="color:rgb(255, 0, 0)">I believe that this is only by dioraysos, not by dirabanons.</span>}
+- You can not tell a גוי to cook your meat for himself, even if you don't owe him food. This is because your amirah is leading to an איסור that couldn't have happened otherwise (you gave him permission to cook your meat)[^47] You can't even give a גוי meat on ערב שבת and tell him to cook it for himself on שבת.&lrm;[^48] (As we saw before {<span style="color:rgb(255, 0, 0)">need to add link</span>} the איסור of amirah liakum applies from ערב שבת).
 - You can tell a גוי to cook his own meat for himself.[^47]
 - You can do any דרבנן (such as amirah liakum) during bein hashmashos for the sake of a mitzvah.[^49]
 - You can hint to a גוי without commanding him to do something, provided that the Jew can do it himself, but it would be more difficult. For example, you can say "it's not so light in here" and the גוי realizes you want him to adjust the candle, since a Jew can also adjust the candle.[^50] {<span style="color:rgb(255, 0, 0)">I need to come back to this. I'm not sure if I read this correctly.</span>}
@@ -96,7 +96,7 @@
 - You can't give the גוי food to go, whether explicitly (by giving the גוי some food and telling him to bring it home) or implicitly (where it is clear that this is what you want the גוי to do). This is because onlookers might think that the גוי is acting on behalf of the Jew, and it would be אסור for the Jew to tell the גוי to violate a laav {<span style="color:rgb(255, 0, 0)">דאורייתא or דרבנן, I think</span>} on his behalf.[^56] {<span style="color:rgb(255, 0, 0)">Even if it is not on the Jews behalf, wouldn't this still be אסור because the Jew is enabling the איסור to happen as we said in סימן 307 סעיף 21 ס"ק 73?</span>}
 - It is a מחלוקת if one can hand food to a גוי (as opposed to just putting it in front of him) when the גוי is inside the rishus hayachid because he may bring it out of the rishus hayachid and so it would be as if the Jew did the akirah part of the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 - The Jew may allow the גוי to take the food from him if the גוי planned on eating it in the rishus hayachid. At this point, even if he takes it out to the rishus harabim, it is not considered like the Jew did the hotzaa.[^57] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
-- If the גוי is in the rishus harabim and he extended his hand into the rishus hayachid, then according to anyone, even if the גוי took the food (or any item) from the Jew, or the Jew put it on the ground in front of the גוי, this is אסור as this looks like the Jew told the גוי to do something on his behalf. This is even if the items belong to the גוי.[^58] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
+- If the גוי is in the rishus harabim and he extended his hand into the rishus hayachid, then according to anyone, even if the גוי took the food (or any item) from the Jew, or the Jew put it on the ground in front of the גוי, this is אסור as this looks like the Jew told the גוי to do something on his behalf. This is even if the items belong to the גוי.&lrm;[^58] {<span style="color:rgb(255, 0, 0)">Not sure how nogeiah this is.</span>}
 ---
 - After the mabul, נח waited for Hashem to tell him to leave the תבה. Since Hashem told נח to go into the תבה, it was proper respect for נח to wait for Hashem to tell him to leave.[^59][^60]
 - It was extremely difficult to manage the תבה. Rav Yudan said he would not have been able to do what נח did. Nonetheless, נח still stood steadfast and did not leave the תבה until Hashem told him to.[^61]
@@ -111,8 +111,8 @@
 - Perhaps this is specific to a king or to Hashem himself, though. Perhaps we treat the violation of respect to a king and certainly to Hashem, more stringently than we treat other violations of respect.[^7]
 ---
 - When משה רבינו was in shamayim, Hashem made a neis that משה did not need to eat or drink. This was because when one is somewhere, they are supposed to do what the people of that place do. Since the beings in shomayim do not eat, Hashem made a neis for משה to not have to eat. When the malachim came to earth by אברהם, they ate, or at least appeared to eat, to follow the what the creatures on Earth do.[^63]
-- It is obviously no small thing for Hashem to make a neis. Yet we see Hashem making a neis for משה to not have to eat to not have this small violation of דרך ארץ.[^62]
-- We see the importance of not having even a small violation of דרך ארץ.[^62]
+- It is obviously no small thing for Hashem to make a neis. Yet we see Hashem making a neis for משה to not have to eat to not have this small violation of דרך ארץ.&lrm;[^62]
+- We see the importance of not having even a small violation of דרך ארץ.&lrm;[^62]
 ---
 - Antoninus {<span style="color:rgb(255, 0, 0)">Need to confirm this</span>} built a secret tunnel so he could sneak to Rebbi's house and learn תורה from him.[^64]
 - One day, Rav Chanina Bar Chama was by Rebbi when Antoninus arrived there.[^64]
@@ -133,7 +133,7 @@
 - In addition, the לשון is pretty harsh. It sounds like this action undid Hashem's efforts, in a sense.[^62]
 - We see that even mixed in with an act of tremendous greatness, there could be something which is powerfully wrong.[^62]
 ---
-- דינה followed what her mother לאה did and "went out". This is because לאה, דינה's mother also showed a similar slight lack of צניעות by going out to יעקב.[^66]
+- דינה followed what her mother לאה did and "went out". This is because לאה, דינה's mother also showed a similar slight lack of צניעות by going out to יעקב.&lrm;[^66]
 - This act of "going out" by לאה was when she "bought" the right to be with יעקב that night. Because it was done in purity, she was זוכה to conceive Yisachar from that night. Clearly the action was largely a positive and pure action.[^62]
 - In addition, דינה had many other positive influences from her parents. It would seem that this one action by לאה would get lost amongst so many other positive influences that דינה received over her like.[^62]
 - We see that even mixed in with an act of tremendous greatness, there could be something which is powerfully wrong.[^62]
@@ -215,12 +215,12 @@
 - If a גוי violates a melacha for himself (he cooks something for himself) a Jew can get hanna from it.[^81] {<span style="color:rgb(255, 0, 0)">See סימן 276</span>}
 - It is a מחלוקת if there is an exception when it comes to food.[^82]
 - The side that says that it is אסור says that there is an exception when it comes food (meaning, that one cannot get hanna from the food that a גוי cooks on שבת) because:
-	- There are issues of nolad/מוקצה.[^83]
-	- We are גוזר against this because we are scared that the person may tell the גוי to cook on his behalf, which is אסור.[^83]
+	- There are issues of nolad/מוקצה.&lrm;[^83]
+	- We are גוזר against this because we are scared that the person may tell the גוי to cook on his behalf, which is אסור.&lrm;[^83]
 - Others argue that there is no special exception for food. They say that there is no nolad/מוקצה issue and that we do not make such a gizeirah.[^84]
 - We פסקען that for the sake of a מצוה (like eating hamotzi on שבת), one can use the bread a גוי baked on שבת if one doesn't have bread and they can't get any from a neighbor.[^85]
 ---
-2.
+$1<span style="display: block; text-align: justify;">$2</span>$3.
 - In many countries, people get benefits for retiring.[^86]
 - In addition, in some country one loses some of their benefits if they continue to work. This is in addition to the fact that one gets taxed on the money that they earn.[^86]
 - Unsurprisingly there is an inverse correlation between the countries in which the elderly lose the most money by working (meaning, the benefits lost as well as the taxes on their earnings) and the amount of people working at an older age (meaning, that the countries in which people stand to lose the most money, there are less older people working).[^86]
@@ -256,14 +256,14 @@
 - {<span style="color:rgb(255, 0, 0)">The main point is that an increase in the money spent is made up of a combination of an increase in the supply and an increase in the price level (inflation). In addition, in the short term, an increase in the money supply will cause an increase in the GDP because people think that they are getting more for their work. However, as the price level increases, people are less willing to work harder, bringing down the GDP to the point one would expect it to be based on the capital/labor/ideas and organization going in to creating the products. I feel like the graphs are confusing. Maybe just make a note about different terms, like "long run aggregate supply".</span>}
 - The feelings one gets by doing musar should come from one's seichel, from the clear recognition of different things.[^74]
 - If a גוי violated a melacha and it is a ספק if it was on שבת, or if it was done for the sake of a Jew, there is a מחלוקת about when it can be used. If the item is potentially מוקצה (like picked fruit, which would be מוקצה if picked on שבת), everyone agrees that it is אסור to use the item.[^101]
-- If it not מוקצה, according to some, it can be used immediately on שבת (assuming that there is no issue of מוקצה, like there would be if the case is with picked fruit, in which case there is). According to others, one needs to wait כדי sheyasu on מוצאי שבת.[^101]
+- If it not מוקצה, according to some, it can be used immediately on שבת (assuming that there is no issue of מוקצה, like there would be if the case is with picked fruit, in which case there is). According to others, one needs to wait כדי sheyasu on מוצאי שבת.&lrm;[^101]
 - The מחלוקת is based on whether it makes a difference that this is a davar sheyeish lo matirin, or not.[^102]
 - Even the opinion that says it is מותר is more מחמיר when it comes to מוקצה, and so in a case of ספק מוקצה, it is אסור to use on שבת, as mentioned before.[^102]
 - If you have both sfeikos together, meaning, we are not sure if the גוי did the melacha on שבת and we are not sure if he did it for the sake of a Jew, then it is מותר to use on שבת because it is a ספק sfeikah.[^103]
-- We פסקען that it is אסור to use on שבת, because we are more concerned about all types of sfeikos on שבת. It is a מחלוקת if it is totally מותר to use immediately on מוצאי שבת, or if this only is true bemakom מצוה.[^104]
+- We פסקען that it is אסור to use on שבת, because we are more concerned about all types of sfeikos on שבת. It is a מחלוקת if it is totally מותר to use immediately on מוצאי שבת, or if this only is true bemakom מצוה.&lrm;[^104]
 - It is a מחלוקת if one needs to wash until the wrist or until the knuckles. We פסקען like the opinio that says until the wrist.[^105]
-- בשעת הדחק (if one has very little water) one can be מקל.[^106]
-- If one's hands are dirty, one cannot be מקל, even בשעת הדחק[^106]
+- בשעת הדחק (if one has very little water) one can be מקל.&lrm;[^106]
+- If one's hands are dirty, one cannot be מקל, even בשעת הדחק&lrm;[^106]
 - Similar to a change in the money supply, a change in the velocity causes a short term shift in the GDP and in inflation.[^107]
 - A difference between a change in the money supply and a change in velocity is that a change in the money supply lasts, while a change in the velocity does not. After some time, the velocity returns to normal.[^107]
 - GDP is made up of consumer spending, investment spending, government spending, and net exports. As such, a change in any of these changes the GDP. For example, if the government decides to increase defense spending, that increases velocity. If people are nervous about the economy, people may start saving more, which causes a decrease in velocity.[^107]
@@ -371,17 +371,17 @@
 - A person can help themselves by writing down a plan for their day. Just writing down a plan is already doing something, so that in itself is helpful.
 - Daily Activity Schedule: Plan your day hour by hours. You can write just a word or two about what you want to do in that time.
 ---
-4.
-- Rav Dovid would teach his talmidim not to just accept things. They should make sure that they understood it. This was a major aspect of the חינוך.[^72]
+$1<span style="display: block; text-align: justify;">$2</span>$3.
+- Rav Dovid would teach his talmidim not to just accept things. They should make sure that they understood it. This was a major aspect of the חינוך.&lrm;[^72]
 - Sometimes, a תלמיד would ask Rav Dovid that the Maharsha or the Pnei יהושע learn differently than the way Rav Dovid was learning. Rav Dovid would respond "Do *you* have a problem with how I am learning?".[^120] (I think this means that Rav Dovid wasn't going to just accept the way the Maharsha was learning and throw out his own pshat without a reason he understood.)
-- If the talmidim didn't accept that, Rav Dovid would turn to the Maharsha or Pnei יהושע in question and would delve into it. Eventually it would emerge that the piece did not present a problem with the שיעור.[^121]
+- If the talmidim didn't accept that, Rav Dovid would turn to the Maharsha or Pnei יהושע in question and would delve into it. Eventually it would emerge that the piece did not present a problem with the שיעור.&lrm;[^121]
 - Hispaalus one feels comes from a deep and clear understanding of things. This is even for simple and obvious things.[^74]
 - This hispaalus needs to be directed by one's seichel.[^74] (I think this means that at different times, it is important to feel different emotions. For example, when fighting a nisayon, thinking about the severity of the עבירה may be helpful. If someone fails the nisayon, perhaps thinking about the severity of the עבירה will make the person feel depressed and feel like giving up, which is counterproductive. At that point, thinking about how Hashem accepts someone who does legitimate תשובה might be a better thing to focus on.)
 - Rav Yaakov Kaminetzky agreed that this was the מהלך in getting hispaalus of Rav Dovid.[^74]
 - Rav Dovid would say that there is a difference between שיעור (not for הלכה limaysa purposes) and mussar shmuzen. Shmuzen were supposed to give over foundational concepts. As such, it is extremely important for them to be accurate. Therefore, whatever was said had to be muchrach from חז"ל, since in our times, we don't have the ability to trust our seichel. (There are other reasons for this, as well.)[^122]
 - When it comes to שיעור, the main point is to train talmidim how to learn. As such, if it answers the questions and fits in the sugya and is reasonable to say, then that is fine.[^122]
 ---
-6.
+$1<span style="display: block; text-align: justify;">$2</span>$3.
 - Hashem gave man control of his faculties except for specific things.[^123]
 - The "specific things" that the חובות Halivavos is referring to is the fact that man can only try to do something, but whether he will be successful is up to Hashem.[^124]
 - There is an alternative, but incorrect, pshat in the חובות Halivavos that says that the חובות Halivavos is referring to forces that result from physical actions (if one pushes something, it moves, for example). This is not pshat because it has nothing to do with schar and onesh.[^125]
@@ -389,7 +389,7 @@
 - I don't know how this is fair. As said, the result is beyond one's control, so why should one be punished or rewarded based on that?[^7]
 - Rav Dovid wanted his talmidim to fight with him in learning.[^126]
 - He made sure to be close with the talmidim and not have shtultz as he did not want the talmidim to be too intimidated to challenge him. (See later in the beginning of chapter 7.)[^126]
-- If a person has a natural inclination to talk, they should, but they should make sure to do so in a proper way (meaning, by doing מצוות).[^127]
+- If a person has a natural inclination to talk, they should, but they should make sure to do so in a proper way (meaning, by doing מצוות).&lrm;[^127]
 - This sounds very strange. We have so many things in חז"ל which talk about the importance of not talking and the dangers of talking too much. This piece sounds like it is contradicting all of that.[^128]
 - The Rosh Yeshiva had a yesod that there are certain techunos which are ingrained into a person that can't be changed, or at least not changed very much. This is as opposed to מדות which can be changed.[^128]
 - We see this in a different maamar חז"ל which talks about for people who are born red and have a desire for blood. The advice to them is to become a shochet or a mohel, to avoid becoming a robber or murderer. We don't just tell the person to control himself.[^128]
@@ -415,7 +415,7 @@
 - A משל for this is if someone has what they think may be a precious stone they have evaluated. If the evaluator says that the stone is worthless, the person isn't going to throw the stone away. The person will obviously continue to do research to hopefully find out that the evaluator was wrong. This is because the stone has become precious in the eyes of the owner.[^126]
 - The same is with a חידוש. After working on something and coming out with a חידוש, it becomes precious to you, so you shouldn't be so quick to disregard it.[^126]
 - There is a מדרש that discusses Rav Yochanan walking past some fields and the like that he sold to be able to learn. Rav Yochanan was happy to see them. He didn't feel bad about the fact that he had to sell his valuable assets to learn תורה. Instead, he had tremendous appreciation for what he was able to get in exchange for these worldly possessions. We need to try and develop this appreciation for the תורה (especially the chiddushim that we sweat and toiled over).[^132]
-- Rav Dovid was known to give שיעור with tremendous excitement because of his tremendous love of the תורה.[^132]
+- Rav Dovid was known to give שיעור with tremendous excitement because of his tremendous love of the תורה.&lrm;[^132]
 - Pleasure Prediction Sheet: Make a few columns. One is to write down a fun activity you are going to do. One for a prediction for how much pleasure you think you are going to get from a particular task. Another for how much pleasure you actually got. And another for who you did it with (if it was by yourself, write "self").[^133]
 - This can be useful for dispelling some false beliefs as discussed before. In addition, this can also be used for dispelling the belief that you need to be doing things with others to have a good time. (Obviously, the things have to be on the same level. If you go to a fancy restaurant with friends and compare that to staying home by yourself and eating a microwave dinner, of course the activity alone is going to be worse.)[^133]
 - What if you predict that you won't have a good time and you are right? This probably comes from negative thoughts (like if you are eating in a restaurant by yourself, you might be thinking that people are looking at you and thinking that you are a loser that has no friends).[^133]
@@ -580,7 +580,7 @@
 - In 1937, defense was a major focus of the Zionists. As such, there was considerable military training. Soldiers were trained to do night patrols and launch counterattacks on Arabic villages.[^159]
 - The British worked together with the Jewish soldiers. They supplied the Jews with trucks and armored cars.[^159]
 - Yitzchak Landsberg (who later changed his name to Sadeh) set up Jewish mobile patrols were in specific areas to defend specific settlements.[^159]
-- When the פסוק says "וירח את ריח בגדיו"[^160] (referring to when יצחק smelled the garments of יעקב when he was about to give him the ברכה) it means that יצחק saw the "traitors" (בוגדיו) of כלל ישראל. This is a reference to יוסף Meshisa.[^161]
+- When the פסוק says "וירח את ריח בגדיו"&lrm;[^160] (referring to when יצחק smelled the garments of יעקב when he was about to give him the ברכה) it means that יצחק saw the "traitors" (בוגדיו) of כלל ישראל. This is a reference to יוסף Meshisa.[^161]
 - When the Romans conquered the בית Hamikdash, they wanted to send a Jew inside (as a ginny pig of sorts). They sent in יוסף Meshisa, who was a Jew but a traitor. The Romans told him that in exchange for going in, he could take one thing from the בית Hamikdash.[^161]
 - יוסף Meshisa went in and took out the menorah.[^161]
 - The Romans didn't want to give him that (it seems they didn't expect him to take that) and they told him to go in again and take something else.[^161]
@@ -591,7 +591,7 @@
 - This is what יצחק saw when he was about to give יעקב the ברכות: the great potential and purity inside of every Jew.[^162]
 - If someone wants to know how great the reward for doing מצוות is, they just need to look at the עבירה of the עץ hadaas.[^163]
 - אדם did one עבירה and look at how much death was brought to the world because of it?[^163] (Everyone who has died is because of this one עבירה).
-- Hashem's midda of doing good is more than his midda of doing bad. As such, if for an עבירה one receives such a punishment, one can only imagine the good one receives for doing מצוות.[^163]
+- Hashem's midda of doing good is more than his midda of doing bad. As such, if for an עבירה one receives such a punishment, one can only imagine the good one receives for doing מצוות.&lrm;[^163]
 - We see the power of every individual person. A random person by doing a מצוה can make such a difference in the world.[^162] {<span style="color:rgb(255, 0, 0)">I am not sure what was being added over what the מראה מקום already said. Maybe rebbi was just spelling it out?</span>}
 - אברהם was standing in the בית hamikdash at the time of the churban.[^164]
 - Hashem came to אברהם and asked him what he was doing there? אברהם said that he was there to plead on behalf of his children.[^164]
@@ -602,14 +602,14 @@
 - This was because אברהם had a real understanding of the greatness of every person.[^162]
 - And yet, this same אברהם, even he did not have the full understanding of the depth of that greatness. When כלל ישראל was going through the churban and getting punished for their עבירות, אברהם didn't think that they could do תשובה. And yet, they were able to.[^162]
 - We see this tremendous power of the purity of the neshama. This power is so great, that it was even beyond אברהם's understanding of how great it was.[^162]
-- A man from Moav is not allowed to convert to כלל ישראל because they did not give כלל ישראל food and drink when כלל ישראל left מצרים.[^167]
-- However, a women from Moab is allowed to. This is because they were not supposed to go out to כלל ישראל to give them food and drink because ofכל כבודה בת מלך פנימה .[^167]
+- A man from Moav is not allowed to convert to כלל ישראל because they did not give כלל ישראל food and drink when כלל ישראל left מצרים.&lrm;[^167]
+- However, a women from Moab is allowed to. This is because they were not supposed to go out to כלל ישראל to give them food and drink because ofכל כבודה בת מלך פנימה .&lrm;[^167]
 - The daughters of Moav were not known for their greatness. And yet, they were able to feel this הרגשה of כל כבודה בת מלך פנימה. (If they didn't feel it and just decided not to greet כלל ישראל because of the same lack of empathy as the men, they wouldn't have been any better off.)[^162]
 - We see how even non-Jews have a pure neshama that can feel very lofty and proper feelings.[^162]
 - Rav Yochan Ven Messiah told his son to go hire some workers. The son did and as part of the deal, arranged to give them mezonos.[^168]
 - Rav Yochanan ben Messiah told his son that he should not have offered mezonos (which, I assume is somewhat vague) as the workers are the sons of אברהם, יצחק and יעקב. As such, even giving them a feast like Shlomo המלך had would be beneath their stature.[^168]
 - As such, Rav Yochanan ben Messiah told his son that if the workers had not started working yet, he should attempt to rework the agreement.[^168]
-- We see how great even random Jews are. It would have been beneath their stature to receive a feast of Shlomo המלך.[^162] {<span style="color:rgb(255, 0, 0)">I am not sure what was being added over what the מראה מקום already said. Maybe rebbi was just spelling it out?</span>}
+- We see how great even random Jews are. It would have been beneath their stature to receive a feast of Shlomo המלך.&lrm;[^162] {<span style="color:rgb(255, 0, 0)">I am not sure what was being added over what the מראה מקום already said. Maybe rebbi was just spelling it out?</span>}
 - Before לבן went on his way after confronting אברהם, he gave a ברכה to his daughters.[^169]
 - The possuk is showing us that the ברכה of לבן was going to make a difference as לבן was a צלם אלקים and, as he was giving his children a ברכה, he did it bichol nafsho.[^170]
 - רחל and לאה had יעקב as a husband and יצחק as a father-in-law. Surely if they were in need of a ברכה, they could go to one of these two people. How much could a ברכה from a rasha like לבן make a difference?[^162]
@@ -739,10 +739,10 @@
 - Anger will almost certainly not get what you want in the long-term. Even in the short-term, what passes for "respect" or "love" isn't real.[^202]
 - Many times you get angry as a defense to your self-esteem.[^202]
 - Of course you are allowed to get angry. It's just that this may be a bad idea.[^202]
-- A תלמיד has to be ready to work hard to understand the words of his rebbi. He has to be willing to forsake his own understanding. That is the primary job of a תלמיד.[^203]
+- A תלמיד has to be ready to work hard to understand the words of his rebbi. He has to be willing to forsake his own understanding. That is the primary job of a תלמיד.&lrm;[^203]
 - This can be especially difficult for bright talmidim. It may be extremely difficult to reign them in because they might be able to answer any question on what they are saying, but what they are saying isn't good. Yet they won't see it. They need to be trained more to be able to see it.[^204]
 - Through the generations, we get less and less seichel. As such, we have to appreciate that the words of the earlier generations are full of wisdom that are beyond us and so our job is to work on the תורה of the earlier generations.[^205]
-- When one does this, Hashem will give one the ability to understand the תורה.[^205]
+- When one does this, Hashem will give one the ability to understand the תורה.&lrm;[^205]
 - Shlomo המלך compares תורה to a search for precious jewels.[^206]
 - Just like jewels are precious because of the tremendous work it takes to uncover them, so too, the words of תורה are precious because of the effort it takes to understand them. The work put in isn't a bad thing at all. It is what gives the תורה it's value.[^205] {<span style="color:rgb(255, 0, 0)">Isn't תורה valuable because it is the knowledge of Hashem, regardless of the work put in?</span>}
 - (Also see footnote 97 which brings down the end of this חתם סופר.)
@@ -767,12 +767,12 @@
 - Constantly giving in to the other person is not good for you or for them, either.[^210]
 - You have to be able to stand up for yourself.[^210]
 - A few things to keep in mind when doing this:
-	1. You ae not required to give in to the other persons demands; certainly not all the time.[^210]
-	2. Try to use the disarming technique and be tactful.[^210]
-	3. Don't buy that the other person is as helpless as they make themselves seem.[^210]
-	4. The other person may get angry at you. Don't respond angrily to them.[^210]
-	5. They may storm off or temporarily withdraw from you. Be willing to accept that.[^210]
-	6. You may be expecting for the situation to explode far worse than will actually happen.[^7]
+	1. <span style="display: block; text-align: justify;">You ae not required to give in to the other persons demands; certainly not all the time.[^210]</span>
+	2. <span style="display: block; text-align: justify;">Try to use the disarming technique and be tactful.[^210]</span>
+	3. <span style="display: block; text-align: justify;">Don't buy that the other person is as helpless as they make themselves seem.[^210]</span>
+	4. <span style="display: block; text-align: justify;">The other person may get angry at you. Don't respond angrily to them.[^210]</span>
+	5. <span style="display: block; text-align: justify;">They may storm off or temporarily withdraw from you. Be willing to accept that.[^210]</span>
+	6. <span style="display: block; text-align: justify;">You may be expecting for the situation to explode far worse than will actually happen.[^7]</span>
 - You may want to peactice this with a friend, or by writing down some of the things the other person may tell you and then write down some of the ways you can respond.[^210]
 - Sometimes someone complaining to you can make you feel guilty. Offering the person advice and help may not help in these situations. The person wants to complain.[^211]
 - You should totally validate and agree with the person's complaints. This will get them to quickly stop complaining.[^211]
@@ -793,7 +793,7 @@
 - Practically, banks hold more than the reserve ratio requires for a variety of reasons, such as loans not being particularly profitable, or if a bank is expecting an increase in withdrawals. This lowers the multiplier effect (because banks are lending out less money).[^215]
 - Also, if people don't deposit the money back into the bank (meaning, they hold on to it by hiding it at home, for example), that also hurts the multiplier effect.[^215]
 - During a recession, both of these things occur, so multiplier effect goes down. The Fed, therefore, has to do more to have an affect.[^215]
-- A תלמיד needs to keep in mind that between yeridas hadoros, the fact that his rebbi has been learning and teaching תורה for much longer than the תלמיד has, and the fact that the rebbi learned from his rebbi, who was probably greater than the rebbi himself, his rebbi is probably correct about a pshat, even if it doesn't seem correct to the תלמיד at first. (This is especially considering the fact that the rebbi may be giving the שיעור over in a way that is not the clearest on purpose, as discussed {<span style="color:rgb(255, 0, 0)">in chapter 2. Add link</span>}.)[^216]
+- A תלמיד needs to keep in mind that between ירידת הדורות, the fact that his rebbi has been learning and teaching תורה for much longer than the תלמיד has, and the fact that the rebbi learned from his rebbi, who was probably greater than the rebbi himself, his rebbi is probably correct about a pshat, even if it doesn't seem correct to the תלמיד at first. (This is especially considering the fact that the rebbi may be giving the שיעור over in a way that is not the clearest on purpose, as discussed {<span style="color:rgb(255, 0, 0)">in chapter 2. Add link</span>}.)[^216]
 - How the Fed affected the economy before 2008:
 - The Fed would buy or sell treasury bills from banks (called open market operations). This would increase of decrease their money in reserves, which affects the federal funds rate.[^217]
 - The federal funds rate is the interest rate banks would charge each other to lend them money.[^217]
@@ -812,7 +812,7 @@
 - The Fed also started paying interest on money kept in the Federal Reserve. This encouraged banks to save more money in the Federal Reserve because the Fed is the most secure borrower. By adjusting the interest rate, the Fed is further able to control the economy.[^218]
 - Another thing the Fed did is Purchase Agreements and Reverse Purchase Agreements. This means that the Fed would "lend" or "borrow" treasury bills from a bank at a certain rate. This would also affect the money supply.[^218]
 - This is very similar to open market operations, except that it is much more short term. Open market operations require purchasing and selling of the actual treasury bill. This is more like a rental.[^218] {<span style="color:rgb(255, 0, 0)">I don't see why this wouldn't suffer from the same problem as open market operations</span>}
-- A תלמיד should not be worried that he won't be able to see the questions on his rebbi's pshat if he works hard on it. In fact, the opposite is true. The only way a תלמיד find questions and be confident that they are actually legitimate is if he works hard on his rebbi's תורה.[^219]
+- A תלמיד should not be worried that he won't be able to see the questions on his rebbi's pshat if he works hard on it. In fact, the opposite is true. The only way a תלמיד find questions and be confident that they are actually legitimate is if he works hard on his rebbi's תורה.&lrm;[^219]
 - We see this by Betzalel. Betzalel undoubtedly worked hard on to understand what משה told him (in fact, Betzalel was chosen to lead the construction because he would work hard in his learning[^220]). This did not stop him from realizing that he should make the משכן before the כלים even though משה told him to do it the other way. We see that his efforts to understand what his rebbi משה was saying did not impede his ability to see where משה gave over the commandment from Hashem incorrectly.[^221]
 - A תלמיד shouldn't be quick to go ask his rebbi questions. He should first put in effort to understand the תורה of his rebbi.[^222]
 - The חזון איש said that the main growth in learning comes from understanding the alternative pshat given, and then weighing it against what you thought pshat is, and deciding which one makes more sense. As such, one has to make sure to listen and try to understand the alternative pshat.[^223]
@@ -827,9 +827,9 @@
 - This is the balancing act of the Fed when it comes to these things. On one hand, bailouts can prevent panics from spreading out of control (systemic risk). On the other, it encourages this risky behavior that may have to be covered by the government (moral hazard).[^224]
 - To help with this the Fed imposes certain regulations on banks to not allow them to take certain risks. This comes with its own set of challenges. It does not allow the banking system to be flexible.[^224]
 - Practically, there are a few difficulties for the Fed when it tries to stimulate the economy
-	1. Quality of the data. Sometimes the data that the Fed is using to make its decisions isn't correct.[^225]
-	2. Timing: It can take between 6 and 18 months for the Feds policies to affect the economy. The situation may have changed by the time these policies make an impact.[^225]
-	3. Control: Some of the Feds policies rely on other participants. For example, when the Fed would perform expansionary open market operations to add more money to the economy, this assumes that the banks that received the money are going to lend it out and not keep it in their reserves. However, they may decide to do that, which would keep the money supply from increasing.[^225]
+	1. <span style="display: block; text-align: justify;">Quality of the data. Sometimes the data that the Fed is using to make its decisions isn't correct.[^225]</span>
+	2. <span style="display: block; text-align: justify;">Timing: It can take between 6 and 18 months for the Feds policies to affect the economy. The situation may have changed by the time these policies make an impact.[^225]</span>
+	3. <span style="display: block; text-align: justify;">Control: Some of the Feds policies rely on other participants. For example, when the Fed would perform expansionary open market operations to add more money to the economy, this assumes that the banks that received the money are going to lend it out and not keep it in their reserves. However, they may decide to do that, which would keep the money supply from increasing.[^225]</span>
 - If the economy is going through a temporary dip in Aggregate Demand (the AD curve shifts to the left) {<span style="color:rgb(255, 0, 0)">add link</span>}, the Fed can try to increase the money supply to stimulate the economy. If the Fed undershoots, this will increase productivity somewhat, but the economy will not be back to the level it once was. If the Fed overshoots, this is going to cause high inflation in the long run. To get rid of the incflation, this can cause a temporary drop in GDP which leads to a recession.[^225]
 - This may have happened in the 70s and 80s. The Fed stimulated the economy, but by the end of the 70s, there was runaway inflation. In the early 80s, inflation was lowered, but there was a recession. Unemployment was high.[^225]
 - A תלמיד has to follow his rebbi (and the גדולים of earlier generations) in terms oh how to weigh svaros, as well as when it comes to paskening shailos as well. There is a 'גמ on שבת 21b where a certain הלכה was said to Abaye in the name of Rav Yirmiya and Abaye did not agree. When the same הלכה was said to Abaye in the name of Rav Yochanan, Abaye did acept the pssak. We see an example where of an amora thinking a certain way about a certain issue, but willing to disregard his opinion when he found out that someone great disagreed with him.[^226]
@@ -863,15 +863,15 @@
 - During an AD shock, the AD curve shifts to the left, lowering the GDP (in the short-term).[^231]
 - The government can increase spending or lower taxes (to encourage consumption amongst private citizens), moving the AD curve back to the right.[^231]
 - There are a few problems with fiscal policy.[^232]
-	1. Timing. It takes a long time to implement fiscal policy. By the time it is implemented, the situation may have changed.[^232]
-		1. Recognition lag. You have to see that there is a problem.[^232]
-		2. Legislative lag. A bill needs to be proposed which has to go through the house and the senate and all the budget meetings, writing up the bill, etc.[^232]
-		3. Implementation lag. Actually making the plans to use the money. For example, if the government is going to do a lot of construction (which is the way it usually spends extra money), you actually need to make the plans, hire the companies, have the plans go through environmental review, etc.[^232]
-		4. Effectiveness lag. Once all this happens, it takes time for the money being used on the projects to start making their way through the economy.[^232]
+	1. <span style="display: block; text-align: justify;">Timing. It takes a long time to implement fiscal policy. By the time it is implemented, the situation may have changed.[^232]</span>
+		1. <span style="display: block; text-align: justify;">Recognition lag. You have to see that there is a problem.[^232]</span>
+		2. <span style="display: block; text-align: justify;">Legislative lag. A bill needs to be proposed which has to go through the house and the senate and all the budget meetings, writing up the bill, etc.[^232]</span>
+		3. <span style="display: block; text-align: justify;">Implementation lag. Actually making the plans to use the money. For example, if the government is going to do a lot of construction (which is the way it usually spends extra money), you actually need to make the plans, hire the companies, have the plans go through environmental review, etc.[^232]</span>
+		4. <span style="display: block; text-align: justify;">Effectiveness lag. Once all this happens, it takes time for the money being used on the projects to start making their way through the economy.[^232]</span>
 		- To counter this problem, there are automatic stabilizers which go into affect automatically. One example is progressive taxes. This means that the less money one makes, the less money they pay in taxes. This occurs automatically. No additional legislation or implementation needs to occur. This helps keep consumption up. In addition, people with less money are generally more likely to spend the money quickly, so it can get into the economy faster.[^232]
-	2. Targeted. The stimulus should target those who need it most. If construction workers are struggling, the government should put extra money into construction. If retail workers are struggling, the government should put extra money into retail. The problem is that the government only has ways to spend money in a few specific fields (if restaurants are struggling, the government doesn't really have a way to hire a bunch of waiters).[^232]
-	3. Magnitude. A large majority of the government's spending is non-discretionary (at least 80% if not more). In addition, government spending in 2015, for example, was over 3 trillion dollars total GDP was around 18 trillion. So government spending makes up only so much of the GDP. The 2009 stimulus bill (the largest since WWII) was 900 billion dollars over a few years, or roughly 2% of GDP. (Despite this, the stimulus bill is considered to have been helpful.)[^232]
-	4. Temporary. As the economy adjusts and people are being hired again, it would be ideal for the people working on government projects to start getting jobs in fields that are now hiring again.[^232]
+	2. <span style="display: block; text-align: justify;">Targeted. The stimulus should target those who need it most. If construction workers are struggling, the government should put extra money into construction. If retail workers are struggling, the government should put extra money into retail. The problem is that the government only has ways to spend money in a few specific fields (if restaurants are struggling, the government doesn't really have a way to hire a bunch of waiters).[^232]</span>
+	3. <span style="display: block; text-align: justify;">Magnitude. A large majority of the government's spending is non-discretionary (at least 80% if not more). In addition, government spending in 2015, for example, was over 3 trillion dollars total GDP was around 18 trillion. So government spending makes up only so much of the GDP. The 2009 stimulus bill (the largest since WWII) was 900 billion dollars over a few years, or roughly 2% of GDP. (Despite this, the stimulus bill is considered to have been helpful.)[^232]</span>
+	4. <span style="display: block; text-align: justify;">Temporary. As the economy adjusts and people are being hired again, it would be ideal for the people working on government projects to start getting jobs in fields that are now hiring again.[^232]</span>
 - The 2009 stimulus was an ideal situation for a stimulus because it was an AD shock, it was long-lasting (meaning that by the time the stimulus bill went through all of the timing issues discussed, the economic situation had not changed), and it was across the economy (meaning that there wasn't an issue with targeting because everyone needed money).[^232]
 - Fiscal (and monetary policy, as well, I assume) are far less effective at dealing with real shocks.[^233]
 - Fiscal (and monetary policy) are best used when there are underused labor and capital. In a real shock, labor and capital are being used. The problem is that the situation changed. Adding more money may help GDP a little but mostly it increases inflation.[^233]
@@ -879,14 +879,14 @@
 - Theoretically, government is supposed to increase spending during times of economic busts and save money during economic booms. Practically, though, governments don't do this. They always like to spend.[^233]
 - This leads to the government increasing it debt.[^233]
 - This is a problem for two reasons:
-	1. This increases interest payments. Over time this becomes a larger and larger percentage of the national budget.[^233]
-	2. People start getting nervous that governments aren't going to be able to pay their debts and so they pull investments from the country. This can really come to a head during a recession in such a country. People really start to lose confidence fast and pull out investments. This further hurts a country that is already suffering a recession.[^233]
+	1. <span style="display: block; text-align: justify;">This increases interest payments. Over time this becomes a larger and larger percentage of the national budget.[^233]</span>
+	2. <span style="display: block; text-align: justify;">People start getting nervous that governments aren't going to be able to pay their debts and so they pull investments from the country. This can really come to a head during a recession in such a country. People really start to lose confidence fast and pull out investments. This further hurts a country that is already suffering a recession.[^233]</span>
 	- This occurred in Argentina in 2002 and Greece in 2009 (amongst other examples).[^233]
 	- There is no hard and fast rule but the idea is that the higher he debt and less credibility a country has, the more risky it is to keep spending.[^233]
 - There is an additional problem with fiscal policy. There are other actors involved that may undo the fiscal policy. For example:[^234]
-	1. Central banks. Expansionary fiscal policy can cause higher inflation (by shifting the AD curve to the right). A central bank might see this and decide to engage in contractionary monetary policy (shifting the AD curve to the left). These cancel each other out. This is called a monetary offset.[^234]
-	2. Businesses. If government borrows money to engage increase its spending, this can increase the interest rate. This may companies more reluctant to borrow money and use it in investments. As such, the increased spending by the government can be (at least somewhat) countered by a decreased spending by businesses.[^234]
-	3. Consumers. If the government cuts taxes to encourage people to spend more, people may instead decide to save the extra money if the expect an increase in taxes in the future. This is called Ricardian Equivalence. In reality, some people may think this way, although others do not. Even so, this means that some of the government's tax cuts will not get put back into the economy.[^234]
+	1. <span style="display: block; text-align: justify;">Central banks. Expansionary fiscal policy can cause higher inflation (by shifting the AD curve to the right). A central bank might see this and decide to engage in contractionary monetary policy (shifting the AD curve to the left). These cancel each other out. This is called a monetary offset.[^234]</span>
+	2. <span style="display: block; text-align: justify;">Businesses. If government borrows money to engage increase its spending, this can increase the interest rate. This may companies more reluctant to borrow money and use it in investments. As such, the increased spending by the government can be (at least somewhat) countered by a decreased spending by businesses.[^234]</span>
+	3. <span style="display: block; text-align: justify;">Consumers. If the government cuts taxes to encourage people to spend more, people may instead decide to save the extra money if the expect an increase in taxes in the future. This is called Ricardian Equivalence. In reality, some people may think this way, although others do not. Even so, this means that some of the government's tax cuts will not get put back into the economy.[^234]</span>
 - It can be difficult to figure out all of these reactions. As such, at different times, the same response to seemingly the same situation can have vastly different results.[^234]
 - Microeconomics:
 - Opportunity costs: When you decide to do something, you have to invest time, money, attention, etc. Opportunity cost is the cost of using these things on this decision instead of doing something else.[^235]
@@ -921,11 +921,11 @@
 - Demand curve shirt:
 - ![[Pasted image 20241215030735.png]][^245]
 - Demand can be shifter by a number of things, such as:
-	1. Income. As income increases, the demand increases for most things. Some things, though, the demand decreases. For example, your demand for McDonald's might go down as your income goes up and you can eat at nicer places.[^246]
-	2. Population: As the population increases, demand for things goes up because there are now more people demanding those things.[^246]
-	3. Taste. Things go out of style and some thing become stylish. This shifts the demand curve for those things.[^246]
-	4. Related goods. Some goods are related to other goods. Some are substitutes for each other, meaning, that while there are not the same, they are similar. For example, if the price of soy sauce started going up, people may just buy sweet sauce and spicy mayo. Some goods are complements to each other and if the demand for one increases, the demand for the other will increase as well. For example, ketchup and hot dogs. If demand for hot dogs increases, demand for ketchup will increase.[^246]
-	5. Expectations. If people are expecting the price to go up or down in the future, or if they will have a sudden need for something in the future, that will affect the demand curve. For example, if there is a hurricane expected, the price for portable generators will increase.[^246]
+	1. <span style="display: block; text-align: justify;">Income. As income increases, the demand increases for most things. Some things, though, the demand decreases. For example, your demand for McDonald's might go down as your income goes up and you can eat at nicer places.[^246]</span>
+	2. <span style="display: block; text-align: justify;">Population: As the population increases, demand for things goes up because there are now more people demanding those things.[^246]</span>
+	3. <span style="display: block; text-align: justify;">Taste. Things go out of style and some thing become stylish. This shifts the demand curve for those things.[^246]</span>
+	4. <span style="display: block; text-align: justify;">Related goods. Some goods are related to other goods. Some are substitutes for each other, meaning, that while there are not the same, they are similar. For example, if the price of soy sauce started going up, people may just buy sweet sauce and spicy mayo. Some goods are complements to each other and if the demand for one increases, the demand for the other will increase as well. For example, ketchup and hot dogs. If demand for hot dogs increases, demand for ketchup will increase.[^246]</span>
+	5. <span style="display: block; text-align: justify;">Expectations. If people are expecting the price to go up or down in the future, or if they will have a sudden need for something in the future, that will affect the demand curve. For example, if there is a hurricane expected, the price for portable generators will increase.[^246]</span>
 - A shift means that a greater quantity is demanded at a certain price (as can be seen in the image. At point A 80 units are demanded and at point B, 115 units are demanded), and it means that at a certain quantity, people will be willing to pay more money (this would be shown by continuing the vertical line through point A up until it reaches the new demand curve) (horizontal and vertical methods of reading the graph {<span style="color:rgb(255, 0, 0)">add link</span>}.[^246]
 - ![[Screenshot 2024-12-15 091456.png]][^247]
 - Change in quantity demanded vs change in demand.[^247]
@@ -942,12 +942,12 @@
 - ![[Pasted image 20241216021317.png]][^248]
 - The supply curve usually shifts because of a change in price in producing the good.
 - Some things that can lead to a change in price are:
-	1. Technological advances.[^249]
-	2. Change in input prices (if the price of fertilizer goes up, the price of fruits goes up; if the price of labor goes up, the price of basically everything goes up).[^249]
-	3. Taxes (increases and decreases) and subsidies.[^249]
-	4. Expectations (If sellers think that the price of a product will go up in the near future, they may put some of the product in storage to sell when the price goes up, lowering the supply. Even if they are producing more now, the amount that is being sold is still lower).[^249]
-	5. Entry or exit of producers into the market.[^249]
-	6. Changes in opportunity cost (If producers can start making more money producing apples instead of pears, the price of pears will go up, because by producing pears, they are now not able to produce apples, assuming that pears and apples require the same assets to produce).[^249]
+	1. <span style="display: block; text-align: justify;">Technological advances.[^249]</span>
+	2. <span style="display: block; text-align: justify;">Change in input prices (if the price of fertilizer goes up, the price of fruits goes up; if the price of labor goes up, the price of basically everything goes up).[^249]</span>
+	3. <span style="display: block; text-align: justify;">Taxes (increases and decreases) and subsidies.[^249]</span>
+	4. <span style="display: block; text-align: justify;">Expectations (If sellers think that the price of a product will go up in the near future, they may put some of the product in storage to sell when the price goes up, lowering the supply. Even if they are producing more now, the amount that is being sold is still lower).[^249]</span>
+	5. <span style="display: block; text-align: justify;">Entry or exit of producers into the market.[^249]</span>
+	6. <span style="display: block; text-align: justify;">Changes in opportunity cost (If producers can start making more money producing apples instead of pears, the price of pears will go up, because by producing pears, they are now not able to produce apples, assuming that pears and apples require the same assets to produce).[^249]</span>
 - Theoretically, equilibrium maximizes good exchanges and gets rid of wasteful exchanges.[^250]
 - This means that at he equilibrium price, buyers are buying the good because it is worth more to them to buy the good than to have the money, and sellers are selling the good because they are producing it for little enough that they can make a profit selling it.[^250]
 - At the equilibrium point, every buyer who is willing to pay the same or more than the price a seller is willing to sell for (meaning, buyers are willing to pay $50 or more for a good, for example, and sellers are willing to accept $50 for a good) is matched up. This leads to the most amount of productive exchanges.[^250]
@@ -975,10 +975,10 @@
 - ![[Pasted image 20241216041637.png]][^253]
 - The main factor that determines elasticity is how easy it is to replace the product if the price changes.[^253]
 - A few points that determine that are:
-	1. Substitutes. If there are substitutes available, it is relatively easy to switch, so even if there is a relatively small price change, you may decide to switch.[^253]
-	2. Time span. It is relatively hard to switch products quickly. But over time, people learn to adjust. As such, things begin as less elastic but become more elastic the longer the price stays higher (or lower).[^253]
-	3. Necessities vs luxuries. If something is more of a luxury, people will be more willing to go without it if the price changes. (This obviously depends on each individual person).[^253]
-	4. Large vs Small part of personal budget. If something is a small part of your budget (like toothpicks, for example) even if the price changes radically, one probably won't notice, and even if they do, they won't really care. As such, it is inelastic. If something is a major part of their budget, they will try to look for deals or figure out other things they can do, hence it is more elastic.[^253]
+	1. <span style="display: block; text-align: justify;">Substitutes. If there are substitutes available, it is relatively easy to switch, so even if there is a relatively small price change, you may decide to switch.[^253]</span>
+	2. <span style="display: block; text-align: justify;">Time span. It is relatively hard to switch products quickly. But over time, people learn to adjust. As such, things begin as less elastic but become more elastic the longer the price stays higher (or lower).[^253]</span>
+	3. <span style="display: block; text-align: justify;">Necessities vs luxuries. If something is more of a luxury, people will be more willing to go without it if the price changes. (This obviously depends on each individual person).[^253]</span>
+	4. <span style="display: block; text-align: justify;">Large vs Small part of personal budget. If something is a small part of your budget (like toothpicks, for example) even if the price changes radically, one probably won't notice, and even if they do, they won't really care. As such, it is inelastic. If something is a major part of their budget, they will try to look for deals or figure out other things they can do, hence it is more elastic.[^253]</span>
 - The back and forth between a rebbi and a תלמיד leads to the making the דעת of the תלמיד more yashar.[^254]
 - This takes time and can only be done by learning from a rebbi.[^254]
 - A rebbi can use a תלמיד's question to get in to the תלמיד's way of thinking and be able to point out any potential mistakes in the way the תלמיד is thinking.[^254]
@@ -992,11 +992,11 @@
 - Similar to elasticity of demand.[^257]
 - The factor that determines how elastic or inelastic the supply of a particular product is how much does the price to produce change as the quantity produced changes.[^257]
 - Some determinants of this are:
-	1. Constant (or decreasing) costs per unit versus increasing costs per unit.[^257]
-	2. Short run vs long run. In the short run, it may be difficult to increase supply, even with an increase in price.[^257]
-	3. Share of market for inputs. Some things do not make up a large share of the market for its inputs, while other things do take up a large share. For example, toothpicks do not take up a large share of the total market for wood. As such, if the supply of toothpicks increases, that won't raise the price of wood, so it is relatively easy to increase supply. Cars make up a large part of the global steel market. If supply of cars would increase, this would cause steel to rise in price, making it harder to increase the production of cars.[^257]
-	4. How widescale the demand is. It is relatively easy to increase the supply for something if that increase is in a specific place. If the increase in demand is global, then it becomes much more difficult to satisfy the demand. You may have to utilize more expensive methods of production to be able to supply so much.[^257]
-	5. Mobility of factors of production: If the things that go into producing something can easily be converted to producing something else, then even a small increase in price can cause a large decrease in supply.[^258]
+	1. <span style="display: block; text-align: justify;">Constant (or decreasing) costs per unit versus increasing costs per unit.[^257]</span>
+	2. <span style="display: block; text-align: justify;">Short run vs long run. In the short run, it may be difficult to increase supply, even with an increase in price.[^257]</span>
+	3. <span style="display: block; text-align: justify;">Share of market for inputs. Some things do not make up a large share of the market for its inputs, while other things do take up a large share. For example, toothpicks do not take up a large share of the total market for wood. As such, if the supply of toothpicks increases, that won't raise the price of wood, so it is relatively easy to increase supply. Cars make up a large part of the global steel market. If supply of cars would increase, this would cause steel to rise in price, making it harder to increase the production of cars.[^257]</span>
+	4. <span style="display: block; text-align: justify;">How widescale the demand is. It is relatively easy to increase the supply for something if that increase is in a specific place. If the increase in demand is global, then it becomes much more difficult to satisfy the demand. You may have to utilize more expensive methods of production to be able to supply so much.[^257]</span>
+	5. <span style="display: block; text-align: justify;">Mobility of factors of production: If the things that go into producing something can easily be converted to producing something else, then even a small increase in price can cause a large decrease in supply.[^258]</span>
 - This video[^257] also contains formulas for calculating the elasticity of supply which I decided to skip.
 - If the supply of a product is inelastic, if there is a shift in the demand curve to the right, then the price increases a lot, but the quantity doesn't change very much (see image)[^259]
 - ![[Screenshot 2024-12-16 235453.png]][^259]
@@ -1004,10 +1004,10 @@
 - ![[Pasted image 20241217000504.png]][^259]
 - Housing prices have gone up so much because people are trying to move to big cities, and housing in big cities is inelastic (in other words, it is extremely expensive to build additional housing).[^259]
 - This is because of a variety of reasons:
-	1. Many big cities are near water and so there is a limited supply of land.[^259]
-	2. Existing zoning laws make it difficult to build a house.[^259]
-	3. Government officials that are needed to get a permit can be extremely slow.[^259]
-	4. Even after that, there can be environmental committees, historical preservation committees, and neighbors.[^259]
+	1. <span style="display: block; text-align: justify;">Many big cities are near water and so there is a limited supply of land.[^259]</span>
+	2. <span style="display: block; text-align: justify;">Existing zoning laws make it difficult to build a house.[^259]</span>
+	3. <span style="display: block; text-align: justify;">Government officials that are needed to get a permit can be extremely slow.[^259]</span>
+	4. <span style="display: block; text-align: justify;">Even after that, there can be environmental committees, historical preservation committees, and neighbors.[^259]</span>
 - The people hurt the most by this are the people who could not get houses and now have to live somewhere else. The ironic problem is that they can't vote in any of the city's laws as they don't live in the city.[^259]
 - Gun buybacks:
 - Gun buyback programs are largely ineffective if done for a small group of people (like a town) in a large market.[^260]
@@ -1036,7 +1036,7 @@
 - Point B represents a certain quantity demanded for at least the price at that point. Point D represent the same number of sellers who are willing to sell for the price at point B minus the taxes (this could be stated the other way as well. As was discussed, this does not make a difference).[^261]
 - (I think this can be summarized. I don't need to go through all of the steps)
 - Rav Dovid was extremely patient with his talmidim. The "harshest" language he would use was "forgive me, but we can't just stay stuck on this one point".[^262]
-- Even when the other talmidim were growing impatient, Rav Dovid would not desist from trying to explain the חשבון to this תלמיד.[^262]
+- Even when the other talmidim were growing impatient, Rav Dovid would not desist from trying to explain the חשבון to this תלמיד.&lrm;[^262]
 - If explaining it numerous times didn't help the תלמיד, Rav Dovid would try other things to try to get the תלמיד to understand. (I don't know what is meant by this.)[^263]
 - When Rav Dovid would give tochacha, he would do it in a respectful way. He would tell the תלמיד "doing such is think is proper for a חשוב ben תורה like yourself."[^263]
 - (There is a quote here[^263] from Rav Pam but I am having a hard time reading it.)
@@ -1164,8 +1164,8 @@
 - The Great Economic Problem: We want to allocate out limited resources in the best ways possible. How do we do this?[^288]
 - One way is in a centrally planned system. A single entity decides everything.[^288]
 - Two problems with this:
-	1. Lack of information. How do we decide which use of a resource is better. Even if we can decide between which of two particular products is superior, does that mean that this is the preferred way to use the resource? What if there are good substitutes for the superior product and none for the inferior product? And what about the substitutes for the substitutes? How do we even figure out how good a substitute is? Or all of the different ways a resource can be used? (And there are many additional problems that have nothing to do with substitutes.) There are simply too many variables to factor in.[^288]
-	2. Lack of incentives. There are no incentives for people to tell the truth about their industry. If someone wants to use a certain product because it is slightly cheaper, they have no reason to tell the truth about if there is a good substitute, even if there is one. (This seems to just further the lack of information problem.)[^288]
+	1. <span style="display: block; text-align: justify;">Lack of information. How do we decide which use of a resource is better. Even if we can decide between which of two particular products is superior, does that mean that this is the preferred way to use the resource? What if there are good substitutes for the superior product and none for the inferior product? And what about the substitutes for the substitutes? How do we even figure out how good a substitute is? Or all of the different ways a resource can be used? (And there are many additional problems that have nothing to do with substitutes.) There are simply too many variables to factor in.[^288]</span>
+	2. <span style="display: block; text-align: justify;">Lack of incentives. There are no incentives for people to tell the truth about their industry. If someone wants to use a certain product because it is slightly cheaper, they have no reason to tell the truth about if there is a good substitute, even if there is one. (This seems to just further the lack of information problem.)[^288]</span>
 - (This is in addition to other problems with central planning (like there is no incentive to work hard because you can't keep the profits anyway))
 - The price system (free-market economies) solves the problem.[^289]
 - When the price (set by the equilibrium) is above what someone wants to pay, they decide not to buy it. When the price is lower than what they are willing to pay, they are willing to buy it.[^289]
@@ -1200,11 +1200,11 @@
 - Price ceilings:
 - A Price ceiling is a maximum price allowed by government for a good to be sold or bought. It is illegal to charge above the price ceiling.[^292]
 - This has five negative effects:
-	1. It creates shortages.[^292]
-	2. It causes a reduction of quality and level of service.[^292]
-	3. It creates wasteful lines and search costs.[^292]
-	4. It creates a loss in gain from trades (deadweight costs).[^292]
-	5. It causes a misallocation of resources.[^292]
+	1. <span style="display: block; text-align: justify;">It creates shortages.[^292]</span>
+	2. <span style="display: block; text-align: justify;">It causes a reduction of quality and level of service.[^292]</span>
+	3. <span style="display: block; text-align: justify;">It creates wasteful lines and search costs.[^292]</span>
+	4. <span style="display: block; text-align: justify;">It creates a loss in gain from trades (deadweight costs).[^292]</span>
+	5. <span style="display: block; text-align: justify;">It causes a misallocation of resources.[^292]</span>
 - A shortage is when the demand for an item exceeds its supply.[^292]
 - A price ceiling causes this by forcing the price to be lower than the equilibrium price. This makes buyers have a high demand for the product, but sellers have low demand to sell it.[^292]
 - In a free market, this is solved by buyers "bidding up" the price. This lowers the demand and increases the supply until we reach equilibrium. Because of the price ceiling, though, the price is not allowed to adjust upward (see image).[^292]
@@ -1237,10 +1237,10 @@
 - It can be extremely difficult to find an apartment when there is a price ceiling. As such, it takes a tremendous amount of time and effort to find one. This is a wasted search charge.[^296]
 - Many people hold onto rent controlled apartments that they got a long time previously and now they don't need, but they hold onto it because the price is so low and so it is worth it. For example, some people may have a rent controlled apartment in New York, even though they don't live in NY. The price is so low it is worth keeping the apartment for when the person goes on vacation to NY. Meanwhile, you have families with many children crammed into tiny apartments, even though they are willing to pay more for a bigger apartment.[^296]
 - Price floors create:
-	1. surpluses. This means that there are more goods supplied than there are demands for that good.[^297]
-	2. deadweight loss.[^297]
-	3. unwanted increased quality.[^297]
-	4. misallocation of resources.[^297]
+	1. <span style="display: block; text-align: justify;">surpluses. This means that there are more goods supplied than there are demands for that good.[^297]</span>
+	2. <span style="display: block; text-align: justify;">deadweight loss.[^297]</span>
+	3. <span style="display: block; text-align: justify;">unwanted increased quality.[^297]</span>
+	4. <span style="display: block; text-align: justify;">misallocation of resources.[^297]</span>
 - One common price floor is minimum wage. This is the minimum price that workers can "sell" their labor for.[^297]
 - Price ceilings are more common than price floors. This is because price ceilings appear to help buyers, and there are more buyers than there are sellers. This is a good move for a politician.[^297]
 - For the same reason, many politicians support minimum wage. This is a unique case where there are more "sellers" (workers) than "buyers" (employers).[^297]
@@ -1256,7 +1256,7 @@
 - There is also deadweight loss, meaning, that there are some potential employers and employees who would be willing to make a deal for less than minimum wage but are now not allowed to (see previous image).[^297]
 - Yidias התורה means understanding the underlying logic for whatever it is that one is learning.[^298]
 - A person who knows one masechta may be considered a תלמיד chacham,[^299] while someone who knows all of shas and may be considered an am haaretz.[^300] This is because of the point just mentioned: one's understanding of what learns is the main point.[^298]
-- This is because without understanding the underlying logic, one doesn't know how to apply what they learn. Sometimes, a slight change in the situation can radically change what the הלכה is. One can only realize this if they have a strong grasp on the underlying logic of the הלכה.[^301]
+- This is because without understanding the underlying logic, one doesn't know how to apply what they learn. Sometimes, a slight change in the situation can radically change what the הלכה is. One can only realize this if they have a strong grasp on the underlying logic of the הלכה.&lrm;[^301]
 - Price floors create unwanted increased quality.[^302]
 - Usually, suppliers will compete with each other by offering lower prices.[^302]
 - When they can't do that (because of the price floor), they will compete for customers by increasing the quality.[^302]
@@ -1279,14 +1279,14 @@
 - As discussed before, subsidies may be more beneficial as they do not create there shortages and they are targeted (you give the subsidy based on income or something similar).[^303]
 - The downside to subsidies is that they need to be paid for by the taxpayer. (This should be put with the discussion of minimum wage and wage subsidies.)[^303]
 - Planned economies (such as communism) create price controls on all goods. This creates price ceilings and price price floors for different goods. This leads to all of the problems discussed earlier, namely:
-	1. Surpluses and shortages.[^304]
-	2. Poor quality and extra wasteful quality.[^304] {<span style="color:rgb(255, 0, 0)">I don't really know why there was wasteful quality since people didn't really care about making money since they couldn't keep it anyway. Also, I assume that the poor quality wasn't because there were more than enough customers, but rather because people simply didn't care because they couldn't keep the profits.</span>}
-	3. Lines and other search costs.[^304] {<span style="color:rgb(255, 0, 0)">Once again, this may be because people didn't care about having normal service to distribute goods</span>}
-	4. Deadweight loss.[^304]
-	5. Misallocation of resources.[^304]
+	1. <span style="display: block; text-align: justify;">Surpluses and shortages.[^304]</span>
+	2. <span style="display: block; text-align: justify;">Poor quality and extra wasteful quality.[^304] {<span style="color:rgb(255, 0, 0)">I don't really know why there was wasteful quality since people didn't really care about making money since they couldn't keep it anyway. Also, I assume that the poor quality wasn't because there were more than enough customers, but rather because people simply didn't care because they couldn't keep the profits.</span>}</span>
+	3. <span style="display: block; text-align: justify;">Lines and other search costs.[^304] {<span style="color:rgb(255, 0, 0)">Once again, this may be because people didn't care about having normal service to distribute goods</span>}</span>
+	4. <span style="display: block; text-align: justify;">Deadweight loss.[^304]</span>
+	5. <span style="display: block; text-align: justify;">Misallocation of resources.[^304]</span>
 - Trade is good because:
-	1. It allows people to exchange things they value less for things they value more.[^305]
-	2. It allows for specialization which increases productivity.[^305]
+	1. <span style="display: block; text-align: justify;">It allows people to exchange things they value less for things they value more.[^305]</span>
+	2. <span style="display: block; text-align: justify;">It allows for specialization which increases productivity.[^305]</span>
 - People don't need to take care of all of their basic necessities. They can get good at one thing, earn money from that, and use that money to buy the goods they need.[^305]
 - This leads to a greater combined knowledge in a society.[^305]
 - This is one of the advantages developed countries have over undeveloped countries. In undeveloped countries, people are largely focused on only a few industries (such as farming). This means that there is much less combined knowledge (since everyone mostly knows the same thing as everyone else).[^305]
@@ -1311,7 +1311,7 @@
 - A story illustrating this is said about Rav Dovid and the חפץ חיים. Rav Dovid and the חפץ חיים were learning a 'תוס together. The חפץ חיים told Rav Dovid to try and think of an answer for 'תוס's question. Rav Dovid thought of something and the חפץ חיים approved of the answer, praising Rav Dovid for it. Rav Dovid then thought of a "geshmak חידוש" type of answer. The חפץ חיים did not approve of that one.[^311]
 - The חפץ חיים had such a strong yashrus in סברא that he would be able to be mechavein to a train of questions and answers through generations. He would be mechavein to 'תוס's question on רש"י, the בית יוסף's answer to the question, the מגן אברהם's attack on the בית יוסף, etc.[^311]
 - One only develops this sense of yashrus with a lot of work.
-- Koheles רבה,[^312] as explained by the Maharzu and Matnas Kehuna there, discusses how a person starts out learning by getting things wrong. He is then corrected. The person needs to work to the point of exhaustion and needs to withstand the feelings of discouragement (presumably, from getting constantly corrected) to be able to understand why the correct answer is correct and what he said is incorrect.[^313]
+- Koheles רבה,&lrm;[^312] as explained by the Maharzu and Matnas Kehuna there, discusses how a person starts out learning by getting things wrong. He is then corrected. The person needs to work to the point of exhaustion and needs to withstand the feelings of discouragement (presumably, from getting constantly corrected) to be able to understand why the correct answer is correct and what he said is incorrect.[^313]
 - Once WWII was over, Jews were hopeful that there would be a push to create a Jewish State in Palestine.[^314]
 - However, neither the Labor Party or the Conservative Party in England were for really for a Jewish State in Palestine (even though Churchill himself was).[^314]
 - The Irgun and Stern Gangs attacked British assets in Palestine. Now that the war was over, they started attacking military targets.[^314]
@@ -1340,7 +1340,7 @@
 - The people in the camps disliked the people of the committee. They were British and so they were viewed as the "prison warden", keeping the people in the camps.[^316]
 - Two boats with illegal immigrants were detained in Italy. The people on the boat refused to get off and went on a hunger strike. They threatened to sink the boat and commit suicide if people tried to force them off the boat.[^316]
 - This tactic worked and the people were allowed to sail to Palestine. (This may further show that people weren't so strong against a Jewish State and Jews in Palestine.)[^316]
-- A תלמיד shouldn't be discouraged by the difficulties brought by trying to understand the תורה. He should view this as the path to success, as this is the truth. There is no other way to understand the תורה.[^313]
+- A תלמיד shouldn't be discouraged by the difficulties brought by trying to understand the תורה. He should view this as the path to success, as this is the truth. There is no other way to understand the תורה.&lrm;[^313]
 - One can align his דעת with the תורה to the point that even without an explicit source for something, they can be confident that they are correct. Rav Dovid (potentially from the Alter of Slabodka) would say that whenever the רמב"ם would say "יראה לי", he is saying that he doesn't have an explicit source for a הלכה. However, these are his strongest points. When the רמב"ם quotes a source for a הלכה, it is coming from one 'גמ. When the רמב"ם uses his koach hasvara, this is based off of the רמב"ם's understanding of shas.[^317]
 - Even if one only learns one masechta, this koach hasvara will be strengthened, and it will help him with things related to other masechtos that he hasn't seen.[^317]
 - We see the lengths that the 'גמ goes to to try and understand the words of amoraim that do not have an explicit source. The 'גמ goes through many ת"שs and is willing to be strongly madche the words of mishnayos. This is because of this point: if an amora has a certain understanding of something based on his koach hasvara which has been honed by learning תורה, this carries a lot of weight.[^318]
@@ -1418,9 +1418,9 @@
 - One boat, the Exodus 1947, was ordered to take all of the migrants back to Europe. The migrants were ordered off the boat and onto a different one to make the return journey.[^329]
 - Some members of the UNSCOP watched with horror as the migrants were beaten onto the new boat. This helped them make their decision.[^329]
 - Ben-Gurion and Weizmann talked to members of UNSCOP. Their arguments consisted of:
-	1. Palestine was the historic Jewish homeland.[^329]
-	2. The Jews were a stateless people throughout their long history and so they were, in a sense, "owed" a land.[^329]
-	3. They had nowhere else to go. There was still incredible amounts of antisemitism in Europe.[^329]
+	1. <span style="display: block; text-align: justify;">Palestine was the historic Jewish homeland.[^329]</span>
+	2. <span style="display: block; text-align: justify;">The Jews were a stateless people throughout their long history and so they were, in a sense, "owed" a land.[^329]</span>
+	3. <span style="display: block; text-align: justify;">They had nowhere else to go. There was still incredible amounts of antisemitism in Europe.[^329]</span>
 - The Arabs argued (in other contexts as they did not meet with UNSCOP) that it was not their responsibility to pay for Hitler's crimes.[^329]
 - Weizmann said that Jews would be fine with partition as long as their was enough room.[^329]
 - During this time, there was still violence between the Irgun/Stern Gangs and the British.[^329]
@@ -1434,29 +1434,29 @@
 - The Haganah organized and trained. Some people in the Haganah fought in WWII. Their veteran leadership was useful.[^330]
 - This was technically illegal since the British still were in charge for the time being, so the Haganah had to do all this in secrecy.[^330]
 - The mufti wanted all of the Jews to be driven out of Palestine, a belief he held for the rest of his life.[^330]
-- A person needs to acquire מדות before learning תורה. This is seen from many sources such as Pirkei Avos פרק 3 משנה 9 and 17 (as explained by רבינו Yonah), the hakdama of the Orchos צדיקים, אור ישראל Maamar 27, and אמונה ובטחון (by the חזון איש) at the beginning of פרק 4.[^331]
+- A person needs to acquire מדות before learning תורה. This is seen from many sources such as Pirkei Avos פרק 3 משנה 9 and 17 (as explained by רבינו Yonah), the hakdama of the אורחות צדיקים, אור ישראל Maamar 27, and אמונה ובטחון (by the חזון איש) at the beginning of פרק 4.&lrm;[^331]
 - Some arguments against free international trade:
-	1. Decreases American jobs.[^332]
-	2. Causes child labor.[^332]
-	3. Some jobs need to remain domestic because of national security concerns.[^332]
-	4. Some jobs have positive externalities.[^332] {<span style="color:rgb(255, 0, 0)">Add link. It comes later. I don't really understand this argument</span>}
-	5. US well being can be increased with certain jobs remaining domestic.[^332] {<span style="color:rgb(255, 0, 0)">This is vague. I should rewrite this</span>}
+	1. <span style="display: block; text-align: justify;">Decreases American jobs.[^332]</span>
+	2. <span style="display: block; text-align: justify;">Causes child labor.[^332]</span>
+	3. <span style="display: block; text-align: justify;">Some jobs need to remain domestic because of national security concerns.[^332]</span>
+	4. <span style="display: block; text-align: justify;">Some jobs have positive externalities.[^332] {<span style="color:rgb(255, 0, 0)">Add link. It comes later. I don't really understand this argument</span>}</span>
+	5. <span style="display: block; text-align: justify;">US well being can be increased with certain jobs remaining domestic.[^332] {<span style="color:rgb(255, 0, 0)">This is vague. I should rewrite this</span>}</span>
 - Counters:
 	- Decreases American Jobs:
-		1. Trading with foreign countries gives them more money which they can then use to buy US-made products which increases American jobs. However, this moves jobs from fields that produce things that we import (generally low-skill products), to fields that produce things that we export (generally high-skill products).[^332] In addition, they may spend some of their money on American products, but some on other products.[^7]
-		2. Overall, this leads to comparative advantage. The US is a relatively highly educated workforce and so it makes sense for the US to import low-skill products and produce high-skill products.[^332]
+		1. <span style="display: block; text-align: justify;">Trading with foreign countries gives them more money which they can then use to buy US-made products which increases American jobs. However, this moves jobs from fields that produce things that we import (generally low-skill products), to fields that produce things that we export (generally high-skill products).[^332] In addition, they may spend some of their money on American products, but some on other products.[^7]</span>
+		2. <span style="display: block; text-align: justify;">Overall, this leads to comparative advantage. The US is a relatively highly educated workforce and so it makes sense for the US to import low-skill products and produce high-skill products.[^332]</span>
 	- Causes child labor.
-		1. Generally it is the poorest countries that use child labor. Not trading with them will really hurt those countries.[^332]
-		2. As countries become richer, they stop using child labor (meaning, the percentage of the workforce which are children goes down. The absolute number is largely affected by the population of the country). Trading with these countries may help them get rid of child labor faster.[^332]
+		1. <span style="display: block; text-align: justify;">Generally it is the poorest countries that use child labor. Not trading with them will really hurt those countries.[^332]</span>
+		2. <span style="display: block; text-align: justify;">As countries become richer, they stop using child labor (meaning, the percentage of the workforce which are children goes down. The absolute number is largely affected by the population of the country). Trading with these countries may help them get rid of child labor faster.[^332]</span>
 		![[Pasted image 20250127092612.png]][^332]
-		3. Many times laws are ineffective and all they do is drive the child labor market underground. Children still work but get paid less for doing it.[^332]
-		4. Other ways to combat child labor would be to help the economies of these poor countries, try to increase education levels, and try to incentivize parents to not send their kids out to work. (You can do both of these things by offering free meals for kids in schools.)[^332]
+		3. <span style="display: block; text-align: justify;">Many times laws are ineffective and all they do is drive the child labor market underground. Children still work but get paid less for doing it.[^332]</span>
+		4. <span style="display: block; text-align: justify;">Other ways to combat child labor would be to help the economies of these poor countries, try to increase education levels, and try to incentivize parents to not send their kids out to work. (You can do both of these things by offering free meals for kids in schools.)[^332]</span>
 	- National security concerns.
-		1. This is actually a good argument. However, it is somewhat limited in scope and is subject to much abuse (meaning, everyone claims that they are needed for national security).[^332]
+		1. <span style="display: block; text-align: justify;">This is actually a good argument. However, it is somewhat limited in scope and is subject to much abuse (meaning, everyone claims that they are needed for national security).[^332]</span>
 	- Positive externalities.
-		1. This argument is also good in theory, but it is difficult to figure out which industries and the ones with the positive externalities.[^332]
+		1. <span style="display: block; text-align: justify;">This argument is also good in theory, but it is difficult to figure out which industries and the ones with the positive externalities.[^332]</span>
 	- Increased well being.
-		1. Other countries may retaliate with their own tariffs.[^332]
+		1. <span style="display: block; text-align: justify;">Other countries may retaliate with their own tariffs.[^332]</span>
 - Some situations lead to genuine sadness, such as losing a loved one, contracting a serious illness, becoming paralyzed after an accident, losing a limb, and losing a  job.[^333]
 - These feelings are healthy and normal. This is not the same as depression.[^333]
 - Some differences:
@@ -1498,13 +1498,13 @@
 - We already discussed some verbal techniques one can use when dealing with someone who disapproves of you. One should employ the techniques used there.[^341]
 - Sometimes, you can just be forthright and ask the person if they actually disapprove of you. The fact that they explicitly tell you that they do not is a powerful tool.[^341]
 - If one is rejected by someone else, there are a few things to keep in mind:
-	1. They could have rejected you because of some part of your personality didn't fit with them. This doesn't mean that you are a bad person or anything like that. You're loud and they want quiet, or you're quiet and they want loud, etc. This doesn't mean anything about the quality of person you are.[^341]
-	2. Even if the person rejects you for something that is more objectively disliked (you lose your temper a lot), that still doesn't mean that you are a bad person. It means that you have a fault, just like anyone else. If you are willing to work on this fault and try to correct it, then it is on them for rejecting you anyway. This is something to think about to get yourself to not "buy" what the other person is saying.[^341]
+	1. <span style="display: block; text-align: justify;">They could have rejected you because of some part of your personality didn't fit with them. This doesn't mean that you are a bad person or anything like that. You're loud and they want quiet, or you're quiet and they want loud, etc. This doesn't mean anything about the quality of person you are.[^341]</span>
+	2. <span style="display: block; text-align: justify;">Even if the person rejects you for something that is more objectively disliked (you lose your temper a lot), that still doesn't mean that you are a bad person. It means that you have a fault, just like anyone else. If you are willing to work on this fault and try to correct it, then it is on them for rejecting you anyway. This is something to think about to get yourself to not "buy" what the other person is saying.[^341]</span>
 - Despite all this, it is normal to feel down after getting rejected. This is perfectly normal. One thing you can do to try and recover is to allow yourself to grieve at a specific time every day for a specific amount of time (about 10 minutes should be enough). Think about how much you miss the person and let yourself cry or get angry or whatever. After the time is over, recompose yourself and carry on with your day.[^341] {<span style="color:rgb(255, 0, 0)">I am not sure what I think about this. This feels like it is opening the door for depression to crawl in</span>}
 - One trick to rid yourself of the need for others' approval is to carry a wrist counter {<span style="color:rgb(255, 0, 0)">I feel like this isn't something people are going to do. Maybe count on your phone instead? This  really applies whenever a suggestion with a wrist counter came up.</span>} and every time you do an action that you approve of (you do something nice, you do something you were pushing off, etc.) click the button. At night, see what number you are up to and record it. Keep doing this every day. After some time, you will begin to feel your own approval for yourself and you won't need others' approval.[^341]
 - Obviously, approval feels good and disapproval stings. This is normal. We aren't trying to get rid of these feelings entirely. We just want to get rid of the need for and reliance on approval. {<span style="color:rgb(255, 0, 0)">The same is true for the other things that will be discussed</span>}[^341]
 - Even if one is granted extra intelligence and understanding, this won't help him understand תורה unless one has also developed proper מדות, because תורה is made up of many finely detailed points.[^342]
-- (See אמונה ובטחון Chapter 3 Os 24 ד"ה ואין חכם בתורה, Igaros חזון איש חלק 1 Os 3, ספורנו to דברים 32:15 ד"ה שמנת,, רבינו בחיי at the beginning of פרשת Kedoshim, and רבינו בחיי on שמות 18:20)[^343]
+- (See אמונה ובטחון Chapter 3 Os 24 ד"ה ואין חכם בתורה, Igaros חזון איש חלק 1 Os 3, ספורנו to דברים 32:15 ד"ה שמנת,, רבינו בחיי at the beginning of פרשת Kedoshim, and רבינו בחיי on שמות 18:20)&lrm;[^343]
 - Love:
 - Start with tallying up the pros and the cons of this need for love (as discussed by approval).[^344]
 - Keep in mind that being needy and dependent on people makes it harder to be loved. People aren't interested in clingy people.[^344]
@@ -1560,7 +1560,7 @@
 - Sometimes, perfectionism is coupled with anxiety, sometimes about specific situations. For example, one may want to wash their hands a lot, or double check all of the locks in a house after he knows that they are all locked.[^359]
 - A person can make extreme focus on these particular situations and do not give in to the compulsion. You can write down how emotionally distraught you after some interval of time, and then after the next interval, etc.[^359]
 - It is extremely difficult to do something purely lishma.
-- דוד המלך said that when Yishai was with his wife, he did not have totally pure intentions. Part of his intentions was his own הנאה.[^360]
+- דוד המלך said that when Yishai was with his wife, he did not have totally pure intentions. Part of his intentions was his own הנאה.&lrm;[^360]
 - Yishai was one of the few people who didn't do any עבירות his whole life. Clearly he was on a very high מדרגה. Yet דוד knew that even he wasn't totally pure when he would have tashmish because it is nearly impossible for a human to be able to do something totally lishma. Certainly we who are nowhere near this מדרגה can have to realize that we can do things with a lot more lisheim shamayim.[^361]
 - 'תוס asks a סתירה between the 'גמ (ברכות 17a) which says that people should only do things lishma, and it would be preferable for a person to not have been created rather than do things shelo lishma, and the 'גמ (Pesachim 50b) which says that a person should do things shelo lisham because by doing things shelo lishma, they will come to do things lishma. ('תוס gives his own answer but that is not what we are focusing on.)[^362]
 - Rav ישראל Salanter gives his own answer to this question. He says that the ברכות is referring to someone who is doing something not in line with how the מצוה is supposed to be performed. However, when someone does so the מצוה as one who is doing the מצוה properly would do the מצוה, this is valid and encouraged.[^363]
@@ -1591,10 +1591,10 @@
 - People become suicidal when they are depressed because they feel trapped. They feel like they are never going to be happy again. In fact, they feel like they were never truly happy in the past either.[^372]
 - This is warped thinking caused by the depression.[^372]
 - Assessing one's risk to commit suicide:
-	1. Severe depression and feeling hopeless.[^373]
-	2. Have attempted suicide in the past. Some people think that this is just someone trying to get attention or even a cry for help. Don't view it that way. This is a serious concern.[^373]
-	3. Made concrete plans (the more concrete the more at risk one is).[^373]
-	4. A lack of deterrents (you have a wife a children who you don't want to leave behind would be an example of a deterrent, for example).[^373]
+	1. <span style="display: block; text-align: justify;">Severe depression and feeling hopeless.[^373]</span>
+	2. <span style="display: block; text-align: justify;">Have attempted suicide in the past. Some people think that this is just someone trying to get attention or even a cry for help. Don't view it that way. This is a serious concern.[^373]</span>
+	3. <span style="display: block; text-align: justify;">Made concrete plans (the more concrete the more at risk one is).[^373]</span>
+	4. <span style="display: block; text-align: justify;">A lack of deterrents (you have a wife a children who you don't want to leave behind would be an example of a deterrent, for example).[^373]</span>
 - The more at risk one is, the more important it is for them to seek help from a licensed therapist.[^373]
 - One doesn't need to be worried that by speaking things out, they will become more likely to commit suicide. When speaking with a therapist, the opposite is true. One will feel better by talking it out.[^373]
 - Some therapists question their "right" to convince patients out of committing suicide. It is not a matter of "rights". It is a matter of trying to help people make the best decisions for themselves. And suicide is almost never the best decision.[^374]
@@ -1602,17 +1602,17 @@
 - One interesting technique is to role play. Have the patient be the therapist and the therapist should act like the therapist. The patient (now therapist) should talk to the therapist (now patient) about their problem and try to show the therapist the distortion in their thinking.[^374]
 - It is important to keep in mind that your situation is not hopeless. Usually, depression disappears by itself. Also, there are many different modalities of therapy and medications and just because some have not yet worked, that does not mean that others are doomed to fail as well.[^375]
 - Dealing with angry people:
-	1. This is an opportunity to work on yourself. Keep that in mind.[^376]
-	2. Sometimes, angry people will insult you. And sometimes those insults have at least a grain of truth in them. Use the disarming techniques discussed earlier. Ask them to continue their tirade until they get everything out and agree with at least in some way with what they say. Then respond in a matter-of-factly manner.[^376]
-	3. Try to see the world through their eyes.[^376]
-	4. Use the double-column technique to deal with lingering emotions.[^376]
+	1. <span style="display: block; text-align: justify;">This is an opportunity to work on yourself. Keep that in mind.[^376]</span>
+	2. <span style="display: block; text-align: justify;">Sometimes, angry people will insult you. And sometimes those insults have at least a grain of truth in them. Use the disarming techniques discussed earlier. Ask them to continue their tirade until they get everything out and agree with at least in some way with what they say. Then respond in a matter-of-factly manner.[^376]</span>
+	3. <span style="display: block; text-align: justify;">Try to see the world through their eyes.[^376]</span>
+	4. <span style="display: block; text-align: justify;">Use the double-column technique to deal with lingering emotions.[^376]</span>
 - Dealing with ungracious people:
 - People not expressing proper appreciation stems from the fact that you feel that they "should".
 - You need to think about how it is their problem if they are unable to appreciate the good that you did for them.[^377]
 - (It could be that one gets really bothered when someone doesn't appreciate something that they did because it makes them feel that they didn't actually accomplish anything. This can be especially frustrating after putting in a lot of effort to accomplish something. Keep in mind that what you accomplished may have nothing to do with this person's level of appreciation, especially if you know that this person is in general an ungrateful person. Also, try to think in a process-oriented. If you thought about what a person needs and you accomplished it in a reasonably good way, then you accomplished what you set out to do and you can feel good about that.[^7])
 - Uncertainty that something bad has/will happen:
-	1. You don't need to assume that the worst happened or will happen. That is your decision. Think about all the ways that it can/did end well (especially if it is actually true that it is probable that it did/will end well).[^378]
-	2. Keep a process-oriented mindset. You put in a reasonable effort to make things go well and that is the only thing you can do.[^378]
+	1. <span style="display: block; text-align: justify;">You don't need to assume that the worst happened or will happen. That is your decision. Think about all the ways that it can/did end well (especially if it is actually true that it is probable that it did/will end well).[^378]</span>
+	2. <span style="display: block; text-align: justify;">Keep a process-oriented mindset. You put in a reasonable effort to make things go well and that is the only thing you can do.[^378]</span>
 - Chemistry of depression:
 - (Note: This is from a book 50 years old. The research may have changed since then. This is useful to know what the theories were and to know what to check up.)
 - There perhaps is a link between amines (chemical transmitters between nerves (neurotransmitters). Examples of amines include norepinephrine, dopamine and serotonin) and depression.[^379]
@@ -1623,10 +1623,10 @@
 - An electrical impulse travels down a nerve. It reaches the end of the nerve. There is small fluid-filled gap between this nerve and the next nerve known as a synapse. There are "packets" storing chemicals at the end of the nerve. When the electrical impulse reaches the end of the nerve, it releases the correct chemical, which traverses the synapse and reaches the next nerve, which triggers an electrical impulse in the second nerve. The chemicals are carried away and released through urine. The nerve needs to refill its stock of chemicals. It is thought that the nerves of depressed people don't restock these chemicals well.[^380]
 - Mania is caused by extra amines.[^380]
 - There are a few different types of antidepressants:
-	1. Tricyclic antidepressants enhance the potency of the amines.[^380]
-	2. M. A. O. inhibitors increase the level of amines.[^380]
-	3. Lithium carbonate deals with extremes of moods. It isn't known how it deals with opposite moods. (At least it wasn't.)[^380]
-	4. L-tryptophan is an amino acid part of amines, so it is a natural amine increaser. Also, it is fast-acting.[^380]
+	1. <span style="display: block; text-align: justify;">Tricyclic antidepressants enhance the potency of the amines.[^380]</span>
+	2. <span style="display: block; text-align: justify;">M. A. O. inhibitors increase the level of amines.[^380]</span>
+	3. <span style="display: block; text-align: justify;">Lithium carbonate deals with extremes of moods. It isn't known how it deals with opposite moods. (At least it wasn't.)[^380]</span>
+	4. <span style="display: block; text-align: justify;">L-tryptophan is an amino acid part of amines, so it is a natural amine increaser. Also, it is fast-acting.[^380]</span>
 - Some antidepressants work for some people and not for others. It isn't (wasn't) known why this is. Just because some don't work for some people, others may work.[^380]
 - You need to make sure that you take the "goldilocks" amount of an antidepressant. Too much is dangerous and too little won't do anything.[^381]
 - It will almost certainly take at least two weeks for an antidepressant to kick in. At the same time, if the antidepressant doesn't work by 4 weeks, it is probably not going to work and it would make sense to move on and try something else.[^381]
@@ -1648,24 +1648,24 @@
 - It seems that it helps some patients, but it should be used in conjunction with therapy.[^383]
 - One should not take an L-tryptophan supplement while taking an antidepressant.[^383]
 - Some drugs which shouldn't be used:
-	1.  Sedatives can cause lethargy which can increase depression.[^384]
-	2. People become reliant on sleeping pills addiction after a few days and they need to keep taking more to fall asleep. In addition, they disrupt normal sleeping patterns. There are better alternatives to help with insomnia.[^384]
-	3. "Pep pills", like Ritalin, create a high. Coming down from that high for depressed people can be bad. In addition, regular use can cause aggression.[^384]
-	4. "Major tranquilizers", like Thorazine and Mellaril, should only be used for mania or hyperactivity.[^384]
+	1.  <span style="display: block; text-align: justify;">Sedatives can cause lethargy which can increase depression.[^384]</span>
+	2. <span style="display: block; text-align: justify;">People become reliant on sleeping pills addiction after a few days and they need to keep taking more to fall asleep. In addition, they disrupt normal sleeping patterns. There are better alternatives to help with insomnia.[^384]</span>
+	3. <span style="display: block; text-align: justify;">"Pep pills", like Ritalin, create a high. Coming down from that high for depressed people can be bad. In addition, regular use can cause aggression.[^384]</span>
+	4. <span style="display: block; text-align: justify;">"Major tranquilizers", like Thorazine and Mellaril, should only be used for mania or hyperactivity.[^384]</span>
 - This isn't an exact science and some doctors may disagree with this.[^384]
 - Anyone can take antidepressants but one needs to to be in conversation with a doctor.[^385]
 - One shouldn't take multiple types of antidepressants at the same time as it is usually unnecessary and can be dangerous.[^385]
 - If one tried many different types of antidepressants without success then in this situation it may make sense to combine multiple types of antidepressants.[^385]
 - Therapy and antidepressants can be used together and can sometimes achieve better results.[^386]
 - Myths about antidepressants:
-	1. "I won't feel like myself". Antidepressants don't make you feel high or strange. In fact, many people finally feel like themselves after taking antidepressants.[^386]
-	2. "These drugs are dangerous". Not if you have proper medical supervision.[^386]
-	3. "The side effects are bad". They are usually mild.[^386]
-	4. "The pills are addictive". They are not. You do not need to keep increasing your dose to keep achieving the same effect. You may need to keep taking a low dose even after the depression leaves to make sure that it does not come back. However, the side effects at this small dosage are negligible.[^386]
-	5. "People are going to look down on me". Most people won't know. Your family and those who care about you will be glad that you are trying to make yourself better.[^386]
-- People need to develop a love for others learning, as well, to be able to understand the תורה.[^387]
+	1. <span style="display: block; text-align: justify;">"I won't feel like myself". Antidepressants don't make you feel high or strange. In fact, many people finally feel like themselves after taking antidepressants.[^386]</span>
+	2. <span style="display: block; text-align: justify;">"These drugs are dangerous". Not if you have proper medical supervision.[^386]</span>
+	3. <span style="display: block; text-align: justify;">"The side effects are bad". They are usually mild.[^386]</span>
+	4. <span style="display: block; text-align: justify;">"The pills are addictive". They are not. You do not need to keep increasing your dose to keep achieving the same effect. You may need to keep taking a low dose even after the depression leaves to make sure that it does not come back. However, the side effects at this small dosage are negligible.[^386]</span>
+	5. <span style="display: block; text-align: justify;">"People are going to look down on me". Most people won't know. Your family and those who care about you will be glad that you are trying to make yourself better.[^386]</span>
+- People need to develop a love for others learning, as well, to be able to understand the תורה.&lrm;[^387]
 - In the days of Rebbi Shimon, a tremendously deep understanding of תורה was reached because of the love that people had for each other.[^388]
-- The תורה is built on shalom and achvah and so there is a mystical connection between love for your fellows learning and understanding the תורה.[^387]
+- The תורה is built on shalom and achvah and so there is a mystical connection between love for your fellows learning and understanding the תורה.&lrm;[^387]
 - (Also see Pirkei Avos 1:6 with the רמב"ם, רבינו Yonah, and פרוש הגר"א there.[^387])
 - Another middah one needs is the desire for learning and understanding new things.[^387]
 - There is a story with Alexander the Great that when he learned something new, he said he was a shoteh until then. This was out of his love and recognition of the importance of understanding something new.[^389]
@@ -1685,20 +1685,20 @@
 - The Negev was in a vulnerable position because they were isolated.[^391]
 - Despite this, Ben-Gurion ordered that they not be abandoned as he felt that the Negev was important for the future shape of the Israel.[^391]
 - Some reinforcements and supplies were given to help out.[^391]
-- A person needs the middah of anava to be able to learn תורה.[^392]
+- A person needs the middah of anava to be able to learn תורה.&lrm;[^392]
 - The חתם סופר talks about how if one's rebbi says something that they don't understand, they can't just decide that it is wrong, so throw it out and try to come up with a different understanding.[^392]
 - The rabbeim of previous generations had tremendous mental abilities far greater than our own. If we don't understand something, it is because of the limits of our mental capacities. This realization of one's weakness compared to previous generations is the middah of anava.[^392]
 - Therefore, a person has to be willing to work hard on his rebbi's תורה. They have to assume that there is an understanding to the words of his rebbi and only through working is he going to be able to uncover it.[^392]
 - Mishlei compares תורה to silver and precious jewels.[^393] This is because the value of תורה, like these things, is that it is hidden and takes effort to uncover. This is important for a person to keep in mind.[^392] (This point had been discussed before.)
 - Bzchus working on his rebbi's תורה, Hashem will grant him the understanding that he is looking for.[^392]
-- יוסף left his garment in the hands of אישת Potifar because it would have been a pigam to her כבוד to take it. She got a grasp on it, so יוסף would have had to pull it out of her hands to take it away, which would be a pigam in her כבוד.[^394]
+- יוסף left his garment in the hands of אישת Potifar because it would have been a pigam to her כבוד to take it. She got a grasp on it, so יוסף would have had to pull it out of her hands to take it away, which would be a pigam in her כבוד.&lrm;[^394]
 - אישת Potifar then made sure to be the first one to reach her husband to tell the story that would incriminate יוסף and leave her innocent.[^394]
 - We see the level one needs to go to show כבוד. A few tziurim:
-	1. She was totally in the wrong here, meaning the reason why there would have been a lack of כבוד was totally her own fault.[^395]
-	2. She is clearly a rasha.[^395]
-	3. It is יוסף's robe. He has a right to hold onto his stuff.[^395]
-	4. By יוסף leaving it in her hands, he was opening himself up to what eventually did happen, namely that she would use the garment as evidence against him.[^395]
-	5. How much of a lack of כבוד is it to hold onto the garment? It doesn't seem like a serious pigam in her כבוד, at all.[^395]
+	1. <span style="display: block; text-align: justify;">She was totally in the wrong here, meaning the reason why there would have been a lack of כבוד was totally her own fault.[^395]</span>
+	2. <span style="display: block; text-align: justify;">She is clearly a rasha.[^395]</span>
+	3. <span style="display: block; text-align: justify;">It is יוסף's robe. He has a right to hold onto his stuff.[^395]</span>
+	4. <span style="display: block; text-align: justify;">By יוסף leaving it in her hands, he was opening himself up to what eventually did happen, namely that she would use the garment as evidence against him.[^395]</span>
+	5. <span style="display: block; text-align: justify;">How much of a lack of כבוד is it to hold onto the garment? It doesn't seem like a serious pigam in her כבוד, at all.[^395]</span>
 - We also see the sensitivity that people have. She just got rejected by יוסף. It would seem that that is the big gnai to her is. A small thing like having a robe pulled out of her hand does not seem like it is something that would register. Apparently it would have.[^395]
 - People asked on this that perhaps it is "bietzem" a gnai, even if she doesn't feel it. See [[8531|Shmuess 8531]] where we seem to assume that the person receiving the gnai feels it. We don't take the "bietzem" assumption.[^7]
 - We also see the power of first impressions. She made sure to go say the story first to make sure that she would be belived. Why would it matter if she went first or second? If the story is believable, then it is believable, and if it is not then it is not.[^395]
@@ -1735,10 +1735,10 @@
 - The Jews held by the British in Cyprus began being trained.[^398]
 - As the British were pulling out, the Jews came up with Plan D. (I seems that the British were providing some assistance to the Jewish defense.)[^399]
 - The ideas were to:
-	1. Conquer the land that was promised to the Jews under the partition.[^399]
-	2. Conquer the land that had Jewish settlements that was beyond what was promised by the partition.[^399]
-	3. Occupy any Arab village that was located in strategic locations.[^399]
-	4. (Somehow this was also supposed to help create a more defensible I think but I am not sure how. Maybe creating the border around the promised area would have done this?)
+	1. <span style="display: block; text-align: justify;">Conquer the land that was promised to the Jews under the partition.[^399]</span>
+	2. <span style="display: block; text-align: justify;">Conquer the land that had Jewish settlements that was beyond what was promised by the partition.[^399]</span>
+	3. <span style="display: block; text-align: justify;">Occupy any Arab village that was located in strategic locations.[^399]</span>
+	4. <span style="display: block; text-align: justify;">(Somehow this was also supposed to help create a more defensible I think but I am not sure how. Maybe creating the border around the promised area would have done this?)</span>
 - On March 22, Arabs captured the road leading to Jerusalem from the coast.[^399]
 - The Haganah organized a massive counteroffensive (1500 people, which was by far the most of any operation) to recapture the road.[^399]
 - This became known as Operation Nachshon.[^399]
@@ -1805,12 +1805,12 @@
 - David Ben-Gurion was appointed as Prime Minister and Minister of Defense by the provisional government.[^411]
 - On May 15, all British troops (except for a small garrison) left Palestine.[^412]
 - The Israeli Declaration of Independence said:
-	1. The Jews need for a homeland, as was made obvious by the holocaust.[^411]
-	2. Every Jew was welcome to come.[^411]
-	3. Complete equality between races, sexes, etc.[^411]
-	4. Appealed for peace with Arabs in the country and the neighboring Arab countries.[^411]
-	5. Agreed to the UN charter (although Israel was not yet a UN member).[^411]
-	6. The borders of Israel were not defined.[^411]
+	1. <span style="display: block; text-align: justify;">The Jews need for a homeland, as was made obvious by the holocaust.[^411]</span>
+	2. <span style="display: block; text-align: justify;">Every Jew was welcome to come.[^411]</span>
+	3. <span style="display: block; text-align: justify;">Complete equality between races, sexes, etc.[^411]</span>
+	4. <span style="display: block; text-align: justify;">Appealed for peace with Arabs in the country and the neighboring Arab countries.[^411]</span>
+	5. <span style="display: block; text-align: justify;">Agreed to the UN charter (although Israel was not yet a UN member).[^411]</span>
+	6. <span style="display: block; text-align: justify;">The borders of Israel were not defined.[^411]</span>
 - America and the Soviet Union recognized Israel immediately after it was declared.[^412]
 - Egypt bombed Tel-Aviv on the day of the declaration of Israel.[^412]
 - Israel had almost no air force to start the war. They had the Piper Cubs and some Austers.[^412]
@@ -1846,8 +1846,8 @@
 - This is actually the basis for the middah of yiras Hashem. It comes out that the same way one acquires תורה is the same way one acquires the מדות of anava and yiras shomayim.[^424]
 - It is also extremely important for a rebbi to work on his middah of anava.[^425]
 - We see by Zecharia Hanavi that he did not properly feel the middah of anava. He viewed himself "above" the people. Because of this, the people rejected what he had to say and killed him.[^426]
-- Now, Zecharia was a navi. This means that he obviously did attain anava to a very high level (or else he would not have been a navi).[^425]
-- In addition, רש"י[^427] implies that the lack of anava in this situation was that Zecharia, due to his high position and the fact that it was יום Kippur, didn't think that anyone would attack him for saying his נבואה. This was a misplaced confidence. This certainly does not sound like an egregious lack of anava at all.[^425]
+- Now, Zecharia was a נביא. This means that he obviously did attain anava to a very high level (or else he would not have been a נביא).[^425]
+- In addition, רש"י&lrm;[^427] implies that the lack of anava in this situation was that Zecharia, due to his high position and the fact that it was יום Kippur, didn't think that anyone would attack him for saying his נבואה. This was a misplaced confidence. This certainly does not sound like an egregious lack of anava at all.[^425]
 - Yet, despite this, כלל ישראל completely rejected what Zecharia had to say and even killed him because of it.[^425]
 - The first act of the Provisional Council was to remove any restrictions on Jewish immigration for the future, and retroactively (so all the "illegals" were now legal).[^428]
 - Even during this time, new settlements were being built. Sometimes, nearby abandoned Arab settlements were destroyed for this purpose.[^428]
@@ -1897,12 +1897,12 @@
 - Anava is not only important for a rebbi when giving over tochacha. It is important whenever a rebbi is teaching anything.[^442]
 - This means that a rebbi needs to can't be מקפיד on his כבוד if a תלמיד acts out of line.[^442]
 - A rebbi needs to develop his middah of anava to make sure that in these situations, he won't respond incorrectly.[^442]
-- The רמב"ן[^443] says that when ראובן "slept" with Bilha, יעקב did not kick ראובן out from being counted from amongst the shevatim because of his anivus.[^442]
+- The רמב"ן&lrm;[^443] says that when ראובן "slept" with Bilha, יעקב did not kick ראובן out from being counted from amongst the shevatim because of his anivus.[^442]
 - Even though יעקב loved ראובן so much, without his tremendous anivus he would have made this mistake.[^442]
 - Loving a תלמיד is not enough. The rebbi needs to have anava.[^442]
 - A rebbi needs to be organized in his presentation of the material. The order the material is presented should make sense.[^444]
 - We see the importance of this from the gemaros at the beginning of Nedarim and Yevamos. The mishnayos there give lists (in Nedarim, it is lists of kinuyim from nedarim and in Yevamos, it is a list of arayos) and the 'גמ immediately begins by trying to understand why the tanna presented these things in the order that he did. This is even before the 'גמ gets into the major sugyos that follow (in Yevamos, the sugya that follows is asei doche לא sasei).[^444]
-- We similarly see this in רבינו בחיי[^445] who explains the reason why the תורה ordered the parsha of negaim the way it did.[^446]
+- We similarly see this in רבינו בחיי&lrm;[^445] who explains the reason why the תורה ordered the parsha of negaim the way it did.[^446]
 - During the truce, there was some criticism of some of Ben-Gurion's decisions (such as the attacks on Latrun and the fight with the Irgun).[^447]
 - To respond to the issues, Yigal Yadin suggested to create a War Cabinet so decisions would be made by a group rather than by Ben-Gurion alone. Ben-Gurion agreed to this.[^447]
 - Kfar Darom was abandoned on July 8 after running out of supplies due to pressure from the Egyptians.[^448]
@@ -1966,14 +1966,14 @@
 - Command and control:
 - Self-explanatory: the government says that you must do this and you can't do this. For example, in 2007, governments required washing machines to use less electricity.[^460]
 - Problems:
-	1. Rarely efficient. The goal in this case was to reduce electrical use. There are thousands of ways to reduce electrical use. What is the best way?[^460]
-		1. It is impossible to know the best way overall.[^460]
-		2. Each individual may have certain ways that work better for them. Forcing everyone to reduce electricity in one way forces people to reduce electricity in ways that are inefficient, meaning, they could reduce an equal amount of electricity by stopping to do other things that matter less to them.[^460]
-		3. For some people, the use of electricity is extremely important and it would be better if they didn't reduce their electrical usage.[^460]
-	2. Missing the target. Even in this situation, the goal isn't really to reduce electricity. The goal is to deal with climate change. It is difficult to pass laws that directly target the climate.[^460]
+	1. <span style="display: block; text-align: justify;">Rarely efficient. The goal in this case was to reduce electrical use. There are thousands of ways to reduce electrical use. What is the best way?[^460]</span>
+		1. <span style="display: block; text-align: justify;">It is impossible to know the best way overall.[^460]</span>
+		2. <span style="display: block; text-align: justify;">Each individual may have certain ways that work better for them. Forcing everyone to reduce electricity in one way forces people to reduce electricity in ways that are inefficient, meaning, they could reduce an equal amount of electricity by stopping to do other things that matter less to them.[^460]</span>
+		3. <span style="display: block; text-align: justify;">For some people, the use of electricity is extremely important and it would be better if they didn't reduce their electrical usage.[^460]</span>
+	2. <span style="display: block; text-align: justify;">Missing the target. Even in this situation, the goal isn't really to reduce electricity. The goal is to deal with climate change. It is difficult to pass laws that directly target the climate.[^460]</span>
 - Despite this, command and control is useful when:
-	1. The best solution to a problem is clear.[^460]
-	2. Flexibility is a bad thing.[^460]
+	1. <span style="display: block; text-align: justify;">The best solution to a problem is clear.[^460]</span>
+	2. <span style="display: block; text-align: justify;">Flexibility is a bad thing.[^460]</span>
 - For example, smallpox was eradicated through command and control. People who had the disease were isolated and the communities were vaccinated. Allowing people to choose whether to be vaccinated or not would have allowed the disease to remain.[^460]
 - Markets don't incorporate externalities well not because they are external, but because the rights in the situation are not clear.[^461]
 - Examples:
@@ -2050,16 +2050,16 @@
 - As such, out resources are put toward producing things that people want, and the right quantity for how high the demand is.[^472]
 - For this reason, profit margins are somewhat similar across different industries. If they were considerably higher in one industry, people would flock to that industry.[^472]
 - This is only true if:
-	1. Prices are allowed to move to reflect the underlying demand.[^472]
-	2. Companies are allowed to enter and exit different fields (as opposed to monopolies).[^472]
+	1. <span style="display: block; text-align: justify;">Prices are allowed to move to reflect the underlying demand.[^472]</span>
+	2. <span style="display: block; text-align: justify;">Companies are allowed to enter and exit different fields (as opposed to monopolies).[^472]</span>
 - To earn profits greater than this profit margin, you need to innovate. If you create something new, you can cash in (at least for some time).[^472]
 - Monopolies:
 - A company has a monopoly when it controls at least a large share of a particular market.[^473]
 - This can be because:
-	1. A company has a patent or some other government license that doesn't allow competition.[^473]
-	2. A large company can produce something for cheaper than a small one. As such, it is difficult to enter the market.[^473]
-	3. Exclusive access to an important input (ex there are only so many diamond mines in the world. If a company gets control of a good percentage of them, they will have monopoly on the diamond industry).[^473]
-	4. If a company has some technological innovation, it may take some time for other companies to catch up. During that time, this company has a monopoly.[^473]
+	1. <span style="display: block; text-align: justify;">A company has a patent or some other government license that doesn't allow competition.[^473]</span>
+	2. <span style="display: block; text-align: justify;">A large company can produce something for cheaper than a small one. As such, it is difficult to enter the market.[^473]</span>
+	3. <span style="display: block; text-align: justify;">Exclusive access to an important input (ex there are only so many diamond mines in the world. If a company gets control of a good percentage of them, they will have monopoly on the diamond industry).[^473]</span>
+	4. <span style="display: block; text-align: justify;">If a company has some technological innovation, it may take some time for other companies to catch up. During that time, this company has a monopoly.[^473]</span>
 - Like in competitive markets, a firm maximized profits by selling until the point that marginal cost equals marginal revenue.[^473]
 - The difference is that a company operating under a monopoly is able to control the market price, and hence, their marginal revenue.[^473]
 - As the company increases price, quantity demanded drops. And as it lowers price, quantity demanded increases. A company maximized profits by finding that goldilocks price where demand is high enough and price is high enough.[^473]
@@ -2072,8 +2072,8 @@
 - The monopoly markup (the amount a company can charge more than would be expected if the market would be competitive) is higher when demand is more inelastic and lower when demand is more elastic.[^474]
 - ![[Pasted image 20250129143427.png]][^474]
 - Why medicine is so inelastic (and, therefore has such a high monopoly markup):
-	1. If someone is dying, then there is no price they won't be willing to pay for a life-saving drug.[^474]
-	2. If you are spending someone else's money, then you don't particularly care if the price goes up. When you get a medicine, your insurance usually covers it (or at least you think it is supposed to). As such, you don't really care if the price goes up.[^474] (This is a bit more complicated because, technically, your insurance prices do go up when the insurance has to spend more money on medicine.)[^7]
+	1. <span style="display: block; text-align: justify;">If someone is dying, then there is no price they won't be willing to pay for a life-saving drug.[^474]</span>
+	2. <span style="display: block; text-align: justify;">If you are spending someone else's money, then you don't particularly care if the price goes up. When you get a medicine, your insurance usually covers it (or at least you think it is supposed to). As such, you don't really care if the price goes up.[^474] (This is a bit more complicated because, technically, your insurance prices do go up when the insurance has to spend more money on medicine.)[^7]</span>
 - Monopolies move gains from trade from the consumer to the producer, and create some deadweight loss, meaning, that there are potential mutually profitable trades that now will not happen.[^475]
 - ![[Pasted image 20250130001301.png]][^475]
 - Giving patents can help companies working in industries that have high development costs compared to marginal costs. In these industries, a company that develops something would have no way to earn their costs back. As such, there would be no incentive for anyone to develop things with high development costs.[^475]
@@ -2096,8 +2096,8 @@
 - There are many more examples.[^476]
 - Price discrimination can be a good thing (compared to a monopolist charging a fixed, profit maximizing price).[^477]
 - This is because:
-	1. This increases profits, even more than charging the single profit maximizing price. The single maximizing price charges some people less than they will be willing to pay, and charges others more. This can create incentive for companies to try and develop some product (like develop a drug).[^477]
-	2. This increases the amount of profitable trades. Nobody is charged more than they are willing to pay.[^477]
+	1. <span style="display: block; text-align: justify;">This increases profits, even more than charging the single profit maximizing price. The single maximizing price charges some people less than they will be willing to pay, and charges others more. This can create incentive for companies to try and develop some product (like develop a drug).[^477]</span>
+	2. <span style="display: block; text-align: justify;">This increases the amount of profitable trades. Nobody is charged more than they are willing to pay.[^477]</span>
 - To be able to do this at a very individualized level, the company has to have a lot of knowledge about the consumer.[^477]
 - A form of highly segmented price discrimination is financial aid from college tuitions. Colleges offer highly variable amounts of financial aid (or charge their students highly variable amounts of tuition, depending on how you look at it). Colleges are able to do this because they ask for a lot of financial information from the students when applying for financial aid.[^477]
 - However, this does transfer all of the gains from trade from the consumer to the producer.[^7]
@@ -2132,10 +2132,10 @@
 - In addition, first-world countries typically have a better educated work force and so there is a relatively low supply of people who want to be janitors compared to developing countries.[^481]
 - Why are people with advanced education on average paid more than people who without?
 - Four possibilities:
-	1. People who are able to get through college have certain innate abilities (high IQ, hard workers, etc.). People with these abilities do better in the labor force. This would be true regardless of if they went to college.[^482]
-	2. A degree is a signal to the job market that someone has these innate abilities.[^482]
-	3. People actually learn things in college.[^482]
-	4. You meet people and develop relationships in college.[^7]
+	1. <span style="display: block; text-align: justify;">People who are able to get through college have certain innate abilities (high IQ, hard workers, etc.). People with these abilities do better in the labor force. This would be true regardless of if they went to college.[^482]</span>
+	2. <span style="display: block; text-align: justify;">A degree is a signal to the job market that someone has these innate abilities.[^482]</span>
+	3. <span style="display: block; text-align: justify;">People actually learn things in college.[^482]</span>
+	4. <span style="display: block; text-align: justify;">You meet people and develop relationships in college.[^7]</span>
 - Indications to option 3 (over option 2):
 	- Maybe to get a first job a signal is important, but over time, the people who are actually good employees will get sorted from those who are not.[^482]
 		- Counter: Markets are somewhat inefficient.[^482]
@@ -2164,9 +2164,9 @@
 - Over time, college educated people get paid an increasingly higher ratio compared to people with just a high school degree.[^483]
 - ![[Pasted image 20250131190140.png]][^483]
 - This is because:
-	1. Computers have become an increasingly more important part of the economy. Learning computer skills (which one needs to do for a wide variety of majors) has become increasingly more important.[^483]
-	2. Globalization. This allows educated people to access the global market. Since there are relatively few educated people in the world, these skills have become more valuable.[^483]
-	3. On the flip side, less educated workers now have more competition to deal with. There are many uneducated workers in the world who now have access to the US economy.[^483]
+	1. <span style="display: block; text-align: justify;">Computers have become an increasingly more important part of the economy. Learning computer skills (which one needs to do for a wide variety of majors) has become increasingly more important.[^483]</span>
+	2. <span style="display: block; text-align: justify;">Globalization. This allows educated people to access the global market. Since there are relatively few educated people in the world, these skills have become more valuable.[^483]</span>
+	3. <span style="display: block; text-align: justify;">On the flip side, less educated workers now have more competition to deal with. There are many uneducated workers in the world who now have access to the US economy.[^483]</span>
 - Jobs which have other benefits than the just the wages (they are more fun, more safe, etc.) have lower wages than other jobs with similar level of skills.[^484]
 - As such, employers have an incentive to make jobs safer. Jobs which are unsafe need to pay more to get people to take those jobs.[^485]
 - This is why jobs have gotten safer over time. Not so much because of increasing government regulations.[^485]
@@ -2184,10 +2184,10 @@
 - In addition, unions can sometimes gain so much power that they slow down the whole economy. In this situation, real wages drop.[^486]
 - Unions may also create market inefficiencies. They may not allow the dissolution of required permits/licenses or other things like that which may not be necessary but create search costs, in an effort to keep people out of the industry.[^7]
 - There are 4 types of goods: 
-	1. Public goods: Non-rivalrous (multiple people can use the same good without an increase in cost) and non-excludable (everyone benefits from this good existing, even those that did not pay for it)[^487]
-	2. Private goods: rivalrous and excludable.[^487]
-	3. Club goods: Non-rivalrous and excludable.[^487]
-	4. Common Resources: Rivalrous and non-excludable.[^487]
+	1. <span style="display: block; text-align: justify;">Public goods: Non-rivalrous (multiple people can use the same good without an increase in cost) and non-excludable (everyone benefits from this good existing, even those that did not pay for it)[^487]</span>
+	2. <span style="display: block; text-align: justify;">Private goods: rivalrous and excludable.[^487]</span>
+	3. <span style="display: block; text-align: justify;">Club goods: Non-rivalrous and excludable.[^487]</span>
+	4. <span style="display: block; text-align: justify;">Common Resources: Rivalrous and non-excludable.[^487]</span>
 - Public goods:
 - Ex: A nuclear weapons system. Whether you pay or not, the the whole country will (hopefully) not be attacked by nuclear weapons from other countries.[^487]
 - In addition, for many of these things, the amount that an individual adds does not make a difference as to whether the good will be successful or not.[^487]
@@ -2207,9 +2207,9 @@
 - The problem is that everyone loses out because of this as the resource is diminished.[^489]
 - For example, an individual fisherman has no incentive to fish less to preserve the amount of fish there are. But because of this, the overall stock of fish dwindles. This is known as the "tragedy of the commons".[^489]
 - Possible solutions:
-	1. Command and control. Impose regulations on what one is allowed to do. This comes with the usual inefficiencies of command and control.[^489]
-	2. Cultural norms. This is actually effective, but it can take a while to create these norms and they are mostly effective in smaller, stable groups.[^489]
-	3. Create property rights. For example, government can create tradable allowances for a certain resource. This may be difficult to implement for resources which are shared by multiple counties (Ex: The environment),[^489]
+	1. <span style="display: block; text-align: justify;">Command and control. Impose regulations on what one is allowed to do. This comes with the usual inefficiencies of command and control.[^489]</span>
+	2. <span style="display: block; text-align: justify;">Cultural norms. This is actually effective, but it can take a while to create these norms and they are mostly effective in smaller, stable groups.[^489]</span>
+	3. <span style="display: block; text-align: justify;">Create property rights. For example, government can create tradable allowances for a certain resource. This may be difficult to implement for resources which are shared by multiple counties (Ex: The environment),[^489]</span>
 - Asymmetric information and adverse selection problems:
 - In some situations, one party knows more information than the other. (Ex: Health insurance. The person being insured knows more about their health than the insurance company. Used car sales. The car salesman knows more about the state of the cars than the buyers.)[^490]
 - In these situations, the person without the information is not going to be able to offer better prices for the better product and worse for the worse product because they don't know which is which. Meanwhile, the person with the information can offer them the worst products. As such, the person without the information will have to assume that they are receiving a bad product.[^490]
@@ -2217,24 +2217,24 @@
 - Without these people, the average quality drops. As such, the person without the information has to offer a worse deal (someone buying a used car is only willing to offer less and insurance companies need to charge more). This forces the remaining people with the best quality product out of the market. This further lowers the quality which forces a worse deal, forcing more people out of the market, etc.[^490]
 - Eventually there is no market except for the people with the worst products for which it isn't worth it for anyone to pay for (it isn't really worth it for anyone to buy the worst used cars or for insurance companies to insure people with the worst health).[^490]
 - This is prevented from happening in a few ways:
-	1. Have a third party ascertain information and give it to the party without the information (like Carfax for used cars, or a health checkup for people applying for health insurance).[^490]
+	1. <span style="display: block; text-align: justify;">Have a third party ascertain information and give it to the party without the information (like Carfax for used cars, or a health checkup for people applying for health insurance).[^490]</span>
 	   Counter: This forces people with the worst health to pay the most money. If it is nearly guaranteed that they will have large bills, than insurance will basically be the price of the bill. People don't like this.[^490]
-	2. The market doesn't always make sense. People who are healthy still buy health insurance because these are the same types of people who want to avoid risk.[^490]
-	3. Lower the information that the side with the information has. For example, companies offer insurance to their employees. The companies don't know anything about the health of their employees. As such, even a company with healthier employees will not drop out of the market because they don't realize that they are overpaying.[^490]
+	2. <span style="display: block; text-align: justify;">The market doesn't always make sense. People who are healthy still buy health insurance because these are the same types of people who want to avoid risk.[^490]</span>
+	3. <span style="display: block; text-align: justify;">Lower the information that the side with the information has. For example, companies offer insurance to their employees. The companies don't know anything about the health of their employees. As such, even a company with healthier employees will not drop out of the market because they don't realize that they are overpaying.[^490]</span>
 	   Counter: People will lose their insurance if they lose their job. Also what happens yo people who retire?[^490]
 	   Counter: There are some government programs that help with this (like Medicare).[^490]
-	4. Command and control: Require everyone to engage in the market. For example the Affordable Care Act (Obamacare) requires everyone to have health insurance, even healthy people. This helps subsidize insurance for unhealthy people.[^490]
+	4. <span style="display: block; text-align: justify;">Command and control: Require everyone to engage in the market. For example the Affordable Care Act (Obamacare) requires everyone to have health insurance, even healthy people. This helps subsidize insurance for unhealthy people.[^490]</span>
 - Asymmetric information also leads to moral hazard. This means that the side with the information has an incentive to lie to the side without the information. (Ex: A mechanic has incentive to say that more repairs are required than actually are. The person paying for the repairs has no way of knowing if this is true.)[^491]
 - This then encourages the person without the information to not deal with the person with the information if they believe that they may be taken advantage of, which can lead to problems (people not getting taking their car in for inspections).[^491]
 - Solutions:
-	1. Equate the information between the two parties.[^491]
-	2. Align the incentive of side with the information to the side of the party without the information.[^491]
+	1. <span style="display: block; text-align: justify;">Equate the information between the two parties.[^491]</span>
+	2. <span style="display: block; text-align: justify;">Align the incentive of side with the information to the side of the party without the information.[^491]</span>
 - Practically, both of these can be done through:
-	1. Review sites.[^491]
+	1. <span style="display: block; text-align: justify;">Review sites.[^491]</span>
 	   Counter: This can be manipulated. (Ex: A person may get their friends to give his company good reviews. A college may encourage people to apply so they can reject people to lower their acceptance percentage to look more prestigious.)[^491]
 	   Counter: A third-party reviewer (like Consumer Reports) won't be affected by this.[^491]
 	   Counter: This information is non-rivalrous and, at least to some degree, non-excludable (even if you don't pay for the third party review, you can still get the information and use it). Like public goods {<span style="color:rgb(255, 0, 0)">add link</span>} this creates freerider problems, causing an underproduction of these third-party reviews.[^491]
-	2. Separate diagnosis of an issue from the person carrying out the repair. (Ex: Going to a doctor for a second opinion. Having a home inspector inspect your home (in states where a home inspector is not allowed to offer repairs)).[^491]
+	2. <span style="display: block; text-align: justify;">Separate diagnosis of an issue from the person carrying out the repair. (Ex: Going to a doctor for a second opinion. Having a home inspector inspect your home (in states where a home inspector is not allowed to offer repairs)).[^491]</span>
 	   Counter: This can be manipulated. One group of people in a particular field may "work together" by always recommending the more expensive option. This way, they can be assured that when they are the person performing the service, they can know that the "diagnoser" will recommend an expensive option.[^7]
 - Another solution to asymmetric information is for the party with the high information to convey a credible signal to the side without information.[^492]
 - Example: Hyundai used to have a bad reputation. They started making cars with higher quality. However, they needed a way to let buyers know that their cars were made with higher quality. To do this, they offered a big warrantee on their cars. Buyers saw that Hyundai was putting their money where their mouth was and so they were able to see that Hyundai was actually making better cars. (Meanwhile, since the cars were actually better, this didn't cost Hyundai very much.)[^492]
@@ -2359,8 +2359,8 @@
 - Weizmann died in November 1952.[^516]
 - There was a big debate in Israel about accepting reparations from Germany for their actions in WWII. Ben-Gurion and most of the Knesset were pro while Begin, his party Cherut, and others, were anti.[^517]
 - Those against argued that:
-	1. It was a disgrace for those who were killed. One person related that his son asked him, "how much are we going to get for grandpa and grandma?"[^517]
-	2. They wanted nothing to do with Germany.[^517]
+	1. <span style="display: block; text-align: justify;">It was a disgrace for those who were killed. One person related that his son asked him, "how much are we going to get for grandpa and grandma?"[^517]</span>
+	2. <span style="display: block; text-align: justify;">They wanted nothing to do with Germany.[^517]</span>
 - There were riots in the streets during meetings about whether to accept this deal.[^517]
 - Despite this, reparations were accepted. The deal was signed in September.[^517]
 - 85% of the money went to Israel (as they accepted an outsized amount of the Holocaust survivors) while 15% went to Jews in other parts of the world.[^517]
@@ -2392,9 +2392,9 @@
 - Israeli Educational institutes opened their doors to Arabs beginning in 1953.[^521]
 - Ben-Gurion retired in 1953. This was in large part due to the stress of running a coalition government. Whenever members would drop out of the coalition for one reason or another, he would have to try and find new members for his coalition, and figure out how to cater to their demands.[^521]
 - Part of Ben-Gurion's legacy was:
-	1. The establishment that different government institutions would remain independent of each other (like the courts were independent).[^521]
-	2. Unifying the military.[^521]
-	3. Making the democratic institutions (like the Knesset), primary.[^521]
+	1. <span style="display: block; text-align: justify;">The establishment that different government institutions would remain independent of each other (like the courts were independent).[^521]</span>
+	2. <span style="display: block; text-align: justify;">Unifying the military.[^521]</span>
+	3. <span style="display: block; text-align: justify;">Making the democratic institutions (like the Knesset), primary.[^521]</span>
 - Moshe Sharett, the previous foreign affairs minister, became the new Prime Minister in 1954.[^521]
 - Moshe Dayan (as appointed by Ben-Gurion right before retiring) became Chief of Staff.[^521]
 - Pinhas Lavon became the Minister of Defense.[^521]
@@ -2792,7 +2792,7 @@
 - דין (meaning, monetary court cases) are extremely integral to the תורה. This is why they are discussed right after Matan תורה (in פרשת Mishpatim).[^591]
 - As such, a judge has to spend time[^591] and put in much effort[^592] to make sure that they get the correct דין. Some things may come up that the judge did not originally realize and only after thinking about it does it occur to him.[^593]
 - A person has to keep teaching new talmidim. Even once someone gets older and they have already taught many talmidim, a person needs to teach more because even if the talmidim one has already taught are successful, one can't know if that will remain.[^594]
-- The רבנן established gezeiros and takanos to make sure that people don't accidentally come to violate the הלכות of the תורה. This is based off the פסוק in ויקרא (18 30) וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י, which the 'גמ in מועד קטן learns to mean to create dirabanans to protect the תורה.[^595]
+- The רבנן established gezeiros and takanos to make sure that people don't accidentally come to violate the הלכות of the תורה. This is based off the פסוק in ויקרא (18 30) וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י, which the 'גמ in מועד קטן learns to mean to create dirabanans to protect the תורה.&lrm;[^595]
 - I am not precisely sure what the difference about how to read the resolution (meaning, whether the resolution should be read as if it said "all" or "the" or not) makes. Either way, Arab countries were obviously not going to accept peace with Israel keeping most of the land, even if that satisfied the letter of the law (according to the Israeli reading) and it seems that Israel was willing to give up nearly all of the land in exchange for peace.[^7]
 - Perhaps this made a difference because Israel wanted to make some small changes to the border. Reading the resolution Israel's way would give Israel more strength to stand on. Also, perhaps reading it Israel's way would allow Israel to deal with the other aspect that the Arabs were pushing, namely, that Israel withdraw first and then negotiate peace. Reading it Israel's way can allow Israel to claim that it satisfied the condition to withdraw from occupied territory and so now peace dealings can happen (even if within those peace dealings, Israel would give up the vast amount of the occupied land).[^7]
 - Egypt and Syria responded to Israel with the Khartoum conference and the three 'no's: No peace, no negotiation, no recognition.[^596]
@@ -2860,7 +2860,7 @@
 - The mesorah of תורה was transferred from rebbi to תלמיד from משה until our times. It was written down in the forms of the משנה and 'גמ, neither of which can be edited.[^602]
 - A person needs to take time and put in effort when judging cases. Mistakes are easy to make. In addition, sometimes a thought might hit someone that they did not initially think of. A person who does not do this and makes a mistake is considered negligent, even if the person put in an honest effort.[^603]
 - The reason why Pirkei Avos discusses this by דין is because דין is extremely important. Practicing proper דין is the way one gets to know Hashem {<span style="color:rgb(255, 0, 0)">רבינו Yonah discusses practicing דין, but perhaps he means learning it? Meaning, when one learnsthe הלכות of דינים, perhaps he "understands Hashem" (as much as a person can do that)?</span>}.[^603]
-- The importance of דין is shown in the תורה. The תורה discusses דין right before  matan תורה (וְשָׁפְט֣וּ אֶת־הָעָם֮ בְּכׇל־עֵת֒ (שמות יח כב)) and right after (וְאֵ֙לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם (שמות כא א)).[^604]
+- The importance of דין is shown in the תורה. The תורה discusses דין right before  matan תורה (וְשָׁפְט֣וּ אֶת־הָעָם֮ בְּכׇל־עֵת֒ (שמות יח כב)) and right after (וְאֵ֙לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם (שמות כא א)).&lrm;[^604]
 - A person should teach many talmidim. This is in line with בית Hillel as opposed to בית Shamai. בית Shamai was more of an elitist. בית Hillel was was much more open. He felt that you never know which talmidim you teach will end up being successful, so it is important to teach as many as possible.[^605]
 - This is actually that Hillel himself experienced. The 'גמ discusses how all of Hillel's talmidim came to see him when he was on his deathbed. Rav Yochanan בן Zachai, because of his anivus, waited outside. Hillel asked his talmidim if they were all there. They responded that they all were except for the least great of them. Hillel told his talmidim to bring him in as he was destined for greatness (which is what happened).[^606]
 - (This story seems a bit difficult to understand how it proves the point of רבינו Yonah. Rav Yochanan בן Zachai was not really a "bottom of the שיעור" person. He was a tremendous גדול who hid his greatness. As such, how does one see from here that even one's "lowest" תלמיד can be destined to be greater than the "top guys"? Perhaps the idea is that even though Hillel realized Rav Yochanan be Zachai's greatness, his talmidim, who were also great people obviously did not. As such, a rebbi has to realize that he may also be missing his תלמיד's potential (although this is a situation where the תלמיד is hiding his own greatness. I don't know how one can see from here how that one's תלמיד may have untapped potential.))[^7]
@@ -2923,7 +2923,7 @@
 - By October 10, Israel had pushed Syria back to the initial ceasefire line. Dayan argued against pushing into Syria because he did not want to get too close to Damascus as this would potentially pull the Soviets into the war. He was outvoted, although Israel was cognizant of that point. They decided to advance 12 miles in Syria (Damascus was 30 miles from the border).[^615]
 - There was a lot of pessimism in Israel as they realized how much and how powerfully the Soviets had armed Egypt and Syria. Even as the war continued, the Soviets Union continued to supply Egypt and Syria.[^615]
 - A judge should deliberate when making a judgement, even if seems to be obvious to him. This is because a judge (assuming he is a good person, which he probably is), may feel compassion for one party or the other, for a variety of reasons. It is important for the judge to take his time to judge the case honestly and put aside these feelings. For that reason, it is important for the judge to take his time.[^616]
-- Similarly, the 'גמ[^617] says that a judge has to wait for both parties to be present before being presented with the arguments. This is because we don't want to judge to feel for the person who is present. It will be difficult for the judge to remove these feelings and judge the case honestly.[^616]
+- Similarly, the 'גמ&lrm;[^617] says that a judge has to wait for both parties to be present before being presented with the arguments. This is because we don't want to judge to feel for the person who is present. It will be difficult for the judge to remove these feelings and judge the case honestly.[^616]
 - This doesn't just apply to matters of דין. One should always respond to things only after consideration.[^616]
 - This is one of the problems with anger: it gets a person to respond hastily without thinking.[^618]
 - When teaching, this is also particularly important. When a person is asked a question in learning, they should think about it before responding. It is easy to respond quickly and make a mistake.[^616]
@@ -2981,10 +2981,10 @@
 - This war also broke Israeli confidence and gave the Egyptians confidence, even though, Israel had overall won a military victory.[^624]
 - OPEC (led by Saudi Arabia) began to flex its muscle by creating an oil embargo on countries that had helped Israel. They pushed countries against Israel.[^624]
 - One should have many talmidim to make sure תורה is not forgotten,[^616] and because of the concept of מָה עֵץ קָטָן מַדְלִיק אֶת הַגָּדוֹל, אַף תַּלְמִידֵי חֲכָמִים קְטַנִּים מְחַדְּדִים אֶת הַגְּדוֹלִים.&lrm;[^625] (This seems to refer to the concept of וּמִתַּלְמִידַי יוֹתֵר מִכּוּלָּן as those are the next words of the 'גמ.)
-- One should take council with his talmidim when answering questions, as this will help one find the answer. The 'גמ[^626] discusses how Rav would do this.[^616]
+- One should take council with his talmidim when answering questions, as this will help one find the answer. The 'גמ&lrm;[^626] discusses how Rav would do this.[^616]
 - One should speak in a measured way, not too little and not too much. This is especially true when teaching תורה. If one speaks too little, others won't be able to understand him. If one speaks too much, people will start to tune him out.[^627]
 - In addition, different situations call for different ways of saying things (sometimes leaving some things out, and others, saying things in full) and person has to be aware of that.[^616]
-- A person should put safeguards on anything that he does to make sure that he doesn't accidentally come to doing an עבירה.[^616]
+- A person should put safeguards on anything that he does to make sure that he doesn't accidentally come to doing an עבירה.&lrm;[^616]
 - Peace talks began in Egypt. The Arabs basically wanted Israel to return to its pre-1967 borders with Israel remaining on the east of the Sinai down to Sharm El-Sheik.[^628]
 - Israel wanted to basically maintain the whole Sinai (giving up the eastern bank of the Suez) and that's it.[^628]
 - In December, the peace talks moved to Geneva (called the Geneva Peace Conference). Egypt and Jordan agreed to go but refused to sit with and talk directly with Israel. Syria refused to go. The PLO wasn't invited.[^628]
@@ -3015,12 +3015,12 @@
 - They demanded a release of Fatah members in Israeli prisons in exchange for the hostages.[^631]
 - Israel conducted a military operation to get the hostages out. It was highly successful. One woman who was at a local hospital during the raid was left behind and later killed. 3 civilians and 1 of the commandos were killed. The commando was Yoni Netanyahu, brother of Benjamin Netanyahu.[^631]
 - This showed Israel's strength and weakened terrorism.[^631]
-- In December 1976, cutting edge aircraft (F-15s) from America were brought to Israel. A ceremony was held for the occasion on the day they landed, which was on Friday. The ceremony ran into שבת.[^632]
+- In December 1976, cutting edge aircraft (F-15s) from America were brought to Israel. A ceremony was held for the occasion on the day they landed, which was on Friday. The ceremony ran into שבת.&lrm;[^632]
 - The religious parties were upset by this and instigated a vote of no confidence. Rabin responded by reforming his government without the National Religious Party. This weakened the Labor party's hold on the government. However, this also got rid of the pressure that the NRP would put on the government.[^632]
 - Rabin was challenged within his own party by Peres, but Rabin slightly beat him out.[^632]
 - There was much dislike between the two for many years, until they would eventually make up.[^632]
 - There was still strong sentiment against the Labor Party because of the failings of the Yom Kippur War, as well as some financial scandals by Labor members of the government. In addition, the NRP joined the right. They felt that the left didn't care about religion enough.[^632]
-- Hashem gave משה תורה Shebiksav, תורה Shebaal Peh, Neviim, Kesuvim,[^633] תרגום,[^634]  and Kri Uksiv[^635] and everything was passed through the generations.
+- Hashem gave משה תורה Shebiksav, תורה Shebaal Peh, Neviim, Kesuvim,[^633] תרגום,&lrm;[^634]  and Kri Uksiv[^635] and everything was passed through the generations.
 - Neviim and Kesuvim were not allowed to be written down until the time came. The neviim of those times wrote them down with ruach hakodesh.[^636] {<span style="color:rgb(255, 0, 0)">Was this not passed down to the masses? How did כלל ישראל ever do chataim if they already knew the neviim? Also, why did they need to be written with ruach hakodesh? Why couldn't they just have been written as they had been passed down?</span>}
 - תרגום was forgotten and then rediscovered.[^634]
 - In February 1977, Rabin and Sadat were both keen on making peace.[^637]
@@ -3085,9 +3085,9 @@
 - The peace between Israel and Egypt held but was already a "cold peace".[^642]
 - Israel withdrew from the Sinai. Soldiers had to drag Israeli settlers away.[^642]
 - There was a fight between Israel and Egypt about a small tourist village called Taba. Both sides claimed that it was on their side of the border. In the end, Israel capitulated and gave it up to Egypt who allowed Israelis to visit the town.[^642]
-- Judges need to take their time when coming up with their psak as law is of vital importance. This is seen from the fact that the תורה says ואלה המשפטים right after the עשרת הדברות. The 'ו' (vuv, meaning 'and') connects the laws (which are discussed in פרשת משפטים) with the עשרת הדברות.&lrm;[^643]
-- This is also important because by the judges taking a while and deliberating the case, the litigants are more likely to accept the psak.[^644]
-- There is a point when it is too much and the judges need to be careful about that as well. (רש"י on the 'גמ in שבת says that this is referring to when the judges already have a psak, but they are just delaying in giving it for whatever reason. I am not sure if this is what the רבינו בחיי is saying, or if he is saying that they are still deliberating, but at some point, enough is enough).[^645]
+- Judges need to take their time when coming up with their פסק as law is of vital importance. This is seen from the fact that the תורה says ואלה המשפטים right after the עשרת הדברות. The 'ו' (vuv, meaning 'and') connects the laws (which are discussed in פרשת משפטים) with the עשרת הדברות.&lrm;[^643]
+- This is also important because by the judges taking a while and deliberating the case, the litigants are more likely to accept the פסק.[^644]
+- There is a point when it is too much and the judges need to be careful about that as well. (רש"י on the 'גמ in שבת says that this is referring to when the judges already have a פסק, but they are just delaying in giving it for whatever reason. I am not sure if this is what the רבינו בחיי is saying, or if he is saying that they are still deliberating, but at some point, enough is enough).[^645]
 - Having a lot of talmidim increases overall תורה knowledge as, simply, the more people who work on finding pshat, the greater the understanding of תורה there is.[^646]
 - In addition, the תורה knowledge of the talmidim themselves is increased by being talmidim.[^646]
 - In addition, one shouldn't stop producing talmidim as one doesn't know if the talmidim one produced will continue to be successes and maybe only new talmidim will be successful.[^646]
@@ -3098,7 +3098,7 @@
 - {<span style="color:rgb(255, 0, 0)">I don't have a feel for what specifically happened</span>}
 - This led to a demonstration of 80,000 people in Tel Aviv.[^647]
 - Israel opened investigations into the matter and convicted some people.[^647]
-- The National Religious Party pressured the government to stop allowing El Al to fly on שבת.[^647]
+- The National Religious Party pressured the government to stop allowing El Al to fly on שבת.&lrm;[^647]
 - This was the biggest religious push until that point and was a precursor for religious-secular relations.[^647]
 - In June 1982, the PLO started shelling Israeli settlements in the north from Lebanon. (Nobody was killed)[^647]
 - At the same time, a Palestinian gunman severely injured an Israeli ambassador in London. (The man was not from the PLO but this was hidden from the cabinet members.)[^647]
@@ -3148,7 +3148,7 @@
 - This was the most controversial war amongst Israelis themselves by far. There were many protests and counterprotests during and after the war. [^655]
 - Sharon resigned from Defense Minister but stayed on in the cabinet. Sagi resigned from Military Intelligence.[^655]
 - In terms of the military results, Israel dominated, particularly the air force which destroyed over 80 Syrian planes to just 1 Israeli plane.[^656]
-- Even if one has heard the same shayla numerous times, he should think about it again before issuing a psak.[^657] (Is this because by learning the sugya again, you may come to a different conclusion, or is it that by analyzing the shayla, you will realize that there are points of difference that can change the psak. Also, I assume that it depends on the kind of shayla. I don't think פוסקים go over the הלכה every time someone brings in a milchig spoon that was in the fleishig pot…)
+- Even if one has heard the same shayla numerous times, he should think about it again before issuing a פסק^657] (Is this because by learning the sugya again, you may come to a different conclusion, or is it that by analyzing the shayla, you will realize that there are points of difference that can change the פסק. Also, I assume that it depends on the kind of shayla. I don't think פוסקים go over the הלכה every time someone brings in a milchig spoon that was in the fleishig pot…)
 - (Have lots of talmidim to increase their chochma, like רבינו Yonah.[^658] I am a bit confused because they both bring down the 'גמ of "I learned from my rabbeim, more from my peers, and most from my students". This doesn't sound like we are talking about the students' chochma.)
 - Due to international pressure, Israel withdrew from Beirut.[^659]
 - There were peace negotiations between all the parties which called for foreign powers to leave the country. Syria refused to leave, and so Israel stayed as well.[^659]
@@ -3225,7 +3225,7 @@
 - Jews started being allowed to leave the Soviet Union. Nearly all of them left with visas to go to Israel. However, around 80% went elsewhere (mostly the US).[^671]
 - Israel petitioned the US to stop allowing the immigrants in (although there was a lot of debate about this). The US started listening in 1989 because it was costing them too much money to keep bringing in immigrants.[^671]
 - Beginning in 1990 and continuing over the next few years, hundreds of thousands of Soviet (and former Soviet Union, once it collapsed) refugees went to Israel.[^671]
-- Around 20,000 Ethiopian Jews came to Israel in the early 1990s. However they were the victims of discrimination. In addition, גדולים did not accept them as Jews without undergoing a geirus.[^671] {<span style="color:rgb(255, 0, 0)">This is not to imply that גדולים came to this psak because of racism. This is just pointing out the fact that the Ethiopian Jews felt ostracized.</span>}
+- Around 20,000 Ethiopian Jews came to Israel in the early 1990s. However they were the victims of discrimination. In addition, גדולים did not accept them as Jews without undergoing a geirus.[^671] {<span style="color:rgb(255, 0, 0)">This is not to imply that גדולים came to this פסק because of racism. This is just pointing out the fact that the Ethiopian Jews felt ostracized.</span>}
 - In May 1989, Israel proposed a four part plan to the US to lessen hostilities:
 	- Strengthen the Egypt-Israel peace.[^672]
 	- Officially make peace with the other Arab countries (technically, Israel was still in a war with some after only signing an armistice in 1949).[^672]
@@ -3375,7 +3375,7 @@
 - Peres set up specific crossing points for vehicles traveling from the West Bank and Gaza into Israel and told Arafat that he better tighten up control of Hamas.[^690]
 - The PA allowed solidarity meetings in Gaza for the death of Yahya Ayyash and Arafat consoled his parents. This did not go over well with Israel.[^690]
 - Despite the death of Rabin, Peres still went through with the agreement and withdrew Israeli troops from Area A except for Hebron and the whole Area B.[^690]
-- Tanaim overlapped with the last of the neviim. Rebbi Dosa בן Hurkinus[^691] and Rebbi Tzadok[^692] discussed where Chagai sat when giving over certain הלכות. Rebbi Dosa lived after the churban at the times of Rebbi עקיבא[^691] [^693] and Rebbi Tzadok lived during the churban.[^694] (It seems that Chagai lived a very long life.)
+- Tanaim overlapped with the last of the neviim. Rebbi Dosa בן Hurkinus[^691] and Rebbi Tzadok[^692] discussed where Chagai sat when giving over certain הלכות. Rebbi Dosa lived after the churban at the times of Rebbi עקיבא&lrm;[^691] [^693] and Rebbi Tzadok lived during the churban.[^694] (It seems that Chagai lived a very long life.)
 - Israel, Egypt, the US, and many others, had a meeting in Sharm El-Sheik, about how to stop terrorism.[^695]
 - By this time, 100 Israelis had been killed and 500 injured in terror attacks.[^695]
 - Libya and Iran were the large backers of terrorism.[^695]
@@ -3407,7 +3407,7 @@
 - In May (I think) 1997 The government passed a law formally only recognizing conversions done by Orthodox rabbis. The left strongly protested this.[^700]
 - Many מזרחי Jews lived in the poor areas of towns. Organizations were created to try and integrate them into mainstream society.[^701]
 - On Memorial Day in Israel, everyone in the nation is supposed to stop and stand to pay their respects for those who have been killed.[^701]
-- In 1997, many religious Jews ignored this. This was in retaliation for the national disrespect for הלכה, like שבת.[^701]
+- In 1997, many religious Jews ignored this. This was in retaliation for the national disrespect for הלכה, like שבת.&lrm;[^701]
 - Rabbi Lau (Chief Rabbi of Israel) denounced this because it created a strong rift.[^701]
 - In June 1997, religious Jews attacked non-religious Jews at the Kotel. Soon after, a pub (called The Gotham) that was open on שבת was attacked.[^701]
 - In 1997, Israel had a population of 5.7 million. Around 80% were Jews, around 15% Muslim Arabs, 3% Christian Arabs, 2% Druze, and less than .1% Armenian. 1.8 Arabs lived in the West Bank and Gaza, mostly Muslim.[^701]
@@ -3590,7 +3590,7 @@
 - (Mentions how keeping dirabanans shows one's care for the מצוות more than keeping the מצוות themselves.)[^739]
 - (Mentions that because dirabanans keep the תורה safe, Hashem has a special love for dirabanans.)[^739]
 - Rebbi Tarfon said Krias Shema while laying down, rather than sitting like בית Hillel holds (and the way we פסקען). The 'גמ says that he was "chayav misah" (doesn't seem to be literal). (It seems that this is because he didn't have proper appreciation for the words of בית Hillel.)[^740]
-- Rebbi עקיבא nearly died because he wasn't given enough water to wash before eating bread (a דרבנן).[^741]
+- Rebbi עקיבא nearly died because he wasn't given enough water to wash before eating bread (a דרבנן).&lrm;[^741]
 - The רבנן didn't reveal all of the reasons behind why they made certain gezeiros. This is because they were afraid it wouldn't be transmitted correctly, or perhaps it would be, but people would try to do things which one can easily make a mistake and be nichshol (for example, one is allowed to carry in reshus harabim less than 4 amos, but the רבנן didn't want to say it because they were afraid people would try it and accidentally carry too far).[^742]
 - One Minute Praising:
 - When someone begins working for the company or starts a new project, keep a close eye on them (physically, or have them write what they are doing).[^743]
@@ -3640,9 +3640,9 @@
 - The Astronomical Diaries are the source that Darius III's last year was 331 BC. And there is no source that mentions any king ruling Darius and Alexander. As such, it seems that that the Diaries back to the Persian period were adjusted.[^750]
 - There are relatively few tablets from somewhat near the end of the Persian period.[^750]
 - The first 100 years of the Greek Empire after conquering the Persian's also has very little writing that survived. This is despite the fact that it is documented that there was a lot written at the time.[^750] (This will be discussed later.)
-- The תורה shebiksav was given over to all shevatim (משה wrote a ספר תורה for each shevet on the last day of his life). The mesorah for תורה Shebaal Peh was carried through the leaders, as the משנה says. (Obviously others knew תורה Shebaal Peh as well. I think it means that the leader was the final authority on it. As opposed to Toah Shebiksav that you can just look at the ספר תורה.)[^751]
+- The תורה shebiksav was given over to all shevatim (משה wrote a ספר תורה for each shevet on the last day of his life). The mesorah for תורה Shebaal Peh was carried through the leaders, as the משנה says. (Obviously others knew תורה Shebaal Peh as well. I think it means that the leader was the final authority on it. As opposed to Toah Shebiksav that you can just look at the ספר תורה.)&lrm;[^751]
 - The mesorah of תורה is extremely important because תורה is beyond human logic. We are not able to figure it out. The only way we have the תורה is through the mesorah.[^752]
-- A person should establish many talmidim to be able to talk over psakim with them,[^753] because they will ask questions and sharpen the rebbi's understanding (ומתלמידי יותר מכולם),[^754] and because having more talmidim increases קנאת ספרים תרבה חכמה.&lrm;[^755]
+- A person should establish many talmidim to be able to talk over פסקim with them,[^753] because they will ask questions and sharpen the rebbi's understanding (ומתלמידי יותר מכולם),&lrm;[^754] and because having more talmidim increases קנאת ספרים תרבה חכמה.&lrm;[^755]
 - Judges should first try and reach a compromise between the parties. When that doesn't work, the judge should discuss the case with many talmidim (which he should make sure to have) to arrive at the correct דין. After, בית דין should create safeguards to make sure that people don't violate the דין. (This is an understanding of how to read the משנה as one long piece of advice.)[^756]
 - Discrepancies:
 - According to Seder עולם (written 2nd century CE), Alexander conquered the Persians in year 318 BC. According to Claudius Ptolemy (in 2nd century CE), this happened in year 331 BC.
@@ -3654,7 +3654,7 @@
 - Method 1:
 - There were 5 leader between the Shimon Hatzadik (the last of the Anshei kneses hagidolah) and when Hillel began leading the people (he was the 6th).[^758]
 - Hillel began his leadership 100 years before the destruction of the בית Hamikdash.[^759]
-- The Anshei Kneses Hagidolah were only around for a short time at the beginning of the בית Hamikdash. This is discussed in the ראשונים,[^760][^761] and implied from the fact that the Zugos (which came after the Anshei Kneses Hagidolah) received a tradition from the neviim (who came before the Anshei Kneses Hagidolah).[^762]
+- The Anshei Kneses Hagidolah were only around for a short time at the beginning of the בית Hamikdash. This is discussed in the ראשונים,&lrm;[^760][^761] and implied from the fact that the Zugos (which came after the Anshei Kneses Hagidolah) received a tradition from the neviim (who came before the Anshei Kneses Hagidolah).[^762]
 - According to conventional history, Hillel would have began his leadership in the 489th year of the בית Hamikdash. This would mean that there were 5 leaders lasting 489 years, an average of nearly 82 years of leadership each. This is unlikely.
 - רש"י says that Shimon Hatzadik led for 40 years after the Anshei Kneses Hagidolah. However, that would still leave around 75 year averages for each leader.
 - According to the Jewish calculations, Hillel started his leadership in year 320 of the בית Hamikdash. That would leave an average of 64 years per leader or, if we take רש"י's opinion, 56 years. This is much more reasonable.
@@ -3681,7 +3681,7 @@
 - Yochanan Kohen גדול (the father of Matisyahu the Chashmonai) lived at the same time as יהושע בן Prachia and Nitai Ha'Arbeili.[^766]
 - יהושע בן Prachia and Nitai Ha'Arbeili were the 3rd generation leaders after Shimon Hatzadik.[^767]
 - The Chanukah story (which Matisyahu was a part of) happened near the end of the Greek Empire or around 385 years after the בית Hamikdash was built.[^768] (I Googled it and saw that Matisyahu Chashmonai's death, happened in year 166 BC,[^769] which would only be about 350 years after the construction of the בית Hamikdash, counting from year 520 BCE as previously mentioned).
-- Even if we assume that Yochanan Kohen גדול lived 85 years before the Chanuka story, that would still mean that he (along with יהושע בן Prachia and Nitai Ha'Arbeili) lived 300 years after the building of the בית Hamikdash (or 265 according to my חשבון).[^768]
+- Even if we assume that Yochanan Kohen גדול lived 85 years before the Chanuka story, that would still mean that he (along with יהושע בן Prachia and Nitai Ha'Arbeili) lived 300 years after the building of the בית Hamikdash (or 265 according to my חשבון).&lrm;[^768]
 - יהושע בן Prachia and Nitai Ha'Arbeili were the 3rd generation of leaders after Shimon Hatzadik. Even with רש"י's opinion that Shimon Hatzadik led after the end of the Anshei Kneses Hagidolah, that would still mean that there are 260 (or 225) years with only 3 generation of people in charge. That sounds implausible.[^768]
 - According to Seder עולם there are around 140 years during this time. This is much more reasonable.[^768] (If you assume that Matisyahu died in 166 BC, then there are 186 years from the building of the בית Hamikdash (in year 352 BC) until the death of Matisyahu, or 146 according to רש"י).
 - Method 3:
@@ -3691,7 +3691,7 @@
 - Method 4:
 - עזרא Hasofer's father was killed around the end of the First בית Hamikdash.[^772] That would mean that עזרא was at latest born around that time.
 - There were 70 years between the destruction of the first בית Hamikdash and the building of the second.[^773]
-- Shimon Hatzadik was the Kohen גדול after עזרא[^774] for 40 years[^775] (this might be what Rabbi Hool meant that we know that Shimon Hatzadik led for 40 years because I don't think רש"י says it).
+- Shimon Hatzadik was the Kohen גדול after עזרא&lrm;[^774] for 40 years[^775] (this might be what Rabbi Hool meant that we know that Shimon Hatzadik led for 40 years because I don't think רש"י says it).
 - As we know that Shimon Hatzadik met Alexander, that would mean that עזרא was alive at most 40 years before this meeting (meaning, assuming that Shimon Hatzadik met Alexander at the end of his life).[^776]
 - According to conventional history, עזרא would have to have lived from around 586 BCE (when the first בית Hamikdash was destroyed according to conventional history[^777]) until 292 BCE (40 years before Alexander came to ארץ ישראל), around 300 years.[^776]
 - Method 5:
@@ -3916,8 +3916,8 @@
 - This also represented a turning point. U-2s would fly too high to be shot down. However, the Soviet Union missile technology was improving and their missiles were now able to reach the U-2s.[^815]
 - This hurt relations between the Americaas and the Soviet Union. Eventually, relations were repaired when the US traded a captured Soviet spy for the pilot.[^815]
 - In April 1961, Soviet Yuri Gagarin became the first man in space. The US publicly congratulated the Soviet Union for this accomplishment. Privately, though, they were furious.[^815]
-- Since one can (and often does) make mistakes in psak, one needs to make a fence around the תורה to make sure that they don't accidentally violate the תורה.[^816]
-- One needs to hold to the mesorah. Don't let people change it. Part of the reason for having many talmidim (and presumably deliberating for some time when coming to a decision) is so that they can work to find the truth by examining pilpulim people come up with to say that something is muttar or אסור.[^816]
+- Since one can (and often does) make mistakes in psak, one needs to make a fence around the תורה to make sure that they don't accidentally violate the תורה.&lrm;[^816]
+- One needs to hold to the mesorah. Don't let people change it. Part of the reason for having many talmidim (and presumably deliberating for some time when coming to a decision) is so that they can work to find the truth by examining pilpulim people come up with to say that something is muttar or אסור.&lrm;[^816]
 - In February 1959, Fidel Castro became Prime Minister of Cuba, officially making it communist.[^817] The US tried to overthrow him, including the Bay of Pigs invasion in April 1961. These all failed.[^818]
 - The Soviet Union started taking a harder stance against the west by building the Berlin Wall and putting nuclear weapons on Cuba.[^819]
 - East German leaders put pressure on him to take a more firm stance against the west. In addition, many East German people would sneak into West Berlin, which didn't look good for the Soviet Union.[^819]
@@ -3935,8 +3935,8 @@
 - Arguably, the Soviets "won" the crisis, as it forced the Americans to pull their missiles from Turkey, while the Soviet Union was back to how they were before putting the missiles on Cuba.[^819]
 - A person is supposed to learn תורה biiyun to better understand Hashem so one can have Yiras Hashem and Ahavas Hashem. a person needs to think about this, though. Learning on its own is not enough. (I think that this is referring to learning mussar.)
 - משה was able to learn the whole תורה in its totality from Hashem.
-- By the time it came down to the Anshei Kneses Hagidolah, though, the תורה was being forgotten. That is why they instituted 3 points of the משנה.[^820]
-- The חכמים were charged with giving malkus beyond what the תורה says to keep people from violating the תורה.[^821]
+- By the time it came down to the Anshei Kneses Hagidolah, though, the תורה was being forgotten. That is why they instituted 3 points of the משנה.&lrm;[^820]
+- The חכמים were charged with giving malkus beyond what the תורה says to keep people from violating the תורה.&lrm;[^821]
 - In October 1964, Khrushchev was forced to step down for the Soviet leadership.[^822]
 - This was partially because of a failed plan of his which led to food shortages, and partly because of pressure by Leonid Brezhnev who wanted Khrushchev out so he could succeed him, which he did.[^822]
 - Brezhnev grew up in a working family and he later joined the military.[^822]
@@ -3974,7 +3974,7 @@
 - משה was able to explain the malachim why the תורה should go to humans. If משה was not able to do this, the תורה would have gone to the malachim. The world would continue to exist through the power of having אמונה in Hashem (without the תורה), as the world existed until that point. (That is why the משנה says "משה קבל", because משה had to get the תורה. He had to fight for it.)[^834]
 - משה was not able to receive the whole תורה. It was even beyond his abilities. Whatever he was able to receive is now considered what the תורה is. (Perhaps this is because the תורה in its fullness is infinite.)[^834]
 - (Everything that משה learned made it to the Anshei Kneses Hagidolah, as said earlier.)[^834]
-- (After the Anshei Kneses Hagidolah, people started forgetting the תורה as they were not great enough to get the whole תורה, because of niskatnu hadoros.)[^834]
+- (After the Anshei Kneses Hagidolah, people started forgetting the תורה as they were not great enough to get the whole תורה, because of niskatnu הדורות.)[^834]
 - The reunion of Germany made Gorbachev popular in Germany (and probably much of the western world, but the video didn't say). People say that he should have pushed for Germany to remain neutral and not be allowed to join NATO.[^835]
 - However, he was losing popularity at home. (I'm not sure exactly why. This may have been because this move was viewed as giving in to the west, such as with Germany joining NATO.)[^835]
 - In 1988, Gorbachev starts allowing the public to vote on government officials. This (in addition to some of his other reforms) made him unpopular amongst his fellow politicians.[^835]
@@ -3990,7 +3990,7 @@
 - We know that Shimon Hatzadik met Alexander the Great.[^836]
 - The 17th year of Darius II's reign was 82 years after the end of Darius I's reign (with the proposed 3 year gap). (3 year gap + 21 years of Xerxes + 41 years of Artaxerxes + 17 years of Darius II).[^836]
 - According to our proposed chronology, this makes sense. Alexander defeated Darius I. Shimon Hatzadik was the Kohen גדול for some amount of time afterwards. After Shimon Hatzadik, Yochanan became Kohen גדול for 80 years, during which time, Jedaniah wrote his letter which later became the Elephantine Papyri.[^836]
-- According to conventional history, Alexander defeated Darius III, which was over 150 years after the end of Darius I. Yochanan would not have been the Kohen גדול then. (I don't know why this can't be referring to some other, unknown Yochanan who was Kohen גדול).[^836]
+- According to conventional history, Alexander defeated Darius III, which was over 150 years after the end of Darius I. Yochanan would not have been the Kohen גדול then. (I don't know why this can't be referring to some other, unknown Yochanan who was Kohen גדול).&lrm;[^836]
 - Before beginning Operation Barbarossa, the Germans wanted to secure their southern border. Hungary, Romania, and Bulgaria were on the Axis side, so those countries remained untouched.[^839]
 - Yugoslavia was originally pro-axis but the government changed and the new government was pro-Britain. Greece was also pro-Britain. As such, the Germans attacked these countries. They were both defeated in about a month combined.[^839]
 - There are 20 documents part of the Elephantine Papyri that have an Egyptian date, a Babylonian date, and a date with the month and year of the Persian king. These were all written during the reigns of Xerxes through Artaxerxes II.[^840]
@@ -4025,7 +4025,7 @@
 - A person needs to wait until they have learned enough before paskening shaylos.[^842]
 - If one fincialy support תורה, they get the zchus of the learning as if they themselves were learning. (The לשון is that the supporter provides all of the needs to the person learning. I don't know what comes out if the person only supplies some of the needs.)[^843]
 - (Also says that talmidim need to be supported for a long time (although he does say that the משנה isn't telling one to support many talmidim. I think the Sforno said to do both).[^843])
-- (Also says that the משנה might be saying like בית Hillel that one should accept all talmidim and not like בית Shamai that one should only take the talmidim who are yarei shamayim and have good מדות.[^843] (He says this as a possible pshat in the משנה ("…ואפשר"). Perhaps earlier when he talked about rejecting talmidim who aren't the best he was giving a possible pshat that fit with בית Shamai and now he is giving a possible pshat like בית Hillel.))
+- (Also says that the משנה might be saying like בית Hillel that one should accept all talmidim and not like בית Shamai that one should only take the talmidim who are yarei shamayim and have good מדות.&lrm;[^843] (He says this as a possible pshat in the משנה ("…ואפשר"). Perhaps earlier when he talked about rejecting talmidim who aren't the best he was giving a possible pshat that fit with בית Shamai and now he is giving a possible pshat like בית Hillel.))
 - However, the rebbi should not teach all talmidim the same things. The greater and more proper talmidim should be taught the deeper secrets of the תורה, while those talmidim who are not so good should be taught less and through מתוך שלא לשמה בה לשמה, these talmidim will improve.[^843] (Perhaps this is what the מדרש Shmuel earlier was referring to, namely, that talmidim shouldn't just be taught everything that they want to learn. The rebbi has to teach each תלמיד according to his level.)
 - Potential Shmuz:
 - After כלל ישראל conquered כנען and divided the land, ראובן, גד, and half of Menashe left the rest of כלל ישראל. Upon doing this, they immediately built a מזבח. During that time it was אסור to bring karbanos on bamos as the משכן is Shilo was set up.[^844] ^cc43d7
@@ -4034,7 +4034,7 @@
 - Perhaps we see the power of influence. We are talking about a great generation who saw many miracles in the conquering of ארץ ישראל. They obviously knew that it was wrong (the leaders, like יהושע and פנחס presumably told them). So why would they have been effected? Why do you need to send a delegation over to confront them?[^7]
 - We see the power of influence. If a delegation was not sent over to confront them, that would show a lack of disapproval and that could negatively affect some people.[^7]
 - <span style="color:rgb(255, 192, 0)">Counter:</span> The רלב"ג is clear that this was a particularly bad עבירה. The reason why bamos are אסור is because we want one place to serve Hashem to emphasize the fact that Hashem is one. עבודה זרות were served all over the place. This was to show a separation between Hashem and עבודה זרה. Perhaps this only applies to very serious עבירות. Less serious עבירות may not have an impact.[^7]
-- <span style="color:rgb(255, 192, 0)">Counter:</span> The people sinning are frum people (or, at least, they thought they were). Perhaps that has a stronger impact then seeing someone not frum do an עבירה.[^7]
+- <span style="color:rgb(255, 192, 0)">Counter:</span> The people sinning are frum people (or, at least, they thought they were). Perhaps that has a stronger impact then seeing someone not frum do an עבירה.&lrm;[^7]
 - Potential Shmuz:
 - ראובן, גד, and half of Menashe responded that they had pure intentions. They did not plan on bringing korbanos on the מזבח they were building. (There is no איסור to build a מזבח if one doesn't bring korbanos on it. I thought there might be a problem imitating the כלים of the משכן. Perhaps this wasn't an imitation (it may have had different dimensions) or maybe there is no such problem. I am not sure.)[^847] ^ae8c6d
 - They built it because of fear that the children of the rest of the rest of כלל ישראל would make fun of their children and say that Hashem doesn't have the same relationship with them.[^845] This would cause their children to have less yiras shomayim.[^848] This מזבח would be a sign that this claim was not true and that they had the same relationship with Hashem.[^849]
@@ -4206,7 +4206,7 @@
 - France and German made a treaty signed in October 1925. This allowed Germany to regain economic footing.[^875]
 - Within a year, Germany was allowed to join the League of Nations. Relations between Germany and the other European countries improved.[^875]
 - However, extremism on the right and left were increasing in German.[^875]
-- According to the Alter, the reason why the כלל ישראל stayed in מצרים from Rosh Hashana until פסח was so Hashem could show his presence in the world to the בני ישראל. Each makka added something to כלל ישראל's אמונה.[^876]
+- According to the Alter, the reason why the כלל ישראל stayed in מצרים from Rosh Hashana until פסח was so Hashem could show his presence in the world to the בני ישראל. Each makka added something to כלל ישראל's אמונה.&lrm;[^876]
 - The briah is constantly being recreated for each person.[^876]
 - Rebbi Question: Why does Hashem constantly recreate the world? Hashem is always watching the world and has hasgacha pratis. The Alter looks at the makkos as Hashem constantly recreating the world. What is this added element that the world is being constantly recreated, over classic hashgacha pratis.[^876]
 - Answer: Elsewhere, the Alter says similar. The Alter says that Hashem constantly keeps the land above the water. This raises for us a level achrayus and חשיבות. Hashem is doing this for every single person, individually. Hashem creates the world for every single person (bishvili nivra haolam). As such, every moment, Hashem is recreating the world every moment for us. That means that our actions are of such importance. The whole briah is being recreated for every individual every moment. This means that, our actions at every moment warrant the creation of the world. That gives our actions tremendous importance, and puts on us a tremendous achrayis.[^876]
@@ -4215,7 +4215,7 @@
 - A bochur was invited to the seder of the חפץ חיים. The bochur asked his rebbi Reb Yeruchim what he should do. Reb Yeruchim told him that he should go home.[^876]
 - The ספר that quoted this story said that the reason for this was because the point of the seder is to connect back to your parents, back to their parents, etc. That is the point of the seder. To instill that connection back and back and back to the first seder. Going to the חפץ חיים's seder wouldn't instill this.[^876]
 - The "עיקר" is to make fences around what the תורה assurs to make sure that one doesn't accidentally come to violate the תורה's commands. When one does this, their intent should be to protect themselves from violating the תורה's commandments, not to add on something extra.[^877]
-- יהושע was chosen as the leader after משה because he was mekabel everything from משה.[^878]
+- יהושע was chosen as the leader after משה because he was mekabel everything from משה.&lrm;[^878]
 - חז"ל were able to maintain the continuation of תורה perfectly until the Anshei Kneses Hagidolah, despite the churban which should have caused problems with the transition. This was because of the rachamei shamayim.[^879]
 - A chochom needs to:[^880]
 	- Think about and plan his actions before executing them.
@@ -4255,13 +4255,13 @@
 - According to our calculations, the 15th year of Xerxes' reign was year 300 BCE (Darius' last year was year 317 BCE and Xerxes began his reign 3 years later in 314 after a 3 year gap as has been discussed previously). Historians established that the 15th year of Xerxes' reign was the 11th year in the leap year cycle. Historians also established that year 300 BCE was also the 11th year of a leap year cycle.[^885]
 - Balak "fought" with כלל ישראל. By hiring Bilam, Balak showed that if he was able to actually fight with כלל ישראל than he would have and a machshava is considered like maaseh.[^885]
 - It seems that machshava is like a maaseh for bad things. However, this may be only when one has already took concrete steps that indicate the machshava. Also, this may only be for goyim.[^7]
-- כלל ישראל stayed true to the ratzon Hashem while the zikanim who led with יהושע were alive (14 years after יהושע died[^886]). This was because the zikanim saw the נסים in מצרים and so were able to keep כלל ישראל on the straight an narrow.[^887] (While there were others who were alive who saw the נסים, they couldn't save the generation as they weren't talmidei חכמים. The zikanim, who were the leaders, were able to keep כלל ישראל from doing bad.[^888]) (According to the רד"ק[^889] this is referring to the נסים done by יהושע (crossing the Yardein, stopping the sun, and the victories). According to the רד"ק, it would seem that כלל ישראל stayed true to the ratzon Hashem for a long time.)
+- כלל ישראל stayed true to the ratzon Hashem while the zikanim who led with יהושע were alive (14 years after יהושע died[^886]). This was because the zikanim saw the נסים in מצרים and so were able to keep כלל ישראל on the straight an narrow.[^887] (While there were others who were alive who saw the נסים, they couldn't save the generation as they weren't talmidei חכמים. The zikanim, who were the leaders, were able to keep כלל ישראל from doing bad.[^888]) (According to the רד"ק&lrm;[^889] this is referring to the נסים done by יהושע (crossing the Yardein, stopping the sun, and the victories). According to the רד"ק, it would seem that כלל ישראל stayed true to the ratzon Hashem for a long time.)
 - I would have thought that seeing more נסים wouldn't have made such a difference. This seems to show that: ^b251dd
 	- It seems that one can continue to gain more levels of אמונה. The other zikanim also saw נסים. They saw the נסים in the מדבר and conquering ארץ ישראל. Yet, seeing more נסים increases one's אמונה. (I don't know if this is such a חידוש, though. Obviously משה had a higher level of אמונה than the zikanim).[^7]
-	- We see how important the leadership is. This seemingly small difference in the leadership made the difference in what happened with כלל ישראל.[^7]
-	- <span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps the מצודת דוד was going with the רד"ק's pshat and so the later zikanim didn't see any נסים at all, as opposed to the earlier zikanim who saw the נסים during the times of יהושע.[^7]
+	- We see how important the leadership is. This seemingly small difference in the leadership made the difference in what happened with כלל ישראל.&lrm;[^7]
+	- <span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps the מצודת דוד was going with the רד"ק's pshat and so the later zikanim didn't see any נסים at all, as opposed to the earlier zikanim who saw the נסים during the times of יהושע.&lrm;[^7]
 	- <span style="color:rgb(146, 208, 80)">Counter (to previous point):</span> The מצודת דוד says that these zikanim lived for 14 years after יהושע died and יהושע led for 14 years. Unless the next zikanim were younger than 28 years old, they also would have seen the נסים that happened in the conquest of ארץ ישראל.
-- There was a significant difference between the נבואה of יהושע and Asniel בן Kinaz,[^890] potentially the same difference as there was between משה and יהושע.[^891]
+- There was a significant difference between the נבואה of יהושע and Asniel בן Kinaz,[^890] potentially the same difference as there was between משה and יהושע.&lrm;[^891]
 - כלל ישראל cut off the thumbs and big toes of one of the kings they defeated. This was because Hashem "put it into their minds" to do this as this was midah kineged midah as the king himself did this to other kings he defeated. This would seem to be the pshat as it is somewhat against the הלכה, which is simply to kill the kings, not torture them.[^892]
 - Perhaps this is an indication that Hashem can sometimes directly influence one's bechirah.[^7]
 - It is difficult to understand why this is only "somewhat" against הלכה (as it seems that כלל ישראל did not do this to punish the king middah kineged middah). Perhaps כלל ישראל did this like the next meforash says that כלל ישראל did this to destroy the confidence of the other nations. See later.)[^7]
@@ -4270,7 +4270,7 @@
 - Potential shmuz:
 - The רלב"ג and מלבי"ם say that it was important for כלל ישראל to win this first battle without יהושע to destroy the confidence of the Canaanim. If not, this would embolden them to fight. ^e94161
 - I think I would have thought that when one is fighting, their own life and the life of their families are on the line. As such, I could have thought that one fights with all of ones effort. But apparently, even in such a situation, having belief in one's success makes a big difference.[^7]
-- כלל ישראל was not allowed to make peace with the nations of כנען.[^895] (See מפרשים there for reasons.)
+- כלל ישראל was not allowed to make peace with the nations of כנען.&lrm;[^895] (See מפרשים there for reasons.)
 - מצוות can be classified in the following way:[^896]
 	- Chukim: Things that we do not understand the reason (like shatnez).
 	- מצוות: Bein אדם lamakom.
@@ -4281,10 +4281,10 @@
 - Hashem may punish כלל ישראל by removing His hashgacha from כלל ישראל and allowing natural consequences to play out. If כלל ישראל keeps doing עבירות, then Hashem may actively punish כלל ישראל and even in situations where naturally כלל ישראל should be successful, Hashem will make them unsuccessful.[^899]
 - Calev offered his daughter in marriage for anyone who conquered Kiryat Sefer. Asniel בן Kinaz did this and married her.[^900]
 - This seems a bit difficult to understand (at least through the lens of modern western morality). It seems that Calev was using his daughter like a tool.[^7]
-- Perhaps this can be explained with the fact that כלל ישראל was able to win battles largely based on their אמונה.[^899] As such, perhaps Calev knew that the person who would be able to conquer this city was a tzadik. This is perhaps somewhat verified by the fact that Asniel was a tremendous תלמיד chochom (he was able to recover 3000 הלכות that were forgotten during משה's mourning[^901] and he had few possessions (which in context meant that he didn't have a way to sustain his household) because of his focus on תורה,[^902] and he was the rosh yeshiva of a yeshiva with many talmidim[^903]) and an anav.[^904]
+- Perhaps this can be explained with the fact that כלל ישראל was able to win battles largely based on their אמונה.&lrm;[^899] As such, perhaps Calev knew that the person who would be able to conquer this city was a tzadik. This is perhaps somewhat verified by the fact that Asniel was a tremendous תלמיד chochom (he was able to recover 3000 הלכות that were forgotten during משה's mourning[^901] and he had few possessions (which in context meant that he didn't have a way to sustain his household) because of his focus on תורה,&lrm;[^902] and he was the rosh yeshiva of a yeshiva with many talmidim[^903]) and an anav.[^904]
 	- <span style="color:rgb(255, 192, 0)">Counter:</span> This still seems odd because Calev is still "selling" his daughter.[^7]
 	- <span style="color:rgb(146, 208, 80)">Counter:</span> What is wrong with "selling" one's daughter to someone who is near certainly of high caliber? (This is not discussing the point of whether parents should decide marriages for their children. This is working with the idea that it is okay for parents to arrange marriages for their children.)[^7]
-	- <span style="color:rgb(255, 192, 0)">Counter (to original point):</span> There is more to marriage than just one's מדות.[^7]
+	- <span style="color:rgb(255, 192, 0)">Counter (to original point):</span> There is more to marriage than just one's מדות.&lrm;[^7]
 	- <span style="color:rgb(146, 208, 80)">Counter (to previous point):</span> That may be a more modern idea. It seems that it used to be (at least in Europe) that marriages were much more about what "made sense". (that does not mean that we should do this now).[^7]
 	- <span style="color:rgb(146, 208, 80)">Counter (to 2 points ago):</span> We are dealing with tremendous צדיקים. These people are beyond our abilities to relate to. Their singular focus on Hashem was all-encompassing to a point beyond our understanding.[^7]
 - Everything in nature has laws and they are all the way they are for specific reasons.[^905] (I don't know how this fits with quantum mechanics, which, I believe, is random. Perhaps science simply hasn't found out how it really follows rules?[^7])
@@ -4386,7 +4386,7 @@
 - One should only teach as much תורה and מצוות as the listener can handle. We see that Hashem himself did this. As first, Hashem did not tell Kla ישראל about the fact that they would abandon the תורה and be punished by Hashem "abandoning" them. He waited until משנה תורה to do this (seemingly, because they would not have been able to handle this at first).[^926]
 - It isn't clear to me if this is referring to not teaching הלכה, but it may be (it mentions teaching מצוות in a measured way). This may be a source for not teaching people who are unaffiliated all מצוות at once.[^7]
 - There are some Bible critics that point out that in different places (like משנה תורה vs the rest of the תורה), different points are mentioned. This may be a response to that. This was done intentionally.[^7]
-- There may have been no נבואה between יהושע and Shmuel,[^927] there may have been, but it was not important to record for posterity,[^928] or it may be that the people before Shmuel were so great that they didn't need to leave other people to be able to receive נבואה. Beginning from Shmuel, either because of the lower מדרגה of the navi or the rest of the people, the navi had to seclude himself from others.[^927]
+- There may have been no נבואה between יהושע and Shmuel,[^927] there may have been, but it was not important to record for posterity,[^928] or it may be that the people before Shmuel were so great that they didn't need to leave other people to be able to receive נבואה. Beginning from Shmuel, either because of the lower מדרגה of the נביא or the rest of the people, the נביא had to seclude himself from others.[^927]
 - People are unable to change the plans of Hashem in any way. Whatever Hashem has planned will happen exactly as it should happen.[^929]
 - Sometimes (probably just about always) there are steps needed to make something happen. Hashem wanted these steps to happen as they did.[^929]
 - Hashem may sometimes put thoughts into peoples' heads to take certain actions.[^930]
@@ -4485,12 +4485,12 @@
 - Hitler wanted to attack Britain and France in November, but his generals talked him out of it as the army needed to be moved from the east to the west and because the army needed to retool.[^948] (Around 10% of tanks and planes were destroyed.[^949]) As such, there was little fighting on land during the winter of 1939/40.[^948]
 - 50,000 Polish troops made its way to France and continued the fight.[^948]
 - משה was not able to receive the full תורה because part of it concerned the nature of Hashem (or something like that) which is beyond human understanding (this is the 50th and final שער בינה). He was able to get the rest of it which concerns the rest of creation and that he passed on.[^950] (This, perhaps, is a source that חז"ל knew the nature of the whole briah. I am not sure how this makes sense, though, because I thought that משה was extremely unique in the fact that he was able to reach the 49the level of wisdom. Perhaps I misread it and it was just saying that משה did not reach the 50th level (as nobody was able to). (The תוספות יו"ט was just trying to explain pshat in the משנה that said משה kibel vs everyone else that it says misaruha. He explains that it means that משה didn't get everything from Hashem but everyone else received everything from משה. This would mean that the knowledge of the nature of Hashem is part of the תורה, while the knowledge of the nature of the briah is not part of the תורה, at least not in full (meaning, if we say that משה uniquely had knowledge of the briah, and we say that the later leaders had all the תורה that משה learned, then we have to say that the knowledge of the nature of the briah was not part of the תורה, or else all of the later leaders would have had it as well.[^7])
-- Until the Anshei Kneses Hagidolah, all of the leaders were taught the whole תורה. From then on, because of niskatnu hadoros, the leaders were unable to learn the whole תורה and were only taught what they were able to handle.[^951] (I assume that between the collective group, the whole תורה was remembered.[^7])
+- Until the Anshei Kneses Hagidolah, all of the leaders were taught the whole תורה. From then on, because of niskatnu הדורות, the leaders were unable to learn the whole תורה and were only taught what they were able to handle.[^951] (I assume that between the collective group, the whole תורה was remembered.[^7])
 - A rebbi needs to teach his talmidim the truth of תורה and not falsehoods.[^952] (I don't understand what the חידוש is, but I hope it will become apparent in a later piece.)
-- Even before the תורה, the world either was expected to and perhaps acted with (it isn't clear to me which) proper מדות.[^953] (I don't know if it means proper מדות as explained in Pirkei Avos or just whatever people are able to come up with. I don't know how they would be able to come up with all of the מדות as they are explained in Pirkei Avos.)
-- משה was chosen to be the go-between for כלל ישראל and Hashem because of his מדות.[^953]
+- Even before the תורה, the world either was expected to and perhaps acted with (it isn't clear to me which) proper מדות.&lrm;[^953] (I don't know if it means proper מדות as explained in Pirkei Avos or just whatever people are able to come up with. I don't know how they would be able to come up with all of the מדות as they are explained in Pirkei Avos.)
+- משה was chosen to be the go-between for כלל ישראל and Hashem because of his מדות.&lrm;[^953]
 - Learning תורה and following הלכה is not enough. We see that:
-	- One will receive tremendous punishment if they do not fix up their מדות.[^954]
+	- One will receive tremendous punishment if they do not fix up their מדות.&lrm;[^954]
 	- A person who does not conduct business honestly and isn't patient with people is in a poor predicament. (This doesn't seem to be following הלכה. How does this indicate the point that even if one does follow הלכה it is vital to have good מדות? Perhaps somehow this person is following הלכה. Or perhaps the intensity of the punishment shows that this is not an ordinary הלכה. The הלכות relating to acting with good מדות are of primary importance.[^7])
 	- We see that Abaye lived 20 years longer than Rava because Abaye engaged in gemilus chasadim.[^955] (It is difficult to imagine that Rava didn't also do gemilus chasadim. I assume that Rava also engaged in gemilus chasadim but less than Abaye.[^7])
 - דרך ארץ is also part of the תורה and was given over at הר Sinai.[^956]
@@ -4554,8 +4554,8 @@
 - (I am not fully sure about the idea that we can't go deeper than someone's bedrock ratzon. A person may have a certain ratzon because it makes them feel good. People have a desire for כבוד, or for friendship, or for food, because it gives them a pleasurable feeling. And even this pleasurable feeling we can say comes from certain chemicals released in the brain. Either the משל doesn't go farther than ratzon when it comes to Hashem, or perhaps for non-physical things, like friendship, we can ask why the brain releases the chemicals when one spends time with friends or whatever it is. I am not sure about this second point.)
 - Three reasons why it is important to understand what Hashem's underlying ratzon for מצוות are:
 	- It gives us structure to the מצוות. This makes it easier for us to accept them.[^965]
-	- This gives us the ability to do lifnim meshuras hadin. For example, someone can think that the purpose of שבת is to spend time with one's family and so one invites his whole family every week. While that may be very nice, that is not the point of שבת.[^965] (I think R' Lopiansky might be referring to reasons for מצוות. IDK if  ones needs to know deepest levels of ratzon. שבת for example, is about Hashem created the world in 6 days and rested on 7th. Testimony of אמונה. There may be deeper levels but IDK if that is necessary.)
-	- It allows one to tap into the correct emotions for a מצוה.[^965] (See previous point in parentheses.)
+	- This gives us the ability to do lifnim meshuras hadin. For example, someone can think that the purpose of שבת is to spend time with one's family and so one invites his whole family every week. While that may be very nice, that is not the point of שבת.&lrm;[^965] (I think R' Lopiansky might be referring to reasons for מצוות. IDK if  ones needs to know deepest levels of ratzon. שבת for example, is about Hashem created the world in 6 days and rested on 7th. Testimony of אמונה. There may be deeper levels but IDK if that is necessary.)
+	- It allows one to tap into the correct emotions for a מצוה.&lrm;[^965] (See previous point in parentheses.)
 - 3 ratzons of Hashem (I don't think this is an all inclusive list. I think these are examples but I am not sure. These may be 3 very integral understandings):[^965]
 	- Hashem's goodness (meaning kindness. "למען טובו יתברך")
 	- Hashem's emes. ("חותם של הקב"ה אמת")
@@ -4606,12 +4606,12 @@
 - In April 1942, the US bombed Japanese cities. B-25 bombers were launched off of carriers, even though they were not designed for carrier takeoffs.[^977] This attack increased American morale.[^981]
 - Japan decided to capture the Solomon Islands, Papua New Guinea, and Midway, to be able to have a string of fortified bases around Japan.[^977]
 - After משה, there was no נבואה until Shmuel (not sure if this is literal because יהושע had נבואה). Shmuel then improved the מדות of כלל ישראל and נבואה came back until Chagai.[^982] (It sounds like the Tiferes ישראל is taking the opinion that there was no נבואה during the days of the שופטים until Shmuel because כלל ישראל was not on the proper מדרגה.)
-- There were many on the Anshei Kneses Hagidolah that had נבואה.[^983]
+- There were many on the Anshei Kneses Hagidolah that had נבואה.&lrm;[^983]
 - They saw that נבואה was at an end and so they made many takanos to protect the תורה for the future.[^983]
 - A person shouldn't jump to conclusions about other people. Don't make hasty judgements.[^984]
 - Similarly one shouldn't be too quick to think that one or one's family is acting properly.[^984]
 - One should give direction to his family about how to act properly. This is far more effective than having others give tochacha. (Obviously, one needs to guide oneself as well.)[^984]
-- People need to make their own personal gedarim to make sure that they don't put themselves in a place where they may come to do an עבירה.[^984]
+- People need to make their own personal gedarim to make sure that they don't put themselves in a place where they may come to do an עבירה.&lrm;[^984]
 - According to secular history, the second בית Hamikdash was destroyed in 70 CE. According to Judaism, it was destroyed in 69 CE. (This is far from universally accepted as Rabbi Hool will point out later. Perhaps that should be mentioned first, rather than at the end the way Rabbi Hool presents it.) This can be calculated in numerous ways:[^985]
 	- Method 1:
 		- If you add the years from אדם until Shes was born, and then from Shes's birth until his son Enosh's birth (as stated in the תורה), and you keep doing that until נח, it will come out that נח was born in year 1056.
@@ -4631,11 +4631,11 @@
 		- "Alpha" sounds like it was the earlier date (the first one).[^990] (I don't find this compelling.[^7])
 		- 380 years passed from the beginning of minyan shtaros until the fall of the Second בית Hamikdash.[^991] This is year 69 CE. (Unless my math is off, this is year 68 CE. Beginning in year 312 BCE as year 1 of Minyan Shtaros, year 1 BC is year 312 of Minyan Shtaros. There is no year zero so year 1 CE is year 313 of Minyan Shtaros. 67 years later is year 68 CE and year 380 of Minyan Shtaros. Perhaps you have to assume that Minyan Shtaros began in year 311 BCE and year 380 is year 69 CE. There is no need to make assumptions that "Alpha" meant the earlier year. An alternative might be that the 'גמ does not mean that the destruction occurred ain the 380th year Perhaps it means that it occurred after 380 years. This may be necessary to say for some ראשונים discussed later.[^7])
 	- Method 4:
-		- The most recent shemitah year was year 2022. Current shmita years are based on רמב"ם,[^992] based off Seder עולם.
+		- The most recent shemitah year was year 2022. Current shmita years are based on רמב"ם,&lrm;[^992] based off Seder עולם.
 		- Seder עולם says that the בית Hamikdash was destroyed in the year after shmita, but the רמב"ם has a way of interpreting it to mean that the destruction occurred in a shmita year.[^993]
 		- As such, the destruction could not have occurred in year 70 CE as that was not a shmita year. Year 69 was 279 shmita cycles before 2022 (2022 - \[277 x 7] = 69).
-- All these methods work with the assumption that when Seder עולם discussed the destruction of the Second בית Hamikdash, he meant it occurred in its 420th year. The רמב"ם[^993] and רא"ש[^991] take this assumption.
-- However, other ראשונים (רש"י,[^994] the רשב"ם[^995] (not sure if this is the actual רשב"ם or the רשב"ם who was one of the baalei 'תוס), and 'תוס[^991]) say that Seder עולם meant that the Second בית Hamikdash stood for 420 full years and was destroyed in its 421st year, year 70 CE, in line with secular history.
+- All these methods work with the assumption that when Seder עולם discussed the destruction of the Second בית Hamikdash, he meant it occurred in its 420th year. The רמב"ם&lrm;[^993] and רא"ש&lrm;[^991] take this assumption.
+- However, other ראשונים (רש"י,&lrm;[^994] the רשב"ם&lrm;[^995] (not sure if this is the actual רשב"ם or the רשב"ם who was one of the baalei 'תוס), and 'תוס&lrm;[^991]) say that Seder עולם meant that the Second בית Hamikdash stood for 420 full years and was destroyed in its 421st year, year 70 CE, in line with secular history.
 - This would address the 1st, 2nd, and 4th methods. As for the 3rd method, we can just take the assumption that the Jews began counting Minyan Shtaros from year 311 BCE.[^7]
 - By spring 1942, the US codebreaking team had a decent grasp on the Japanese military and diplomatic codes. The Japanese did not find out that the US had done this until after the war.[^996]
 - Papua New Guinea was extremely important for the allies to hold because if Japan was able to take it, Australia and New Zealand would be cut off from the rest of the allies.[^996]
@@ -4671,7 +4671,7 @@
 - In August, the US sent in troops to try and capture the airfield before it was completed, and then complete it themselves and use it for US planes.[^1006]
 - After the troops landed, a Japanese fleet came by and sunk or chased off the US support vessels for the operation. Still, the US was able to capture and finish the airfield.[^1006]
 - The Japanese sent many troops to try and recapture the airfield. The US troops, with help of air power from the new runway, held them off. The fighting ended in February 1943.[^1006]
-- All the details of all הלכות,[^1008] perush of the תורה, midrashos[^1009] (not sure if this means מדרש), משנה, 'גמ, Agadah, and whatever psakim were going to later be established by a תלמיד[^1010] were given to משה at הר Sinai.
+- All the details of all הלכות,&lrm;[^1008] perush of the תורה, midrashos[^1009] (not sure if this means מדרש), משנה, 'גמ, Agadah, and whatever psakim were going to later be established by a תלמיד&lrm;[^1010] were given to משה at הר Sinai.
 - Mussolini had big dreams of expanding Italian territory.[^1011]
 - He planned on taking British-controlled Egypt and Sudan to make a contiguous piece of Italian land as the Italians had Libya and Abyssinia (present-day Ethiopia). The Italians heavily outnumbered the British.[^1011]
 - ![[Pasted image 20250501194926.png]][^1011]
@@ -4681,7 +4681,7 @@
 - According to Seder עולם {I don't know where}, Achashveirosh of the מגילה ruled between Cyrus and Darius the Great.[^1014]
 - This doesn't fit the standard chronology. According to the standard chronology, there was only one king who ruled for more than a few months during that time and that was Cambyses II (the son of Cyrus). He ruled for 8 years (9 if you count his accension year). According to the מגילה, Achashveirosh ruled for at least 12 years.[^1014]
 - The accepted belief is that Achashveirosh is Xerxes. This is because Xerxes' name in Old Persian is Khshayarsha, which is somehat similar to Achashveirosh. However, there are a few problems with this:
-	- The previously mentioned Seder עולם.[^1014]
+	- The previously mentioned Seder עולם.&lrm;[^1014]
 	- אסתר was a tzadeikes {<span style="color:rgb(255, 0, 0)">need primary source</span>}.[^1014] Xerxes' wife, named Amestris, was known for her cruelty (at least according to the Greek historians, which may be inaccurate).[^1014][^1015]
 	- The simple reading of the מגילה sounds like the Jews were in exile at the time of the purim story (like 2:5-6 which talks about how מרדכי was exiled from Yerushalayim).[^1014]
 	- The מדרש {<span style="color:rgb(255, 0, 0)">need source</span>} says that the feast at the beginning of the מגילה was thrown in celebration that the "70 years" predicted for the galus had passed without כלל ישראל being redeemed.[^7]
@@ -4841,12 +4841,12 @@
 - Mixed results with airborne troops. Some bridges taken. Others met strong resistance or bridge blown up by Germans.[^1037]
 - Main force was ambushed by Germans with anti-tank weapons.[^1037]
 - Progress was made, but one of the bridges was not able to be taken. Market Garden was abandoned.[^1037]
-- The תורה itself teaches us to make gedarim for עבירות as the תורה itself does. We see this by נדה[^1038] and by arayos.[^1039][^1040]
+- The תורה itself teaches us to make gedarim for עבירות as the תורה itself does. We see this by נדה&lrm;[^1038] and by arayos.[^1039][^1040]
 - Rulers over Babylonia according to Secular history (putting aside rulers who only ruled for a few months):[^1014] 
 	- Cyrus 9 years.
 	- Cambyses 8 years.
 	- Darius 36 years.
-- Seder עולם:[^1014]
+- Seder עולם:&lrm;[^1014]
 	- Darius the Mede 1 year.
 	- Cyrus 3 years.
 	- Achashveirosh 14 years.
@@ -4907,12 +4907,12 @@
 - Some rebelions in camps, but hopeless.[^1041]
 - Most people didn't believe holocaust at first.[^1041]
 - However, leaders knew more than they let on. Knew in 1941 to some degree from reports about German killing Jews in su and 1942 about deportations in France.[^1042] {Come back to article in prev footnote.}
-- Judge may think to judge fast to be able to judge many cases and avoid tiring out judge and people (similar to what יתרו told משה). That is חידוש of משנה.[^1043]
-- Have many talmidim. Will increase personal knowledge of תורה. Person may think that difficult to have many talmidim. That is חידוש of משנה.[^1043]
+- Judge may think to judge fast to be able to judge many cases and avoid tiring out judge and people (similar to what יתרו told משה). That is חידוש of משנה.&lrm;[^1043]
+- Have many talmidim. Will increase personal knowledge of תורה. Person may think that difficult to have many talmidim. That is חידוש of משנה.&lrm;[^1043]
 - Person may think too many מצוות to do. Make gedarim. That will help.[^1043] (Interesting to me that making more restrictions can help.)
-- Person tempted to judge fast to show off intelligence. Have many talmidim who appreciate your תורה will help. Also, making gedarim will work on your מדות.[^1043]
+- Person tempted to judge fast to show off intelligence. Have many talmidim who appreciate your תורה will help. Also, making gedarim will work on your מדות.&lrm;[^1043]
 - Hashem has plan for the world. Will definitely happen. This is moshiach/techias meisim. Hashem gives us opportunity to "help" with process.[^1044]
-- נבואה is integral to whole religion. There can be G-d. He can have ratzon. But what is it? Need to be told. That is נבואה.[^1044]
+- נבואה is integral to whole religion. There can be G-d. He can have ratzon. But what is it? Need to be told. That is נבואה.&lrm;[^1044]
 - Similarly, משה's נבואה was unique. Basis for all תורה. Integral that this can't be challenged.[^1044]
 - Japan largest empire 1943. Expanded empire=more resources.[^1045]
 - Army's plan:[^1045]
@@ -4966,7 +4966,7 @@
 - 100k Philippine civilians killed. Many massacred by Japanese.[^1045]
 - Philippines mission took many US lives, as feared by critics of plan.[^1045]
 - US navy blockaded Japan. Running out of supplies by late 1944.[^1045]
-- Shimon Hatzadik was last of anshei kneses hagidolah. He didn't arrive with עזרא.[^1053] He was a כהן Kadol.[^1054]
+- Shimon Hatzadik was last of anshei kneses hagidolah. He didn't arrive with עזרא.&lrm;[^1053] He was a כהן Kadol.[^1054]
 - Famous story that he dressed in bigdei כהן גדול and went out to meet Alexander the Great. Alexander bowed to Shimon Hatzadik because Alexander saw visions of Shimon Hatzadik before going out to war.[^1055] He was כהן גדול at that time.[^1056]
 - Without תורה, the עבודה in the בית Hamikdash, and gemilus chasadim, the world would cease to exist.[^1057] (I don't think it means that this is constantly required every second. The עבודה didn't happen at night. I assume it means it happens in ongoing basis. רש"י doesn't mention if tefillah took the place of עבודה, but I assume it does.[^7])
 - Lending money to a poor person is greater that giving him money as he doesn't feel bad about it.[^1058] (We see the importance of a person's feelings. The receiver would get to keep the money (which may be a lot) if it was given to him as a gift, but still, this is not worth the pain.[^7]) ^c640a0
@@ -4995,7 +4995,7 @@
 - Numerous cuneiform tablets refer to Cambyses as the King of Babylon, many of them dated to Cyrus's first year of rule over Babylon.[^1060]
 - None of the cuneiform tablets are dated to a second year of Cambyses in Babylon. This fits with Seder עולם who says that Cambyses ruled for only a year.[^1060]
 - Darius the Mede is called the son of Achashveirosh. Achashveirosh was another throne name for Cyrus.[^1060]
-- Hashem created the world because people were going to learn/keep the תורה (it isn't clear to me which רבינו Yonah is saying, or if he means both), do the עבודה,[^1062] which today is accomplished through davening,[^1063] and do acts of gemilus chasadim. This fulfills Hashem's ratzon.[^1062]
+- Hashem created the world because people were going to learn/keep the תורה (it isn't clear to me which רבינו Yonah is saying, or if he means both), do the עבודה,&lrm;[^1062] which today is accomplished through davening,[^1063] and do acts of gemilus chasadim. This fulfills Hashem's ratzon.[^1062]
 - This is why Hashem created the world. There are other things that people do that cause Hashem to keep the world in existence.[^1062]
 - דוד created perakim in Tehillim and davened to Hashem about to forgive him for his עבירה (רבינו Yonah calls it an עבירה) with Bassheva. He couldn't bring a korban because korbanos aren't brought for something done bimeizid.[^1062] (I assume that רבינו Yonah is not disagreeing with the 'גמ (I think it is a 'גמ) that says that uses strong language against anyone who says that דוד was עובר an עבירה with Bassheva. However, his language, and the fact that דוד would have brought a korban (and davened in its place because davening can replace korbanos) shows that this was serious.[^7])
 - Campaign in China Burma and India.[^1064]
@@ -5080,12 +5080,12 @@
 - Germany divided into 4 zones. Berlin in SU zone, but also divided into 4.[^1067]
 - ![[Pasted image 20250516002722.png]][^1067]
 - Europe divided between Western and Russian influence.[^1067]
-- Shimon Hatzadik was by the beginning of the second בית Hamikdash. He was the כהן גדול after עזרא.[^1068]
+- Shimon Hatzadik was by the beginning of the second בית Hamikdash. He was the כהן גדול after עזרא.&lrm;[^1068]
 - תורה (not sure if this means learning תורה or keeping the תורה), עבודה, and gemilus chasadim is the way that one becomes a shaleim.[^1068]
 - The whole briah was created for one to become a shaleim which is the best way to serve Hashem.[^1068] (I think this is what the Meiri is saying.)
 - שלמות means fixing one's מדות, followed by acquiring knowledge of nature of Hashem (as much as humans can), followed by strengthening one's belief in the fact that the world was created, there is hashgacha on the world, and there is schar an onesh.[^1069]
 - Shimon Hatzadik didn't come with עזרא at the beginning of the Second בית Hamikdash. Most of the Anshei Kineses Hagidolah was nifter in his days.[^1070]
-- The worlds continued existence is predicated on people doing מצוות of the heart (like davening and having אמונה), מצוות of the mouth (like learning תורה), and מצוות of body (seems like most מצוות).[^1071]
+- The worlds continued existence is predicated on people doing מצוות of the heart (like davening and having אמונה), מצוות of the mouth (like learning תורה), and מצוות of body (seems like most מצוות).&lrm;[^1071]
 - The מצוות of the heart are greater than the מצוות of the mouth and the מצוות of the mouth and greater than the מצוות of the body. This is because מצוות of the heart utilize the "siechel ruchani" (which is perhaps inspirational thoughts that carry strong feeling. This is seemingly the most elevated pursuit), the מצוות of the mouth utilize the "seichel nefesh" (which sounds like logical thought. This is a less purely ruchnious form of thought), and the מצוות of the body utilize the body (which is the more phyical than thought).[^1071]
 - Germany lost WWI 1918. Kaiser abdicated. Civil unrest. Physically country okay cuz war was outside Germany.[^1072]
 - US loaned Germany lost of money. Great Depression. US pulled money out Crisis in Gremany.[^1072]
@@ -5190,7 +5190,7 @@
 - Radical policies increased dramatically.[^1075]
 - The רמב"ם has "yesodos" about Judaism. that obviously doesn't mean that you are allowed to not believe any part of the תורה. It just means that these are logical baseline assertions that without them, the rest of the the religion falls apart.[^1076]
 - One yesod is that משה נבואה was super clear and exact. Without believing this, one is not able to believe in the תורה because the תורה as we have it was only as good as משה was able to receive it from Hashem.[^1076]
-- It is clear to all neviim that they are receiving a נבואה and the message must be rather precise. Why didn't אברהם doubt that he heard right or wonder if he really received a נבואה at all when Hashem told him to kill יצחק? It must be that the נבואה is clear for all neviim (even if not as clear as it was with משה).[^1076]
+- It is clear to all neviim that they are receiving a נבואה and the message must be rather precise. Why didn't אברהם doubt that he heard right or wonder if he really received a נבואה at all when Hashem told him to kill יצחק? It must be that the נבואה is clear for all neviim (even if not as clear as it was with משה).&lrm;[^1076]
 - Even before the תורה, Hashem provided ways for one to know what is good. The 'גמ (I think) says how one can look at the way the animals act and know what is proper. Cats act with צניעות, for example. (I don't really get this. Who cares what the animals do?)[^1076]
 - In addition, we have a conscience.[^1076]
 - However, for most people, neither of these things are precise. We can't learn the exact הלכות of geneiva, for example, from our conscience.[^1076]
@@ -5443,7 +5443,7 @@
 - This put the US ahead of the SU in the arms race.[^1106]
 - However, the SU shortly after successfully tested their own H-bomb.[^1106]
 - In February 1960, a U-2 spy plane was shot down over the SU. The pilot was captured, put on trial for espionage, and sentenced to prison. This was an embarrassment to the US.[^1106]
-- A person should mention his zechusim in an eis tzarah. However, he should not mention them straight, as the mekatreigim will try and shoot it down. Instead, say something that the simple understanding doesn't have to do with your זכות, but have in mind that you want it to be a reference to the זכות.[^1111]
+- A person should mention his zechusim in an eis tzarah. However, he should not mention them straight, as the mekatreigim will try and shoot it down. Instead, say something that the simple understanding doesn't have to do with your זכות, but have in mind that you want it to be a reference to the זכות.&lrm;[^1111]
 - In September 1970, Chile democratically elected Salvador Allende as Prime Minister. He was a Marxist.[^1112]
 - Chile had extremely large copper mines, some of which were American-owed. Allende nationalized these businesses. The American companies did not like this.[^1112]
 - In addition, the US was worried because Chile was communist and it is only around 5000 miles from the US.[^1112]
@@ -5555,7 +5555,7 @@
 - In September 1983, SU pilots shot down a commercial airliner en route to Seoul. It had strayed over SU airspace and they thought it was a US spy plane.[^1142]
 - SU pilots claimed that the commercial plane ignored warning shots, but in recordings of the SU cockpits that were later released, this seems to not be the case.[^1142]
 - This further hurt US and SU relations.[^1142]
-- The zikeinim agreed to make Yiftach the leader of כלל ישראל after his battle with Amon if he was victorious. However, they decided to make him the leader even before the battle. One of the reasons that they decided to do this was because it would fill Yiftach with simcha and he would be able to fight with more strength and energy.[^1143] ^766880
+- The זקנים agreed to make Yiftach the leader of כלל ישראל after his battle with Amon if he was victorious. However, they decided to make him the leader even before the battle. One of the reasons that they decided to do this was because it would fill Yiftach with simcha and he would be able to fight with more strength and energy.[^1143] ^766880
 - I would imagine that when fighting a battle with your life on the line that one would try his hardest. Apparently that is not the case. The person's emotions can make a difference. In addition, we see the power of simcha.[^7]
 - The US was racing against the Germans to develop the atomic bomb. The US had teams in different parts of the country to develop different parts of the bomb. The main physics was being conducted in Los Alamos, Texas.[^1144] (It was originally conducted in Manhattan, hence, the name, the Manhattan Project[^1145]).
 - The project employed around 130,000 people and spent nearly $2 billion (over $25 billion in today's money).[^1146]
@@ -5646,7 +5646,7 @@
 - It has been shown that Achashveirosh was a throne name. As such, even if Xerxes also went by Achashveirosh, that does not mean that he is the Achashveirosh from מגילת אסתר. In fact, the name "Artaxerxes", if you replace the "Arta" with "Acha" and the "x"s with "sh"s, the name becomes very similar to "Achashveirosh". Many Persian kings had the name Artaxerxes. This would further indicate that this was a throne name (like "Pharaoh" in Egypt).[^1154]
 - There are also some difficulties:
 	- מרדכי was exiled with Yechonia (אסתר 2:6) and the simple reading of the מגילה is that this story happened during that exile. That exile ended in the 2nd year of Darius' reign, 34 years before Xerxes came to power.[^1154]
-	- Xerxes wife (Amistris) was the daughter of a Persian military commander, married him in his 3rd year, and stayed married until he died. אסתר was the daughter of Avichayil (seemingly a Jewish person and not a Persian general) and married Achashveirosh in his 7th year. Additionally, Amistris was extremely cruel and vengeful. That is not the way אסתר is described by חז"ל.[^1154]
+	- Xerxes wife (Amistris) was the daughter of a Persian military commander, married him in his 3rd year, and stayed married until he died. אסתר was the daughter of Avichayil (seemingly a Jewish person and not a Persian general) and married Achashveirosh in his 7th year. Additionally, Amistris was extremely cruel and vengeful. That is not the way אסתר is described by חז"ל.&lrm;[^1154]
 	- As discussed earlier, the Persian Empire was a vassal under the Greeks, beginning with Xerxes. Additionally, according to everyone, the land of Israel was under Greek control during the Greek empire. This would mean that Haman's decree from the מגילה, given with a 12 month warning, didn't really mean so much. If Achashveirosh is Xerxes, עזרא, and many other Jews were in Israel. The rest of the Jews could have moved there, (or anywhere not under the influence of the diminished Persian Empire).[^1154]
 # Footnotes
 
@@ -5928,7 +5928,7 @@
 [^276]: [Encyclopedia Britannica : Gulf of Aqaba](https://www.britannica.com/place/Gulf-of-Aqaba)
 [^277]: Israel: A History : Chapter 6 (pg 118-120)
 [^278]: Tiferes Dovid : Chapter 7 footnote 78
-[^279]: Rav Naftoli Ziberberg from the Baal Shaarei Simcha from Rav Akiva Eiger (printed in the Gilyon Hashas Hashaleim) as presented by Tiferes Dovid : Chapter 7 page 68-69
+[^279]: Rav Naftoli Ziberberg from the בעל Shaarei Simcha from Rav Akiva Eiger (printed in the Gilyon Hashas Hashaleim) as presented by Tiferes Dovid : Chapter 7 page 68-69
 [^280]: Toldos Rav יוסף Zundel Misalant as presented by Tiferes Dovid : Chapter 7 page 70
 [^281]: [Marginal Revolution University : Who Pays the Tax?](https://mru.org/courses/principles-economics-microeconomics/tax-burden-elasticity-affordable-care-act-health-insurance-mandate)
 [^282]: [Marginal Revolution University : Tax Revenue and Deadweight Loss](https://mru.org/courses/principles-economics-microeconomics/deadweight-loss-definition-yacht-tax)
@@ -6427,7 +6427,7 @@
 [^775]: Yoma 9a
 [^776]: The Challenge of Jewish History : Chapter 2 (pg 23-24)
 [^777]: [Wikipedia : Solomon's Temple (specific location in article)](https://en.wikipedia.org/wiki/Solomon%27s_Temple#:~:text=A%20decade%20later,13%E2%80%9317)
-[^778]: ספר HaKabalah; Seder עולם Zutah (don't know where)
+[^778]: ספר HaKabalah; Seder עולם זוטא (don't know where)
 [^779]: The Challenge of Jewish History : Chapter 3 (pg 26-30)
 [^780]: Seder עולם Chapter 30 and עבודה זרה 10a presented by The Challenge of Jewish History : Chapter 4 (pg 31-34)
 [^781]: The Challenge of Jewish History : Chapter 4 (pg 31-34)

@@ -1,9 +1,9 @@
 # Definition
 A random variable is some event with results that occur randomly.
 ## Examples
-1. A die roll.
-2. A coin flip.
-3. The outdoor temperature tomorrow.
+1. <span style="display: block; text-align: justify;">A die roll.</span>
+2. <span style="display: block; text-align: justify;">A coin flip.</span>
+3. <span style="display: block; text-align: justify;">The outdoor temperature tomorrow.</span>
 # Notation
 Random Variables are generally given a capital letter and then we write what they equal.
 ## Examples
@@ -62,8 +62,8 @@ Using the same data from the previous example, we get:
 | 3                     | .075               |
 | 4                     | .025               |
 ### Rules about Relative Frequencies
-1. By definition, the relative frequencies must add up to 1 (or 100%).
-2. Relative frequencies must be positive values.
+1. <span style="display: block; text-align: justify;">By definition, the relative frequencies must add up to 1 (or 100%).</span>
+2. <span style="display: block; text-align: justify;">Relative frequencies must be positive values.</span>
 # Expected Value (Average)
 As the name implies, this is an amount you should expect to get over time. It is basically an average of all of the different possibilities of the [[Random Variable|random variable]] and then weighed by their frequency.
 For example, the expected value of a die roll is 3.5, because the average of the values (1-6) is 3.5, and each one has an equal chance. If the die was weighted so it was more likely to land on a 1, 2, or 3, the expected value would be lower, because these lower values are more likely. Similarly, if the die was weighted so it was more likely to land on the 4, 5, or 6, the expected value would rise, as now the higher values are more likely.
@@ -113,10 +113,10 @@ The standard deviation and variance can be good measure of the spread of a discr
 ## Example
 We are going to calculate the variance and standard deviation of the [[#Relative Frequency|egg example]] from above (we are going to do this for the relative frequencies, but these can be calculated for the exact amounts as well. See the articles for [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Standard Deviation (σ or $s$)|standard deviation]] and [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Variance|variance]] for examples).
 To calculate the variance, we need to:
-1. Get the differences for each amount from the mean.
-2. Square the difference.
-3. Multiply by their frequency.
-4. Add those differences together.
+1. <span style="display: block; text-align: justify;">Get the differences for each amount from the mean.</span>
+2. <span style="display: block; text-align: justify;">Square the difference.</span>
+3. <span style="display: block; text-align: justify;">Multiply by their frequency.</span>
+4. <span style="display: block; text-align: justify;">Add those differences together.</span>
 To get the standard deviation, we take the square root of that amount.
 Going through the steps, the mean is:
 $$0 \times .675 +1 \times .15 + 2 \times .075 + 3 \times .075 + 4 \times .025 = \boxed{.625}$$

@@ -1,42 +1,42 @@
 # The Law
-1. One may not steal any amount of property.[^1][^2][^3][^4]
+1. <span style="display: block; text-align: justify;">One may not steal any amount of property.[^1][^2][^3][^4]</span>
 ## Small Amounts
-1. If you steal under $1000, it is considered petit larceny.[^2][^3][^4]
-2. Additionally, being in possession of stolen goods is its own crime. If it is under $1000, this is called Criminal Possession of Stolen Property in the Fifth Degree.[^5]
-3. These are both Class A misdemeanors. The punishment for each is:[^2][^6][^7][^8][^9]
-	1. Up to one year in prison.
-	2. Up to $1000 in fines, plus surcharges and restitution.
-	3. Probation.
-	4. Community Service.
-	5. A permanent criminal record.
-4. For what the law is when one violates two crimes in the same act, see [[#Committing Multiple Crimes|here]]. For how it is usually handled, see [[#^9adf9c|here]].
-5. If you stole under $100, the prosecutor may dismiss the case. After six months, the case closes and it will not go on your permanent record.[^10]
+1. <span style="display: block; text-align: justify;">If you steal under $1000, it is considered petit larceny.[^2][^3][^4]</span>
+2. <span style="display: block; text-align: justify;">Additionally, being in possession of stolen goods is its own crime. If it is under $1000, this is called Criminal Possession of Stolen Property in the Fifth Degree.[^5]</span>
+3. <span style="display: block; text-align: justify;">These are both Class A misdemeanors. The punishment for each is:[^2][^6][^7][^8][^9]</span>
+	1. <span style="display: block; text-align: justify;">Up to one year in prison.</span>
+	2. <span style="display: block; text-align: justify;">Up to $1000 in fines, plus surcharges and restitution.</span>
+	3. <span style="display: block; text-align: justify;">Probation.</span>
+	4. <span style="display: block; text-align: justify;">Community Service.</span>
+	5. <span style="display: block; text-align: justify;">A permanent criminal record.</span>
+4. <span style="display: block; text-align: justify;">For what the law is when one violates two crimes in the same act, see [[#Committing Multiple Crimes|here]]. For how it is usually handled, see [[#^9adf9c|here]].</span>
+5. <span style="display: block; text-align: justify;">If you stole under $100, the prosecutor may dismiss the case. After six months, the case closes and it will not go on your permanent record.[^10]</span>
 ## Large Amounts
-1. If you stole over $1000, it is considered Grand Larceny.[^11] As said before, being in possession of stolen is its own crime. Because it is over $1000, this is called Criminal Possession of Stolen Property in the fourth degree.[^12]
-2. The punishment for these are discussed [[#^e6aede|below]].
+1. <span style="display: block; text-align: justify;">If you stole over $1000, it is considered Grand Larceny.[^11] As said before, being in possession of stolen is its own crime. Because it is over $1000, this is called Criminal Possession of Stolen Property in the fourth degree.[^12]</span>
+2. <span style="display: block; text-align: justify;">The punishment for these are discussed [[#^e6aede|below]].</span>
 ## Credit, Debit, and Public Benefit Cards
-1. If you stole a credit card or debit card, it is considered Grand Larceny in the fourth degree.[^13] Being in possession of a stolen credit card, debit card, or public benefits card is considered [^14]
-2. These are both Class E felonies. The punishment for each is:[^15] ^e6aede
-	1. Up to four years in prison. If you have not recently been convicted of a different felony, there is no mandatory minimum prison sentence. If you have, there is a mandatory minimum prison sentence of 1.5 years.
+1. <span style="display: block; text-align: justify;">If you stole a credit card or debit card, it is considered Grand Larceny in the fourth degree.[^13] Being in possession of a stolen credit card, debit card, or public benefits card is considered [^14]</span>
+2. <span style="display: block; text-align: justify;">These are both Class E felonies. The punishment for each is:[^15]</span> ^e6aede
+	1. <span style="display: block; text-align: justify;">Up to four years in prison. If you have not recently been convicted of a different felony, there is no mandatory minimum prison sentence. If you have, there is a mandatory minimum prison sentence of 1.5 years.</span>
 ## Committing Multiple Crimes
-1. If someone committed two crimes in the same act (as discussed above) a judge may issue consecutive sentences (meaning, you would potentially have up to 2 years of jail time and $2000 of fines).[^16]
+1. <span style="display: block; text-align: justify;">If someone committed two crimes in the same act (as discussed above) a judge may issue consecutive sentences (meaning, you would potentially have up to 2 years of jail time and $2000 of fines).[^16]</span>
 # When These Laws Were Enacted
-1. The minimum threshold of $1000 for Grand Larceny in the fourth degree was established in 1986. Before then, the minimum threshold was $250.[^17]
-2. There was a proposal to raise the threshold for Petit Larceny and Grand Larceny in the fourth degree in 2021,[^18] but this hasn't been approved (as of yet).[^19]
+1. <span style="display: block; text-align: justify;">The minimum threshold of $1000 for Grand Larceny in the fourth degree was established in 1986. Before then, the minimum threshold was $250.[^17]</span>
+2. <span style="display: block; text-align: justify;">There was a proposal to raise the threshold for Petit Larceny and Grand Larceny in the fourth degree in 2021,[^18] but this hasn't been approved (as of yet).[^19]</span>
 # How it is Actually Handled
-1. While the judge may issue consecutive sentences, judges will often give concurrent sentences (meaning, jail time counts for both sentences) when the both crimes were committed in one action. As such, practically, the punishment won't be worse than if you had committed one of these crimes.[^20] ^9adf9c
+1. <span style="display: block; text-align: justify;">While the judge may issue consecutive sentences, judges will often give concurrent sentences (meaning, jail time counts for both sentences) when the both crimes were committed in one action. As such, practically, the punishment won't be worse than if you had committed one of these crimes.[^20]</span> ^9adf9c
 # Police Response
 ## Response Times
-1. Police response times have been getting slower, for both serious and non-serious crimes.
-2. In 2024, the overall response time was around 15 minutes, around a minute slower than 2023 and 5 minutes longer than 4 years ago. This is the highest level in decades. (All this is from the Mayor's Management Report.)[^21]
-3. The overall response time has hovered around 10 minutes for many years until around 2021. It then began jumping around 2 minutes per year, on average.
-4. For critical incidents, the response time was around 9 minutes, which is the slowest since the 1990s.[^22]
-5. For the first few months of 2024,[^23] for non-critical incidents, the response time was around 32 minutes. This is around 6 minutes higher than 2022.[^24]
+1. <span style="display: block; text-align: justify;">Police response times have been getting slower, for both serious and non-serious crimes.</span>
+2. <span style="display: block; text-align: justify;">In 2024, the overall response time was around 15 minutes, around a minute slower than 2023 and 5 minutes longer than 4 years ago. This is the highest level in decades. (All this is from the Mayor's Management Report.)[^21]</span>
+3. <span style="display: block; text-align: justify;">The overall response time has hovered around 10 minutes for many years until around 2021. It then began jumping around 2 minutes per year, on average.</span>
+4. <span style="display: block; text-align: justify;">For critical incidents, the response time was around 9 minutes, which is the slowest since the 1990s.[^22]</span>
+5. <span style="display: block; text-align: justify;">For the first few months of 2024,[^23] for non-critical incidents, the response time was around 32 minutes. This is around 6 minutes higher than 2022.[^24]</span>
 ### Reasons
-1. There are less police officers.[^25]
-2. There are more calls.[^25] However, some comparisons show that even with less calls the police are still slower.[^26]
-3. There is more traffic.[^25][^27]
-4. Police have to do a lot of paperwork. This limits the amount of time that police can spend responding to calls.[^28] In particular, a law called the How Many Stops Act, which requires police to write more reports, went into effect in July 2024.[^29]
+1. <span style="display: block; text-align: justify;">There are less police officers.[^25]</span>
+2. <span style="display: block; text-align: justify;">There are more calls.[^25] However, some comparisons show that even with less calls the police are still slower.[^26]</span>
+3. <span style="display: block; text-align: justify;">There is more traffic.[^25][^27]</span>
+4. <span style="display: block; text-align: justify;">Police have to do a lot of paperwork. This limits the amount of time that police can spend responding to calls.[^28] In particular, a law called the How Many Stops Act, which requires police to write more reports, went into effect in July 2024.[^29]</span>
 # Footnotes
 
 [^1]: [NYSenate.gov : Petite Larceny (specific location in article)](https://www.nysenate.gov/legislation/laws/PEN/155.25#:~:text=%C2%A7%20155.25%20Petit%20larceny.%0A%0AA%20person%20is%20guilty%20of%20petit%20larceny%20when%20he%20steals%20property.%0A%0APetit%20larceny%20is%20a%20class%20A%20misdemeanor.) (From the fact that [Grand Larceny in the fourth degree](https://www.nysenate.gov/legislation/laws/PEN/155.30) is for over $1000, and there is no minimum on Petite Larceny, Petite Larceny is for amounts under $1000)

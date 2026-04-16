@@ -46,12 +46,12 @@ For example, let's say you want to figure out the amount of ways you can order t
 First we calculate the total amount of permutations there are (pretending that the order of the 'A's does make a difference). There are 6 things and we are using all 6, so it is $6!$.
 However, this calculation only works if the order of the 'A's matters. We need to divide the total by the amount of different permutations which are really the same, but just have the 'A's in different positions. (For the following, I am going to refer to the 'A's as $A_1$, $A_2$, and $A_3$ to make things easier).
 So, for example, I can make the permutation A, A, A, B, C, D either by:
-1. $A_1, \space A_2, \space A_3, \space B, \space C, \space D$
-2. $A_1, \space A_3, \space A_2, \space B, \space C, \space D$
-3. $A_2, \space A_1, \space A_3, \space B, \space C, \space D$
-4. $A_2, \space A_3, \space A_1, \space B, \space C, \space D$
-5. $A_3, \space A_1, \space A_2, \space B, \space C, \space D$
-6. $A_3, \space A_2, \space A_1, \space B, \space C, \space D$
+1. <span style="display: block; text-align: justify;">$A_1, \space A_2, \space A_3, \space B, \space C, \space D$</span>
+2. <span style="display: block; text-align: justify;">$A_1, \space A_3, \space A_2, \space B, \space C, \space D$</span>
+3. <span style="display: block; text-align: justify;">$A_2, \space A_1, \space A_3, \space B, \space C, \space D$</span>
+4. <span style="display: block; text-align: justify;">$A_2, \space A_3, \space A_1, \space B, \space C, \space D$</span>
+5. <span style="display: block; text-align: justify;">$A_3, \space A_1, \space A_2, \space B, \space C, \space D$</span>
+6. <span style="display: block; text-align: justify;">$A_3, \space A_2, \space A_1, \space B, \space C, \space D$</span>
 In terms of what we want, though, these are all the same. All 'A's are the same. We have to divide by 6 to get rid off all of these extra permutations which to us, don't count.
 We don't need to count up all of the different permutations there are with the 'A's to figure this out. We can calculate it. There are 3 'A's and we are trying to figure out the amount of permutations there are. This is just $3!$., which is 6.
 Getting back to the question, the calculation would be as follows: We have 6 total items, and we have 3 things that we don't care about the order for. The formula is as follows:

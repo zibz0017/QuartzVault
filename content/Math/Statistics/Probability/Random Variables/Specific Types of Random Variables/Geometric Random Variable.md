@@ -1,9 +1,9 @@
 # Definition
 A geometric random variable is similar to a [[Binomial|binomial]], with one key difference.
 A random variable is a geometric random variable if:
-1. There are two possible outcomes.
-2. The probability of each outcome is the same.
-3. There will keep being more events until a "success" is reached.
+1. <span style="display: block; text-align: justify;">There are two possible outcomes.</span>
+2. <span style="display: block; text-align: justify;">The probability of each outcome is the same.</span>
+3. <span style="display: block; text-align: justify;">There will keep being more events until a "success" is reached.</span>
 This last point is what differs a geometric random variable from a binomial. A binomial has a specific amount of events. A geometric does not have a specific amount of events.
 ## Example
 The amount of coinflips it takes to flip a heads.

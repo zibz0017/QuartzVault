@@ -1,15 +1,15 @@
 # Maximum Punishments
-1. It should be noted that the defendant does not need to receive all of these punishments.
+1. <span style="display: block; text-align: justify;">It should be noted that the defendant does not need to receive all of these punishments.</span>
 ## Prison
-1. Up to 364 days in a local prison.[^1]
+1. <span style="display: block; text-align: justify;">Up to 364 days in a local prison.[^1]</span>
 ## Payments
-1. Up to $1000 in fines.[^2]
+1. <span style="display: block; text-align: justify;">Up to $1000 in fines.[^2]</span>
    However, if the defendant profited from the crime, the fine can be double what they gained (even above $1000).[^3]
-2. Additionally, the defendant may be charged restitution (the amount paid back to the injured party). This is in addition to any other punishments (imprisonment, fines).[^4] In most situations, the maximum for this is $10000 (for violating a misdemeanor. The maximum when violating a felony is higher).[^5]
+2. <span style="display: block; text-align: justify;">Additionally, the defendant may be charged restitution (the amount paid back to the injured party). This is in addition to any other punishments (imprisonment, fines).[^4] In most situations, the maximum for this is $10000 (for violating a misdemeanor. The maximum when violating a felony is higher).[^5]</span>
 ## Probation
-1. Probation is 2 or 3 years.[^6] See [[Probation|here]] for more details about probation.
+1. <span style="display: block; text-align: justify;">Probation is 2 or 3 years.[^6] See [[Probation|here]] for more details about probation.</span>
 ## Criminal Record
-1. A violation of a misdemeanor is put on one's criminal record. For more details about criminal records (how long they last and who can see them), see [[Criminal Record|here]].
+1. <span style="display: block; text-align: justify;">A violation of a misdemeanor is put on one's criminal record. For more details about criminal records (how long they last and who can see them), see [[Criminal Record|here]].</span>
 # Recent Changes
 # Footnotes
 

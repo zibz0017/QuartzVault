@@ -322,8 +322,8 @@ As can be seen, the larger sample size (in <span style="color:rgb(0, 176, 240)">
 *For sampling a binomial, see [[Sampling a Binomial-Type Random Variable|here]].*
 ## Shape of Sampling Distribution
 The shape of the sampling distribution will be normal if:
-1. It came from a normal distribution, or
-2. There is a somewhat large sample size (30 or more).
+1. <span style="display: block; text-align: justify;">It came from a normal distribution, or</span>
+2. <span style="display: block; text-align: justify;">There is a somewhat large sample size (30 or more).</span>
 ## Mean
 The distribution of the samples of our original distribution will have the same mean as the original distribution, regardless of the size of the sets of the samples.
 ## [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Variance|Variance]] And [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Standard Deviation (σ or $s$)|Standard Deviation]]

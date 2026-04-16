@@ -155,7 +155,7 @@ In the formula, we multiply the z-score of the x and y coordinates of each point
 ![[Pasted image 20250711011425.png]]
 The points in the previous set have the following coordinates: (1,1), (2,3), (3,6), (4,4).
 ### Solving with Version 1 of the Formula
-1. Calculate the values for all of the relevant variables.
+1. <span style="display: block; text-align: justify;">Calculate the values for all of the relevant variables.</span>
 $$n=4$$
 $$\overline{x} \Rightarrow \frac{1+2+3+4}{4} \Rightarrow \frac{10}{4}=\textbf{2.5}$$
 $$\overline{y} \Rightarrow \frac{1+3+6+4}{4} \Rightarrow \frac{14}{4} \Rightarrow \textbf{3.5}$$
@@ -163,12 +163,12 @@ $$SD_x \Rightarrow \sqrt{\frac{\sum_{1}^{n}(x_i-\overline{x})^2}{n-1}} \Rightarr
 $$\sqrt{\frac{(-1.5)^2+(-.5)^2+(.5)^2+(1.5)^2}{3}} \Rightarrow \sqrt{\frac{2.25+.25+.25+2.25}{3}} \Rightarrow \sqrt{\frac{5}{3}} \approx \textbf{1.29}$$
 $$SD_y \Rightarrow \sqrt{\frac{\sum_{1}^{n}(y_i-\overline{y})^2}{n-1}} \Rightarrow \sqrt{\frac{(1-3.5)^2+(3-3.5)^2+(6-3.5)^2+(4-3.5)^2}{4-1}} \Rightarrow$$
 $$\sqrt{\frac{(-2.5)^2+(-.5)^2+(2.5)^2+(.5)^2}{3}} \Rightarrow \sqrt{\frac{6.25+.25+6.25+.25}{3}} \Rightarrow \sqrt{\frac{13}{3}} \approx \textbf{2.08}$$
-2. Plug the values into the correlation formula.
+2. <span style="display: block; text-align: justify;">Plug the values into the correlation formula.</span>
 $$\frac{1}{4-1}\left(\left(\frac{1-2.5}{1.29}\right)\left(\frac{1-3.5}{2.08}\right) + \left(\frac{2-2.5}{1.29}\right)\left(\frac{3-3.5}{2.08}\right) + \left(\frac{3-2.5}{1.29}\right)\left(\frac{6-3.5}{2.08}\right) + \left(\frac{4-2.5}{1.29}\right)\left(\frac{4-3.5}{2.08}\right)\right) \Rightarrow$$
 $$\frac{1}{3} \left(\left(\frac{-1.5}{1.29}\right)\left(\frac{-2.5}{2.08}\right) + \left(\frac{-.5}{1.29}\right)\left(\frac{-.5}{2.08}\right) + \left(\frac{.5}{1.29}\right)\left(\frac{2.5}{2.08}\right) + \left(\frac{1.5}{1.29}\right)\left(\frac{.5}{2.08}\right)\right) \approx$$
 $$\frac{1}{3}(1.4+.09+.47+.28) \approx \textbf{.747}$$
 ### Solving with Version 2 of the Formula
-1. Calculate the values for all of the relevant variables.
+1. <span style="display: block; text-align: justify;">Calculate the values for all of the relevant variables.</span>
 
 $$n=4$$
 
@@ -176,7 +176,7 @@ $$\overline{x} \Rightarrow \frac{1+2+3+4}{4} \Rightarrow \frac{10}{4}=\textbf{2.
 
 $$\overline{y} \Rightarrow \frac{1+3+6+4}{4} \Rightarrow \frac{14}{4} \Rightarrow \textbf{3.5}$$
 
-2. Plug the values into the correlation formula.
+2. <span style="display: block; text-align: justify;">Plug the values into the correlation formula.</span>
 
 $$\frac{\sum_{i=1}^{4}(x_i-2.5)(y_i-3.5)}{\sqrt{\left(\sum_{j=1}^{4}{(x_j-2.5)^2}\right)\left(\sum_{j=1}^{4}{(y_j-3.5)^2}\right)}} \Rightarrow$$
 

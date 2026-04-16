@@ -19,7 +19,7 @@
 	- Stopped keeping שבת.
 	- Using drugs/alcohol.
 	- Inappropriate relationships with the opposite gender.
-- Some kids are in the middle (not quite standard, but not this bad). They also need their individualized for of חינוך.[^1]
+- Some kids are in the middle (not quite standard, but not this bad). They also need their individualized for of חינוך.&lrm;[^1]
 - Normative parenting can be divided into 3 stages:[^4]
 	- Unconditional love and nurturing (ages 0-2)
 	- Limit-setting and role modeling (ages 2-16)

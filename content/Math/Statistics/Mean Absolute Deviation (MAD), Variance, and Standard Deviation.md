@@ -2,9 +2,9 @@
 ## MAD Definition
 Average of the distance of all of the numbers from the mean (with all distances being a positive value).
 ## Steps to Find MAD
-1. Find the mean.
-2. Find how far every number is from the mean by subtracting the mean from each number and getting the absolute value (make the number positive if it is negative).
-3. Find the average of these distances. Add them all up together, then divide by the total number of values in the set.
+1. <span style="display: block; text-align: justify;">Find the mean.</span>
+2. <span style="display: block; text-align: justify;">Find how far every number is from the mean by subtracting the mean from each number and getting the absolute value (make the number positive if it is negative).</span>
+3. <span style="display: block; text-align: justify;">Find the average of these distances. Add them all up together, then divide by the total number of values in the set.</span>
 ## Calculating MAD Example
 Set of numbers: 4, 7, 13, 23, 18, -2
 Find the mean:
@@ -53,15 +53,15 @@ Average of the *squared* distance of all of the numbers from the mean. (See [[#A
 ## Steps to Find Variance
 ### Steps to Find Population Variance (σ^2)
 *Note: This is slightly different than finding the a sample variance. How to [[#Steps to Find Sample Variance (s 2)|calculate the sample variance]] and [[#Why There is a Different Calculation for the Population Variance and the Sample Variance|why the population and sample variance are different]] will be explained later.*
-1. Find the mean.
-2. Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.
-3. Find the average of these squared distances. Add them all up together, then divide by the total number of values in the set.
+1. <span style="display: block; text-align: justify;">Find the mean.</span>
+2. <span style="display: block; text-align: justify;">Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.</span>
+3. <span style="display: block; text-align: justify;">Find the average of these squared distances. Add them all up together, then divide by the total number of values in the set.</span>
 ### Steps to Find Sample Variance (s^2)
 The exact same as finding the population variance, except instead of dividing the whole thing by the amount of numbers, we divide by the amount of numbers *minus 1*.
 So the steps are:
-1. Find the mean.
-2. Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.
-3. Add up all of these squared distances together, then divide by the total number of values in the sample.
+1. <span style="display: block; text-align: justify;">Find the mean.</span>
+2. <span style="display: block; text-align: justify;">Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.</span>
+3. <span style="display: block; text-align: justify;">Add up all of these squared distances together, then divide by the total number of values in the sample.</span>
 ## Calculating Variance Example
 ### Population Variance Example
 Set of numbers: 4, 7, 13, 23, 18, -2
@@ -165,20 +165,20 @@ The square root of the [[#Variance|variance]]. In other words, the square root o
 *Note: This is slightly different than finding the a sample standard deviation. How to [[#Steps to Find Sample Standard Deviation|calculate the sample standard deviation]] will be explained later and [[#Why There is a Different Calculation for the Population Variance and the Sample Variance|why the population and sample standard deviations are different]] is the same reason why there is a difference between the population variance and the sample variance.*
 
 Find the variance, and then take the square root. To break it down:
-1. Find the mean.
-2. Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.
-3. Find the average of these squared distances. Add them all up together, then divide by the total number of values in the set.
-4. Find the square root of that number.
+1. <span style="display: block; text-align: justify;">Find the mean.</span>
+2. <span style="display: block; text-align: justify;">Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.</span>
+3. <span style="display: block; text-align: justify;">Find the average of these squared distances. Add them all up together, then divide by the total number of values in the set.</span>
+4. <span style="display: block; text-align: justify;">Find the square root of that number.</span>
    
 In the above example, the population variance is 85.9 . The population standard deviation of is the square root of that, so it is around **8.46**.
 ### Steps to Find Sample Standard Deviation
 The exact same as finding the population standard deviation, except instead of dividing using the sample variance. As such, most of the steps are the same, except that we divide the total squared distance from the mean by the the amount of numbers used *minus 1*.
 
 To lay it all out, we do the following:
-1. Find the mean.
-2. Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.
-3. Add them all up together, then divide by the amount of numbers in the sample *minus one*.
-4. Find the square root of that number.
+1. <span style="display: block; text-align: justify;">Find the mean.</span>
+2. <span style="display: block; text-align: justify;">Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.</span>
+3. <span style="display: block; text-align: justify;">Add them all up together, then divide by the amount of numbers in the sample *minus one*.</span>
+4. <span style="display: block; text-align: justify;">Find the square root of that number.</span>
 
 In the above example, the sample variance is around 71.583. The population standard deviation of is the square root of that, so it is around **9.27**.
 # Purpose of These Measures

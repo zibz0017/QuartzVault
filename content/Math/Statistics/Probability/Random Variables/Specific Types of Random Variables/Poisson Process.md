@@ -1,8 +1,8 @@
 # Definition
 A Poisson process is a series of events that:
-1. There are only two results for each event ("pass" or "failure"),
-2. All have the same probability,
-3. There are a near-infinite number of events.
+1. <span style="display: block; text-align: justify;">There are only two results for each event ("pass" or "failure"),</span>
+2. <span style="display: block; text-align: justify;">All have the same probability,</span>
+3. <span style="display: block; text-align: justify;">There are a near-infinite number of events.</span>
 In reality, this is actually a specific type of [[Binomial|binomial]]. What makes a Poisson process unique is that the fact that it has the near-infinite number of events.
 ## Examples and Basic Understanding
 This would usually be most relevant when measuring the amount of a certain event occurring within a certain amount of time.

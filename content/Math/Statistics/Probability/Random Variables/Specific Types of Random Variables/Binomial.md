@@ -1,8 +1,8 @@
 # Definition
 Binomials are a specific type of [[Random Variable|random variable]] that has the following rules:
-1. There are only two possible outcomes.
-2. There must be a defined number of events.
-3. The probability for each outcome in each event is the same.
+1. <span style="display: block; text-align: justify;">There are only two possible outcomes.</span>
+2. <span style="display: block; text-align: justify;">There must be a defined number of events.</span>
+3. <span style="display: block; text-align: justify;">The probability for each outcome in each event is the same.</span>
 ## Example
 The amount of heads after flipping a coin 10 times (ignoring the fact that the coin can technically land on its side).
 This checks all of the boxes: there are two possible outcomes, there are a defined number of events, and the probability of each event is the same.

@@ -1,12 +1,12 @@
 # Basics
-1. When one commits a crime, it goes on one's record. For some time, this information is publicly available.[^1]
+1. <span style="display: block; text-align: justify;">When one commits a crime, it goes on one's record. For some time, this information is publicly available.[^1]</span>
 # Sealing Records
-1. Depending on the crime, the record will become inaccessible to the public after some time (see [[#How Long for a Crime to Become Sealed|below]]).[^2]
-2. This will still be accessible to law enforcement, judges, providers of jobs that require criminal background checks, and similar people.[^3][^4]
-3. If someone commits a new crime before their record is sealed, their record for this first crime can't be sealed.[^5]
+1. <span style="display: block; text-align: justify;">Depending on the crime, the record will become inaccessible to the public after some time (see [[#How Long for a Crime to Become Sealed|below]]).[^2]</span>
+2. <span style="display: block; text-align: justify;">This will still be accessible to law enforcement, judges, providers of jobs that require criminal background checks, and similar people.[^3][^4]</span>
+3. <span style="display: block; text-align: justify;">If someone commits a new crime before their record is sealed, their record for this first crime can't be sealed.[^5]</span>
 ## How Long for a Crime to Become Sealed
 ### For Misdemeanors
-1. 3 years.[^2][^6]
+1. <span style="display: block; text-align: justify;">3 years.[^2][^6]</span>
 # Footnotes
 
 [^1]: [NYSenate.gov : Clerk must search files upon request and certify as to result](https://www.nysenate.gov/legislation/laws/JUD/255) and [NYSenate.gov : Dockets of clerks to be public](https://www.nysenate.gov/legislation/laws/JUD/255-B)

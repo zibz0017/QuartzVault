@@ -1,3 +1,3 @@
 *Presented by ש"ך ס"ק כג, ט"ז ס"ק יז*
-1. People in general are very careful about dairy/meat. People are less careful about dairy with salt that may be used for meat.
-2. As such, the מחבר totally permits dairy next to meat and the רמ"א only forbids it לכתחילה, while everyone agrees that one should not put dairy next to salt.
+1. <span style="display: block; text-align: justify;">People in general are very careful about dairy/meat. People are less careful about dairy with salt that may be used for meat.</span>
+2. <span style="display: block; text-align: justify;">As such, the מחבר totally permits dairy next to meat and the רמ"א only forbids it לכתחילה, while everyone agrees that one should not put dairy next to salt.</span>

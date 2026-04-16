@@ -1,14 +1,14 @@
 # Issues Caused by Inflation
 ## Prices and Salaries
-1. Prices can be used as signals of supply (prices rise and fall depending on the supply, assuming the demand stays constant). However, when there is volatile inflation (meaning inflation is inconsistent. Sometimes it is high and sometimes it is low. If it was constantly high or consistently low, this would not be an issue), then the signal becomes inaccurate.[^1]
-2. Prices and salaries become difficult to compare over time. They appear higher than they are, which can affect our decisions we make based on them.[^1]
-3. Savings depreciate over time (unless they are invested or if one purchases some commodity rather than save cash).[^2]
-4. Even if salaries keep up with inflation on average, that is only an average. Some will exceed the inflation, which is nice, but some will fall short of inflation.[^2] ^5518cb
+1. <span style="display: block; text-align: justify;">Prices can be used as signals of supply (prices rise and fall depending on the supply, assuming the demand stays constant). However, when there is volatile inflation (meaning inflation is inconsistent. Sometimes it is high and sometimes it is low. If it was constantly high or consistently low, this would not be an issue), then the signal becomes inaccurate.[^1]</span>
+2. <span style="display: block; text-align: justify;">Prices and salaries become difficult to compare over time. They appear higher than they are, which can affect our decisions we make based on them.[^1]</span>
+3. <span style="display: block; text-align: justify;">Savings depreciate over time (unless they are invested or if one purchases some commodity rather than save cash).[^2]</span>
+4. <span style="display: block; text-align: justify;">Even if salaries keep up with inflation on average, that is only an average. Some will exceed the inflation, which is nice, but some will fall short of inflation.[^2]</span> ^5518cb
 ## Borrowing and Lending
-1. If inflation is high a volatile, borrowing and lending becomes risky.[^3]
-2. As a lender, you may lend money with a certain interest rate, assuming a certain level of inflation will decrease the value of the money by a certain amount over the life of the loan. If inflation is higher than expected, the lender will be paid back with less valuable dollars than they expected.[^3]
-3. For a borrower, the opposite problem is true: they may have to pay back more valuable dollars than they expected.[^3]
-4. Perhaps this can be remedied by having interest in loans adjust based on inflation.[^4]
+1. <span style="display: block; text-align: justify;">If inflation is high a volatile, borrowing and lending becomes risky.[^3]</span>
+2. <span style="display: block; text-align: justify;">As a lender, you may lend money with a certain interest rate, assuming a certain level of inflation will decrease the value of the money by a certain amount over the life of the loan. If inflation is higher than expected, the lender will be paid back with less valuable dollars than they expected.[^3]</span>
+3. <span style="display: block; text-align: justify;">For a borrower, the opposite problem is true: they may have to pay back more valuable dollars than they expected.[^3]</span>
+4. <span style="display: block; text-align: justify;">Perhaps this can be remedied by having interest in loans adjust based on inflation.[^4]</span>
    However, as mentioned [[#^5518cb|before]], even if salaries keep up with inflation on average, that is only an average, so if inflation skyrockets but the borrowers salary does not, they may be stuck with a high interest rate that they were not expecting.[^2]
 
 

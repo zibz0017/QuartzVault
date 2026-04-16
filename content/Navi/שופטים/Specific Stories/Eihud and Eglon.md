@@ -2,42 +2,42 @@
 שופטים 3:12-30
 # Story
 ## Subjugation
- 1. כלל ישראל was defeated by the Moavi king, Eglon, together with עמלק.[^1]
- 2. כלל ישראל was forced to work for Moav and/or pay tribute.[^2] In addition, the City of Dates (a city built on the outskirts of the destroyed Yericho) was taken.[^3]
+ 1. <span style="display: block; text-align: justify;">כלל ישראל was defeated by the Moavi king, Eglon, together with עמלק.&lrm;[^1]</span>
+ 2. <span style="display: block; text-align: justify;">כלל ישראל was forced to work for Moav and/or pay tribute.[^2] In addition, the City of Dates (a city built on the outskirts of the destroyed Yericho) was taken.[^3]</span>
 ### King Eglon
- 1. According to some מפרשים, Eglon was a weak king. Hashem strengthened him to punish כלל ישראל.[^4]
- 2. According to most מפרשים, he was extremely fat.[^5] (This is relevant for later in the story.)
- 3. According to at least one meforash, he was gullible and not very intelligent.[^6]
+ 1. <span style="display: block; text-align: justify;">According to some מפרשים, Eglon was a weak king. Hashem strengthened him to punish כלל ישראל.&lrm;[^4]</span>
+ 2. <span style="display: block; text-align: justify;">According to most מפרשים, he was extremely fat.[^5] (This is relevant for later in the story.)</span>
+ 3. <span style="display: block; text-align: justify;">According to at least one meforash, he was gullible and not very intelligent.[^6]</span>
 ## The Salavation
- 1. Hashem sent a shofet named Eihud to save them.[^7]
+ 1. <span style="display: block; text-align: justify;">Hashem sent a shofet named Eihud to save them.[^7]</span>
 ### Eihud
-1. Eihud was a lefty.[^7] (This is relevant for later in the story).
-2. His מדות and tzidkus are not discussed much.
-   One פרוש makes note of the fact that the navi does not say that he judged the people. {<span style="color:rgb(255, 0, 0)">Source needed</span>}
+1. <span style="display: block; text-align: justify;">Eihud was a lefty.[^7] (This is relevant for later in the story).</span>
+2. <span style="display: block; text-align: justify;">His מדות and tzidkus are not discussed much.</span>
+   One פרוש makes note of the fact that the נביא does not say that he judged the people. {<span style="color:rgb(255, 0, 0)">Source needed</span>}
    However, a different פרוש says that because of his זכות, כלל ישראל was not conquered by other nations during his lifetime, even though they had started doing עבירות again.[^8]
 ### Assassination
 #### Lack of Suspicion
 ##### The Weapon
-1. Eihud had a short sword (either an amah,[^9] or slightly shorter.[^10] A long knife might be a better description). This made it easier to hide.
-2. The sword was sharp on both edges.[^11] This allowed Eihud to kill Eglon extremely quickly.
-3. Eihud carried the sword under his robe.[^11]
-4. He was a lefty so he wore this on his right hip. This was unexpected as most people (who are righties) wear the sword on their left hip (so they can reach across their body to pull out their sword). As such, the sword was able to pass by unnoticed.[^12] This is also why Eglon didn't suspect anything when he saw Eihud reaching with his left hand into his robe.[^13]
+1. <span style="display: block; text-align: justify;">Eihud had a short sword (either an amah,[^9] or slightly shorter.[^10] A long knife might be a better description). This made it easier to hide.</span>
+2. <span style="display: block; text-align: justify;">The sword was sharp on both edges.[^11] This allowed Eihud to kill Eglon extremely quickly.</span>
+3. <span style="display: block; text-align: justify;">Eihud carried the sword under his robe.[^11]</span>
+4. <span style="display: block; text-align: justify;">He was a lefty so he wore this on his right hip. This was unexpected as most people (who are righties) wear the sword on their left hip (so they can reach across their body to pull out their sword). As such, the sword was able to pass by unnoticed.[^12] This is also why Eglon didn't suspect anything when he saw Eihud reaching with his left hand into his robe.[^13]</span>
 ##### A Present was Given
-1. Eihud brought some sort of מנחה to Eglon. This helped make it seem that כלל ישראל was a subservient vassal.[^14]
+1. <span style="display: block; text-align: justify;">Eihud brought some sort of מנחה to Eglon. This helped make it seem that כלל ישראל was a subservient vassal.[^14]</span>
 ##### Left and Came Back
-1. Eihud left after delivering the מנחה and then came back after.[^15]
-2. This made it seem that the מנחה was the main point, and he just remembered some other minor thing that he wanted to take care of. This made the private meeting Eihud requested appear to be more of a side thing rather than the main reason he came (which would have been more suspicious).[^16]
-3. In addition, this allowed the people who came with Eihud to already be away from the Moavi. This made the escape easier (it is easier for one person to sneak away on his own then a whole group of people). {<span style="color:rgb(255, 0, 0)">Source needed</span>}
+1. <span style="display: block; text-align: justify;">Eihud left after delivering the מנחה and then came back after.[^15]</span>
+2. <span style="display: block; text-align: justify;">This made it seem that the מנחה was the main point, and he just remembered some other minor thing that he wanted to take care of. This made the private meeting Eihud requested appear to be more of a side thing rather than the main reason he came (which would have been more suspicious).[^16]</span>
+3. <span style="display: block; text-align: justify;">In addition, this allowed the people who came with Eihud to already be away from the Moavi. This made the escape easier (it is easier for one person to sneak away on his own then a whole group of people). {<span style="color:rgb(255, 0, 0)">Source needed</span>}</span>
 ##### Distraction
-1. Eihud told Eglon that he had a message from Hashem.[^17]
-2. According to at least one פרוש, Eglon was partially convinced that Eihud was being serious because he thought that Eihud would not use Hashem's name in vain. (This was not considered to be using Hashem's name in vain as Eihud was fulfilling his role of doing Hashem's desire, namely, saving כלל ישראל. Eglon obviously didn't realize that.)[^18]
-3. Eglon then stood up out of honor for Hashem.[^17]
-4. Getting up left Eglon momentarily distracted as Eihud pulled out the sword and stabbed him.[^19] One meforash points out that Eglon was large (as mentioned earlier), and so getting up was difficult for him and decreased his awareness of his surroundings.[^20]
+1. <span style="display: block; text-align: justify;">Eihud told Eglon that he had a message from Hashem.[^17]</span>
+2. <span style="display: block; text-align: justify;">According to at least one פרוש, Eglon was partially convinced that Eihud was being serious because he thought that Eihud would not use Hashem's name in vain. (This was not considered to be using Hashem's name in vain as Eihud was fulfilling his role of doing Hashem's desire, namely, saving כלל ישראל. Eglon obviously didn't realize that.)[^18]</span>
+3. <span style="display: block; text-align: justify;">Eglon then stood up out of honor for Hashem.[^17]</span>
+4. <span style="display: block; text-align: justify;">Getting up left Eglon momentarily distracted as Eihud pulled out the sword and stabbed him.[^19] One meforash points out that Eglon was large (as mentioned earlier), and so getting up was difficult for him and decreased his awareness of his surroundings.[^20]</span>
 ##### Simple-Minded
-1. According to at least one פרוש, Eglon was simple-minded (as mentioned earlier).
+1. <span style="display: block; text-align: justify;">According to at least one פרוש, Eglon was simple-minded (as mentioned earlier).</span>
 ##### Escape
-1. Eihud didn't pull the sword out of Eglon to keep blood from splattering on his clothing. {<span style="color:rgb(255, 0, 0)">Source needed</span>}
-2. Eihud kept a nonchalant demeanor as he was leaving. {<span style="color:rgb(255, 0, 0)">Source needed</span>}
+1. <span style="display: block; text-align: justify;">Eihud didn't pull the sword out of Eglon to keep blood from splattering on his clothing. {<span style="color:rgb(255, 0, 0)">Source needed</span>}</span>
+2. <span style="display: block; text-align: justify;">Eihud kept a nonchalant demeanor as he was leaving. {<span style="color:rgb(255, 0, 0)">Source needed</span>}</span>
 ##### Delay in Checking on the King
 {<span style="color:rgb(255, 0, 0)">Need to come back to this</span>}
 

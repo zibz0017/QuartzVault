@@ -37,7 +37,7 @@ Or both:
 | Total               | 16                                    | 12                                    | 28    |
 (In the previous examples, the actual number and the ratio were given. This does not always have to be the case. At times, you may receive one or the other.)
 # Potential Mistakes
-1. Make sure that you are looking at the row/column to address the question.
+1. <span style="display: block; text-align: justify;">Make sure that you are looking at the row/column to address the question.</span>
    
    For example, what percentage of Yankees fans are men? And what percentage of men are Yankees fans?
    
@@ -45,7 +45,7 @@ Or both:
    
    It's not complicated, but it is easy to make mistakes.
    
-2. When only given only column or row ratios (and you aren't given total amounts), there are some questions you will not be able to answer from the data.
+2. <span style="display: block; text-align: justify;">When only given only column or row ratios (and you aren't given total amounts), there are some questions you will not be able to answer from the data.</span>
    
    In the following example, ratios are given for the columns:
 

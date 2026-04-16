@@ -1,118 +1,118 @@
 # Scattered Migrations to Israel (Late 1700s — mid-1800s)
 ## Early People Moving to Israel
-1. Around 300 Chassidish families made aliya in 1777.[^1]
-2. 400 talmidim of the גר"א made aliya in 1812.[^1]
+1. <span style="display: block; text-align: justify;">Around 300 Chassidish families made aliya in 1777.[^1]</span>
+2. <span style="display: block; text-align: justify;">400 talmidim of the גר"א made aliya in 1812.[^1]</span>
 ## State of Jews in Israel at the Time
-1. There were about 10,000 Jews living in Israel in the mid-1800s, Most of them lived in Jerusalem, but some lived in other cities.[^1]
-2. Some cities may have had a tradition of Jewish settlement since Roman times.[^1] [^2]
-3. Most of these Jews were immigrants from Poland and Lithuania.[^1]
-4. They largely survived on charity from their original communities.[^1]
+1. <span style="display: block; text-align: justify;">There were about 10,000 Jews living in Israel in the mid-1800s, Most of them lived in Jerusalem, but some lived in other cities.[^1]</span>
+2. <span style="display: block; text-align: justify;">Some cities may have had a tradition of Jewish settlement since Roman times.[^1] [^2]</span>
+3. <span style="display: block; text-align: justify;">Most of these Jews were immigrants from Poland and Lithuania.[^1]</span>
+4. <span style="display: block; text-align: justify;">They largely survived on charity from their original communities.[^1]</span>
 # Beginnings of Migration to Palestine (1850s - 1880s)
-1. In 1862, Moshe Hess wrote a book called Rome and Jerusalem, connecting Jewish "nationality" with Israel and Jerusalem.[^1]
-2. In 1870, Charles Natter founded an agricultural school in Israel.[^1]
+1. <span style="display: block; text-align: justify;">In 1862, Moshe Hess wrote a book called Rome and Jerusalem, connecting Jewish "nationality" with Israel and Jerusalem.[^1]</span>
+2. <span style="display: block; text-align: justify;">In 1870, Charles Natter founded an agricultural school in Israel.[^1]</span>
 ## Nationality of Emigrants
-1. Settlers were largely from Eastern Europe, such as Poland, Lithuania, Hungary, and Romania, Russia, and Arabic lands, such as Yemen.[^3] {<span style="color:rgb(255, 0, 0)">Most immigrants, or at least an outsized percentage, may have been from Russia. I would like to check this up.</span>}
+1. <span style="display: block; text-align: justify;">Settlers were largely from Eastern Europe, such as Poland, Lithuania, Hungary, and Romania, Russia, and Arabic lands, such as Yemen.[^3] {<span style="color:rgb(255, 0, 0)">Most immigrants, or at least an outsized percentage, may have been from Russia. I would like to check this up.</span>}</span>
 ## Jerusalem
-1. Many of the Jews immigrated to Jerusalem.[^3]
-2. The Jews were the majority of the population in Jerusalem since the 1850s.[^3]
-3. In 1889, there were about 25,000 Jews to 14,000 Arabs.[^3]
+1. <span style="display: block; text-align: justify;">Many of the Jews immigrated to Jerusalem.[^3]</span>
+2. <span style="display: block; text-align: justify;">The Jews were the majority of the population in Jerusalem since the 1850s.[^3]</span>
+3. <span style="display: block; text-align: justify;">In 1889, there were about 25,000 Jews to 14,000 Arabs.[^3]</span>
 ## Settlements
 ### Support
-1. Settlements were largely agrarian[^3] and relied on outside funding.[^4]
+1. <span style="display: block; text-align: justify;">Settlements were largely agrarian[^3] and relied on outside funding.[^4]</span>
 ### Hardships
 Settlers faced a collection of hardships such as:
-1. Lack of food due to a lack of agricultural knowledge[^1] and poor land {<span style="color:rgb(255, 0, 0)">need source</span>}.
-2. Harassment from nearby Arabs. For example, Arabs would sometimes graze their animals on the crops of the settlers.[^1]
+1. <span style="display: block; text-align: justify;">Lack of food due to a lack of agricultural knowledge[^1] and poor land {<span style="color:rgb(255, 0, 0)">need source</span>}.</span>
+2. <span style="display: block; text-align: justify;">Harassment from nearby Arabs. For example, Arabs would sometimes graze their animals on the crops of the settlers.[^1]</span>
    There were some individual cases of more extreme violence, like Jews in Petach Tikva who were attacked by local Arabs in 1886[^5] and אברהם Yalofsky who was killed by Arabs from a neighboring village in 1888.[^3]
-3. Malaria. Some settlements were able to overcome this issue by draining swamps and planting eucalyptus trees (which repel mosquitos).[^3]
+3. <span style="display: block; text-align: justify;">Malaria. Some settlements were able to overcome this issue by draining swamps and planting eucalyptus trees (which repel mosquitos).[^3]</span>
 ### First Settlements
-1. Rosh Pina and Petach Tikva were established in 1878 (and then reestablished in the early 1880s after being abandoned due to the [[#Hardships|usual hardships]]).[^1]
-2. They received outside funding until they were self sufficient by establishing farms to sell crops and draining swamps.[^1]
-3. The lands for Rosh Pina[^6] and Petach Tikva[^1] were purchased from their owners.
+1. <span style="display: block; text-align: justify;">Rosh Pina and Petach Tikva were established in 1878 (and then reestablished in the early 1880s after being abandoned due to the [[#Hardships|usual hardships]]).[^1]</span>
+2. <span style="display: block; text-align: justify;">They received outside funding until they were self sufficient by establishing farms to sell crops and draining swamps.[^1]</span>
+3. <span style="display: block; text-align: justify;">The lands for Rosh Pina[^6] and Petach Tikva[^1] were purchased from their owners.</span>
 ## Russia and the First Aliya
 ### Movements pre-Zionism
-1. Due to Russian pogroms, two Jewish Russian programs were formed in the early 80s: Bilu (which stand for בית יעקב לכו ונלכו) and Chovivei Tzion.[^1]
-2. Bilu was secular.[^1] {<font color="#ff0000">I don't know whether Chovivei Tzion was as well</font>}
+1. <span style="display: block; text-align: justify;">Due to Russian pogroms, two Jewish Russian programs were formed in the early 80s: Bilu (which stand for בית יעקב לכו ונלכו) and Chovivei Tzion.[^1]</span>
+2. <span style="display: block; text-align: justify;">Bilu was secular.[^1] {<font color="#ff0000">I don't know whether Chovivei Tzion was as well</font>}</span>
 ### The First Aliya
-1. Most Jews leaving Russia at this time went to the U.S., Britain, Western Europe, and South Africa. Less than 2% went to Palestine.[^1]
-2. Despite the small percentage, around 25,000 Jews emigrated to Israel between 1882 and 1903 (known as the First Aliya).[^1]
-3. This was largely supported by the Rothchilds and agriculture in Palestine.[^1]
+1. <span style="display: block; text-align: justify;">Most Jews leaving Russia at this time went to the U.S., Britain, Western Europe, and South Africa. Less than 2% went to Palestine.[^1]</span>
+2. <span style="display: block; text-align: justify;">Despite the small percentage, around 25,000 Jews emigrated to Israel between 1882 and 1903 (known as the First Aliya).[^1]</span>
+3. <span style="display: block; text-align: justify;">This was largely supported by the Rothchilds and agriculture in Palestine.[^1]</span>
 ### Notable Occurences
-1. ראשון לציון was established in 1882.[^1][^7]
-2. The poem of Hatikva was created during this time. It would be slightly adapted to be made into Israel's national anthem.[^1][^8]
+1. <span style="display: block; text-align: justify;">ראשון לציון was established in 1882.[^1][^7]</span>
+2. <span style="display: block; text-align: justify;">The poem of Hatikva was created during this time. It would be slightly adapted to be made into Israel's national anthem.[^1][^8]</span>
 ## Perspective of Jews in Eastern Europe on Palestinian Jews
-1. Most Jews outside of Palestine didn't know very much about the Jews in Palestine.[^3]
-2. Some incorrectly thought that the Jews in Palestine were religious.[^3]
+1. <span style="display: block; text-align: justify;">Most Jews outside of Palestine didn't know very much about the Jews in Palestine.[^3]</span>
+2. <span style="display: block; text-align: justify;">Some incorrectly thought that the Jews in Palestine were religious.[^3]</span>
 # Creation of Zionism
 ## Global Antisemitism
-1. This was one of the main drivers for the creation of Zionism.[^3] {<span style="color:rgb(255, 0, 0)">It probably was also a big catalyst for Jews moving to Palestine earlier than this. I would like some examples of antisemitism and a source before I put it in the [[#Beginnings of Migration to Palestine (1850s - 1880s)]] section</span>}
+1. <span style="display: block; text-align: justify;">This was one of the main drivers for the creation of Zionism.[^3] {<span style="color:rgb(255, 0, 0)">It probably was also a big catalyst for Jews moving to Palestine earlier than this. I would like some examples of antisemitism and a source before I put it in the [[#Beginnings of Migration to Palestine (1850s - 1880s)]] section</span>}</span>
 ### Examples
 #### The Dreyfus Affair
-1. A French army Captain named Alfred Dreyfus was convicted of treason for passing secrets on to Germany in 1894.[^9]
-2. However, the trial was an obvious sham and Dreyfus was only convicted because of antisemitism.[^10]
-3. Only after many years was he finally exonerated.[^11]
+1. <span style="display: block; text-align: justify;">A French army Captain named Alfred Dreyfus was convicted of treason for passing secrets on to Germany in 1894.[^9]</span>
+2. <span style="display: block; text-align: justify;">However, the trial was an obvious sham and Dreyfus was only convicted because of antisemitism.[^10]</span>
+3. <span style="display: block; text-align: justify;">Only after many years was he finally exonerated.[^11]</span>
 ### How to Deal with Antisemitism
-1. Jews dealt with antisemitism in a few ways:
-	1. Assimilate.[^3]
-	2. Push to create a socialist society where everyone is equal.[^3]
-	3. Create a Jewish state with a Jewish government.[^3]
-	4. (I don't think the frum people did any of these. I think they mostly shuttered themselves up, and then played politics and paid bribes and the like. {<span style="color:rgb(255, 0, 0)">Need source</span>})
+1. <span style="display: block; text-align: justify;">Jews dealt with antisemitism in a few ways:</span>
+	1. <span style="display: block; text-align: justify;">Assimilate.[^3]</span>
+	2. <span style="display: block; text-align: justify;">Push to create a socialist society where everyone is equal.[^3]</span>
+	3. <span style="display: block; text-align: justify;">Create a Jewish state with a Jewish government.[^3]</span>
+	4. <span style="display: block; text-align: justify;">(I don't think the frum people did any of these. I think they mostly shuttered themselves up, and then played politics and paid bribes and the like. {<span style="color:rgb(255, 0, 0)">Need source</span>})</span>
 ## Theodor Herzl
 ### Background
-1. Was originally a journalist.[^3]
-2. As mentioned before, he was largely inspired to create Zionism by the worldwide antisemitism. He was particularly affected by the antisemitism in Vienna, where he moved with his family and went to college.[^3]
+1. <span style="display: block; text-align: justify;">Was originally a journalist.[^3]</span>
+2. <span style="display: block; text-align: justify;">As mentioned before, he was largely inspired to create Zionism by the worldwide antisemitism. He was particularly affected by the antisemitism in Vienna, where he moved with his family and went to college.[^3]</span>
 ### Herzl's Theoretical Description of this State
-1. Democratic.[^3]
-2. Have "Jewish values".[^3] {<span style="color:rgb(255, 0, 0)">I don't know what exactly this means.</span>}
-3. Secular.[^3]
-4. Separation of church and state.[^3]
-5. The state would not be isolated (like the Jews in Europe were isolated in their little shtetls). They would be involved in society around them.[^3]
-6. This would end the Diaspora and make it impossible to happen again.[^3]
+1. <span style="display: block; text-align: justify;">Democratic.[^3]</span>
+2. <span style="display: block; text-align: justify;">Have "Jewish values".[^3] {<span style="color:rgb(255, 0, 0)">I don't know what exactly this means.</span>}</span>
+3. <span style="display: block; text-align: justify;">Secular.[^3]</span>
+4. <span style="display: block; text-align: justify;">Separation of church and state.[^3]</span>
+5. <span style="display: block; text-align: justify;">The state would not be isolated (like the Jews in Europe were isolated in their little shtetls). They would be involved in society around them.[^3]</span>
+6. <span style="display: block; text-align: justify;">This would end the Diaspora and make it impossible to happen again.[^3]</span>
 ### Spreading the Idea
-1. Herzl went around Europe in 1996, spreading his ideas.[^3]
-2. The non-frum Jewish masses were largely acceptant to his ideas.[^3]
-3. However, the rich and the powerful (such as Grand Duke Vladimir of Russia (uncle of the Tsar) and Baron Rothchild, had lukewarm reactions.[^3]
-4. Also, frum Jews were against Herzl. They felt that the ingathering of the Jews from galus would only happen with the coming of mashiach.[^3]
-5. Even amongst the non-frum, some were concerned about the idea of creating a separate Jewish state. They thought that Jews should try to be successful in their current homelands.[^3]
-6. Immigrants and prospective immigrants were also against the idea. They thought that a more slow and steady, settlement by settlement approach was the way to go. A state was too grandiose and would receive too much opposition from the Arabs and the Turks.[^3]
+1. <span style="display: block; text-align: justify;">Herzl went around Europe in 1996, spreading his ideas.[^3]</span>
+2. <span style="display: block; text-align: justify;">The non-frum Jewish masses were largely acceptant to his ideas.[^3]</span>
+3. <span style="display: block; text-align: justify;">However, the rich and the powerful (such as Grand Duke Vladimir of Russia (uncle of the Tsar) and Baron Rothchild, had lukewarm reactions.[^3]</span>
+4. <span style="display: block; text-align: justify;">Also, frum Jews were against Herzl. They felt that the ingathering of the Jews from galus would only happen with the coming of mashiach.[^3]</span>
+5. <span style="display: block; text-align: justify;">Even amongst the non-frum, some were concerned about the idea of creating a separate Jewish state. They thought that Jews should try to be successful in their current homelands.[^3]</span>
+6. <span style="display: block; text-align: justify;">Immigrants and prospective immigrants were also against the idea. They thought that a more slow and steady, settlement by settlement approach was the way to go. A state was too grandiose and would receive too much opposition from the Arabs and the Turks.[^3]</span>
 7. <span style="display: block; text-align: justify;">Throngs gathered to see Herzl when he traveled around Europe in 1903.[^12]</span>
 ### Writings
-1. In 1896, Herzl wrote *The Jewish State* where he wrote about his goals, description, and the creation of a Jewish State.[^3]
+1. <span style="display: block; text-align: justify;">In 1896, Herzl wrote *The Jewish State* where he wrote about his goals, description, and the creation of a Jewish State.[^3]</span>
 # Early Organizations
 ## Zionist Organizations
 ### World Zionist Organization
-1. Created in 1896. This was the in the age of "isms" (socialism, communism, etc. People were dreaming about and trying to create utopian societies.) As such, Zionism fit right in.[^3]
-2. Led by the World Zionist Congress, established in 1897.[^13] Delegates were from many countries, but disproportionately Russian.[^14]
-3. Quickly increased in popularity.[^15]
+1. <span style="display: block; text-align: justify;">Created in 1896. This was the in the age of "isms" (socialism, communism, etc. People were dreaming about and trying to create utopian societies.) As such, Zionism fit right in.[^3]</span>
+2. <span style="display: block; text-align: justify;">Led by the World Zionist Congress, established in 1897.[^13] Delegates were from many countries, but disproportionately Russian.[^14]</span>
+3. <span style="display: block; text-align: justify;">Quickly increased in popularity.[^15]</span>
 #### Goals and Methods
-1. Have Jews to return to Palestine.[^3]
-2. Jews would create their own society with their own government there.[^3] It would be an internationally recognized, Jewish homeland.
-3. Create and spread a Jewish national identity.[^3]
-4. The land would be systematically settled, and acceptance amongst the international Jewish population and international government leaders were vital.[^14]
-5. The "Arab Problem" was ignored.[^15]
-6. Education was stressed. This made a big impact with the Russians as they were very limited in Russia.[^15]
+1. <span style="display: block; text-align: justify;">Have Jews to return to Palestine.[^3]</span>
+2. <span style="display: block; text-align: justify;">Jews would create their own society with their own government there.[^3] It would be an internationally recognized, Jewish homeland.</span>
+3. <span style="display: block; text-align: justify;">Create and spread a Jewish national identity.[^3]</span>
+4. <span style="display: block; text-align: justify;">The land would be systematically settled, and acceptance amongst the international Jewish population and international government leaders were vital.[^14]</span>
+5. <span style="display: block; text-align: justify;">The "Arab Problem" was ignored.[^15]</span>
+6. <span style="display: block; text-align: justify;">Education was stressed. This made a big impact with the Russians as they were very limited in Russia.[^15]</span>
 ### Jewish Colonial Trust (JCT) and Jewish National Fund (JNF)
-1. These organizations were established in the late 90s and early 00s.[^15]
-2. Gave money to Jews settling in Palestine and Syria to help them start settlements.[^15]
-3. {<span style="color:rgb(255, 0, 0)">I am not sure what the exact difference is</span>}
+1. <span style="display: block; text-align: justify;">These organizations were established in the late 90s and early 00s.[^15]</span>
+2. <span style="display: block; text-align: justify;">Gave money to Jews settling in Palestine and Syria to help them start settlements.[^15]</span>
+3. <span style="display: block; text-align: justify;">{<span style="color:rgb(255, 0, 0)">I am not sure what the exact difference is</span>}</span>
 ### Support
-1. Kaiser Wilhelm II of Germany refused to give much support.[^15]
+1. <span style="display: block; text-align: justify;">Kaiser Wilhelm II of Germany refused to give much support.[^15]</span>
 ## Hovevei Zion
-1. Founded in early 1880s.[^16]
-2. Wanted to establish Palestine as spiritual center in Jerusalem, not a political one.[^14] (I don't know how religious. I don't believe it was particularly religious.)
-3. A person called Achad Haam was a major player in Hovevei Tzion.[^15]
+1. <span style="display: block; text-align: justify;">Founded in early 1880s.[^16]</span>
+2. <span style="display: block; text-align: justify;">Wanted to establish Palestine as spiritual center in Jerusalem, not a political one.[^14] (I don't know how religious. I don't believe it was particularly religious.)</span>
+3. <span style="display: block; text-align: justify;">A person called Achad Haam was a major player in Hovevei Tzion.[^15]</span>
 ## The Bund
-1. Started in Russia because of the strong antisemitism there (such as pogroms) and quickly became popular.[^15]
+1. <span style="display: block; text-align: justify;">Started in Russia because of the strong antisemitism there (such as pogroms) and quickly became popular.[^15]</span>
 # Hebrew Language
-1. in 1889, a committee came together to modernize and organize Hebrew for daily use.[^3]
-2. Started gaining popularity in the late 90s. People started adopting it.
+1. <span style="display: block; text-align: justify;">in 1889, a committee came together to modernize and organize Hebrew for daily use.[^3]</span>
+2. <span style="display: block; text-align: justify;">Started gaining popularity in the late 90s. People started adopting it.</span>
 # 1890s-WWI
-1. Baron Maurice de Hirsh founded Jewish Colonization Association in 1896. It founded settlements in Palestine, and other countries.[^14]
+1. <span style="display: block; text-align: justify;">Baron Maurice de Hirsh founded Jewish Colonization Association in 1896. It founded settlements in Palestine, and other countries.[^14]</span>
 ## Continued Antisemitism
-1. In 1899, The Foundation of the 19th Century and The Talmud Jew, were published in Germany and Cairo, respectively. Both were majorly antisemitic works. They claimed that the cohesion of the Jewish people "proved" that there was a "Jewish conspiracy".[^15]
-2. A pogrom in Kishinev (in Russia, at the time) in April 1903 killed over 40 Jews and destroyed around 1500 Jewish homes.[^12]
+1. <span style="display: block; text-align: justify;">In 1899, The Foundation of the 19th Century and The Talmud Jew, were published in Germany and Cairo, respectively. Both were majorly antisemitic works. They claimed that the cohesion of the Jewish people "proved" that there was a "Jewish conspiracy".[^15]</span>
+2. <span style="display: block; text-align: justify;">A pogrom in Kishinev (in Russia, at the time) in April 1903 killed over 40 Jews and destroyed around 1500 Jewish homes.[^12]</span>
 ## Population in Palestine
-1. The Jews were still considerably in the minority in Palestine at this time.[^15]
+1. <span style="display: block; text-align: justify;">The Jews were still considerably in the minority in Palestine at this time.[^15]</span>
 ## Uganda Scheme
 1. <span style="display: block; text-align: justify;">In 1903, Britain offered the Zionists a home in Uganda.[^12]</span>
 2. <span style="display: block; text-align: justify;">Herzl was in favor of this idea as a temporary place until Palestine could be secured. Many other Zionist leaders were against settling for anything other than Palestine.[^12]</span>

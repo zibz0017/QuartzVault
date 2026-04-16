@@ -1,8 +1,8 @@
 # Description
-1. SPXU tracks the S&P 500 and is a [[Leveraged ETFs#Reverse Leveraged ETFs|3x reverse ETF]].
+1. <span style="display: block; text-align: justify;">SPXU tracks the S&P 500 and is a [[Leveraged ETFs#Reverse Leveraged ETFs|3x reverse ETF]].</span>
 # Accurate Tracking
-1. Based off of the data in the table, it seems that SPXU largely tracks the S&P 500 accurately (meaning it gives you around a -3x return daily).
-2. It is slightly off but as can be seen from the table, the error is slightly in favor of someone shorting the ETF.
+1. <span style="display: block; text-align: justify;">Based off of the data in the table, it seems that SPXU largely tracks the S&P 500 accurately (meaning it gives you around a -3x return daily).</span>
+2. <span style="display: block; text-align: justify;">It is slightly off but as can be seen from the table, the error is slightly in favor of someone shorting the ETF.</span>
 # Table
 This table contains prices for the S&P 500 and SPXU from 10/26/22 through 8/7/24
 ## Explanation of columns

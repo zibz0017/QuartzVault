@@ -9,12 +9,12 @@
 <span style="display: block; text-align: justify;">However, this gets us the amount of *permutations*, not that amount of *combinations*.</span>
 <span style="display: block; text-align: justify;">We need to find out how many different permutations there are for every unique group selected and divide by that amount.</span>
 <span style="display: block; text-align: justify;">So going back to the example, let's say I selected A, B, and C. When I calculate permutations, I need to figure out how many different ways I have of lining this group up. I can order them as:</span>
-1. A, B, C
-2. A, C, B
-3. B, A, C
-4. B, C, A
-5. C, A, B
-6. C, B, A
+1. <span style="display: block; text-align: justify;">A, B, C</span>
+2. <span style="display: block; text-align: justify;">A, C, B</span>
+3. <span style="display: block; text-align: justify;">B, A, C</span>
+4. <span style="display: block; text-align: justify;">B, C, A</span>
+5. <span style="display: block; text-align: justify;">C, A, B</span>
+6. <span style="display: block; text-align: justify;">C, B, A</span>
 <span style="display: block; text-align: justify;">When it comes to permutations, these all count as permutations. When it comes to combinations, these all count as 1. For every group of 3 letters that I choose, I will have only 1 combination (because the only thing that matters is the letters I chose, not the order I put them in) and I will have 6 combinations, as shown above.</span>
 <span style="display: block; text-align: justify;">But we don't need to write out all of the different permutations to be able to know how many different permutations there are. We can [[Permutations#If Every Item Must be Used|calculate]] it using $n!$. In this case, since we have 3 things, it is $3!$, which is 6.</span>
 <span style="display: block; text-align: justify;">This is how we calculate combinations: First we start with the permutations formula. We then divide by the amount of permutations that can be made with the group of items that we selected.</span>

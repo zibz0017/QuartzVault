@@ -1,1 +1,1 @@
-1. [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
+1. <span style="display: block; text-align: justify;">[Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)</span>

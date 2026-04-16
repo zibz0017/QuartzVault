@@ -5,12 +5,12 @@ This can be viewed as a for loop (in programming). This means that we calculate 
 We then take all of those values and add them together.
 
 ## Steps
-1. Calculate the term with i having the value of NumberOnBottom.
-2. Calculate the term with i having the value of NumberOnBottom+1.
-3. Calculate the term with i having the value of NumberOnBottom+2.
-4. Calculate the term…
-5. Calculate the term with i having the value of NumberOnTop.
-6. Add all of these numbers together.
+1. <span style="display: block; text-align: justify;">Calculate the term with i having the value of NumberOnBottom.</span>
+2. <span style="display: block; text-align: justify;">Calculate the term with i having the value of NumberOnBottom+1.</span>
+3. <span style="display: block; text-align: justify;">Calculate the term with i having the value of NumberOnBottom+2.</span>
+4. <span style="display: block; text-align: justify;">Calculate the term…</span>
+5. <span style="display: block; text-align: justify;">Calculate the term with i having the value of NumberOnTop.</span>
+6. <span style="display: block; text-align: justify;">Add all of these numbers together.</span>
 ## Example 1
 $$\sum^{5}_{i=1}i$$
 In the first pass, i=1, so the term (which is just i) equals 1. In the second, i=2, so the term equals 2. Then i=3, so the term equals 3, then i=4 so the term equals 4, and i=5, so the term equals 5.

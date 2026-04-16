@@ -59,14 +59,14 @@ $$1-\frac{1}{6} \Rightarrow \frac{5}{6}$$
 <span style="display: block; text-align: justify;">The probability of flipping at least one heads in 3 coinflips can be calculated as follows:</span>
 ### Trying the "Wrong" Way
 <span style="display: block; text-align: justify;">We need to add the probabilities of all of the different possible ways that there can be at least 1 heads in 3 coin flips together. All of the different possibilities are:</span>
-1. HHH
-2. HHT
-3. HTH
-4. HTT
-5. THH
-6. THT
-7. TTH
-8. TTT
+1. <span style="display: block; text-align: justify;">HHH</span>
+2. <span style="display: block; text-align: justify;">HHT</span>
+3. <span style="display: block; text-align: justify;">HTH</span>
+4. <span style="display: block; text-align: justify;">HTT</span>
+5. <span style="display: block; text-align: justify;">THH</span>
+6. <span style="display: block; text-align: justify;">THT</span>
+7. <span style="display: block; text-align: justify;">TTH</span>
+8. <span style="display: block; text-align: justify;">TTT</span>
 <span style="display: block; text-align: justify;">Out of this list, the first 7 contain at least one heads. As such, this is 7/8 chance of flipping at least 1 head in 3 coin flips.</span>
 ### Trying the "Right" Way
 <span style="display: block; text-align: justify;">The only way it can be that there are no heads is if there are only tails. To accomplish this, we need to flip a tails, and then another tails, and then another tails. If we take this and subtract it from 1. The way to calculate the probability of this is by multiplying the odds of each event together, as [[#Independent Events|discussed]].</span>
