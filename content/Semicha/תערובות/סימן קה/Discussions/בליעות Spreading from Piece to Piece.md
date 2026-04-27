@@ -1,4 +1,4 @@
-*Presented by מחבר סעיף ז, ט, הג"ה סעיף ז, ט"ז ס"ק יג, יד, כב, ש"ך ס"ק יג, יט-כא, כח, נקודות הכסף על ט"ז ס"ק כב, פרי מגדים משבצות זהב ס"ק כב*
+*Presented by מחבר סעיף ז, ט, הג"ה סעיף ז, ט"ז ס"ק יג, יד, כב, ש"ך ס"ק יג, יט-כא, כז, כח, לח, נקודות הכסף על ט"ז ס"ק כב, פרי מגדים משבצות זהב ס"ק כב*
 
 *Note: In the following context, when we refer to "roasting", we mean that the bottom piece is hot, or, if the pieces are side-by-side, both are hot. If the top one is hot and the bottom is not, according to the ש"ך, no בליעות transfer at all.*
 # &lrm;איסור is Fatty
@@ -14,7 +14,7 @@
 #### &lrm;נקודות הכסף
 1. <span style="display: block; text-align: justify;">The הלכות are actually the same. The מחבר is being מחמיר in both cases. In each סעיף he only writes one aspect of the חומרא.</span>
 #### &lrm;פרי חדש, מנחת כהן
-1. <span style="display: block; text-align: justify;">The הלכות are not the same.</span>
+1. <span style="display: block; text-align: justify;">The הלכות are not the same. (They disagree with the ט"ז's assumption that salting and roasting have the same הלכות.)</span>
 ## &lrm;הלכה למעשה Applications
 ### Basic Case
 1. <span style="display: block; text-align: justify;">One אסור piece of meat and numerous מותר pieces of meat are in one vat. Some of the מותר pieces are touching the אסור piece and other מותר pieces are touching these מותר pieces that are touching the אסור piece.</span>
@@ -37,7 +37,7 @@
 1. <span style="display: block; text-align: justify;">There is discussion about whether the whole מותר piece becomes איסור and whether that מותר piece can אסור the next piece.</span>
 ## Piece Itself
 ### Roasting
-1. <span style="display: block; text-align: justify;">מחבר: The מותר piece becomes entirely אסור because the fat goes into the אסור piece and mixes with the אסור בליעות and then brings them back into the אסור piece.</span>
+1. <span style="display: block; text-align: justify;">מחבר: The מותר piece becomes entirely אסור because the fat goes into the אסור piece and mixes with the אסור בליעות and then brings them back into the מותר piece.</span>
 2. <span style="display: block; text-align: justify;">רמ"א (own שיטה that all meat is treated as fatty): The אסור piece is viewed as fatty and so it spreads through the התר.</span>
 3. <span style="display: block; text-align: justify;">דרכי משה (in the שיטה that we don't treat all meat as fatty): If the איסור is חֵלֶב כחוש, this is a "middle level" of fat and so even though it doesn't have the strength to spread through the התר on its own, if the התר is fatty, that can assist it in spreading the התר through.
    If it is regular כחוש, the בליעות will not spread through the whole piece.</span>
@@ -47,4 +47,4 @@
 ## &lrm;אסור the next Piece
 1. <span style="display: block; text-align: justify;">רמ"א (in his own שיטה that that we say חנ"ן by שאר איסורים): Because we say חנ"ן by שאר איסורים, the piece itself turns into איסור and so it can אסור the next piece.</span>
 2. <span style="display: block; text-align: justify;">מחבר (in his own שיטה that we don't say חנ"ן by שאר איסורים): The מחבר is unsure about whether the בליעות would spread from that מותר piece. We say that the fat from the מותר food can bring the אסור בליעות through the whole מותר food so perhaps we view these אסור בליעות as fatty now and so it will be able to travel to the next piece.</span>
-3. <span style="display: block; text-align: justify;">ש"ך (in the שיטה of the מחבר that we don't say חנ"ן by שאר איסורים): Even though the fat from the מותר piece can bring the בליעות from the אסור food through the whole מותר food. The fat from the מותר food can get the אסור בליעות directly from the אסור food to travel through the מותר food, but once these בליעות are in the מותר food, the fat doesn't have the potency to get them to go farther.</span>
+3. <span style="display: block; text-align: justify;">ש"ך (in the שיטה of the מחבר that we don't say חנ"ן by שאר איסורים): Even though the fat from the מותר piece can bring the בליעות from the אסור food through the whole מותר food, once these בליעות are in the מותר food, the fat doesn't have the potency to get them to go farther.</span>

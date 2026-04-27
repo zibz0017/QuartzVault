@@ -3,7 +3,7 @@
 1. <span style="display: block; text-align: justify;">בב״ח is technically an איסור בלוע (by definition, it is meat/dairy that swallowed its opposite).</span>
 2. <span style="display: block; text-align: justify;">However, we still consider בב״ח to be איסור itself.</span>
 3. <span style="display: block; text-align: justify;">This is because they are both מותר on their own, and they sort of "combine together" to become אסור.</span>
-4. <span style="display: block; text-align: justify;">It should be noted that this is not the same as חנ"ן. According to the רמ"א,&lrm; חנ"ן applies by all איסורים and yet, the רמ"א agrees that איסור absorbed into התר is not considered a חתיכה הראויה להתכבד.</span>
+4. <span style="display: block; text-align: justify;">It should be noted that we are not saying that anything that becomes חנ"ן is considered to be איסור מחמת עצמו. According to the רמ"א,&lrm; חנ"ן applies by all איסורים and yet, the רמ"א agrees that איסור absorbed into התר is not considered a חתיכה הראויה להתכבד.</span>
 # Something Normally Served as Small Pieces
 *Presented by ט"ז ס"ק י, נקודות הכסף על ט"ז ס"ק י, פרי מגדים משבצות זהב על ט"ז ס"ק י*
 1. <span style="display: block; text-align: justify;">Some foods are served to חשוב people but are only served in groups of small pieces (the example given is strips of fried goose fat).</span>

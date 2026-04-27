@@ -335,4 +335,5 @@ $$\frac{\sigma^2}{n}$$
 The greater the sample size, the more $n$ increases, so the smaller the value of the fraction is. This means that the values cluster around the mean more, as discussed [[#Definition|here]] and [[#^a626ed|here]].
 ### Standard Deviation
 The standard deviation is just the square root of the variance. As such, that is:
+
 $$\sqrt{\frac{\sigma^2}{n}} \Rightarrow \frac{\sqrt{\sigma^2}}{\sqrt{n}} = \boxed{\frac{\sigma}{\sqrt{n}}}$$

@@ -832,7 +832,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 	3. <span style="display: block; text-align: justify;">Control: Some of the Feds policies rely on other participants. For example, when the Fed would perform expansionary open market operations to add more money to the economy, this assumes that the banks that received the money are going to lend it out and not keep it in their reserves. However, they may decide to do that, which would keep the money supply from increasing.[^225]</span>
 - If the economy is going through a temporary dip in Aggregate Demand (the AD curve shifts to the left) {<span style="color:rgb(255, 0, 0)">add link</span>}, the Fed can try to increase the money supply to stimulate the economy. If the Fed undershoots, this will increase productivity somewhat, but the economy will not be back to the level it once was. If the Fed overshoots, this is going to cause high inflation in the long run. To get rid of the incflation, this can cause a temporary drop in GDP which leads to a recession.[^225]
 - This may have happened in the 70s and 80s. The Fed stimulated the economy, but by the end of the 70s, there was runaway inflation. In the early 80s, inflation was lowered, but there was a recession. Unemployment was high.[^225]
-- A תלמיד has to follow his rebbi (and the גדולים of earlier generations) in terms oh how to weigh svaros, as well as when it comes to paskening shailos as well. There is a 'גמ on שבת 21b where a certain הלכה was said to Abaye in the name of Rav Yirmiya and Abaye did not agree. When the same הלכה was said to Abaye in the name of Rav Yochanan, Abaye did acept the pssak. We see an example where of an amora thinking a certain way about a certain issue, but willing to disregard his opinion when he found out that someone great disagreed with him.[^226]
+- A תלמיד has to follow his rebbi (and the גדולים of earlier generations) in terms oh how to weigh סברות, as well as when it comes to paskening shailos as well. There is a 'גמ on שבת 21b where a certain הלכה was said to Abaye in the name of Rav Yirmiya and Abaye did not agree. When the same הלכה was said to Abaye in the name of Rav Yochanan, Abaye did acept the pssak. We see an example where of an amora thinking a certain way about a certain issue, but willing to disregard his opinion when he found out that someone great disagreed with him.[^226]
 - This is only when a תלמיד can understand where his rebbi is coming from. However, when a תלמיד has no understanding of what his rebbi is saying, even after putting the proper effort to understand him, the תלמיד should follow his own דעת. (This is assuming that the תלמיד has attained a certain level of competency.)[^227]
 - As such, a תלמיד has to think hard about whether he can hear where is rebbi is coming from or not.[^227]
 - We see this in Rabbi Akiva Eiger, for example. At times, he will write a piece going one way about an issue, but then conclude אבל מה אעשה שהרי עומדים כנגדי דברי" מהרש"א" and follow the opinion of the מהרש"א. At other times, he will conclude a piece with "צ"ע" about a certain opinion that is against his own and not follow that opinion even regarding opinions of ראשונים. Clearly Rabbi Akiva Eiger was going through this deliberation and so when he can hear where the person from the earlier generation is coming from, he will be willing to disregard his own opinion and when he can not understand, he will be willing to disregard it.[^227]
@@ -1038,7 +1038,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - Rav Dovid was extremely patient with his talmidim. The "harshest" language he would use was "forgive me, but we can't just stay stuck on this one point".[^262]
 - Even when the other talmidim were growing impatient, Rav Dovid would not desist from trying to explain the חשבון to this תלמיד.&lrm;[^262]
 - If explaining it numerous times didn't help the תלמיד, Rav Dovid would try other things to try to get the תלמיד to understand. (I don't know what is meant by this.)[^263]
-- When Rav Dovid would give tochacha, he would do it in a respectful way. He would tell the תלמיד "doing such is think is proper for a חשוב ben תורה like yourself."[^263]
+- When Rav Dovid would give תוכחה, he would do it in a respectful way. He would tell the תלמיד "doing such is think is proper for a חשוב ben תורה like yourself."[^263]
 - (There is a quote here[^263] from Rav Pam but I am having a hard time reading it.)
 - Many Jews immigrated illegally to Palestine during WWII, despite effort from the British to stop it. Britain spoke to some foreign governments which were helping the Jews and tried to get them to stop.[^264]
 - Jews in Palestine kept building new settlements in Palestine in 1940.[^264]
@@ -1303,7 +1303,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - If people get better at producing one thing, this benefits society as a whole because now it is worth it for people who produce that good to trade more of that good for other goods.[^307]
 - (Specialization and comparative advantage are closely related topics. Specialization makes one good at producing something. This leads to comparative advantages.[^308])
 - The Livush מרדכי there further says that the only way one can understand the words of the ראשונים is with tremendous pilpul with talmidim.[^309] {<span style="color:rgb(255, 0, 0)">I am not sure why this can't be done with chaveirim.</span>}
-- This pilpul has to be focused on trying to understand the underlying svaros of the ראשונים. It can't be focused on trying to say some big חידוש. This type of pilpul (meaning, the pilpul trying to understand the words of the ראשונים) is what we see in the Ketzos and the Nesivos.[^309]
+- This pilpul has to be focused on trying to understand the underlying סברות of the ראשונים. It can't be focused on trying to say some big חידוש. This type of pilpul (meaning, the pilpul trying to understand the words of the ראשונים) is what we see in the Ketzos and the Nesivos.[^309]
 - Mishlei 12:8, as explained by רבינו Yonah, talks about how a person who hears the truth but refuses to recognize it is scorned. This indicates that even such a person has the potential to straighten himself and see the truth (why would this person be scorned for something beyond his abilities?)[^310] {<span style="color:rgb(255, 0, 0)">I don't know how high of a level of yashrus this person can reach based on this פסוק. However, since the פסוק isn't clear, it would seem to be read that such a person is scorned in most situations that they refuse to recognize the truth. This would imply that a person has great potential to see truth.</span>}
 - A similar point was expressed by Rav Chaim Brisker. A תלמיד asked Rav Chaim why it was particularly necessary for a תלמיד to have a rebbi once they reached the point that they could read and understand the Ketzos, Nesivos, Rabbi Akiva Eiger, and similar sfarim? The תלמיד could just learn those.[^310]
 - Rav Chaim answered that the rebbi is needed to teach the תלמיד yashrus in סברא. The only way this can be taught is through back and forth. Simply reading the Ketzos or similar sfarim will not get you this yashrus.[^310]
@@ -1544,14 +1544,14 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - To clarify, the middah of emes is about emes for its own sake, not just about avoiding doing an עבירה (as that is what yirah is). A person with the middah of emes will even be careful about not doing עבירות by mistake because that would be the result of a distortion of the truth.[^355]
 - See אור ישראל maamar 29, the end of chapter 5 earlier in this ספר and אמונה ובטחון Chapter 3 Os 30.[^356]
 - The רלב"ג in Parsha יתרו discusses how a judge needs to have a love for truth so they can judge honestly.[^357]
-- Tochacha:
-- A person needs to be able to accept tochacha.[^358]
-- רבינו בחיי (beginning of פרשת שמות) says that the תורה is entirely tochacha.[^358]
-- This seems difficult to understand as it appears that much of the תורה is not tochacha. There are many parts of the תורה that do not talk about אסורים at all.[^358]
+- תוכחה:
+- A person needs to be able to accept תוכחה358]
+- רבינו בחיי (beginning of פרשת שמות) says that the תורה is entirely תוכחה.[^358]
+- This seems difficult to understand as it appears that much of the תורה is not תוכחה. There are many parts of the תורה that do not talk about אסורים at all.[^358]
 - It appears that this means that the תורה is full of wisdom that is actually beyond human comprehension and it is only because Hashem bestows upon us understanding that we are able to understand it.[^358]
 - A person who is not willing to accept the wisdom of the תורה and straighten his דעת along the yashrus dictated by the תורה will end up arguing on the תורה itself.[^358]
 - See אור ישראל Igeres 4 (mentioned before) that discusses this same point.[^358]
-- {<span style="color:rgb(255, 0, 0)">To me this seems more along the lines of anivus, or the ability to admit that your wrong. Well, I guess that is what tochacha is.</span>}
+- {<span style="color:rgb(255, 0, 0)">To me this seems more along the lines of anivus, or the ability to admit that your wrong. Well, I guess that is what תוכחה is.</span>}
 - Perfectionism:
 - Start out with the usual writing down the pros and cons of being a perfectionist.
 - A perfectionist may feel that they can't enjoy some accomplishment unless it is perfect.[^359]
@@ -1894,7 +1894,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - On June 20 and 21, Ben-Gurion decided to force the Irgun volunteers to capitulate using the army. The army fired on the boat. The boat was sunk, but the Irgun members survived. They were pardoned for their insubordination and were accepted into the army.[^441]
 - During the truce, the UN mediator Count Bernadotte, tried to create a new partition with the Arabs getting most of the Negev and the Jews getting the Galilee. Jerusalem would go to the Arabs and the Jews in the city would have autonomy under the Arabs.[^441]
 - Both sides rejected this partition.[^441]
-- Anava is not only important for a rebbi when giving over tochacha. It is important whenever a rebbi is teaching anything.[^442]
+- Anava is not only important for a rebbi when giving over תוכחה. It is important whenever a rebbi is teaching anything.[^442]
 - This means that a rebbi needs to can't be מקפיד on his כבוד if a תלמיד acts out of line.[^442]
 - A rebbi needs to develop his middah of anava to make sure that in these situations, he won't respond incorrectly.[^442]
 - The רמב"ן&lrm;[^443] says that when ראובן "slept" with Bilha, יעקב did not kick ראובן out from being counted from amongst the shevatim because of his anivus.[^442]
@@ -3020,8 +3020,8 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - Rabin was challenged within his own party by Peres, but Rabin slightly beat him out.[^632]
 - There was much dislike between the two for many years, until they would eventually make up.[^632]
 - There was still strong sentiment against the Labor Party because of the failings of the Yom Kippur War, as well as some financial scandals by Labor members of the government. In addition, the NRP joined the right. They felt that the left didn't care about religion enough.[^632]
-- Hashem gave משה תורה Shebiksav, תורה Shebaal Peh, Neviim, Kesuvim,[^633] תרגום,&lrm;[^634]  and Kri Uksiv[^635] and everything was passed through the generations.
-- Neviim and Kesuvim were not allowed to be written down until the time came. The neviim of those times wrote them down with ruach hakodesh.[^636] {<span style="color:rgb(255, 0, 0)">Was this not passed down to the masses? How did כלל ישראל ever do chataim if they already knew the neviim? Also, why did they need to be written with ruach hakodesh? Why couldn't they just have been written as they had been passed down?</span>}
+- Hashem gave משה תורה Shebiksav, תורה Shebaal Peh, נביאים, Kesuvim,[^633] תרגום,&lrm;[^634]  and Kri Uksiv[^635] and everything was passed through the generations.
+- נביאים and Kesuvim were not allowed to be written down until the time came. The נביאים of those times wrote them down with רוח הקודש.[^636] {<span style="color:rgb(255, 0, 0)">Was this not passed down to the masses? How did כלל ישראל ever do chataim if they already knew the נביאים? Also, why did they need to be written with רוח הקודש? Why couldn't they just have been written as they had been passed down?</span>}
 - תרגום was forgotten and then rediscovered.[^634]
 - In February 1977, Rabin and Sadat were both keen on making peace.[^637]
 - In March, Rabin met with newly-elected President Jimmy Carter. Rabin was fine giving back nearly all of the Sinai for peace with Egypt. He just wanted a drop of Israeli control near the Straights of Tiran. (He was fine giving back Sharm El-Sheik.) He was not okay giving up the Golan Heights. He was okay with significant withdrawals from the West Bank, but not back to pre-1967 borders. He was also not okay with a purely Palestinian state (he was okay if they would be under Jordan.)[^637]
@@ -3125,7 +3125,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - חז"ל made safeguards around the מצוות to make sure that we don't come to accidentally violate them.[^649]
 - (Brings down ברכות 5a that the whole תורה, Shebaal Peh, Shebiksav, etc. were given at הר Sinai, as brought down in רבינו Yonah)[^650]
 - Hashem gave over the תורה to משה with the machlokesim that are in the 'גמ ("Elazar, my son, said this, and יהושע my son said that"). This is a definition of Eilu vaeilu divrei אלקים חיים (namely, that both sides of a מחלוקת were given over at הר Sinai).[^651]
-- (Neviim and Kesuvim were given to משה but were not to be written down until later using ruach hakodesh, and that is why they are called Divrei Kabalah (as they came down from משה) as רבינו Yonah said.)[^650]
+- (נביאים and Kesuvim were given to משה but were not to be written down until later using רוח הקודש, and that is why they are called Divrei Kabalah (as they came down from משה) as רבינו Yonah said.)[^650]
 - (תרגום was also given, forgotten, and rediscovered, as רבינו Yonah said.)[^650]
 - (There is a discussion about the mesorah of trop and nikudos, but I don't understand what he is saying.)[^650]
 - In September, the US released the Reagan Plan, which called for Palestinian self-governance of the West Bank and Gaza. Begin refused as he did not want to give up control of the West Bank.[^652]
@@ -3375,7 +3375,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - Peres set up specific crossing points for vehicles traveling from the West Bank and Gaza into Israel and told Arafat that he better tighten up control of Hamas.[^690]
 - The PA allowed solidarity meetings in Gaza for the death of Yahya Ayyash and Arafat consoled his parents. This did not go over well with Israel.[^690]
 - Despite the death of Rabin, Peres still went through with the agreement and withdrew Israeli troops from Area A except for Hebron and the whole Area B.[^690]
-- Tanaim overlapped with the last of the neviim. Rebbi Dosa בן Hurkinus[^691] and Rebbi Tzadok[^692] discussed where Chagai sat when giving over certain הלכות. Rebbi Dosa lived after the churban at the times of Rebbi עקיבא&lrm;[^691] [^693] and Rebbi Tzadok lived during the churban.[^694] (It seems that Chagai lived a very long life.)
+- Tanaim overlapped with the last of the נביאים. Rebbi Dosa בן Hurkinus[^691] and Rebbi Tzadok[^692] discussed where Chagai sat when giving over certain הלכות. Rebbi Dosa lived after the churban at the times of Rebbi עקיבא&lrm;[^691] [^693] and Rebbi Tzadok lived during the churban.[^694] (It seems that Chagai lived a very long life.)
 - Israel, Egypt, the US, and many others, had a meeting in Sharm El-Sheik, about how to stop terrorism.[^695]
 - By this time, 100 Israelis had been killed and 500 injured in terror attacks.[^695]
 - Libya and Iran were the large backers of terrorism.[^695]
@@ -3654,7 +3654,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - Method 1:
 - There were 5 leader between the Shimon Hatzadik (the last of the Anshei kneses hagidolah) and when Hillel began leading the people (he was the 6th).[^758]
 - Hillel began his leadership 100 years before the destruction of the בית Hamikdash.[^759]
-- The Anshei Kneses Hagidolah were only around for a short time at the beginning of the בית Hamikdash. This is discussed in the ראשונים,&lrm;[^760][^761] and implied from the fact that the Zugos (which came after the Anshei Kneses Hagidolah) received a tradition from the neviim (who came before the Anshei Kneses Hagidolah).[^762]
+- The Anshei Kneses Hagidolah were only around for a short time at the beginning of the בית Hamikdash. This is discussed in the ראשונים,&lrm;[^760][^761] and implied from the fact that the Zugos (which came after the Anshei Kneses Hagidolah) received a tradition from the נביאים (who came before the Anshei Kneses Hagidolah).[^762]
 - According to conventional history, Hillel would have began his leadership in the 489th year of the בית Hamikdash. This would mean that there were 5 leaders lasting 489 years, an average of nearly 82 years of leadership each. This is unlikely.
 - רש"י says that Shimon Hatzadik led for 40 years after the Anshei Kneses Hagidolah. However, that would still leave around 75 year averages for each leader.
 - According to the Jewish calculations, Hillel started his leadership in year 320 of the בית Hamikdash. That would leave an average of 64 years per leader or, if we take רש"י's opinion, 56 years. This is much more reasonable.
@@ -4135,7 +4135,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - It turned out that not only were they not doing something wrong, they were even doing something that would protect the rest of כלל ישראל from doing the wrong thing and receiving punishment.[^867]
 - I don't really understand why they would have attacked them immediately without hearing what they had to say. It seems to me that perhaps they would have done this because they thought it was obvious that they had bad intentions by making this מזבח (as מפרשים, the מנחה קטנה in particular, explain).[^7]
 - This perhaps indicates how difficult it is to hold back on out judgement and to be willing to challenge out initial assumptions. This generation was on a very high מדרגה. In addition, גד, ראובן, and half of Menashe hadn't done anything that made it seem that they would suddenly start rebelling against Hashem. In addition, in truth, they were doing nothing wrong and, in fact, were doing something that would help prevent the rest of כלל ישראל from being עובר an עבירה. Yet, it seems that it was difficult for the rest of כלל ישראל to be patient and listen to what גד, ראובן, and half of Menashe had to say for themselves.[^7]
-- A indication about what one's true intentions are when one plans on delivering tochacha can be seen from what one's reaction is if it turns out that the tochacha does not need to be delivered. If the person is upset, then it is probably from a bad middah. If the person is happy that the ratzon of Hashem had not been violated, then this is a sign that they had proper intentions.[^868]
+- A indication about what one's true intentions are when one plans on delivering תוכחה can be seen from what one's reaction is if it turns out that the תוכחה does not need to be delivered. If the person is upset, then it is probably from a bad middah. If the person is happy that the ratzon of Hashem had not been violated, then this is a sign that they had proper intentions.[^868]
 - The Germans were being pushed back throughout 1943.[^869]
 - Hitler took increased control of the army. He basically never allowed his army to retreat until it was too late.[^869]
 - This led to:
@@ -4610,7 +4610,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - They saw that נבואה was at an end and so they made many takanos to protect the תורה for the future.[^983]
 - A person shouldn't jump to conclusions about other people. Don't make hasty judgements.[^984]
 - Similarly one shouldn't be too quick to think that one or one's family is acting properly.[^984]
-- One should give direction to his family about how to act properly. This is far more effective than having others give tochacha. (Obviously, one needs to guide oneself as well.)[^984]
+- One should give direction to his family about how to act properly. This is far more effective than having others give תוכחה. (Obviously, one needs to guide oneself as well.)[^984]
 - People need to make their own personal gedarim to make sure that they don't put themselves in a place where they may come to do an עבירה.&lrm;[^984]
 - According to secular history, the second בית Hamikdash was destroyed in 70 CE. According to Judaism, it was destroyed in 69 CE. (This is far from universally accepted as Rabbi Hool will point out later. Perhaps that should be mentioned first, rather than at the end the way Rabbi Hool presents it.) This can be calculated in numerous ways:[^985]
 	- Method 1:
@@ -5190,7 +5190,7 @@ $1<span style="display: block; text-align: justify;">$2</span>$3.
 - Radical policies increased dramatically.[^1075]
 - The רמב"ם has "yesodos" about Judaism. that obviously doesn't mean that you are allowed to not believe any part of the תורה. It just means that these are logical baseline assertions that without them, the rest of the the religion falls apart.[^1076]
 - One yesod is that משה נבואה was super clear and exact. Without believing this, one is not able to believe in the תורה because the תורה as we have it was only as good as משה was able to receive it from Hashem.[^1076]
-- It is clear to all neviim that they are receiving a נבואה and the message must be rather precise. Why didn't אברהם doubt that he heard right or wonder if he really received a נבואה at all when Hashem told him to kill יצחק? It must be that the נבואה is clear for all neviim (even if not as clear as it was with משה).&lrm;[^1076]
+- It is clear to all נביאים that they are receiving a נבואה and the message must be rather precise. Why didn't אברהם doubt that he heard right or wonder if he really received a נבואה at all when Hashem told him to kill יצחק? It must be that the נבואה is clear for all נביאים (even if not as clear as it was with משה).&lrm;[^1076]
 - Even before the תורה, Hashem provided ways for one to know what is good. The 'גמ (I think) says how one can look at the way the animals act and know what is proper. Cats act with צניעות, for example. (I don't really get this. Who cares what the animals do?)[^1076]
 - In addition, we have a conscience.[^1076]
 - However, for most people, neither of these things are precise. We can't learn the exact הלכות of geneiva, for example, from our conscience.[^1076]

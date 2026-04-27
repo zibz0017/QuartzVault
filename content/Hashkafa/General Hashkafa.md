@@ -84,9 +84,15 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. <span style="display: block; text-align: justify;">This is in contrast to the way Hashem gives punishment to other nations. For them, Hashem "saves up" the punishment and "pays them back" all at once.[^19]</span>
 ## Punishment for Wanting to Do an עבירה
 1. <span style="display: block; text-align: justify;">As discussed [[#Negative Reasons Hashem May Give Someone Wealth|below]], it seems that one deserves punishment for wanting to do עבירות and they don't have fear of Hashem, but they don't do because they simply don't have access. It is implied that barring additional factors, Hashem would actually punish them, even if they didn't do the עבירה.</span>
+
+## Negative Reasons Hashem May Give Someone Wealth
+1. <span style="display: block; text-align: justify;">Hashem may give someone wealth because they really want to do many עבירות and he doesn't have fear of Hashem but they don't have access to these עבירות.</span>
+   Hashem gives this person wealth so that they can do those עבירות.
+   This person needs a punishment but it would create a chillul Hashem for this "צדיק" to receive punishment, and so Hashem gives this person the opportunity to do עבירות so people can realize who he really is.[^20]
+
 # Physical Proximity Affects זכותים of צדיקים
-1. <span style="display: block; text-align: justify;">כלל ישראל lost the battle of עי partially because יהושע needed to go with the soldiers for his זכותים to have a positive affect.[^20]</span>
-   It seems that the affect of יהושע's זכותים was tied to his physical location.[^21]
+1. <span style="display: block; text-align: justify;">כלל ישראל lost the battle of עי partially because יהושע needed to go with the soldiers for his זכותים to have a positive affect.[^21]</span>
+   It seems that the affect of יהושע's זכותים was tied to his physical location.[^22]
    {<span style="color:rgb(255, 0, 0)">This may be because if יהושע was there then he would be in danger as well. I don't know if that is much of a חידוש. Of course Hashem is more likely to act to save a צדיק then if a צדיק is not in danger. However, in this situation, the צדיק voluntarily put himself in danger so perhaps it is reasonable that Hashem wouldn't save the צדיק. A difference is that does this only apply to situations where the צדיק is in danger, or in any situation that a צדיק is nearby.</span>}
 # The Mussar Movement
 1. <span style="display: block; text-align: justify;">The mussar movement started getting involved in yeshivos because of Rav ישראל. Rav ישראל originally wanted the movement to target the masses but he was able to pivot when he saw it would be more effective to have the movement in yeshivos.[^3]</span>
@@ -99,18 +105,18 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 1. <span style="display: block; text-align: justify;">To clarify, nobody is against yiras shamayim and good מדות. That is not what the disagreement centers around.</span>
 # NCSY
 ## History
-1. <span style="display: block; text-align: justify;">Started in the 1950s by Rabbi Stolper.[^22]</span>
-2. <span style="display: block; text-align: justify;">Originally targeted kids in out-of-town communities with little to no exposure to תורה (most, if not nearly all, of the kids were in public school).[^22]</span>
+1. <span style="display: block; text-align: justify;">Started in the 1950s by Rabbi Stolper.[^23]</span>
+2. <span style="display: block; text-align: justify;">Originally targeted kids in out-of-town communities with little to no exposure to תורה (most, if not nearly all, of the kids were in public school).[^23]</span>
 ## Current
 ### Negative Perception of NCSY
-1. <span style="display: block; text-align: justify;">There seems to be some negative sentiment toward NCSY now. This is because the organization can sometimes lower the aspirations of those going there. NCSY has a strong emphasis on marrying Jewish, which of course is extremely important, but it seems that many times they do not push beyond that. Many of the kids who go there would seem to benefit from having higher aspirations. This is more of a problem now then when the program started as many kids who go to NCSY are exposed to Judaism in other ways and so there perhaps is more to work with, as opposed to the public school kids that largely made up the NCSY students in the past.[^23]</span>
-2. <span style="display: block; text-align: justify;">NCSY has become a place for girls and boys to hang out. Once again, I feel like this might be a bigger problem now that many kids who go to NCSY are in non-coed Jewish schools. As such, kids are hanging out with the opposite gender perhaps considerably more than they would otherwise. In addition, this may create mixed massaging: teachers and rabbeim at school are telling kids not to hang out with the opposite gender and NCSY seems to imply that it is not so bad.[^23]</span>
-3. <span style="display: block; text-align: justify;">Kids of various levels end up there. Meaning, some kids might be struggling with high school, while others have long been kicked out and are doing much worse things. And now these struggling kids are getting exposed and developing relationships with these hardcore kids.[^23]</span>
+1. <span style="display: block; text-align: justify;">There seems to be some negative sentiment toward NCSY now. This is because the organization can sometimes lower the aspirations of those going there. NCSY has a strong emphasis on marrying Jewish, which of course is extremely important, but it seems that many times they do not push beyond that. Many of the kids who go there would seem to benefit from having higher aspirations. This is more of a problem now then when the program started as many kids who go to NCSY are exposed to Judaism in other ways and so there perhaps is more to work with, as opposed to the public school kids that largely made up the NCSY students in the past.[^24]</span>
+2. <span style="display: block; text-align: justify;">NCSY has become a place for girls and boys to hang out. Once again, I feel like this might be a bigger problem now that many kids who go to NCSY are in non-coed Jewish schools. As such, kids are hanging out with the opposite gender perhaps considerably more than they would otherwise. In addition, this may create mixed massaging: teachers and rabbeim at school are telling kids not to hang out with the opposite gender and NCSY seems to imply that it is not so bad.[^24]</span>
+3. <span style="display: block; text-align: justify;">Kids of various levels end up there. Meaning, some kids might be struggling with high school, while others have long been kicked out and are doing much worse things. And now these struggling kids are getting exposed and developing relationships with these hardcore kids.[^24]</span>
 # Agadita
 {<span style="color:rgb(255, 0, 0)">There are lots of ראשונים/Achronim brought down in this section, but I don't know where these come come from. It would definitely be nice to find the actual sources of these opinions.</span>}
 ## Different Ways Things Are Hidden
 1. <span style="display: block; text-align: justify;">Some things are hidden in what appears to be "wild stories", like [[#^35e4bc|the סוגיא דרבה בר בר חנה]].</span>
-2. <span style="display: block; text-align: justify;">Sometimes, חז"ל use "exaggerations", like חז"ל may say that someone is "chayav binafsho", even if that is not the הלכה.&lrm;[^24] {<span style="color:rgb(255, 0, 0)">Need an explicit example of this</span>}</span>
+2. <span style="display: block; text-align: justify;">Sometimes, חז"ל use "exaggerations", like חז"ל may say that someone is "chayav binafsho", even if that is not the הלכה.&lrm;[^25] {<span style="color:rgb(255, 0, 0)">Need an explicit example of this</span>}</span>
 ## Specific Examples
 ### &lrm;סוגיא דרבה בר בר חנה (בבא בתרא עג. - עה.)
    {<span style="color:rgb(255, 0, 0)">See https://drive.google.com/file/d/1exVOfC29_W4AIZy6-zEeTeYaaauPXZqu/view for a big discussion of this sugya</span>} ^35e4bc
@@ -118,18 +124,18 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 {<span style="color:rgb(255, 0, 0)">Need to fill this in</span>}
 #### Explanation
 ##### The גר"א
-*(As presented by Rav Aharon Lopianskynsky[^24])*
+*(As presented by Rav Aharon Lopianskynsky[^25])*
 1. <span style="display: block; text-align: justify;">The deepest secrets of the תורה are found here.</span>
 2. <span style="display: block; text-align: justify;">The corruption of the world has forced Hashem to hide the most precious parts of the תורה in what seems like fairy tales.</span>
-### &lrm;מחלוקת Between Rabbi Eliezer and the Rabbanan (Bava Metzia 59. - 59:)
+### &lrm;מחלוקת Between Rabbi Eliezer and the רבנן (בבא מציאה נט. - נט:)
 #### Basics
 1. <span style="display: block; text-align: justify;">Rabbi Eliezer had a מחלוקת with numerous other rabbanan about an whether a certain type of oven is ראוי לקבל טומעה.</span>
 2. <span style="display: block; text-align: justify;">Rabbi Eliezer caused numerous נסים to happen to prove his prove his point, such as a nearby carob tree uprooted itself and moved away, a nearby river started flowing backward, the walls of the בית מדרש started falling down, and a bas kol declared that Rabbi Eliezer was correct.</span>
 #### Explanation
 ##### &lrm;רבינו Chananel
-*(As presented by Rav Aharon Lopiansky[^24])*
+*(As presented by Rav Aharon Lopiansky[^25])*
 1. <span style="display: block; text-align: justify;">This sugya can be understood literally.</span>
-2. <span style="display: block; text-align: justify;">The נסים discussed were done through the power of tefilah, not through the power of נבואה, as there were no neviim anymore by that time.</span>
+2. <span style="display: block; text-align: justify;">The נסים discussed were done through the power of tefilah, not through the power of נבואה, as there were no נביאים anymore by that time.</span>
 3. <span style="display: block; text-align: justify;">However, it is difficult to understand this way because one is not supposed to do נסים.</span>
 4. <span style="display: block; text-align: justify;">As such, an alternative way to understand the 'גמ is that it was a dream.</span>
 5. <span style="display: block; text-align: justify;">Usually, the 'גמ would state if a story was a dream, but it did not do so here because this dream was akin to נבואה. (There are examples of a נביא receiving נבואה despite the fact that it is not explicitly mentioned that the נביא received נבואה, such as יהושע with the malach outside of Yericho according to some מפרשים {<span style="color:rgb(255, 0, 0)">Need to get exact source</span>})</span>
@@ -140,7 +146,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 3. <span style="display: block; text-align: justify;">He grew breasts and was able to nurse his child.</span>
 #### Explanation
 ##### &lrm;באר הגולה
-*(As presented by Rav Aharon Lopiansky[^24])*
+*(As presented by Rav Aharon Lopiansky[^25])*
 1. <span style="display: block; text-align: justify;">This sugya is not to be understood literally.</span>
 2. <span style="display: block; text-align: justify;">The 'גמ simply means that the man found a way to feed his child.</span>
 3. <span style="display: block; text-align: justify;">The reason why the 'גמ describes it as such a miraculous event is because it is a "tremendous miracle" for a father to be able to raise his child.</span>
@@ -151,59 +157,63 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 3. <span style="display: block; text-align: justify;">This is an earthquake.</span>
 #### Explanation
 ##### &lrm;באר הגולה
-*(As presented by Rav Aharon Lopiansky[^24])*
-1. <span style="display: block; text-align: justify;">This 'גמ is not presenting the physical causes of the phenomenon.</span>
-2. <span style="display: block; text-align: justify;">The 'גמ is presenting what the phenomenon represents.</span>
-   <span style="color:rgb(112, 48, 160)">Examples:</span>
-1. <span style="display: block; text-align: justify;">If someone asks you what is a certain painting of, you may respond with the physical properties of the painting (for example, many people are standing together holding hands) or what is represented by the painting (the artist's yearning for world peace).</span>
-   Both of these responses are true. It just depends on what the questioner was asking, exactly.
-2. <span style="display: block; text-align: justify;">People may describe a sunrise as bringing hope. Obviously, there is nothing about a sunrise that actually brings hope.</span>
+*(As presented by Rav Aharon Lopiansky[^25])*
+1. <span style="display: block; text-align: justify;">This 'גמ is not presenting the physical causes of the phenomenon. The 'גמ is presenting what the phenomenon represents.</span>
+2. <span style="display: block; text-align: justify;">For example, if someone asks you what is a certain painting of, you may respond with the physical properties of the painting (for example, many people are standing together holding hands) or what is represented by the painting (the artist's yearning for world peace).
+   Both of these responses are true. It just depends on what the questioner was asking, exactly.</span>
+3. <span style="display: block; text-align: justify;">Another example, people may describe a sunrise as bringing hope. Obviously, there is nothing about a sunrise that actually brings hope.</span>
 ## Reading the תורה Literally
 {<span style="color:rgb(255, 0, 0)">I am not sure if this really belongs in this section.</span>}
 1. <span style="display: block; text-align: justify;">Rav Sadia Gaon writes that almost everything in the תורה should be taken literally with a few obvious exceptions such as:</span>
-	1. <span style="display: block; text-align: justify;">Things about Hashem.[^24]</span>
-	2. <span style="display: block; text-align: justify;">If there is a contradiction between two pesukim (obviously they can't both be literal.)[^24]</span>
-	3. <span style="display: block; text-align: justify;">Obvious mashalim (like when it says that Hashem will cut out the arlas halev, that is not literal).[^24]</span>
+	1. <span style="display: block; text-align: justify;">Things about Hashem.[^25]</span>
+	2. <span style="display: block; text-align: justify;">If there is a contradiction between two pesukim (obviously they can't both be literal.)[^25]</span>
+	3. <span style="display: block; text-align: justify;">Obvious mashalim (like when it says that Hashem will cut out the arlas halev, that is not literal).[^25]</span>
 	4. <span style="display: block; text-align: justify;">{<span style="color:rgb(255, 0, 0)">There was a fourth point as well, but I don't know what it is. It seems to be in the same vein of things that obviously shouldn't be taken literally.</span>}</span>
-2. <span style="display: block; text-align: justify;">The Rashba writes very harshly about those who try to learn the תורה allegorically.[^24]</span>
+2. <span style="display: block; text-align: justify;">The Rashba writes very harshly about those who try to learn the תורה allegorically.[^25]</span>
 ## Why Agadita is Hidden and How to Understand it
 1. <span style="display: block; text-align: justify;">The רמח"ל {<span style="color:rgb(255, 0, 0)">I think</span>} writes that agadita is hidden in mashalim because:</span>
-	1. <span style="display: block; text-align: justify;">Agadita deals with the deep secrets of the תורה, and the same way one may not want to share their deepest secrets, even if it isn't embarrassing or anything, it's just that it is extremely personal and so they are not appropriate to publicize.[^24]</span>
-	2. <span style="display: block; text-align: justify;">People can make mistakes and these topics are extremely core to Yiddishkeit and so we can't have people make mistakes with them.[^24]</span>
+	1. <span style="display: block; text-align: justify;">Agadita deals with the deep secrets of the תורה, and the same way one may not want to share their deepest secrets, even if it isn't embarrassing or anything, it's just that it is extremely personal and so they are not appropriate to publicize.[^25]</span>
+	2. <span style="display: block; text-align: justify;">People can make mistakes and these topics are extremely core to Yiddishkeit and so we can't have people make mistakes with them.[^25]</span>
 2. <span style="display: block; text-align: justify;">Because of the "corruption of the world", Hashem hides deep secrets of the תורה, as [[#The גר"א|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}</span>
-3. <span style="display: block; text-align: justify;">The רמח"ל writes that חז"ל would "exaggerate", like by saying that someone is chayav binafsho for violating something because there is a certain sense in which the person is chayav. For example, if someone wounds someone else, in a sense, strict justice would require the person to receive that wound. Obviously, that is not the הלכה for whatever reason (the תורה may have decided that that would be barbaric, for example).[^24]</span>
-4. <span style="display: block; text-align: justify;">According to the רשב"ם some agadita is supposed to be understood only allegorically, some only על pi pshat, and some both.[^24]</span>
+3. <span style="display: block; text-align: justify;">The רמח"ל writes that חז"ל would "exaggerate", like by saying that someone is chayav binafsho for violating something because there is a certain sense in which the person is chayav. For example, if someone wounds someone else, in a sense, strict justice would require the person to receive that wound. Obviously, that is not the הלכה for whatever reason (the תורה may have decided that that would be barbaric, for example).[^25]</span>
+4. <span style="display: block; text-align: justify;">According to the רשב"ם some agadita is supposed to be understood only allegorically, some only על pi pshat, and some both.[^25]</span>
 5. <span style="display: block; text-align: justify;">Sometimes, agadita can be a dream, as [[#&lrm;רבינו Chananel|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point</span>}</span>
 6. <span style="display: block; text-align: justify;">Sometimes, agadita can be giving the meaning behind a physical phenomenon, as [[#&lrm;באר הגולה|discussed]]. {<span style="color:rgb(255, 0, 0)">This link may break at some point. It is supposed to be for the באר הגולה by Explanation for Earthquakes (Berachos 59.)</span>}</span>
 ## Where Agadita is Written
-1. <span style="display: block; text-align: justify;">Agadita is generally found in Shas, מדרשים with a mesorah (מדרש Rabbah, תנחומא, and Pirkei Dirabbi Eliezer), and the Zohar.[^24]</span>
-2. <span style="display: block; text-align: justify;">In addition, there are a few blatt in Bava Basra of extremely strange agadita (known as Agadita Dirabba Bar Bar Chana).[^24]</span>
+1. <span style="display: block; text-align: justify;">Agadita is generally found in Shas, מדרשים with a mesorah (מדרש Rabbah, תנחומא, and Pirkei Dirabbi Eliezer), and the Zohar.[^25]</span>
+2. <span style="display: block; text-align: justify;">In addition, there are a few blatt in Bava Basra of extremely strange agadita (known as Agadita Dirabba Bar Bar Chana).[^25]</span>
 # &lrm;עולם הבא Based on Subjective or Objective Measure
-1. <span style="display: block; text-align: justify;">At least to some degree, how much עולם הבא one earns is based on the object מצוות one does, not just based on how much one fulfills their potential.[^25] {<span style="color:rgb(255, 0, 0)">I would like to come back to this and explain what the חובות הלבבות does say and then how I interpreted it.</span>}</span>
+1. <span style="display: block; text-align: justify;">At least to some degree, how much עולם הבא one earns is based on the object מצוות one does, not just based on how much one fulfills their potential.[^26] {<span style="color:rgb(255, 0, 0)">I would like to come back to this and explain what the חובות הלבבות does say and then how I interpreted it.</span>}</span>
 # Limiting נסים
-1. <span style="display: block; text-align: justify;">Hashem only does נסים when they are necessary.[^26]</span>
-2. <span style="display: block; text-align: justify;">In addition, Hashem keeps the neis in line with nature as much as possible.[^27]</span>
+1. <span style="display: block; text-align: justify;">Hashem only does נסים when they are necessary.[^27]</span>
+2. <span style="display: block; text-align: justify;">In addition, Hashem keeps the neis in line with nature as much as possible.[^28]</span>
 # &lrm;שכר מצוה מצוה
-1. <span style="display: block; text-align: justify;">This means that if a person does a מצוה in this world, they will be able to do the מצוה after techiyas hameisim.[^28] {<span style="color:rgb(255, 0, 0)">I don't know what this means</span>}</span>
+1. <span style="display: block; text-align: justify;">This means that if a person does a מצוה in this world, they will be able to do the מצוה after techiyas hameisim.[^29] {<span style="color:rgb(255, 0, 0)">I don't know what this means</span>}</span>
 # &lrm;עולם הבא and תחית המתים
 1. <span style="display: block; text-align: justify;">&lrm;עולם הבא refers to a time after תחית המתים. (It might also be before תחית המתים, but it is certainly after).</span>
 ## References from תנ"ך
-1. <span style="display: block; text-align: justify;">&lrm;אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ….&lrm;[^29] The literal translation is "Then יהושע *will build*…". The reference to the future is a reference to after תחית המתים.&lrm;[^30]</span>
+1. <span style="display: block; text-align: justify;">&lrm;אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ….&lrm;[^30] The literal translation is "Then יהושע *will build*…". The reference to the future is a reference to after תחית המתים.&lrm;[^31]</span>
 # Hashem May Affect Peoples' Decisions
 1. <span style="display: block; text-align: justify;">Hashem can sometimes put thoughts or remove thoughts or strengthen certain emotions in people to cause certain results.</span>
 ## Specific Examples
-1. <span style="display: block; text-align: justify;">According to some, Hashem put the idea into the minds of כלל ישראל to cut off the large fingers and toes of אדני בזק (a king in ארץ כנען). This was because Hashem wanted to punish him מידה כנגד מידה for doing the same to people he had defeated in battle.[^31]</span>
+1. <span style="display: block; text-align: justify;">According to some, Hashem put the idea into the minds of כלל ישראל to cut off the large fingers and toes of אדני בזק (a king in ארץ כנען). This was because Hashem wanted to punish him מידה כנגד מידה for doing the same to people he had defeated in battle.[^32]</span>
 2. <span style="display: block; text-align: justify;">Hashem caused סיסרא to march out and fight against כלל ישראל. {<span style="color:rgb(255, 0, 0)">See מפרשים on שופטים ד יב-יד</span>}</span>
-3. <span style="display: block; text-align: justify;">Hashem put it into the minds of כלל ישראל to go and fight סיסרא.&lrm;[^32]</span>
-4. <span style="display: block; text-align: justify;">According to some, גדעון didn't initially ask שבט אפרים for help when dealing with the מדינים because Hashem caused him not to think of asking them.[^33]</span>
+3. <span style="display: block; text-align: justify;">Hashem put it into the minds of כלל ישראל to go and fight סיסרא.&lrm;[^33]</span>
+4. <span style="display: block; text-align: justify;">According to some, גדעון didn't initially ask שבט אפרים for help when dealing with the מדינים because Hashem caused him not to think of asking them.[^34]</span>
 5. <span style="display: block; text-align: justify;">Hashem caused Yiftach's daughter to come out and greet him as a punishment for Yiftach making a נדר that was extremely open to chance (see [[Yiftach and his Daughter#For Making a Risky נדר|here]] for more details about this point and the rest of the article for more details about the rest of the story).</span>
 # Davening
+
 ## One Gets Things They Don't Ask For
-1. <span style="display: block; text-align: justify;">One does not need to daven for specific things to receive them. Even if one just davens for good things in general, Hashem will give him his specific needs. This is clear from the fact that many times we ask Hashem for things and He does not give them to us because it is not in our best interest. We certainly aren't asking to not receive these things that we think we really want. Yet Hashem gives us what is best for us, anyway.[^34]</span>
+1. <span style="display: block; text-align: justify;">One does not need to daven for specific things to receive them. Even if one just davens for good things in general, Hashem will give him his specific needs. This is clear from the fact that many times we ask Hashem for things and He does not give them to us because it is not in our best interest. We certainly aren't asking to not receive these things that we think we really want. Yet Hashem gives us what is best for us, anyway.[^35]</span>
+
+## Davening for Help with Nisayonos
+1. <span style="display: block; text-align: justify;">יעקב davened for Hashem to help Shimshon with his nisayonos when יעקב saw that Shimshon was going to struggle in this area. Hashem answered יעקב's תפילות and did help Shimshon.[^36]<span style="color:rgb(255, 0, 0)"> Need to see בראשית מט יח</span></span>
+2. <span style="display: block; text-align: justify;">It seems that one can daven for Hashem to help one with their nisayonos.[^5]</span>
+
 # Vagueness of חז"ל
-1. <span style="display: block; text-align: justify;">Sometimes, חז"ל purposely discussed things in a vague way to force the person learning the חז"ל to have to work hard to understand it so they can [[Tiferes Dovid#Hard Work|reap the benefits of working hard on תורה]].[^35] {<span style="color:rgb(255, 0, 0)">This may tie into [[#Agadita]] as well</span>}</span>
+1. <span style="display: block; text-align: justify;">Sometimes, חז"ל purposely discussed things in a vague way to force the person learning the חז"ל to have to work hard to understand it so they can [[Tiferes Dovid#Hard Work|reap the benefits of working hard on תורה]].[^37] {<span style="color:rgb(255, 0, 0)">This may tie into [[#Agadita]] as well</span>}</span>
 # Terrorism
-1. <span style="display: block; text-align: justify;">In the times of גדעון, כלל ישראל was fighting Midyan, who had oppressed them, and captured זבח and צלמונע, the kings of Midyan.[^36] גדעון only killed זבח and צלמונע because they had killed people in כלל ישראל for no reason. This didn't increase the fear כלל ישראל had for Midyan since כלל ישראל was already severely oppressed by Midyan, so they were already afraid of Midyan.[^37]</span>
+1. <span style="display: block; text-align: justify;">In the times of גדעון, כלל ישראל was fighting Midyan, who had oppressed them, and captured זבח and צלמונע, the kings of Midyan.[^38] גדעון only killed זבח and צלמונע because they had killed people in כלל ישראל for no reason. This didn't increase the fear כלל ישראל had for Midyan since כלל ישראל was already severely oppressed by Midyan, so they were already afraid of Midyan.[^39]</span>
 2. <span style="display: block; text-align: justify;">It seems that if this would have increased the fear that כלל ישראל had for Midyan, these killings may have been justified.[^5]</span>
 	1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps this means that it is still wrong, but it ever so slightly justifiable to the point that זבח and צלמונע were not חייב מיתה, but not that it was actually okay.</span>
 	2. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter (to original point):</span> Perhaps this was accepted practice in those times so it was okay then, but perhaps since this is not accepted in our times, it is not okay anymore.</span>
@@ -211,9 +221,6 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 1. <span style="display: block; text-align: justify;">Gideon was going to punish the city of פנואל by destroying the tower there (see [[Gideon and the Cities of סכות and פנואל#Why Gideon Destroyed the Tower in פנואל|here]] for why).</span>
 2. <span style="display: block; text-align: justify;">According to some מפרשים, when Gideon came to destroy the tower, people from the town fought against him. Gideon killed those people (which was seemingly a large portion of the city's population) and then proceeded to destroy the tower (see [[Gideon and the Cities of סכות and פנואל#^f85451|here]]. For more details, read the rest of the article).</span>
 3. <span style="display: block; text-align: justify;">It seems that when someone does something wrong and deserves a punishment, if that person (or group of people) escalates the situation (they won't accept the punishment and the only way one can administer the punishment is if worse than they deserved is inflicted on them), we say that the person should do so. One does not back down because they will have to do this.[^5]</span>
-# Davening for Help with Nisayonos
-1. <span style="display: block; text-align: justify;">יעקב davened for Hashem to help Shimshon with his nisayonos when יעקב saw that Shimshon was going to struggle in this area. Hashem answered יעקב's תפילות and did help Shimshon.[^38]<span style="color:rgb(255, 0, 0)"> Need to see בראשית מט יח</span></span>
-2. <span style="display: block; text-align: justify;">It seems that one can daven for Hashem to help one with their nisayonos.[^5]</span>
 # Importance of Intention and Focus when Doing מצוות
 1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See חובות הלבבות page תקמד-תקמה</span></span>
 # Why עולם הבא is not Discussed Explicitly in the תורה.
@@ -224,56 +231,61 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 <span style="color:rgb(255, 0, 0)">See חובות הלבבות pg 551 with מרפא לנפש ד"ה there and חובות הלבבות pg 543 with מפרשים there</span>
 # Learning from One's Rebbi
 ## Copying Versus Learning
-1. <span style="display: block; text-align: justify;">One should not mindlessly copy their rebbi, as the rebbi may have done whatever it was that he did for a reason that does not apply to the תלמיד.&lrm;[^39]</span>
-2. <span style="display: block; text-align: justify;">We see such an idea in נביא. It says that יהואש served Hashem all the days that his rebbi, יהוידע was alive, but noto after יהוידע was nifter. According to some, this was because יהואש copied his rebbi, but he didn't actually learn the reasoning behind what his rebbi did, so when he wasn't able to ask his rebbi what to do anymore, he ended up straying.[^40]</span>
+1. <span style="display: block; text-align: justify;">One should not mindlessly copy their rebbi, as the rebbi may have done whatever it was that he did for a reason that does not apply to the תלמיד.&lrm;[^40]</span>
+2. <span style="display: block; text-align: justify;">We see such an idea in נביא. It says that יהואש served Hashem all the days that his rebbi, יהוידע was alive, but noto after יהוידע was nifter. According to some, this was because יהואש copied his rebbi, but he didn't actually learn the reasoning behind what his rebbi did, so when he wasn't able to ask his rebbi what to do anymore, he ended up straying.[^41]</span>
 3. <span style="display: block; text-align: justify;">In some ways, Rav Dovid acted differently than the Alter because of this point. When saying shmuessen, the Alter would give a shmuess about a certain point, and then expand and say many different things about the topic.</span>
-   When Rav Dovid would give a shmuess, he would stick to what he was able to glean from the מראה מקום.&lrm;[^41]
-4. <span style="display: block; text-align: justify;">Rav חיים Brisker had many talmidim, such as Rav Shimon Shkop, Rav Isser Zalman Meltzer, Rav Baruch Ber, and Rav חיים's own son, Rav Yizchak Zev. They were all unique from each other in many different ways, even though they all had the same rebbi. They each applied what they learned from their rebbi how it made sense for themselves. They didn't just try to all make themselves into carbon copies of their rebbi.[^42]</span>
-5. <span style="display: block; text-align: justify;">רות deviated from what Naami asked her to do because רות understood what Naami really wanted. Shmuel similarly deviated from exactly what he was told for the same reason <span style="color:rgb(255, 0, 0)">not sure who was telling him to do something</span>. We see more examples of great people using their own intelligence to understand what they learned and how it applies to different situations.[^43]</span>
+   When Rav Dovid would give a shmuess, he would stick to what he was able to glean from the מראה מקום.&lrm;[^42]
+4. <span style="display: block; text-align: justify;">Rav חיים Brisker had many talmidim, such as Rav Shimon Shkop, Rav Isser Zalman Meltzer, Rav Baruch Ber, and Rav חיים's own son, Rav Yizchak Zev. They were all unique from each other in many different ways, even though they all had the same rebbi. They each applied what they learned from their rebbi how it made sense for themselves. They didn't just try to all make themselves into carbon copies of their rebbi.[^43]</span>
+5. <span style="display: block; text-align: justify;">רות deviated from what Naami asked her to do because רות understood what Naami really wanted. Shmuel similarly deviated from exactly what he was told for the same reason <span style="color:rgb(255, 0, 0)">not sure who was telling him to do something</span>. We see more examples of great people using their own intelligence to understand what they learned and how it applies to different situations.[^44]</span>
 ## Learning from Closer Generations
-1. <span style="display: block; text-align: justify;">Because one is supposed to learn from their rebbi, rather than just copy them, it is important that one tries to learn from the גדולים who are closer to his generation.[^41]</span>
-2. <span style="display: block; text-align: justify;">Even though people from earlier generations are greater, they are usually far too great for us and many times, the underlying reason for their decision would only be correct for people who are much closer to their מדרגה than we are.[^41]</span>
+1. <span style="display: block; text-align: justify;">Because one is supposed to learn from their rebbi, rather than just copy them, it is important that one tries to learn from the גדולים who are closer to his generation.[^42]</span>
+2. <span style="display: block; text-align: justify;">Even though people from earlier generations are greater, they are usually far too great for us and many times, the underlying reason for their decision would only be correct for people who are much closer to their מדרגה than we are.[^42]</span>
 3. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">This is discussed by a מהרש"א somewhere. If I find out where, I should add it.</span></span>
 # Schar for Doing השתדלות
-1. <span style="display: block; text-align: justify;">Hashem wants people to do השתדלות. If a person does השתדלות with the intention that they are doing this because Hashem told them to do this, they receive schar.[^44]</span>
+1. <span style="display: block; text-align: justify;">Hashem wants people to do השתדלות. If a person does השתדלות with the intention that they are doing this because Hashem told them to do this, they receive schar.[^45]</span>
 # Losing One's Money for not Using it Properly
-1. <span style="display: block; text-align: justify;">One loses their money for not using it properly.[^45]</span>
+1. <span style="display: block; text-align: justify;">One loses their money for not using it properly.[^46]</span>
 # Source for מדרשים
-1. <span style="display: block; text-align: justify;">מדרשים which discuss exact details about stories in תנ"ך are sourced from תנ"ך itself. Similar to the way a ראשון will use exact wordage, extra words, questions on the פסוקים, and the like to glean a deeper understanding, the מחבר of a מדרש will use similar techniques to glean additional parts to stories in תנ"ך.&lrm;[^46]</span>
+1. <span style="display: block; text-align: justify;">מדרשים which discuss exact details about stories in תנ"ך are sourced from תנ"ך itself. Similar to the way a ראשון will use exact wordage, extra words, questions on the פסוקים, and the like to glean a deeper understanding, the מחבר of a מדרש will use similar techniques to glean additional parts to stories in תנ"ך.&lrm;[^47]</span>
 ## &lrm;תורה Shebaal PEH Can Be Derived from תורה Shebicsav
-1. <span style="display: block; text-align: justify;">All of תורה shebaal PEH can be derived from תורה shebicsav using the יג מדות.&lrm;[^47]</span>
+1. <span style="display: block; text-align: justify;">All of תורה shebaal PEH can be derived from תורה shebicsav using the יג מדות.&lrm;[^48]</span>
 # Psak
 1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See שלחן ערוך יו"ד ט"ז ס"ק יב, the מהרש"ל there.</span></span>
 2. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">Also see shmuess [[11 6 25]]</span>.</span>
 # Importance of Doing Every מצוה
-1. <span style="display: block; text-align: justify;">It is important to do every מצוה as each מצוה corresponds to an individual אבר and גיד.&lrm;[^48] There is even a chiyuv to do all מצוות.&lrm;[^49]</span>
+1. <span style="display: block; text-align: justify;">It is important to do every מצוה as each מצוה corresponds to an individual אבר and גיד.&lrm;[^49] There is even a chiyuv to do all מצוות.&lrm;[^50]</span>
 2. <span style="display: block; text-align: justify;">For how to do the מצוות that can only be done by some people or are not able to be done בזמן הזה, see [[#How to Do מצוות that One Can't Do|here]].</span>
 # How to "Do" מצוות that One Can't Actually Do
-1. <span style="display: block; text-align: justify;">If one has a strong desire to do every מצוה and wishes that they could do them all, Hashem will count it as if he did them.[^48]</span>
-2. <span style="display: block; text-align: justify;">If one learns תורה and makes sure to accomplish the מצוות that one can do, Hashem will count it as if he did them all.[^50]</span>
+1. <span style="display: block; text-align: justify;">If one has a strong desire to do every מצוה and wishes that they could do them all, Hashem will count it as if he did them.[^49]</span>
+2. <span style="display: block; text-align: justify;">If one learns תורה and makes sure to accomplish the מצוות that one can do, Hashem will count it as if he did them all.[^51]</span>
 # &lrm;השתדלות Affects Hashem's Help
-1. <span style="display: block; text-align: justify;">Hashem helps people dependent on how much they help themselves.[^51]</span>
+1. <span style="display: block; text-align: justify;">Hashem helps people dependent on how much they help themselves.[^52]</span>
 # Laws of the תורה Vs Secular Laws
 1. <span style="display: block; text-align: justify;">Many secular laws are not 'שכלי' in the sense that they will bring a person do where they want to go.</span>
-   תורה laws are שכלי and will bring a person to praiseworthiness and work on a person's מדות.&lrm;[^52]
+   תורה laws are שכלי and will bring a person to praiseworthiness and work on a person's מדות.&lrm;[^53]
    (I am not clear on what this means, but I think it might mean that laws are somewhat random. For example, if someone steals $1000 in NY, they have committed grand larceny, but if they stole a dollar less, it is only petite larceny (and the law are vastly different, as discussed [[Stealing in NY|here]].) There is no particular reason for this exact number. It is a nice round number at some point the law needs to get stricter, so $1000 was chosen semi-arbitrarily (in California, the law is $900, for example). When it comes to the תורה, every amount is given for particular reasons. I am unsure about this פשט, though, because this sounds a lot like the second answer.
    I spoke with someone named Shmuel Zucker (who sometimes learns in the Rabbi Hodkin kollel בית מדרש). He thought that פשט was that the purpose of secular law vs תורה law are different. The vast majority of secular law is simply about the survival of society. The reason for תורה law, though, is to help us work on our מדות. I wasn't sure about this פשט because I thought the מלבי"ם sounded more like he was talking about the laws themselves don't bring us to שלמות (meaning, the laws are not exactly the proper amount). According to this פשט, even if the laws are the exact same in secular law and תורה law, the secular law won't bring one to שלמות because the reasoning behind the law (and the reason why people keep them) is because they are good for society and one doesn't want to be punished. The reason for תורה law is that it helps work on one's מדות and so when one follows the תורה, this helps bring them to שלמות. I didn't think it was משמע that the *reasoning* behind the law is what makes it that one who keeps secular law won't get to שלמות but one who keeps תורה law will. I thought it was the specific laws themselves.)
 2. <span style="display: block; text-align: justify;">Many secular laws are given in a general sense. They are not designed for each specific situation.</span>
    תורה law is given with exactness for every situation.
-# Negative Reasons Hashem May Give Someone Wealth
-1. <span style="display: block; text-align: justify;">Hashem may give someone wealth because they really want to do many עבירות and he doesn't have fear of Hashem but they don't have access to these עבירות.</span>
-   Hashem gives this person wealth so that they can do those עבירות.
-   This person needs a punishment but it would create a chillul Hashem for this "צדיק" to receive punishment, and so Hashem gives this person the opportunity to do עבירות so people can realize who he really is.[^53]
 # Pain from Illness
 1. <span style="display: block; text-align: justify;">A major aspect of the pain one feels from illness is mental. The stress and the thoughts about what is going to be add a major component.[^54]</span>
 # Importance of Having Proper Intent when Doing מצוות
 1. <span style="display: block; text-align: justify;">The חובות הלבבות says that we can relate to the idea that if someone does something for his friend, or a servant for his master, but he doesn't do it with sincerity, even if he does exactly what the person wants, and even if the person really needs it to be done, he still won't be happy with this.</span>
    Certainly so with Hashem who doesn't need us at all.[^55]
-# Things to come back to
-1. <span style="display: block; text-align: justify;">יהושע א ז חומת אנך שם</span>
-# &lrm;כונות when doing מצוות
+# &lrm;כונות When Doing מצוות
 1. <span style="display: block; text-align: justify;">For the כונות one should have when davening, see חובות הלבבות שער חשבון הנפש פרק ג (pgs קצח-רג). <span style="color:rgb(255, 0, 0)">Need to come back to this.</span></span>
 2. <span style="display: block; text-align: justify;">For most מצוות (like סוכה or לולב, for example) one should think about how one is listening the commandment of Hashem, that one is exalting him and thanking him for all the kindness He does, and to try and complete the מצוה to the best way one can.[^56]</span>
+# Techias Hameisim
+1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See [אוצר מדרשים, מדרש תחיית המתים](https://www.sefaria.org/Otzar_Midrashim%2C_Midrash_on_Revival_of_the_Dead%2C_Introduction?lang=he)</span></span>
+# "Objective" Right and Wrong
+1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See יו"ד סימן צט ט"ז ס"ק ט who brings down the מהרי"ק שורש קסז. This may be a source for this, although I it is not clear to me. I would probably need to see the actual מהרי"ק.</span></span>
+# Getting a Concept into One's Emotions
+1. <span style="display: block; text-align: justify;">One can help oneself feel something in one's emotions by thinking about the concept and picturing it in one's imagination.[^57]</span>
+# רוח הקודש
+1. <span style="display: block; text-align: justify;">One who has רוח הקודש is able to know things even without being able to see them or feel them with one's senses or in any logical type of way. It seems to be similar to the way it is described in stories (where גדולים know things that doesn't make sense for them to know).[^58]</span>
+2. <span style="display: block; text-align: justify;">Being on the מדרגה of one who receives רוח הקודש is for those on the highest levels, like נביאים.&lrm;[^58]</span>
+# Things to come back to
+1. <span style="display: block; text-align: justify;">יהושע א ז חומת אנך שם</span>
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8
@@ -295,40 +307,42 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^17]: מלבי"ם on יהושע 7:1 ד"ה וימעלו based off the Abarbanel
 [^18]: חובות הלבבות שער עבודת אלקים פרק ז (last paragraph) with מרפא לנפש there
 [^19]: שופטים ה ב חומת אנך ד"ה בפרע פרעות
-[^20]: 'יהושע ז י מנחה קטנה ד"ה ויאמר ה
-[^21]: Own thoughts based on the ma'areh מקום
-[^22]: The World That Was: America 1900-1945: Transmitting the תורה Legacy to America : The NCSY Miracle
-[^23]: Conversations with people
-[^24]: Rav Aharon Lopiansky : Shiur on Agadita
-[^25]: Based on חובות הלבבות שער עבודת אלקים פרק ו, paragraph beginning with "הענין השני" on page שפח in the blue ג פירושים version
-[^26]: רלב"ג on יהושע, תועליות in פרק 8, תועלת 14; רלב"ג on שופטים, תועליות in פרק 5, תועלת 1
-[^27]: רלב"ג on שופטים, תועליות in פרק 5, תועלת 2
-[^28]: .ע"ז ה
-[^29]: יהושע ח ל
-[^30]: יהושע ח ל מנחה קטנה שם
-[^31]: שופטים א ו-ז רלב"ג ומלבי"ם שם
-[^32]: שופטים ה ב מצודת דוד ד"ה בהתנדב עם
-[^33]: שופטים ח א חומת אנך ד"ה מה הדבר
-[^34]: חובות הלבבות שער עבודת אלקים פרק ו (near the end. Page 393 in the blue ג פירושים version)
-[^35]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
-[^36]: שופטים ח ה, ח יב, ח יח-כא
-[^37]: רלב"ג תועלת טו בשופטים פרק י
-[^38]: רלב"ג תועלת י בשופטים פרק טז
-[^39]: Tiferes Dovid : Chapter 4 (pg 46-47)
-[^40]: מלכים ב יב ג מלבי"ם שם (as presented by Tiferes Dovid : Chapter 4 (footnote 42))
-[^41]: Tiferes Dovid : Chapter 4 (footnote 43)
-[^42]: Tiferes Dovid : Chapter 4 (footnote 44)
-[^43]: Tiferes Dovid : Chapter 4 (footnote 45)
-[^44]: חובות הלבבות שאר הבטחון פרק ה פס לחם ד"ה Livchor (pg 554)
-[^45]: חובות הלבבות שאר הבטחון פרק ה טוב הלבנון ד"ה וחושך (pg 556)
-[^46]: Based on יהושע א א-ב ראשון לציון שם (first few paragraphs)
-[^47]: יהושע א ח מלבי"ם שם
-[^48]: חובות הלבבות שער חשבון הנפש פרק ב מרפא לנפש ד"ה ומה שלא (pg קפא in blue ג פרושים)
-[^49]: יהושע א ח חומת אנך שם
-[^50]: יהושע א ח חומת אנך שם presenting Menachos .קי
-[^51]: יהושע א ו מלבי"ם שם
-[^52]: יהושע א ז מלבי"ם שם
-[^53]: חובות הלבבות שער עבודת אלקים פרק ז פס לחם ד"ה להראות, מרפא לנפש ד"ה והשביעי (pg שצז in blue ג פירושים. Based on יומא פו: רש"י ד"ה מפרסמין)
+[^20]: חובות הלבבות שער עבודת אלקים פרק ז פס לחם ד"ה להראות, מרפא לנפש ד"ה והשביעי (pg שצז in blue ג פירושים. Based on יומא פו: רש"י ד"ה מפרסמין)
+[^21]: 'יהושע ז י מנחה קטנה ד"ה ויאמר ה
+[^22]: Own thoughts based on the ma'areh מקום
+[^23]: The World That Was: America 1900-1945: Transmitting the תורה Legacy to America : The NCSY Miracle
+[^24]: Conversations with people
+[^25]: Rav Aharon Lopiansky : Shiur on Agadita
+[^26]: Based on חובות הלבבות שער עבודת אלקים פרק ו, paragraph beginning with "הענין השני" on page שפח in the blue ג פירושים version
+[^27]: רלב"ג on יהושע, תועליות in פרק ח, תועלת יד; רלב"ג on שופטים, תועליות in פרק ה, תועלת א
+[^28]: רלב"ג on שופטים, תועליות in פרק 5, תועלת 2
+[^29]: .ע"ז ה
+[^30]: יהושע ח ל
+[^31]: יהושע ח ל מנחה קטנה שם
+[^32]: שופטים א ו-ז רלב"ג ומלבי"ם שם
+[^33]: שופטים ה ב מצודת דוד ד"ה בהתנדב עם
+[^34]: שופטים ח א חומת אנך ד"ה מה הדבר
+[^35]: חובות הלבבות שער עבודת אלקים פרק ו (near the end. Page 393 in the blue ג פירושים version)
+[^36]: רלב"ג תועלת י בשופטים פרק טז
+[^37]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
+[^38]: שופטים ח ה, ח יב, ח יח-כא
+[^39]: רלב"ג תועלת טו בשופטים פרק י
+[^40]: Tiferes Dovid : Chapter 4 (pg 46-47)
+[^41]: מלכים ב יב ג מלבי"ם שם (as presented by Tiferes Dovid : Chapter 4 (footnote 42))
+[^42]: Tiferes Dovid : Chapter 4 (footnote 43)
+[^43]: Tiferes Dovid : Chapter 4 (footnote 44)
+[^44]: Tiferes Dovid : Chapter 4 (footnote 45)
+[^45]: חובות הלבבות שאר הבטחון פרק ה פס לחם ד"ה Livchor (pg 554)
+[^46]: חובות הלבבות שאר הבטחון פרק ה טוב הלבנון ד"ה וחושך (pg 556)
+[^47]: Based on יהושע א א-ב ראשון לציון שם (first few paragraphs)
+[^48]: יהושע א ח מלבי"ם שם
+[^49]: חובות הלבבות שער חשבון הנפש פרק ב מרפא לנפש ד"ה ומה שלא (pg קפא in blue ג פרושים)
+[^50]: יהושע א ח חומת אנך שם
+[^51]: יהושע א ח חומת אנך שם presenting Menachos .קי
+[^52]: יהושע א ו מלבי"ם שם
+[^53]: יהושע א ז מלבי"ם שם
 [^54]: חובות הלבבות שער עבודת אלקים פרק ח פס לחם ד"ה אם (pg תא in blue ג פירושים.)
 [^55]: חובות הלבבות שער חשבון הנפש פרק ג (paragraph beginning with  "ובחן זה", pg קצד in blue ג פירושים.)
-[^56]:  חובות הלבבות שער חשבון הנפש פרק ג (pgs רג-רד)
+[^56]: חובות הלבבות שער חשבון הנפש פרק ג (pgs רג-רד)
+[^57]: Based on חובות הלבבות שאר חשבון הנפש פרק ג paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז) <span style="color:rgb(255, 0, 0)">This really is all over the חובות הלבבות</span>
+[^58]: חובות הלבבות שאר חשבון הנפש פרק ג מרפא לנפש ד"ה ויהיה במדרגה paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז)

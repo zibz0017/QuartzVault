@@ -10,4 +10,4 @@
 [^1]: משנה ברורה סימן 46 סעיף 1
 [^2]: Oz Vehadar footnote 34 bringing down ערוך השלחן סימן 46 סעיף 9
 [^3]: משנה ברורה סימן 46 סעיף 2
-[^4]: What about Ruach Raah? Even if they didn’t touch covered body parts this should still be a problem?
+[^4]: What about רוח Raah? Even if they didn’t touch covered body parts this should still be a problem?

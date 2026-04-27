@@ -92,7 +92,7 @@
 1. <span style="display: block; text-align: justify;">Includes [[#Peshischa]], [[#Kotzk]], [[#Piaseczno (Piacezna) Rebbe|Piaseczno]] (commonly spelled Piacezna, even though Piaseczno is the way the name of the town is spelled) and [[#Ger]] (which may be the most popular and well known form a chassidus). [^29]</span>
 ## The Chozeh of Lublin
 1. <span style="display: block; text-align: justify;">Originally started in the 1700s with the Chozeh of Lublin, Rav Yaakov Yitzchak Horowitz. [^29]</span>
-2. <span style="display: block; text-align: justify;">The Chozeh was called this because he was able to “see” things (meaning, he had ruach hakodesh). The story goes that he had this because he was very מקפיד on shmiras einayim. [^29]</span>
+2. <span style="display: block; text-align: justify;">The Chozeh was called this because he was able to “see” things (meaning, he had רוח הקודשThe story goes that he had this because he was very מקפיד on shmiras einayim. [^29]</span>
 3. <span style="display: block; text-align: justify;">Chassidus was centered around the simple Jew. [^29]</span>
 4. <span style="display: block; text-align: justify;">The תורה from them contains a lot of derush. [^29]</span>
 ## Peshischa

@@ -3,7 +3,7 @@
 ## Food is Totally Removed
 1. <span style="display: block; text-align: justify;">A דבר שיש לו מתירין fell into a food on the flame. Before the food was eaten, the איסור was removed (leaving behind the בליעות).</span>
 ## Food is Absorbed
-1. <span style="display: block; text-align: justify;">According to the רמ"א (according to the ש"ך and ט"ז) and the ט"ז (and others), if the איסור is absorbed into the mixture, it is also viewed as just טעם and so it can be מבוטל.</span>
+1. <span style="display: block; text-align: justify;">According to the רמ"א (according to the ש"ך and ט"ז) and the ט"ז (and others), if the איסור is absorbed into the mixture, it is also viewed as just טעם.</span>
 # &lrm;שיטות
 1. <span style="display: block; text-align: justify;">ט"ז, רמ"א: This can be מבוטל.</span>
 2. <span style="display: block; text-align: justify;">ש"ך: This is still considered בעין and so it cannot be מבוטל.</span>

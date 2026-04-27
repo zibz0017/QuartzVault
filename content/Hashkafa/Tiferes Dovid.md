@@ -7,7 +7,7 @@
 ### Extracting from חז"ל
 #### Main Idea
 1. <span style="display: block; text-align: justify;">There is more written "between the lines" than what is actually "on the line".[^2]</span>
-2. <span style="display: block; text-align: justify;">One develops his understanding of the sugya through intense focus on extracting from what is written, rather than coming up with one's own svaros. The advantage of this is that one's תורה is built on חז"ל, rather than oneself.[^3]</span>
+2. <span style="display: block; text-align: justify;">One develops his understanding of the sugya through intense focus on extracting from what is written, rather than coming up with one's own סברות. The advantage of this is that one's תורה is built on חז"ל, rather than oneself.[^3]</span>
 #### Particular Points to Examine
 1. <span style="display: block; text-align: justify;">לשון.&lrm;[^2]</span>
 2. <span style="display: block; text-align: justify;">"כלומר"s in רש"י (רש"י isn't saying the פשוט פשט. What is the פשוט פשט and why didn't רש"י like it?)[^2]</span>

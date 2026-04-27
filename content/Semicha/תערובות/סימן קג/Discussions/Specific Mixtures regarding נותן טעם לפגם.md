@@ -9,5 +9,5 @@
 # Meat and Oil
 1. <span style="display: block; text-align: justify;">מחבר, רמ"א: It is considered נותן טעם לפגם.</span>
 2. <span style="display: block; text-align: justify;">ש"ך: It is not considered נותן טעם לפגם.</span>
-# Wine and Meat of Milk
+# Wine and Meat or Milk
 1. <span style="display: block; text-align: justify;">This is considered נותן טעם לפגם.</span>
