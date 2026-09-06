@@ -3,7 +3,7 @@
 # Story
 ## Subjugation
  1. <span style="display: block; text-align: justify;">כלל ישראל was defeated by the Moavi king, Eglon, together with עמלק.&lrm;[^1]</span>
- 2. <span style="display: block; text-align: justify;">כלל ישראל was forced to work for Moav and/or pay tribute.[^2] In addition, the City of Dates (a city built on the outskirts of the destroyed Yericho) was taken.[^3]</span>
+ 2. <span style="display: block; text-align: justify;">כלל ישראל was forced to work for Moav and/or pay tribute.[^2] In addition, the City of Dates (a city built on the outskirts of the destroyed יריחו) was taken.[^3]</span>
 ### King Eglon
  1. <span style="display: block; text-align: justify;">According to some מפרשים, Eglon was a weak king. Hashem strengthened him to punish כלל ישראל.&lrm;[^4]</span>
  2. <span style="display: block; text-align: justify;">According to most מפרשים, he was extremely fat.[^5] (This is relevant for later in the story.)</span>
@@ -12,9 +12,9 @@
  1. <span style="display: block; text-align: justify;">Hashem sent a shofet named Eihud to save them.[^7]</span>
 ### Eihud
 1. <span style="display: block; text-align: justify;">Eihud was a lefty.[^7] (This is relevant for later in the story).</span>
-2. <span style="display: block; text-align: justify;">His מדות and tzidkus are not discussed much.</span>
+2. <span style="display: block; text-align: justify;">His מדות and צדקות are not discussed much.
    One פרוש makes note of the fact that the נביא does not say that he judged the people. {<span style="color:rgb(255, 0, 0)">Source needed</span>}
-   However, a different פרוש says that because of his זכות, כלל ישראל was not conquered by other nations during his lifetime, even though they had started doing עבירות again.[^8]
+   However, a different פרוש says that because of his זכות, כלל ישראל was not conquered by other nations during his lifetime, even though they had started doing עבירות again.[^8]</span>
 ### Assassination
 #### Lack of Suspicion
 ##### The Weapon

@@ -179,7 +179,7 @@ Can one cook horse meat and milk together?
 ## Summary
 1. <span style="display: block; text-align: justify;">There is no bietzem problem. However, there may be a מראית עין problem. It seems that the ש"ך and ט"ז themselves would say that there is no issue.</span>
 # Question 26
-1. <span style="display: block; text-align: justify;">Can one soak a shofar in milk to make it easier to blow?</span>
+1. <span style="display: block; text-align: justify;">Can one soak a שופרn milk to make it easier to blow?</span>
 ## Answer
 ### Basic Issues
 1. <span style="display: block; text-align: justify;">One is getting הנאה from בב״ח.</span>
@@ -202,7 +202,7 @@ Can one cook horse meat and milk together?
 ### Discussion 2
 1. <span style="display: block; text-align: justify;">Is it מותר to do something that will פסיק רישא violate an איסור on שבת if they are not getting הנאה and do not have intent to do the איסור?</span>
 2. <span style="display: block; text-align: justify;">The ערוך says that one is allowed to.</span>
-3. <span style="display: block; text-align: justify;">'תוס says that one is not.</span>
+3. <span style="display: block; text-align: justify;">תוס'&rlm says that one is not.</span>
 ### Summary
 1. <span style="display: block; text-align: justify;">The ערוך would say that this is permitted because according to him, one may do something that will פסיק רישא do an איסור if he doesn't have intent and he doesn't get הנאה.</span>
 2. <span style="display: block; text-align: justify;">According to the ט"ז and טור, this is permitted because this is a case of ספק where the person doesn't have intent to violate the איסור and he is not getting הנאה.</span>

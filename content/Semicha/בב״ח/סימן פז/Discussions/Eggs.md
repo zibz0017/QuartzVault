@@ -4,7 +4,7 @@
 1. <span style="display: block; text-align: justify;">There is problem of אבר מן החי to eat an egg that is taken from a live bird that is still embedded in the innards. Seemingly, we view this egg as a part of the bird.</span>
 2. <span style="display: block; text-align: justify;">However, regarding בב״ח, we say that there is no issue in such a case. Seemingly, we view this egg as an egg and not part of the bird.</span>
 ## Responses
-1. <span style="display: block; text-align: justify;">The ש"ך presents other שיטות (including 'תוס and the רשב"א) that answer that we are more lenient regarding בב״ח in this case because:</span>
+1. <span style="display: block; text-align: justify;">The ש"ך presents other שיטות (including תוס'&rlm and the רשב"א) that answer that we are more lenient regarding בב״ח in this case because:</span>
 	1. <span style="display: block; text-align: justify;">There is only an איסור דרבנן regarding bird meat. (The רשב"א does not like this answer. He doesn't think that this is a difference that makes for a difference.)</span>
 	2. <span style="display: block; text-align: justify;">Both individual foods regarding בב״ח are מותר.</span>
 2. <span style="display: block; text-align: justify;">The ש"ך himself answers that אבר מן החי is different because the "baseline" is that everything that comes from an animal is אסור. Even milk would be אסור. The only reason it is not is because of a specific גזירת הכתוב. In fact, some say that drinking מי חלב is a violation of אבר מן החי. Clearly we see that even if something is considered אבר מן החי, that does not mean that it is considered "meat" (because even literal milk and מי חלב could potentially be a violation of אבר מן החי).</span>

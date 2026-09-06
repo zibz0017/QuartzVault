@@ -33,7 +33,7 @@
 6. <span style="display: block; text-align: justify;">They would hire Jews to run and manage these places for them. This was a very steady and solid פרנסה during this time. [^1]</span>
 7. <span style="display: block; text-align: justify;">The Ukrainians did not like this. This created a strong drive for nationalism {Need to confirm this} and they united under Khmelnytsky. Because the Jews collected the taxes, they were not well liked amongst the Ukrainians. When the Ukrainians revolted in 1648, they killed tens of thousands of Jews. This became known as גזירת ת"ח ות"ט. &lrm;[^1][^9][^10]</span>
 8. <span style="display: block; text-align: justify;">This destruction laid the groundwork for the Jews to gather around any sort of glimmer of hope. Hence, this was shortly followed by Shabsai Tzvi, who actually began making his claims in 1648 as well. Although he did not start in Poland, his movement did take strong root and had terrible consequences. [^1][^11]</span>
-9. <span style="display: block; text-align: justify;">This was later followed by a local false messiah named Jacob Frank (who claimed to be a gilgul of Shabsai Tzvi) in 1759. This also had devastating consequences. [^1] [^12]</span>
+9. <span style="display: block; text-align: justify;">This was later followed by a local false messiah named Jacob Frank (who claimed to be a גלגול of Shabsai Tzvi) in 1759. This also had devastating consequences. [^1] [^12]</span>
 10. <span style="display: block; text-align: justify;">This also led to the creation {<font color="#ff0000">or was it started elsewhere but took strong root here?</font>} of chassidus. {<font color="#ff0000">Not exactly sure how this happened. Perhaps people were looking for something to latch onto?</font>}[^1]</span>
 11. <span style="display: block; text-align: justify;">Polish Chassidus was originally like other forms of chassidus but eventually, largely turned into Ger.[^1]</span>
 12. <span style="display: block; text-align: justify;">At this point in time, if you were frum, you were a chassid, and if you were not a chassid, you were not frum. This way of life lasted up to WWI.[^1] {<font color="#ff0000">I’m not sure what the state of things were at the time, I think Judaism was struggling a bit but I'm not sure.</font>}</span>
@@ -55,7 +55,7 @@
 1. <span style="display: block; text-align: justify;">Includes a tremendous amount of גדולים, such as:</span>
 	1. <span style="display: block; text-align: justify;">[[#Rav Yaakov Pollak]]</span>
 	2. <span style="display: block; text-align: justify;">[[#Rav Shalom Shachna]]</span>
-	3. <span style="display: block; text-align: justify;">The [[#&lrm;מהרש"ל]]</span>
+	3. <span style="display: block; text-align: justify;">The [[#&lrm;מהרש"ל|מהרש"ל]]</span>
 	4. <span style="display: block; text-align: justify;">The רמ"א (Rav Moshe Isserles 1530 – 1572 [^18])</span>
 	5. <span style="display: block; text-align: justify;">The מהרש"א (Rav Shmuel Eidels 1555 – 1631 [^19])</span>
 	6. <span style="display: block; text-align: justify;">The [[#The Smah|Smah]]</span>
@@ -66,27 +66,27 @@
 	11. <span style="display: block; text-align: justify;">The בית Shmuel (Rav Shmuel בן Uri Shraga Phoebus 1625 or 1650 - 1701 [^23])</span>
 ## Rav Yaakov Pollak
 1. <span style="display: block; text-align: justify;">Rav Yaakov Pollak lived from 1460 or 70 - 1541. [^24]</span>
-2. <span style="display: block; text-align: justify;">Was the rebbi of Rabbi Shalom Shachna of Lublin, Meïr of Padua (Maharam Padua) and the Maharal of Prague. [^24]</span>
+2. <span style="display: block; text-align: justify;">Was the rebbi of Rabbi Shalom Shachna of Lublin, Meïr of Padua (Maharam Padua) and the מהר"ל of Prague. [^24]</span>
 3. <span style="display: block; text-align: justify;">He, along with his תלמיד Rav Shachna, is considered the father of the learning style of Rettinsburg Pilpul which is a style of pilpul which is not accepted.[^25]</span>
 4. <span style="display: block; text-align: justify;">The style of pilpul takes the assumption that the gemarah knew every step at every step. So every time you go through a step in the gemarah, you have to relearn the whole gemarah. Also, the style of pilpul might seek to address a question in a way that might work in חשבון but is totally not מסתבר and therefore not pshat in the gemarah.[^25]</span>
 ## Rav Shalom Shachna
 1. <span style="display: block; text-align: justify;">Rav Shalom Shachna lived from 1490 or 1510 - 1558.[^26]</span>
 2. <span style="display: block; text-align: justify;">He was the father-in-law and rebbi of the רמ"א.&lrm;[^25][^26]</span>
-3. <span style="display: block; text-align: justify;">Established a big yeshiva in Lublin in 1515.[^26]</span>
+3. <span style="display: block; text-align: justify;">Established a big ישיבה in Lublin in 1515.[^26]</span>
  ^f7cb43
 4. <span style="display: block; text-align: justify;">As mentioned, he is considered the father of Rettinsburg Pilpul, along with his Rebbi, Rav Yaakov Pollak. [^25]</span>
 ## &lrm;מהרש"ל
 1. <span style="display: block; text-align: justify;">Rav Shlomo Luria (1510 – November 7, 1573).[^27]</span>
-2. <span style="display: block; text-align: justify;">Took over the Yeshiva of Lublin after the death of Rav Shalom Shachna and later opened his own yeshiva.[^27]</span>
+2. <span style="display: block; text-align: justify;">Took over the ישיבה of Lublin after the death of Rav Shalom Shachna and later opened his own ישיבה.[^27]</span>
 3. <span style="display: block; text-align: justify;">Wrote חכמת Shlomo (his פרוש at the back of the gemarah) and Yam של Shlomo, amongst other things.[^25][^27]</span>
-4. <span style="display: block; text-align: justify;">Was opposed to the Shulchan ערוך and רמ"א-style approach to giving over הלכה. The רא"ש and the רי"ף, for example, write on the gemarah. A posek has to learn them and then he can come to his own psakim. The Shluchan ערוך is not like that. The Shulchan ערוך writes clear cut psakim. The מהרש"ל felt that this was against the mesorah. The gemarah was the last piece of universally accepted codified הלכה and that was it. There was to be no more after that. </span>
+4. <span style="display: block; text-align: justify;">Was opposed to the Shulchan ערוך and רמ"א-style approach to giving over הלכה. The רא"ש and the רי"ף, for example, write on the gemarah. A posek has to learn them and then he can come to his own psakim. The Shluchan ערוך is not like that. The Shulchan ערוך writes clear cut psakim. The מהרש"ל felt that this was against the mesorah. The gemarah was the last piece of universally accepted codified הלכה and that was it. There was to be no more after that.
    For this reason, he was against the רמב"ם as well.
-   This is part of why he wrote his Yam של Shlomo. [^25]
+   This is part of why he wrote his Yam של Shlomo.[^25]</span>
 5. <span style="display: block; text-align: justify;">It seems that כלל ישראל has accepted the Shulchan ערוך and רמ"א-style of psak. [^25]</span>
-6. <span style="display: block; text-align: justify;">The מהרש"ל was a bit sharp sometimes. He was not one to pull punches. [^25]</span>
+6. <span style="display: block; text-align: justify;">The מהרש"ל was a bit sharp sometimes. He was not one to pull punches.[^25]</span>
 ## The Smah
-1. <span style="display: block; text-align: justify;">Rav Yehoshua Hakohen Falk (1555 – 29 March 1614). Also known as the Mahari Katz. [^28]</span>
-2. <span style="display: block; text-align: justify;">Also authored the Prishah and the Drishah. [^25]</span>
+1. <span style="display: block; text-align: justify;">Rav Yehoshua Hakohen Falk (1555 – 29 March 1614). Also known as the Mahari Katz.[^28]</span>
+2. <span style="display: block; text-align: justify;">Also authored the פרישה and the Drishah.[^25]</span>
 3. <span style="display: block; text-align: justify;">He was a תלמיד of the רמ"א and the מהרש"ל.&lrm;[^28]</span>
 # Polish Chassidus
 1. <span style="display: block; text-align: justify;">Includes [[#Peshischa]], [[#Kotzk]], [[#Piaseczno (Piacezna) Rebbe|Piaseczno]] (commonly spelled Piacezna, even though Piaseczno is the way the name of the town is spelled) and [[#Ger]] (which may be the most popular and well known form a chassidus). [^29]</span>
@@ -128,7 +128,7 @@
 6. <span style="display: block; text-align: justify;">In the days of the Piacezna, the חינוך was very strict. Ger was the popular Chassidus at that point and Ger maintained a lot of the intensity and brutal honesty of Kutzk. Because of this, many children were going off the דרך.&lrm;[^34]</span>
 7. <span style="display: block; text-align: justify;">The Piacezna looked at this situation as a problem with the rabbeim and the system in general, not with the kids (meaning, the style of חינוך had to change, not the kids). [^34]</span>
 8. <span style="display: block; text-align: justify;">His system was much more positive. He focused on instilling into the kids the importance of being Jewish and the importance of their role as the future כלל ישראל. This is at least part of what ספר חובות Hatalmidim is about. The ספר is still extremely relevant in our times. [^34]</span>
-9. <span style="display: block; text-align: justify;">He founded a yeshiva called דעת משה in 1923. [^34]</span>
+9. <span style="display: block; text-align: justify;">He founded a ישיבה called דעת משה in 1923. [^34]</span>
 10. <span style="display: block; text-align: justify;">Near the beginning of World War II, his son and daughter-in-law were killed by a German bombing raid. [^34][^35]</span>
 11. <span style="display: block; text-align: justify;">During the war, he was sent to the Warsaw Ghetto. [^34][^35]</span>
 12. <span style="display: block; text-align: justify;">He was deported to the Trawniki concentration camp where he was killed in 1943. [[^35]</span>
@@ -171,24 +171,24 @@
 ## Rav Meir Shapiro
 1. <span style="display: block; text-align: justify;">Rav Meir Shapiro was great in many ways. He was an iluy, people-smart, a visionary, charismatic, and situationally savvy in the sense that he knew how to play politics. [^40]</span>
 2. <span style="display: block; text-align: justify;">He was born in 1887 and was nifter in 1933.[^40][^41]</span>
-3. <span style="display: block; text-align: justify;">His two major projects were daf yomi and Yeshiva Chachmei Lublin (יח"ל).&lrm;[^40]</span>
+3. <span style="display: block; text-align: justify;">His two major projects were daf yomi and ישיבה Chachmei Lublin (יח"ל).&lrm;[^40]</span>
 4. <span style="display: block; text-align: justify;">He wanted יח"ל to be very shpitzy, similar to what the Alter of Slabodka did in Slabodka. He wanted a nice building, he wanted the bochurim to dress elegantly, and he wanted to pay for the bochurim’s room and board. See [Shpitziness in European Yeshivos](https://docs.google.com/document/d/1G9MyZ7hkdbQ55tiod1kWFLN2z-TGUhaIFnR8WyFCVq4/edit#bookmark=id.arjl6mm7obgo) for why this was important. [^40]</span>
 5. <span style="display: block; text-align: justify;">Before this, the store owners would have bochurim sleep in shops to keep away thieves. Rav Meir Shapiro drily noted the tremendous זכות the Polish thieves had. [^40]</span>
-6. <span style="display: block; text-align: justify;">He fundraised for seven years to create the yeshiva. [^40]</span>
-7. <span style="display: block; text-align: justify;">Poland didn’t really have a general דרך halimud. This was because nearly every chassidus had their own yeshiva and there was very little cross-pollination (a chassid in one chassidus was not likely to go learn at the yeshiva of a different chassidus). [^40]</span>
+6. <span style="display: block; text-align: justify;">He fundraised for seven years to create the ישיבה. [^40]</span>
+7. <span style="display: block; text-align: justify;">Poland didn’t really have a general דרך halimud. This was because nearly every chassidus had their own ישיבה and there was very little cross-pollination (a chassid in one chassidus was not likely to go learn at the ישיבה of a different chassidus). [^40]</span>
 8. <span style="display: block; text-align: justify;">As such, Rav Meir Shapiro traveled to Lithuania to examine the different דרכי limud there and then create one. (By this time Rav Chaim Brisker’s מהלך was widespread amongst the yeshivos). [^40]</span>
 9. <span style="display: block; text-align: justify;">The דרך halimud he came up with was four years of kodshim (Rav Lopiansky didn’t know why this was) followed by three years of standard semichah. [^40]</span>
-10. <span style="display: block; text-align: justify;">The yeshiva building was massive. It was six floors and had 20,000 sefarim. [^40]</span>
+10. <span style="display: block; text-align: justify;">The ישיבה building was massive. It was six floors and had 20,000 sefarim. [^40]</span>
 11. <span style="display: block; text-align: justify;">The bochurim walked around with fancy silver walking sticks. [^40]</span>
-12. <span style="display: block; text-align: justify;">The yeshiva did not align itself with any particular chassidus. This was necessary to attract bochurim from all different chassiduses. (This ties back into Rav Meir Shapiro’s savviness and understanding of people.) [^40]</span>
-13. <span style="display: block; text-align: justify;">There were some general chassidish elements to the yeshiva: The yeshiva had a mikvah and had a Friday night tish. [^40]</span>
-14. <span style="display: block; text-align: justify;">After the death of Rav Meir Shapiro, the yeshiva hired a new rosh yeshiva. [^40]</span>
-15. <span style="display: block; text-align: justify;">He had some interesting שיטות and so the yeshiva moved on from him after a few years. [^40]</span>
-16. <span style="display: block; text-align: justify;">The yeshiva hired a massive תלמיד chochom after this. [^40]</span>
-17. <span style="display: block; text-align: justify;">Both of these roshei yeshivos were chassidish. Chassidim were not going to learn under a Litvish rosh yeshiva. [^40]</span>
-18. <span style="display: block; text-align: justify;">Under this rosh yeshiva, the yeshiva started to regain some momentum it lost since the death of Rav Meir Shapiro. [^40]</span>
-19. <span style="display: block; text-align: justify;">Unfortunately, this did not last long as the Nazis destroyed the yeshiva in 1940. [^40]</span>
-20. <span style="display: block; text-align: justify;">During its time, the yeshiva produced some great talmidei חכמים, such as Rav Shmuel Vosner. [^40]</span>
+12. <span style="display: block; text-align: justify;">The ישיבה did not align itself with any particular chassidus. This was necessary to attract bochurim from all different chassiduses. (This ties back into Rav Meir Shapiro’s savviness and understanding of people.) [^40]</span>
+13. <span style="display: block; text-align: justify;">There were some general chassidish elements to the ישיבה: The ישיבה had a מקוה and had a Friday night tish. [^40]</span>
+14. <span style="display: block; text-align: justify;">After the death of Rav Meir Shapiro, the ישיבה hired a new rosh ישיבה. [^40]</span>
+15. <span style="display: block; text-align: justify;">He had some interesting שיטות and so the ישיבה moved on from him after a few years. [^40]</span>
+16. <span style="display: block; text-align: justify;">The ישיבה hired a massive תלמיד חכם after this. [^40]</span>
+17. <span style="display: block; text-align: justify;">Both of these roshei yeshivos were chassidish. Chassidim were not going to learn under a Litvish rosh ישיבה. [^40]</span>
+18. <span style="display: block; text-align: justify;">Under this rosh ישיבה, the ישיבה started to regain some momentum it lost since the death of Rav Meir Shapiro. [^40]</span>
+19. <span style="display: block; text-align: justify;">Unfortunately, this did not last long as the Nazis destroyed the ישיבה in 1940. [^40]</span>
+20. <span style="display: block; text-align: justify;">During its time, the ישיבה produced some great talmidei חכמים, such as Rav Shmuel Vosner. [^40]</span>
 ## Sarah Schenirer and the בית יעקב Movement
 ### Background: חינוך in the Late 1800s - WWI
 1. <span style="display: block; text-align: justify;">See [[#Focus on Education in the Late 1800s|here]].</span>

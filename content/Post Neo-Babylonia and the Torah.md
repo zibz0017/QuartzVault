@@ -5,23 +5,23 @@
 {<font color="#ff0000">Need to put in the years that at least some of these things occurred</font>}
 1. <span style="display: block; text-align: justify;">Daryaveish Hamadi (Darius the Mede) conquered Babyonia from Belshazzar. {<font color="#ff0000">Need source. I think this is in the beginning of Daniel</font>}</span> ^b9ec35
 2. <span style="display: block; text-align: justify;">He is succeeded by Koresh (Cyrus the Great).[^1]</span>
-3. <span style="display: block; text-align: justify;">In the 1st year of his reign, he allowed the Jews to return to ארץ ישראל and rebuild the בית Hamikdash.[^2][^3]</span>
+3. <span style="display: block; text-align: justify;">In the 1st year of his reign, he allowed the Jews to return to ארץ ישראל and rebuild the בית המקדש.[^2][^3]</span>
 4. <span style="display: block; text-align: justify;">Jews do this under Zerubavel.</span>
 5. <span style="display: block; text-align: justify;">The non-Jews write defamatory letters about the Jews and get “King Artachshashtah” to stop the construction.[^4] </span>
    It is not clear who this king is. “Artachshashtah'' is a generic name for “king” in Persia (like Pharoh in מצרים). This could be Koresh,[^5] his successor Achashveirosh[^6] or a king between them.[^7] (I don’t know how this last opinion fits with Seder עולם. I don’t think Seder עולם has a king between Koresh and Achasveirosh. Also, is this king mentioned anywhere else?)
 6. <span style="display: block; text-align: justify;">Daryaveish Hamadi and Koresh rule for a combined 4 years.[^8][^9]</span>
-7. <span style="display: block; text-align: justify;">Achashveirosh comes to power. He also receives negative reports about the Jews and so he bans construction on the בית Hamikdash.[^10][^11]</span>
+7. <span style="display: block; text-align: justify;">Achashveirosh comes to power. He also receives negative reports about the Jews and so he bans construction on the בית המקדש.[^10][^11]</span>
 8. <span style="display: block; text-align: justify;">Purim happens.</span>
 9. <span style="display: block; text-align: justify;">Achashveirosh rules for 14 years.[^8][^12]</span>
 10. <span style="display: block; text-align: justify;">Daryaveish Haparsi (Darius the Great) ascends to the throne.</span>
-11. <span style="display: block; text-align: justify;">In the second year of his rule, Chagai and Zachariah have a נבואה that the Jews should work on the בית Hamikdash without official permission.[^13][^14]</span> ^d227be
+11. <span style="display: block; text-align: justify;">In the second year of his rule, Chagai and Zachariah have a נבואה that the Jews should work on the בית המקדש without official permission.[^13][^14]</span> ^d227be
 12. <span style="display: block; text-align: justify;">Daryaveish investigates and finds the original proclamation of Koresh allowing construction, and so he allows the construction.[^15]</span>
-13. <span style="display: block; text-align: justify;">The בית Hamikdash is completed in year 6 of Daryaveish’s reign in Adar.[^16]</span>
+13. <span style="display: block; text-align: justify;">The בית המקדש is completed in year 6 of Daryaveish’s reign in Adar.[^16]</span>
 14. <span style="display: block; text-align: justify;">עזרא comes to Yerushalaym a year and a half later.[^17]</span>
-15. <span style="display: block; text-align: justify;">He has proclamations from the king to get resources from the goyim to help build the בית Hamikdash.[^18]</span>
+15. <span style="display: block; text-align: justify;">He has proclamations from the king to get resources from the goyim to help build the בית המקדש.[^18]</span>
 16. <span style="display: block; text-align: justify;">Artachshashtah in this part is Daryaveish[^19]</span>
 17. <span style="display: block; text-align: justify;">In the 20th year of Artachshashta, Nechemia received word that conditions in Yerushalayim are very bad and the walls of the city have been destroyed. So Nechemia gets money from the king to help rebuild the walls.[^20]</span>
-18. <span style="display: block; text-align: justify;">52 years after Daryaveish Hamadi defeated the Babylonians ([[#^b9ec35|this]])[^21] and 34 years and construction on the בית Hamikdash is begun by Zecharia and Chagai ([[#^d227be|this]]),[^22] Persian rule over ארץ ישראל comes to an end with the Greeks taking over.[^23][^24]</span>
+18. <span style="display: block; text-align: justify;">52 years after Daryaveish Hamadi defeated the Babylonians ([[#^b9ec35|this]])[^21] and 34 years and construction on the בית המקדש is begun by Zecharia and Chagai ([[#^d227be|this]]),[^22] Persian rule over ארץ ישראל comes to an end with the Greeks taking over.[^23][^24]</span>
 19. <span style="display: block; text-align: justify;">According to secular historians, the Persian empire lasted about 169 years more and had many more kings.</span>
 # View of Secular Historians
 *As presented by The Challenge of Jewish History by Rabbi Alexander Hool*
@@ -135,7 +135,7 @@ Counter: The Babylonians had a god named marduk so Marduka may not have been an 
 
   
 
- See Seder עולם Rabbah 29 - 30; מדרש Lekach טוב intro to Ester; מגילה 11b-12a; עבודה זרה 9a; See if Rabbi Breidowitz has anything on תורה Anytime; The Meiri’s intro to Pirkei Avos; The רמב"ם’s intro to Pirkei Avos; Any other ראשון’s intro to Pirkei Avos that goes through the history; Rav Yaakov Weinberg on the רמב"ם’s history; Intros of ראשונים to Ester, Daniel, עזרא, עזרא, and Nechamia; רש"י and Evven עזרא to Daniel 1:1; רש"י D”H “ויבא חנני” on Rosh Hashanah 3b; Rashba and Ritva there; 'תוס D”H “שנת” there; Artscroll footnote 18 on Rosh Hashanah 3b; Rav Sadia Gaon Emuson Vdaos פרק 8; Abarbanel Maayonei Hayeshuah 2:3, 10:7-8 and 11:3; Rabbi David Ganz Tzemach Dovid part 2 pg 186-191; Maharal Be’er Hagollah pg 139-140
+ See Seder עולם Rabbah 29 - 30; מדרש Lekach טוב intro to Ester; מגילה 11b-12a; עבודה זרה 9a; See if Rabbi Breidowitz has anything on תורה Anytime; The Meiri’s intro to Pirkei אבות; The רמב"ם’s intro to Pirkei אבות; Any other ראשון’s intro to Pirkei אבות that goes through the history; Rav Yaakov Weinberg on the רמב"ם’s history; Intros of ראשונים to Ester, Daniel, עזרא, עזרא, and Nechamia; רש"י and Evven עזרא to Daniel 1:1; רש"י D”H “ויבא חנני” on Rosh Hashanah 3b; Rashba and Ritva there; תוס'&rlm D”H “שנת” there; Artscroll footnote 18 on Rosh Hashanah 3b; Rav Sadia Gaon Emuson Vdaos פרק 8; אברבנאל Maayonei Hayeshuah 2:3, 10:7-8 and 11:3; Rabbi David Ganz Tzemach Dovid part 2 pg 186-191; מהר"ל Be’er Hagollah pg 139-140
 
 # Footnotes
 

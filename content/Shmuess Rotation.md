@@ -1,5 +1,5 @@
 Tzvi Balin 3/19/26
-Yaakov Berman **(4/23/26)**
+Yaakov Berman (4/23/26)
 Sruli Feldstein (Can't go on Thursday afternoon)
 Meir Fink 12/18/25
 Uri Greenberg 2/5/26

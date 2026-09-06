@@ -62,7 +62,7 @@
 ### Regular Use
 1. <span style="display: block; text-align: justify;">One may not use any כלי that has absorbed איסור for regular use as we are concerned that the person may use it for hot food.</span>
 ## Questions on the ש"ך
-1. <span style="display: block; text-align: justify;">The מרדכי and 'תוס both say that one can't use an אסור כלי for liquid.
+1. <span style="display: block; text-align: justify;">The מרדכי and תוס'&rlm both say that one can't use an אסור כלי for liquid.
    However, perhaps this was where:</span>
 	1. <span style="display: block; text-align: justify;">The כלי wasn't properly cleaned, or</span>
 	2. <span style="display: block; text-align: justify;">Perhaps this is a כלי חרס, for which we have precedent from the רשב"א to be more מחמיר.

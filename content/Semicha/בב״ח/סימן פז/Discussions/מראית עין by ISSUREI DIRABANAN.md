@@ -5,11 +5,11 @@
 	1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Response:</span> The potential איסור here is an איסור KARES. This may not apply to cases where the potential אסורים are less strict, particularly when they are only אסורי דרבנן.</span>
 	   <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">{I don't understand the HAVA AMINA of the מהרש"ל. The response of the רמ"א seems pashut. Was the מהרש"ל simple trying to proove the concept of מראית עין in general, and he just assumed that there wouldn't be a difference between מראית עין by אסורי דרבנן and דאורייתא?}</span></span>
 2. <span style="display: block; text-align: justify;">One may not lead an animal with a bell outside on שבת (even if the bell is stuffed so it doesn't ring) because this is what one does when selling an animal. As such, it looks like this person is going to sell this animal, which is אסור מדרבנן.</span>
-   Similarly, 'תוס in KESUBOS makes it clear that there is a problem of מראית עין by a case of a potential איסור דרבנן.
+   Similarly, תוס'&rlm in KESUBOS makes it clear that there is a problem of מראית עין by a case of a potential איסור דרבנן.
    Additionally, there are many cases in SHAS where we see a concern for מראית עין by a case of a potential איסור דרבנן.
 	1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Response:</span> Regarding מראית עין by אסורי דרבנן, there is only a problem when the מראית עין occurs publicly. When it occurs privately, there is not problem. The 'גמ here is talking about מראית עין in public (the person is leading his animal in public).</span>
 	   The case we are talking about is a person eating his food in the privacy of his own home. There is no issue with that.
-	   (Presumably, the other gemaros that the ש"ך was referring to and 'תוס in KESUBOS are also referring to cases of מראית עין in public.) ^8bcaeb
+	   (Presumably, the other gemaros that the ש"ך was referring to and תוס'&rlm in KESUBOS are also referring to cases of מראית עין in public.) ^8bcaeb
 ## Additional Concern Regarding Bird Meat and Milk
 1. <span style="display: block; text-align: justify;">There is a שיטה in the 'גמ that it is מותר to eat bird meat with milk. As such, there is additional concern regarding eating bird meat and milk, as people seeing this may incorrectly learn that that the הלכה is like this opinion.</span>
 # Regarding Cooking and Getting הנאה
@@ -47,7 +47,7 @@
 1. <span style="display: block; text-align: justify;">The ט"ז does not feel comfortable being מקל against the רמ"א to permit cooking non-kosher meat/milk with its kosher opposite.</span>
 2. <span style="display: block; text-align: justify;">However, the ט"ז does say that one should not cook chicken and milk together, as these foods are both מותר. It is משמע from the דרכי משה that he agrees with this, as well. This is against the לבוש who says that there is no problem of מראית עין when it comes to cooking chicken because chicken is easily recognizably different than meat. The ט"ז says this because:</span>
 	1. <span style="display: block; text-align: justify;">There are times when the chicken is ground up and not recognizably different than meat.</span>
-	2. <span style="display: block; text-align: justify;">The person seeing this may not realize that that there is a difference in הלכה between chicken and milk (especially considering the fact that there is a מחלוקת TANAIM about whether there is a difference between chicken and meat).</span>
+	2. <span style="display: block; text-align: justify;">The person seeing this may not realize that that there is a difference in הלכה between chicken and milk (especially considering the fact that there is a מחלוקת תנאים about whether there is a difference between chicken and meat).</span>
 	3. <span style="display: block; text-align: justify;">There is a TANA that says that there is no problem of eating chicken with milk. As such, we have to be extra cautious when it comes to making it seem that chicken and milk is okay.</span>
 3. <span style="display: block; text-align: justify;">When it comes to רפואה, one may cook any foods that have a מראית עין problem together, even if there is no איסור to eat these foods individually (which is the case that the ט"ז is most confident that there is a מראית עין problem).</span>
 

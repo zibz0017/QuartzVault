@@ -3,6 +3,7 @@ Binomials are a specific type of [[Random Variable|random variable]] that has th
 1. <span style="display: block; text-align: justify;">There are only two possible outcomes.</span>
 2. <span style="display: block; text-align: justify;">There must be a defined number of events.</span>
 3. <span style="display: block; text-align: justify;">The probability for each outcome in each event is the same.</span>
+In other words, a binomial is a specific [[Bernoulli Trial]] run a specific number of times.
 ## Example
 The amount of heads after flipping a coin 10 times (ignoring the fact that the coin can technically land on its side).
 This checks all of the boxes: there are two possible outcomes, there are a defined number of events, and the probability of each event is the same.
@@ -89,7 +90,7 @@ If we graph this, it will look like this:
 ![[Coin Flip Distribution.png]]
 
 ## Binomial Distributions Approximate [[Density Curve#Normal Distribution|Normal Distributions]]
-Binomial distributions can somewhat approximate a bell curve, or a normal distribution. This depends on the probability and the amount of trials. The more trials you have, the more the binomial will approximate the normal distribution. It is useful to work with normal distributions because there are certain rules about estimating the probabilities of normal distributions (see the linked article for further discussion). For a "rule of thumb" for when we consider a binomial distribution "normal", see [[Sampling a Binomial-Type Random Variable#The "Normal Distribution Rule"|here]].
+Binomial distributions can somewhat approximate a bell curve, or a normal distribution. This depends on the probability and the amount of trials. The more trials you have, the more the binomial will approximate the normal distribution. It is useful to work with normal distributions because there are certain rules about estimating the probabilities of normal distributions (see the linked article for further discussion). For a "rule of thumb" for when we consider a binomial distribution "normal", see [[Central Limit Theorem and Sampling Random Variables#Bernoulli Random Variables|here]].
 # [[Random Variable#Expected Value (Average)|Expected Value (Average)]]
 ## Formula
 The expected value (or average) of a binomial is:
@@ -136,14 +137,5 @@ $$V(Binomial) = \boxed{np(1-p)}$$
 ### Formula
 The standard deviation is just the square root of the variance. As such, the formula is:
 $$\sqrt{np(1-p)}$$
-
-# "10% Rule"
-Because each test must be independent, technically, if we run a series of tests without replacement, the tests will not be independent. The odds of the later tests will depend on the results of the earlier tests.
-For example, if I plan on selecting a card from a standard deck of cards 3 times and I want to see if any of them are kings, the odds of the first test is $\frac{4}{52}$, but the odds of the next test depend on the result of my first test. If I picked a king on the first test, the odds of picking another king on the second test is $\frac{3}{51}$, and if I didn't pick a king on the first test, the odds of picking a king on the second test is $\frac{4}{51}$.
-Now, it is useful to work with binomials because they have relatively normal distributions, as mentioned above. As such, if the sample is 10% or less than the population size, we treat the random variable as a binomial, even though we are not replacing and so it is technically not a binomial. This is because even though all of the trials aren't fully independent, the fact that we pulled one piece of data out doesn't make much of a difference.
-Obviously, the smaller of a percentage of the data is, the less of a difference each piece of data that is not being replaced makes.
-At the same time, that does not mean that we prefer to work with small samples. Obviously large samples are better. It just means that in terms of achieving independence (or close to it), having a smaller sample is better.
-# Bernoulli Trial
-When we have a binomial but we only focus on a single instance of the experiment, that is called a Bernoulli Trial. For more details, see [[Bernoulli Trial|here]].
 # Poisson Process
 A Poisson process is a binomial with a near infinite number of trials. For more details, see [[Poisson Process|here]].

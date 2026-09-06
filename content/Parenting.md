@@ -11,7 +11,7 @@
 - For example, if a child can't get out of bed in the morning, it may be because he is lazy, or it may be that the child has some sort of emotional or mental disorder, or perhaps he is getting bullied in school and so he doesn't feel much drive to go.[^1]
 - 60% of adults mental health problems began in childhood.[^1]
 - We need to ascertain what the issue is and address that issue in the proper way.[^1]
-- Kids generally need rules and structure. However, for some, the standard yeshiva system will standard structure does not work.[^1]
+- Kids generally need rules and structure. However, for some, the standard ישיבה system will standard structure does not work.[^1]
 - These kids have at least 4 of the following:[^1]
 	- constantly fight with their parents.
 	- Struggling to stay in school, or have left/been thrown out.

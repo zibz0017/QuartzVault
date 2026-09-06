@@ -55,7 +55,7 @@ The mean of the second group is:
 $$\frac{65+70+72+73}{4} \Rightarrow \frac{280}{4} = \boxed{70}$$
 Together this becomes:
 $$64+70=\boxed{134}$$
-The way to calculate the mean of adding the heights of each member of group one with each member of group two is as by getting the heights for each combination and getting the average:
+The way to calculate the mean of adding the heights of each member of group one with each member of group two is by getting the heights for each combination and getting the average:
 $$60+65=125$$
 $$60+70=130$$
 $$60+72=132$$
@@ -102,10 +102,10 @@ $$3.937+3.082=7.019$$
 This is not correct. As shown before, the standard deviation for the combined group is 5.
 ## Example 4
 Let's say we have two "groups". We take the average amount that people sleep and the average amount that they are awake.
-Let's say that the data come out to have an average of 8 hours of asleep and 16 hours of awake.
+Let's say that the data come out to have an average of 8 hours of asleep and 16 hours being awake.
 Let's also say that the variance for each group is 2 hours.
-Let's say we want to calculate the variance in the amount of asleep plus awake time for each person (meaning, we add together the amount of time that each person sleeps plus the amount of time that they are awake. But we only do this for each person, meaning, we add the asleep plus awake time of person A, and the same for person B, etc. We don't add person A's awake time to person B, for example).
-The variance is very easy to calculate; it is going to be 0. This is because everyone is asleep plus awake for 24 hours a day. As such, there is going to be 0 variance.
+Let's say we want to calculate the variance in the amount of asleep plus awake time for each person (meaning, we add together the amount of time that each person sleeps plus the amount of time that they are awake. But we only do this for each person, meaning, we add the asleep plus awake time of person A, and the same for person B, etc. We don't add person A's awake time to person B sleep time, for example).
+The variance is very easy to calculate; it is going to be 0. This is because everyone is asleep plus awake for 24 hours a day (by definition. You are either asleep or awake, all day long, every day). As such, there is going to be 0 variance.
 If we added the variance of each group together, we would get 4 hours. We can clearly see that this would not work here.
 # Distribution Curve of Combined Random Variable
 If the two random variables are normally distributed, if we made a new random variable of the difference between the two random variables, it would also be normally distributed.

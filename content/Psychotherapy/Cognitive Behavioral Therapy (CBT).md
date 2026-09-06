@@ -119,4 +119,3 @@
 [^13]: Own thoughts
 [^14]: Feeling Good by Dr. David Burns : Chapter 4 (Pgs 51 - 61)
 [^15]: Feeling Good by Dr. David Burns : Chapter 4 (Pgs  61 - 64)
-[^16]: 

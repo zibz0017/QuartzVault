@@ -1,7 +1,8 @@
 *Presented by מחבר, רמ"א סעיף ג, ש"ך ס"ק ח, ט"ז ס"ק ח, י*
 # &lrm;הלכה
 1. <span style="display: block; text-align: justify;">מחבר, רמ"א, ט"ז: All כלים are מותר, but one should eventually kasher all of them.</span>
-2. <span style="display: block; text-align: justify;">ש"ך: None of the כלים should be used for 24 from the last time the אסור כלי was used and eventually, one should eventually kasher all of the כלים.</span>
+2. <span style="display: block; text-align: justify;">ש"ך: None of the כלים should be used for 24 from the last time the אסור כלי was used and eventually, one should eventually kasher all of the כלים. Additionally, one should throw out one dish.
+   Also, if one mixed a dairy dish into the meat dishes (or vice-versa) one would need ששים for this to be מותר, as we view this as a מין בשאינו מינו mixture. <span style="color:rgb(255, 0, 0)">Need to come back to פרי מגדים משבצות זהב ס"ק ח, paragraph beginning with ומה שכתב.</span></span>
 # Reasons
 ## Why This is not דבר שיש לו מתירין
 1. <span style="display: block; text-align: justify;">Even though there is a way to be מתיר the כלי (through הגלה), since it takes time/effort and is not automatic we don't view this as a דבר שיש לו מתירין.</span>
@@ -11,7 +12,7 @@
 1. <span style="display: block; text-align: justify;">Even though the אסור כלי is בטל ברוב, there is still a potential concern. When it comes to בטל ברוב we say that one can't eat all of the foods at the same time.</span>
 2. <span style="display: block; text-align: justify;">As such, in this case we are concerned that the person may forget that one of these כלים are אסור and he may come to make a dish using all of these pots.</span>
 3. <span style="display: block; text-align: justify;">This food would be אסור to eat מדרבנן, but the person will have forgotten and will accidentally be עובר on the איסור.</span>
-### &lrm;הגלה is not Difficult
+### &lrm;הגלה Is not Difficult
 1. <span style="display: block; text-align: justify;">Some שיטות argue on the רמ"א and say that doing הגלה is not considered difficult and so this would still be considered a דבר שיש לו מתירין.</span>
 ## Why the כלים Should not Be Used for 24 Hours since the אסור כלי Was Used
 1. <span style="display: block; text-align: justify;">After 24 hours, the אסור בליעות are no longer בן יומו. This makes it that on a מדאוריתא level, this כלי can't אסור things.</span>

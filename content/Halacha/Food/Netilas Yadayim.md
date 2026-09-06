@@ -1,5 +1,5 @@
 # Reasons for Washing Before Eating Bread
-1. <span style="display: block; text-align: justify;">Kohanim need to wash their hands before eating תרומה because hands are busy and they might be tamei. We make everyone wash before eating bread to make sure kohanim do this (as most תרומה was grain products).[^1]</span>
+1. <span style="display: block; text-align: justify;">Kohanim need to wash their hands before eating תרומה because hands are busy and they might be טמא. We make everyone wash before eating bread to make sure kohanim do this (as most תרומה was grain products).[^1]</span>
 2. <span style="display: block; text-align: justify;">&lrm;אסמכתה from the פסוק והתקדשתם והייתם קדושים.&lrm;[^2]</span>
 # Requirements
 ## Food One Washes on
@@ -68,7 +68,7 @@
 1. <span style="display: block; text-align: justify;">We say "וצונו" even though this is a דרבנן as Hashem told us to listen to the רבנן.&lrm;[^34]</span>
 ## Drying One's Hands
 1. <span style="display: block; text-align: justify;">It is important for one to dry their hands well. This is because:</span>
-	1. <span style="display: block; text-align: justify;">מים ראשונים are tamei. The מים שניים doesn't fully get rid of it. It is removed from one's hands only in conjunction with the drying.[^35]</span> ^98aa47
+	1. <span style="display: block; text-align: justify;">מים ראשונים are טמא. The מים שניים doesn't fully get rid of it. It is removed from one's hands only in conjunction with the drying.[^35]</span> ^98aa47
 	2. <span style="display: block; text-align: justify;">One's hands are still considered disgusting when they are wet.[^36]</span> ^f44713
 2. <span style="display: block; text-align: justify;">Despite this, one is allowed to make a ברכה, even if one's hands are still wet with netilas yadayim water.[^37]</span>
 3. <span style="display: block; text-align: justify;">One should not dry his hands off on his shirt as this is קשה לשכחה. It is a ספק if this applies to other garments as well.[^36]</span>
@@ -76,13 +76,13 @@
 #### Less Than a רביעית at Once
 1. <span style="display: block; text-align: justify;">One must dry their hands for the reasons mentioned ([[#^98aa47|here]] and [[#^f44713|here]]).</span>
 #### רביעית or More at Once
-1. <span style="display: block; text-align: justify;">When one pours a רביעית at once, the water does not become tamei.[^38]</span>
-2. <span style="display: block; text-align: justify;">As such, according to the שיטה that the purpose of drying one's hands is to get rid of the tamei מים ראשונים, one would not have to dry one's hands in this case, as the מים ראשונים are not tamei.[^38]</span>
+1. <span style="display: block; text-align: justify;">When one pours a רביעית at once, the water does not become טמא.[^38]</span>
+2. <span style="display: block; text-align: justify;">As such, according to the שיטה that the purpose of drying one's hands is to get rid of the טמא מים ראשונים, one would not have to dry one's hands in this case, as the מים ראשונים are not טמא.[^38]</span>
 3. <span style="display: block; text-align: justify;">According to the שיטה that one's hands are disgusting, one would still have to dry their hands.[^38]</span>
 #### Dunking One's Hands
-1. <span style="display: block; text-align: justify;">The water by tevillah does not become tamei.[^38]</span>
-2. <span style="display: block; text-align: justify;">As such, once again, there is no tamei water so according to the opinion that the purpose of drying one's hands is to get rid of the tamei מים ראשונים, one would not have to dry one's hands.[^38]</span>
-3. <span style="display: block; text-align: justify;">In this case, the תורה explicitly does not require one to dry themselves off after toveling in a mikvah. As such, even the opinion that says that drying is because wet hands are disgusting would agree in this case that one doesn't have to dry one's hands, as it is explicitly fine from the תורה.&lrm;[^38]</span>
+1. <span style="display: block; text-align: justify;">The water by tevillah does not become טמא.[^38]</span>
+2. <span style="display: block; text-align: justify;">As such, once again, there is no טמא water so according to the opinion that the purpose of drying one's hands is to get rid of the טמא מים ראשונים, one would not have to dry one's hands.[^38]</span>
+3. <span style="display: block; text-align: justify;">In this case, the תורה explicitly does not require one to dry themselves off after toveling in a מקוה. As such, even the opinion that says that drying is because wet hands are disgusting would agree in this case that one doesn't have to dry one's hands, as it is explicitly fine from the תורה.&lrm;[^38]</span>
 ### &lrm;הלכה Lemaisa
 1. <span style="display: block; text-align: justify;">If having wet hands bothers someone then they need to dry their hands.[^38]</span>
 2. <span style="display: block; text-align: justify;">In all cases, one should be still be מחמיר to dry one's hands.[^39]</span>
