@@ -1,3 +1,32 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* Turn the entire right sidebar into one continuous scrollable box */
+.right.sidebar {
+  max-height: calc(100vh - 4rem); /* Bounded to browser height minus padding */
+  overflow-y: auto;               /* Entire sidebar scrolls as one block */
+  position: sticky;
+  top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding-right: 0.5rem;
+
+  /* Remove individual internal scrolling/clipping from children */
+  .toc, .graph, .backlinks {
+    max-height: none !important;
+    overflow: visible !important;
+    flex: 0 0 auto;
+  }
+
+  /* Custom scrollbar for the sidebar container */
+  &::-webkit-scrollbar {
+    width: 4px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: var(--lightgray);
+    border-radius: 4px;
+  }
+  &:hover::-webkit-scrollbar-thumb {
+    background: var(--gray);
+  }
+}
