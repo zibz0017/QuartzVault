@@ -7,7 +7,7 @@
 	1. <span style="display: block; text-align: justify;">To show respect for Hashem (Who was represented by the ארון).[^3]</span>
 	2. <span style="display: block; text-align: justify;">So that everyone would be able to see the ארון directly and be able to know where to go (rather than just following other people who were able to see the ארון).[^4]</span>
 	3. <span style="display: block; text-align: justify;">The ארון would flatten mountains and raise up valleys. If the people were walking right next to the ארון, they wouldn't be able to see this change in the topography and so they wouldn't realize there was a נס. Keeping this distance allowed the people to realize and appreciate this נס.&lrm;[^5]</span>
-	4. <span style="display: block; text-align: justify;">This actually means that everyone was supposed to be within 2000 אמות. This is because כלל ישראל would be fighting יריחו on שבת and so, by being within 2000 אמות of the ארון, they would all be allowed to daven in front of the ארון.&lrm;[^6]</span>
+	4. <span style="display: block; text-align: justify;">This actually means that everyone was supposed to be *within* 2000 אמות. This is because כלל ישראל would be fighting יריחו on שבת and so, by being within 2000 אמות of the ארון, they would all be allowed to daven in front of the ארון.&lrm;[^6]</span>
 # How Did יהושע Know the נס Would Happen
 1. <span style="display: block; text-align: justify;">מפרשים point out that Hashem never actually told יהושע that He was going to split the ירדן. How did יהושע know that this would happen?[^7]
    <span style="color:rgb(255, 0, 0)">Need to come back to this.</span></span>
