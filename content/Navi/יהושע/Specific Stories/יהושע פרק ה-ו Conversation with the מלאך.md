@@ -1,3 +1,4 @@
+<span style="color:rgb(255, 0, 0)">This is still incomplete. This only goes until the end of פרק ה</span>
 # Basic Storyline
 1. <span style="display: block; text-align: justify;">יהושע was walking outside of יריחו where he met a man holding a sword. יהושע asked the man if he was for כלל ישראל or for their enemies. The man responded that he was a מלאך and that he would be aiding כלל ישראל with their battle against יריחו.&lrm; יהושע immediately fell on his face in subservience.</span>
 # Why the מלאך Came

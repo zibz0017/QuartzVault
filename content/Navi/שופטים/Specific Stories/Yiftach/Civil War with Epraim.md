@@ -10,12 +10,12 @@
 # Storyline as Discussed by the מפרשים
 ## What was אפרים Angry About
 ### Yiftach Fought Without Them
-1. <span style="display: block; text-align: justify;">Gideon, a previous shofet, had also fought against the enemies of כלל ישראל without אפרים, and they were insulted the, as well.[^7] The fact that now it happened again compounded the insult.[^8]</span>
+1. <span style="display: block; text-align: justify;">Gideon, a previous שופט, had also fought against the enemies of כלל ישראל without אפרים, and they were insulted the, as well.[^7] The fact that now it happened again compounded the insult.[^8]</span>
 ### Yiftach was Chosen as Leader Without Their Imput
 1. <span style="display: block; text-align: justify;">אפרים was upset because they felt that Gilad was a relatively unimportant part of שבט יוסף.&lrm;[^9][^10][^11] This was because they were either entirely across the ירדן (which only had half of Menashe, as opposed to the ארץ ישראל side which had the other half of Menashe plus the entire אפרים)&lrm;[^11] or they were actually divided: half of Gilad was across the ירדן in שבט Menashe's land, and half were in ארץ ישראל, in שבט אפרים's land.[^10] As such, they did not feel that Gilad had the right to choose the leader.[^10][^12]</span> ^a260b0
 ## How אפרים Insulted Yiftach
 1. <span style="display: block; text-align: justify;">The simple reading of the פסוק is that אפרים threatened to burn down Yiftach's house with him inside.[^2] (The מצודת דוד learns the פסוק this way.[^13])</span>
-2. <span style="display: block; text-align: justify;">According to the מנחה קטנה, אפרים only threatened to destroy Yiftach's house, but not with him inside. Yiftach's house (which was presumably nice as he was the shofet), was an honor for him. By burning down Yiftach's house, and attacking his honor through the destruction of something physical, אפרים hoped Yiftach would learn that all the more so, he should care about the honor of humans (meaning, the honor of אפרים).&lrm;[^14]</span>
+2. <span style="display: block; text-align: justify;">According to the מנחה קטנה, אפרים only threatened to destroy Yiftach's house, but not with him inside. Yiftach's house (which was presumably nice as he was the שופט), was an honor for him. By burning down Yiftach's house, and attacking his honor through the destruction of something physical, אפרים hoped Yiftach would learn that all the more so, he should care about the honor of humans (meaning, the honor of אפרים).&lrm;[^14]</span>
 3. <span style="display: block; text-align: justify;">Additionally, אפרים called Gilad an unimportant part of שבט יוסף, [[#^a260b0|as discussed]].</span>
 ## Could אפרים Have Been Appeased
 1. <span style="display: block; text-align: justify;">According to some מפרשים, אפרים came in with the intent to fight and were not going to accept an apology. This was because Gideon had similarly not included them, and then apologized afterwards. The fact that it happened again showed אפרים that the apology was insincere and they were not going to be willing to accept one now.[^14]</span>
@@ -42,7 +42,7 @@
 
 1. <span style="display: block; text-align: justify;">This was a punishment for עבירות that אפרים had done in secrecy.[^25]</span>
 2. <span style="display: block; text-align: justify;">אפרים should have been grateful to Yiftach for having gotten rid of the enemies of כלל ישראל and risked his life to do so. Not only were they not grateful, but they were even antagonistic.[^15]</span>
-3. <span style="display: block; text-align: justify;">This was a punishment for Avimelech, an evil shofet of כלל ישראל, who's followers and base of operations were in Shichem. This was a city in שבט אפרים's territory, and they should have protested Avimelech's actions. They were punished for not doing so.[^14]</span>
+3. <span style="display: block; text-align: justify;">This was a punishment for Avimelech, an evil שופט of כלל ישראל, who's followers and base of operations were in Shichem. This was a city in שבט אפרים's territory, and they should have protested Avimelech's actions. They were punished for not doing so.[^14]</span>
 ### Yiftach's Responsibility
 1. <span style="display: block; text-align: justify;">At the same time, Yiftach should have tried appeasing them as Gideon had done earlier in a similar circumstance.[^27][^15]</span>
 2. <span style="display: block; text-align: justify;">Yiftach died in a horrible way (see [[#^6b4328|here]]), but the מדרש (and the מפרשים presenting the מדרש) say that that was a punishment for not being מתיר נדר on his daughter. Almost nobody says that it was at least partically a punishment for killing אפרים.&lrm;[^28]</span>

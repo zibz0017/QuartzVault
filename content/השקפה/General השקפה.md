@@ -137,7 +137,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 ##### &lrm;רבינו Chananel
 *(As presented by Rav Aharon Lopiansky[^26])*
 1. <span style="display: block; text-align: justify;">This סוגיה can be understood literally.</span>
-2. <span style="display: block; text-align: justify;">The נסים discussed were done through the power of tefilah, not through the power of נבואה, as there were no נביאים anymore by that time.</span>
+2. <span style="display: block; text-align: justify;">The נסים discussed were done through the power of תפילה, not through the power of נבואה, as there were no נביאים anymore by that time.</span>
 3. <span style="display: block; text-align: justify;">However, it is difficult to understand this way because one is not supposed to do נסים.</span>
 4. <span style="display: block; text-align: justify;">As such, an alternative way to understand the 'גמ is that it was a dream.</span>
 5. <span style="display: block; text-align: justify;">Usually, the 'גמ would state if a story was a dream, but it did not do so here because this dream was akin to נבואה. (There are examples of a נביא receiving נבואה despite the fact that it is not explicitly mentioned that the נביא received נבואה, such as יהושע with the malach outside of יריחו according to some מפרשים {<span style="color:rgb(255, 0, 0)">Need to get exact source</span>})</span>
@@ -298,6 +298,8 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 # רוח הקודש
 1. <span style="display: block; text-align: justify;">One who has רוח הקודש is able to know things even without being able to see them or feel them with one's senses or in any logical type of way. It seems to be similar to the way it is described in stories (where גדולים know things that doesn't make sense for them to know).[^62]</span>
 2. <span style="display: block; text-align: justify;">Being on the מדרגה of one who receives רוח הקודש is for those on the highest levels, like נביאים.&lrm;[^62]</span>
+# Protected from יצר הרע by One's Husband's Learning
+1. <span style="display: block; text-align: justify;">A wife is protected from the יצר הרע by her husband's learning, similarly to the way that he himself is protected by his own learning.[^63]</span>
 # Things to come back to
 1. <span style="display: block; text-align: justify;">יהושע א ז חומת אנך שם</span>
 # Footnotes
@@ -364,3 +366,4 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^60]: חובות הלבבות שער עבודת אלקים פרק ח פס לחם ד"ה אם (pg תא in blue ג פירושים version)
 [^61]: Based on חובות הלבבות שאר חשבון הנפש פרק ג paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז in blue ג פירושים version) <span style="color:rgb(255, 0, 0)">This really is all over the חובות הלבבות</span>
 [^62]: חובות הלבבות שאר חשבון הנפש פרק ג מרפא לנפש ד"ה ויהיה במדרגה paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז in blue ג פירושים version)
+[^63]: שמואל-א א ח חומת אנך שם

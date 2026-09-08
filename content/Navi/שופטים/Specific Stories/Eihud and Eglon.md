@@ -9,7 +9,7 @@
  2. <span style="display: block; text-align: justify;">According to most מפרשים, he was extremely fat.[^5] (This is relevant for later in the story.)</span>
  3. <span style="display: block; text-align: justify;">According to at least one meforash, he was gullible and not very intelligent.[^6]</span>
 ## The Salavation
- 1. <span style="display: block; text-align: justify;">Hashem sent a shofet named Eihud to save them.[^7]</span>
+ 1. <span style="display: block; text-align: justify;">Hashem sent a שופט named Eihud to save them.[^7]</span>
 ### Eihud
 1. <span style="display: block; text-align: justify;">Eihud was a lefty.[^7] (This is relevant for later in the story).</span>
 2. <span style="display: block; text-align: justify;">His מדות and צדקות are not discussed much.
