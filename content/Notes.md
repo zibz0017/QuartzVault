@@ -125,7 +125,7 @@
 - Obviously, doing techias hameisim is only done in extreme circumstances.[^62]
 - {<span style="color:rgb(255, 0, 0)">I don't really get the shmuz. It seems like it is saying that bringing bad news is actually something that is a pretty bad thing to do, but I think rebbi said that it is not such a bad thing.</span>}
 ---
-- Heshem created Chava from the rib of אדם because it is a part of the body that always remains צניעות (I don't get how this works but I don't think that that is relevant).[^65]
+- Heshem created חוה from the rib of אדם because it is a part of the body that always remains צניעות (I don't get how this works but I don't think that that is relevant).[^65]
 - Hashem did not create Woman from other parts of the body for a variety of reasons. For example, Hashem did not create Woman from the mouth because Hashem did not want Woman to talk too much, or from ear because Hashem did not want Woman to eavesdrop.[^65]
 - However, despite this, different women in history have violated some of these very things that Hashem wanted to avoid, undoing Hashem's efforts, in a sense.[^65]
 - In regards to eavesdropping, we see this with שרה. She listened to the malach tell אברהם that they were going to have a baby.[^65]

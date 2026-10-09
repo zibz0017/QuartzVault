@@ -1,0 +1,2 @@
+1. <span style="display: block; text-align: justify;">The ט"ז (סימן סט ס"ק א) says that the reason for the שיטה that we do הדחה ראשונה is because we are concerned that there is surface blood and it may there until after the meat expunges all of the blood inside of it.
+   This sounds like if you washed the meat off before this happens, the meat would be fine. Is that true? סעיף ב doesn't seem to say that.</span>

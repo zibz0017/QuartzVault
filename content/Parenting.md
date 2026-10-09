@@ -173,7 +173,7 @@
 - Parents have to be firm in discipling, but make sure to listen and understand the child and make them feel unconditionally loved.[^11]
 - When kids are struggling, they need more love. Getting angry with them pushes them away and they will look for destructive ways to feel good about themselves.[^11]
 - If a child is struggling with something specific (they can't get up in the morning), you can't force them to go do it. You also can't just ignore it. That confirms to them that you have given up on them.[^11]
-- Go to them and present the choices. "I would love if you can do... (whatever it is)." and that's it. Don't keep pushing them. They will probably not do whatever it is, but it shows you haven't given up on them. You need to accept their decision, whatever it is.[^11]
+- Go to them and present the choices. "I would love if you can do… (whatever it is)." and that's it. Don't keep pushing them. They will probably not do whatever it is, but it shows you haven't given up on them. You need to accept their decision, whatever it is.[^11]
 - If they do it, show your appreciation.[^11]
 - For some things, it may make sense to talk about it not during the moment (like how to dress at the שבת table). You need to weigh your relationship and how important the thing is to decide if you should mention it at all.[^11]
 # Footnotes

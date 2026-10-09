@@ -217,11 +217,16 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 ## Davening for Help with ניסיונות
 1. <span style="display: block; text-align: justify;">יעקב davened for Hashem to help Shimshon with his ניסיונות when יעקב saw that Shimshon was going to struggle in this area. Hashem answered יעקב's תפילות and did help Shimshon.[^39]<span style="color:rgb(255, 0, 0)"> Need to see בראשית מט יח</span></span>
 2. <span style="display: block; text-align: justify;">It seems that one can daven for Hashem to help one with their ניסיונות.[^5]</span>
-
+## Getting what One Asks For, even if it is not what They want
+1. <span style="display: block; text-align: justify;">There are חז"ל that discuss how people intend for one thing but accidentally use the wrong language when saying the תפילה and receive what they actually said rather than what they really wanted. For example:</span>
+	1. <span style="display: block; text-align: justify;">חנה was davening for a son but חז"ל tell us that because she davened for a long time, she accidentally caused שמואל to die young. She accidentally said that he would remain in the service of Hashem "עד עולם". However, this terminology is actually used to mean 50 years and so שמואל died at 52 years old. (See [[פרק א#Lengthy תפילה]] for more details.)</span>
+	2. <span style="display: block; text-align: justify;">When כלל ישראל was in the מדבר, &lrm;עמלק decided to attack. However, they spoke the language of the כנענים so כלל ישראל would daven for Hashem to defeat these "כנענים" and the תפילות would be ineffective.
+	   In the end, כלל ישראל saw that they wore עמלקי clothing and so they davened to Hashem to defeat the nation, whoever they were, and כלל ישראל was victorious.[^40]
+	   However, it still implies that if this did not happen, their תפילות may have been ineffective.[^5]</span>
 # Vagueness of חז"ל
-1. <span style="display: block; text-align: justify;">Sometimes, חז"ל purposely discussed things in a vague way to force the person learning the חז"ל to have to work hard to understand it so they can [[Tiferes Dovid#Hard Work|reap the benefits of working hard on תורה]].[^40] {<span style="color:rgb(255, 0, 0)">This may tie into [[#Agadita]] as well</span>}</span>
+1. <span style="display: block; text-align: justify;">Sometimes, חז"ל purposely discussed things in a vague way to force the person learning the חז"ל to have to work hard to understand it so they can [[Tiferes Dovid#Hard Work|reap the benefits of working hard on תורה]].[^41] {<span style="color:rgb(255, 0, 0)">This may tie into [[#Agadita]] as well</span>}</span>
 # Terrorism
-1. <span style="display: block; text-align: justify;">In the times of גדעון, כלל ישראל was fighting Midyan, who had oppressed them, and captured זבח and צלמונע, the kings of Midyan.[^41] גדעון only killed זבח and צלמונע because they had killed people in כלל ישראל for no reason. This didn't increase the fear כלל ישראל had for Midyan since כלל ישראל was already severely oppressed by Midyan, so they were already afraid of Midyan.[^42]</span>
+1. <span style="display: block; text-align: justify;">In the times of גדעון, כלל ישראל was fighting Midyan, who had oppressed them, and captured זבח and צלמונע, the kings of Midyan.[^42] גדעון only killed זבח and צלמונע because they had killed people in כלל ישראל for no reason. This didn't increase the fear כלל ישראל had for Midyan since כלל ישראל was already severely oppressed by Midyan, so they were already afraid of Midyan.[^43]</span>
 2. <span style="display: block; text-align: justify;">It seems that if this would have increased the fear that כלל ישראל had for Midyan, these killings may have been justified.[^5]</span>
 	1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter:</span> Perhaps this means that it is still wrong, but it ever so slightly justifiable to the point that זבח and צלמונע were not חייב מיתה, but not that it was actually okay.</span>
 	2. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter (to original point):</span> Perhaps this was accepted practice in those times so it was okay then, but perhaps since this is not accepted in our times, it is not okay anymore.</span>
@@ -232,10 +237,10 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 # What One Should Think about when Doing a מצוה
 ## Importance of Having Proper Intent when Doing מצוות
 1. <span style="display: block; text-align: justify;">The חובות הלבבות says that we can relate to the idea that if someone does something for his friend, or a servant for his master, but he doesn't do it with sincerity, even if he does exactly what the person wants, and even if the person really needs it to be done, he still won't be happy with this.
-   Certainly so with Hashem who doesn't need us at all.[^43]</span>
+   Certainly so with Hashem who doesn't need us at all.[^44]</span>
 ## &lrm;כונות When Doing מצוות
 1. <span style="display: block; text-align: justify;">For the כונות one should have when davening, see חובות הלבבות שער חשבון הנפש פרק ג (pgs קצח-רג). <span style="color:rgb(255, 0, 0)">Need to come back to this.</span></span>
-2. <span style="display: block; text-align: justify;">For most מצוות (like סוכה or לולב, for example) one should think about how one is listening the commandment of Hashem, that one is exalting him and thanking him for all the kindness He does, and to try and complete the מצוה to the best way one can.[^44]</span>
+2. <span style="display: block; text-align: justify;">For most מצוות (like סוכה or לולב, for example) one should think about how one is listening the commandment of Hashem, that one is exalting him and thanking him for all the kindness He does, and to try and complete the מצוה to the best way one can.[^45]</span>
 3. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See חובות הלבבות page תקמד-תקמה</span></span>
 # Why עולם הבא is not Discussed Explicitly in the תורה.
 1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See חובות הלבבות page תקלח-תקמח</span></span>
@@ -245,61 +250,61 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 <span style="color:rgb(255, 0, 0)">See חובות הלבבות pg 551 with מרפא לנפש ד"ה there and חובות הלבבות pg 543 with מפרשים there</span>
 # Learning from One's Rebbi
 ## Copying Versus Learning
-1. <span style="display: block; text-align: justify;">One should not mindlessly copy their rebbi, as the rebbi may have done whatever it was that he did for a reason that does not apply to the תלמיד.&lrm;[^45]</span>
-2. <span style="display: block; text-align: justify;">We see such an idea in נביא. It says that יהואש served Hashem all the days that his rebbi, יהוידע was alive, but noto after יהוידע was nifter. According to some, this was because יהואש copied his rebbi, but he didn't actually learn the reasoning behind what his rebbi did, so when he wasn't able to ask his rebbi what to do anymore, he ended up straying.[^46]</span>
+1. <span style="display: block; text-align: justify;">One should not mindlessly copy their rebbi, as the rebbi may have done whatever it was that he did for a reason that does not apply to the תלמיד.&lrm;[^46]</span>
+2. <span style="display: block; text-align: justify;">We see such an idea in נביא. It says that יהואש served Hashem all the days that his rebbi, יהוידע was alive, but noto after יהוידע was nifter. According to some, this was because יהואש copied his rebbi, but he didn't actually learn the reasoning behind what his rebbi did, so when he wasn't able to ask his rebbi what to do anymore, he ended up straying.[^47]</span>
 3. <span style="display: block; text-align: justify;">In some ways, Rav Dovid acted differently than the Alter because of this point. When saying shmuessen, the Alter would give a shmuess about a certain point, and then expand and say many different things about the topic.
-   When Rav Dovid would give a shmuess, he would stick to what he was able to glean from the מראה מקום.&lrm;[^47]</span>
-4. <span style="display: block; text-align: justify;">Rav חיים Brisker had many talmidim, such as Rav Shimon Shkop, Rav Isser Zalman Meltzer, Rav Baruch Ber, and Rav חיים's own son, Rav Yizchak Zev. They were all unique from each other in many different ways, even though they all had the same rebbi. They each applied what they learned from their rebbi how it made sense for themselves. They didn't just try to all make themselves into carbon copies of their rebbi.[^48]</span>
-5. <span style="display: block; text-align: justify;">רות deviated from what Naami asked her to do because רות understood what Naami really wanted. Shmuel similarly deviated from exactly what he was told for the same reason <span style="color:rgb(255, 0, 0)">not sure who was telling him to do something</span>. We see more examples of great people using their own intelligence to understand what they learned and how it applies to different situations.[^49]</span>
+   When Rav Dovid would give a shmuess, he would stick to what he was able to glean from the מראה מקום.&lrm;[^48]</span>
+4. <span style="display: block; text-align: justify;">Rav חיים Brisker had many talmidim, such as Rav Shimon Shkop, Rav Isser Zalman Meltzer, Rav Baruch Ber, and Rav חיים's own son, Rav Yizchak Zev. They were all unique from each other in many different ways, even though they all had the same rebbi. They each applied what they learned from their rebbi how it made sense for themselves. They didn't just try to all make themselves into carbon copies of their rebbi.[^49]</span>
+5. <span style="display: block; text-align: justify;">רות deviated from what Naami asked her to do because רות understood what Naami really wanted. Shmuel similarly deviated from exactly what he was told for the same reason <span style="color:rgb(255, 0, 0)">not sure who was telling him to do something</span>. We see more examples of great people using their own intelligence to understand what they learned and how it applies to different situations.[^50]</span>
 ## Learning from Closer Generations
-1. <span style="display: block; text-align: justify;">Because one is supposed to learn from their rebbi, rather than just copy them, it is important that one tries to learn from the גדולים who are closer to his generation.[^47]</span>
-2. <span style="display: block; text-align: justify;">Even though people from earlier generations are greater, they are usually far too great for us and many times, the underlying reason for their decision would only be correct for people who are much closer to their מדרגה than we are.[^47]</span>
+1. <span style="display: block; text-align: justify;">Because one is supposed to learn from their rebbi, rather than just copy them, it is important that one tries to learn from the גדולים who are closer to his generation.[^48]</span>
+2. <span style="display: block; text-align: justify;">Even though people from earlier generations are greater, they are usually far too great for us and many times, the underlying reason for their decision would only be correct for people who are much closer to their מדרגה than we are.[^48]</span>
 3. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">This is discussed by a מהרש"א somewhere. If I find out where, I should add it.</span></span>
 # שכר for Doing השתדלות
-1. <span style="display: block; text-align: justify;">Hashem wants people to do השתדלות. If a person does השתדלות with the intention that they are doing this because Hashem told them to do this, they receive שכר.[^50]</span>
+1. <span style="display: block; text-align: justify;">Hashem wants people to do השתדלות. If a person does השתדלות with the intention that they are doing this because Hashem told them to do this, they receive שכר.[^51]</span>
 # Losing One's Money for not Using it Properly
-1. <span style="display: block; text-align: justify;">One loses their money for not using it properly.[^51]</span>
+1. <span style="display: block; text-align: justify;">One loses their money for not using it properly.[^52]</span>
 # Source for מדרשים
-1. <span style="display: block; text-align: justify;">מדרשים which discuss exact details about stories in תנ"ך are sourced from תנ"ך itself. Similar to the way a ראשון will use exact wordage, extra words, questions on the פסוקים, and the like to glean a deeper understanding, the מחבר of a מדרש will use similar techniques to glean additional parts to stories in תנ"ך.&lrm;[^52]</span>
+1. <span style="display: block; text-align: justify;">מדרשים which discuss exact details about stories in תנ"ך are sourced from תנ"ך itself. Similar to the way a ראשון will use exact wordage, extra words, questions on the פסוקים, and the like to glean a deeper understanding, the מחבר of a מדרש will use similar techniques to glean additional parts to stories in תנ"ך.&lrm;[^53]</span>
 ## &lrm;תורה Shebaal PEH Can Be Derived from תורה Shebicsav
-1. <span style="display: block; text-align: justify;">All of תורה shebaal PEH can be derived from תורה shebicsav using the יג מדות.&lrm;[^53]</span>
+1. <span style="display: block; text-align: justify;">All of תורה shebaal PEH can be derived from תורה shebicsav using the יג מדות.&lrm;[^54]</span>
 # Psak
 1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See שלחן ערוך יו"ד ט"ז ס"ק יב, the מהרש"ל there.</span></span>
 2. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">Also see shmuess [[11 6 25]]</span>.</span>
 # Importance of Doing Every מצוה
-1. <span style="display: block; text-align: justify;">It is important to do every מצוה as each מצוה corresponds to an individual אבר and גיד.&lrm;[^54] There is even a chiyuv to do all מצוות.&lrm;[^55]</span>
+1. <span style="display: block; text-align: justify;">It is important to do every מצוה as each מצוה corresponds to an individual אבר and גיד.&lrm;[^55] There is even a chiyuv to do all מצוות.&lrm;[^56]</span>
 2. <span style="display: block; text-align: justify;">For how to do the מצוות that can only be done by some people or are not able to be done בזמן הזה, see [[#How to Do מצוות that One Can't Do|here]].</span>
 # How to "Do" מצוות that One Can't Actually Do
-1. <span style="display: block; text-align: justify;">If one has a strong desire to do every מצוה and wishes that they could do them all, Hashem will count it as if he did them.[^54]</span>
-2. <span style="display: block; text-align: justify;">If one learns תורה and makes sure to accomplish the מצוות that one can do, Hashem will count it as if he did them all.[^56]</span>
+1. <span style="display: block; text-align: justify;">If one has a strong desire to do every מצוה and wishes that they could do them all, Hashem will count it as if he did them.[^55]</span>
+2. <span style="display: block; text-align: justify;">If one learns תורה and makes sure to accomplish the מצוות that one can do, Hashem will count it as if he did them all.[^57]</span>
 # How much Hashem Helps
 ## &lrm;השתדלות Affects Hashem's Help
-1. <span style="display: block; text-align: justify;">Hashem helps people dependent on how much they help themselves.[^57]</span>
+1. <span style="display: block; text-align: justify;">Hashem helps people dependent on how much they help themselves.[^58]</span>
 ## &lrm;בטחון Affects Hashem's Help
-1. <span style="display: block; text-align: justify;">If one has more בטחון in Hashem, they are זוכה to Hashem intervening more for them.[^58]</span>
+1. <span style="display: block; text-align: justify;">If one has more בטחון in Hashem, they are זוכה to Hashem intervening more for them.[^59]</span>
    <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter 1:</span> The source was discussing כלל ישראל entering ארץ ישראל. In this situation, Hashem had already told them that He would fight on their behalf. It is not clear from here that having בטחון can allow one to be זוכה to things that are beyond one זכותים.</span>
    <span style="display: block; text-align: justify;"><span style="color:rgb(255, 192, 0)">Counter 2:</span> This may have been a unique situation. Hashem's intervention in the world was more prominent at this time. It is not clear that this would still apply in our times.</span>
 
 # Laws of the תורה Vs Secular Laws
 1. <span style="display: block; text-align: justify;">Many secular laws are not 'שכלי' in the sense that they will bring a person do where they want to go.</span>
-   תורה laws are שכלי and will bring a person to praiseworthiness and work on a person's מדות.&lrm;[^59]
+   תורה laws are שכלי and will bring a person to praiseworthiness and work on a person's מדות.&lrm;[^60]
    (I am not clear on what this means, but I think it might mean that laws are somewhat random. For example, if someone steals $1000 in NY, they have committed grand larceny, but if they stole a dollar less, it is only petite larceny (and the law are vastly different, as discussed [[Stealing in NY|here]].) There is no particular reason for this exact number. It is a nice round number at some point the law needs to get stricter, so $1000 was chosen semi-arbitrarily (in California, the law is $900, for example). When it comes to the תורה, every amount is given for particular reasons. I am unsure about this פשט, though, because this sounds a lot like the second answer.
    I spoke with someone named Shmuel Zucker (who sometimes learns in the Rabbi Hodkin kollel בית מדרש). He thought that פשט was that the purpose of secular law vs תורה law are different. The vast majority of secular law is simply about the survival of society. The reason for תורה law, though, is to help us work on our מדות. I wasn't sure about this פשט because I thought the מלבי"ם sounded more like he was talking about the laws themselves don't bring us to שלמות (meaning, the laws are not exactly the proper amount). According to this פשט, even if the laws are the exact same in secular law and תורה law, the secular law won't bring one to שלמות because the reasoning behind the law (and the reason why people keep them) is because they are good for society and one doesn't want to be punished. The reason for תורה law is that it helps work on one's מדות and so when one follows the תורה, this helps bring them to שלמות. I didn't think it was משמע that the *reasoning* behind the law is what makes it that one who keeps secular law won't get to שלמות but one who keeps תורה law will. I thought it was the specific laws themselves.)
 2. <span style="display: block; text-align: justify;">Many secular laws are given in a general sense. They are not designed for each specific situation.</span>
    תורה law is given with exactness for every situation.
 # Pain from Illness
-1. <span style="display: block; text-align: justify;">A major aspect of the pain one feels from illness is mental. The stress and the thoughts about what is going to be add a major component.[^60]</span>
+1. <span style="display: block; text-align: justify;">A major aspect of the pain one feels from illness is mental. The stress and the thoughts about what is going to be add a major component.[^61]</span>
 # Techias Hameisim
 1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See [אוצר מדרשים, מדרש תחיית המתים](https://www.sefaria.org/Otzar_Midrashim%2C_Midrash_on_Revival_of_the_Dead%2C_Introduction?lang=he)</span></span>
 # "Objective" Right and Wrong
 1. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">See יו"ד סימן צט ט"ז ס"ק ט who brings down the מהרי"ק שורש קסז. This may be a source for this, although I it is not clear to me. I would probably need to see the actual מהרי"ק.</span></span>
 # Getting a Concept into One's Emotions
-1. <span style="display: block; text-align: justify;">One can help oneself feel something in one's emotions by thinking about the concept and picturing it in one's imagination.[^61]</span>
+1. <span style="display: block; text-align: justify;">One can help oneself feel something in one's emotions by thinking about the concept and picturing it in one's imagination.[^62]</span>
 # רוח הקודש
-1. <span style="display: block; text-align: justify;">One who has רוח הקודש is able to know things even without being able to see them or feel them with one's senses or in any logical type of way. It seems to be similar to the way it is described in stories (where גדולים know things that doesn't make sense for them to know).[^62]</span>
-2. <span style="display: block; text-align: justify;">Being on the מדרגה of one who receives רוח הקודש is for those on the highest levels, like נביאים.&lrm;[^62]</span>
+1. <span style="display: block; text-align: justify;">One who has רוח הקודש is able to know things even without being able to see them or feel them with one's senses or in any logical type of way. It seems to be similar to the way it is described in stories (where גדולים know things that doesn't make sense for them to know).[^63]</span>
+2. <span style="display: block; text-align: justify;">Being on the מדרגה of one who receives רוח הקודש is for those on the highest levels, like נביאים.&lrm;[^63]</span>
 # Protected from יצר הרע by One's Husband's Learning
-1. <span style="display: block; text-align: justify;">A wife is protected from the יצר הרע by her husband's learning, similarly to the way that he himself is protected by his own learning.[^63]</span>
+1. <span style="display: block; text-align: justify;">A wife is protected from the יצר הרע by her husband's learning, similarly to the way that he himself is protected by his own learning.[^64]</span>
 # Things to come back to
 1. <span style="display: block; text-align: justify;">יהושע א ז חומת אנך שם</span>
 # Footnotes
@@ -343,27 +348,28 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^37]: שופטים ח א חומת אנך ד"ה מה הדבר
 [^38]: חובות הלבבות שער עבודת אלקים פרק ו (near the end. Page 393 in the blue ג פירושים version)
 [^39]: רלב"ג תועלת י בשופטים פרק טז
-[^40]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
-[^41]: שופטים ח ה, ח יב, ח יח-כא
-[^42]: רלב"ג תועלת טו בשופטים פרק י
-[^43]: חובות הלבבות שער חשבון הנפש פרק ג (paragraph beginning with  "ובחן זה", pg קצד in blue ג פירושים version)
-[^44]: חובות הלבבות שער חשבון הנפש פרק ג (pgs רג-רד in blue ג פירושים version)
-[^45]: Tiferes Dovid : Chapter 4 (pg 46-47)
-[^46]: מלכים ב יב ג מלבי"ם שם (as presented by Tiferes Dovid : Chapter 4 (footnote 42))
-[^47]: Tiferes Dovid : Chapter 4 (footnote 43)
-[^48]: Tiferes Dovid : Chapter 4 (footnote 44)
-[^49]: Tiferes Dovid : Chapter 4 (footnote 45)
-[^50]: חובות הלבבות שאר הבטחון פרק ה פס לחם ד"ה Livchor (pg 554 in blue ג פירושים version)
-[^51]: חובות הלבבות שאר הבטחון פרק ה טוב הלבנון ד"ה וחושך (pg 556)
-[^52]: Based on יהושע א א-ב ראשון לציון שם (first few paragraphs)
-[^53]: יהושע א ח מלבי"ם שם
-[^54]: חובות הלבבות שער חשבון הנפש פרק ב מרפא לנפש ד"ה ומה שלא (pg קפא in blue ג פרושים)
-[^55]: יהושע א ח חומת אנך שם
-[^56]: יהושע א ח חומת אנך שם presenting Menachos .קי
-[^57]: יהושע א ו מלבי"ם שם
-[^58]: Implied by יהושע ה ב מנחה קטנה שם
-[^59]: יהושע א ז מלבי"ם שם
-[^60]: חובות הלבבות שער עבודת אלקים פרק ח פס לחם ד"ה אם (pg תא in blue ג פירושים version)
-[^61]: Based on חובות הלבבות שאר חשבון הנפש פרק ג paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז in blue ג פירושים version) <span style="color:rgb(255, 0, 0)">This really is all over the חובות הלבבות</span>
-[^62]: חובות הלבבות שאר חשבון הנפש פרק ג מרפא לנפש ד"ה ויהיה במדרגה paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז in blue ג פירושים version)
-[^63]: שמואל-א א ח חומת אנך שם
+[^40]: במדבר כא א רש"י שם
+[^41]: הג"ה on מאמר אגדות at the beginning of מדרש רבה, written by the רמח"ל, referencing the יד מלאכי כלל יד (as presented by Tiferes Dovid : Chapter 2 (footnote 29))
+[^42]: שופטים ח ה, ח יב, ח יח-כא
+[^43]: רלב"ג תועלת טו בשופטים פרק י
+[^44]: חובות הלבבות שער חשבון הנפש פרק ג (paragraph beginning with  "ובחן זה", pg קצד in blue ג פירושים version)
+[^45]: חובות הלבבות שער חשבון הנפש פרק ג (pgs רג-רד in blue ג פירושים version)
+[^46]: Tiferes Dovid : Chapter 4 (pg 46-47)
+[^47]: מלכים ב יב ג מלבי"ם שם (as presented by Tiferes Dovid : Chapter 4 (footnote 42))
+[^48]: Tiferes Dovid : Chapter 4 (footnote 43)
+[^49]: Tiferes Dovid : Chapter 4 (footnote 44)
+[^50]: Tiferes Dovid : Chapter 4 (footnote 45)
+[^51]: חובות הלבבות שאר הבטחון פרק ה פס לחם ד"ה Livchor (pg 554 in blue ג פירושים version)
+[^52]: חובות הלבבות שאר הבטחון פרק ה טוב הלבנון ד"ה וחושך (pg 556)
+[^53]: Based on יהושע א א-ב ראשון לציון שם (first few paragraphs)
+[^54]: יהושע א ח מלבי"ם שם
+[^55]: חובות הלבבות שער חשבון הנפש פרק ב מרפא לנפש ד"ה ומה שלא (pg קפא in blue ג פרושים)
+[^56]: יהושע א ח חומת אנך שם
+[^57]: יהושע א ח חומת אנך שם presenting Menachos .קי
+[^58]: יהושע א ו מלבי"ם שם
+[^59]: Implied by יהושע ה ב מנחה קטנה שם
+[^60]: יהושע א ז מלבי"ם שם
+[^61]: חובות הלבבות שער עבודת אלקים פרק ח פס לחם ד"ה אם (pg תא in blue ג פירושים version)
+[^62]: Based on חובות הלבבות שאר חשבון הנפש פרק ג paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז in blue ג פירושים version) <span style="color:rgb(255, 0, 0)">This really is all over the חובות הלבבות</span>
+[^63]: חובות הלבבות שאר חשבון הנפש פרק ג מרפא לנפש ד"ה ויהיה במדרגה paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז in blue ג פירושים version)
+[^64]: שמואל-א א ח חומת אנך שם

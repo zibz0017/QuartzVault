@@ -395,16 +395,57 @@ $$\sqrt{\frac{\sigma^2}{n}} \Rightarrow \frac{\sqrt{\sigma^2}}{\sqrt{n}} = \boxe
 For Bernoulli random variables, this is going to be $\frac{\sqrt{p(1-p)}}{\sqrt{n}}$ (the [[Bernoulli Trial#Standard Deviation|standard deviation of a Bernoulli random variable]] is $\sqrt{p(1-p)}$), which is the same as $\sqrt{\frac{p(1-p)}{n}}$ or $\frac{\sqrt{np(1-p)}}{n}$.
 # Calculating Population Mean from Sample (Confidence Intervals)
 ## Calculation
+### Standard Formula and Intuition
 We can estimate a population mean based off the mean of a sample, based off a few points previously discussed.
 As mentioned [[#Mean|above]] the mean of the actual population will be the same as the mean of the distribution of the means of the samples.
-Assuming that the sample distributions are normal (see [[#Getting a Normal Distribution for the Distribution of Sample Means|above]] for the parameters for when we assume that), and that the selections are independent (see [[#Achieving Independence between Selections|above]]) we can calculate the probability that the sample mean is within 1 standard deviation, or 2 standard deviation, or 2.5 standard deviation, etc. of the mean of the distribution of the means of the samples. And since the mean of the distribution of the means of the samples and the actual population mean are the same, this means that we can calculate the likelihood of how close or how far the sample mean is from the population mean.
+Assuming that the sample distributions are normal (see [[#Getting a Normal Distribution for the Distribution of Sample Means|above]] for the parameters for when we assume that), we can calculate the probability that the sample mean is within 1 standard deviation, or 2 standard deviation, or 2.5 standard deviation, etc. of the mean of the distribution of the means of the samples. And since the mean of the distribution of the means of the samples and the actual population mean are the same, this means that we can calculate the likelihood of how close or how far the sample mean is from the population mean.
 For example, approximately 95% of sample means will be within 2 standard deviations of the mean of the distribution of the means of the samples, the same way we know that for any normal distribution, a randomly selected value will be within 2 standard deviations of the mean, as discussed [[Density Curve#Empirical Rule (68-95-99.7 Rule)|here]]. In other words, the sample mean of a random sample will be within 2 standard deviations of the mean of the distribution of the sample means 95% of the time. And since the mean of the distribution of the sample means is the same as the population mean, the sample mean of a random sample will be within 2 standard deviations of the population mean. This means that if we can calculate the standard deviation, we will be able to calculate a range for the population proportion (with a certain degree of confidence).
 However, the [[#Standard Deviation|formula for calculating the standard deviation of the distribution of the samples]] is based actual population standard deviation and we don't know that.
 However, we can estimate the population standard deviation using the sample, as discussed [[Mean Absolute Deviation (MAD), Variance, and Standard Deviation#Steps to Find Sample Variance (s 2)|here]]. We will use that in our formula in place of the population standard deviation to calculate an estimate of the standard deviation of the distribution of the sample means. This estimate of the standard deviation of the distribution of the sample means is called the standard error.
-We can use this to calculate a range of possibilities for the population proportion. For example, if we wanted to create a range that we would know that the population proportion would be part of with 95% confidence, we would need to calculate around two standard errors above and below the sample mean. This is called the margin of error (meaning, the standard error multiplied by how many standard errors we would like to be able to achieve our degree of confidence).
-The larger the sample size, the smaller the standard deviation is going to be ($n$, or the sample size, is in the denominator of the fraction). This means that if we want to make the standard deviation smaller (and hence, the estimate of the population proportion to be more specific) we need to increase the sample size. ^59e303
+We can use this to calculate a range of possibilities for the population proportion. For example, if we wanted to create a range that we would know that the population proportion would be part of with 95% confidence, we would need to calculate around two standard errors above and below the sample mean. How many standard deviations we need is called the z critical-value. The standard error multiplied by the z critical-value is called the margin of error.
+The larger the sample size, the smaller the standard deviation is going to be ($n$, or the sample size, is in the denominator of the fraction). This means that if we want to make the standard deviation smaller (and hence, the estimate of the population proportion to be more specific) we need to increase the sample size. 
+(<span style="color:rgb(255, 0, 0)">Need to come back to this later. Technically, you are actually supposed to use a t-score which is part of the t-table, not a z-score. The t-table takes into account the fact that we are estimating the standard deviation which may be inaccurate.</span>) ^59e303
+#### Formula
+The formula is going to come out to be:
+$$\text{Standard Error}=\sqrt{\frac{\sum^n_{i=1}(x_i-\bar{x})^2}{n-1}}$$
+(Where $n$ is the amount of samples taken and $\bar{x}$ is the average of the sample.)
+
+$$\text{Margin of Error}= \text{SE} \times z^*$$
+($z^*$ is the z critical-value.)
+
+$$\text{Confidence Interval} = \bar{x} \pm \text{MoE}$$
 ### "Shortcut" for Bernoulli Random Variables
-The standard deviation for a Bernoulli random variable is $p(1-p)$. As discussed [[Bernoulli Trial#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance and Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation|here]], this is simplified from the regular standard deviation formula (getting the distances from the mean, squaring them, adding them together, dividing by $n$, and getting the square root). However, this assumes that we are dividing by $n$. In our situation, we are estimating the standard deviation of the population from the sample and so we have to use $n-1$ (Bessel's Correction) as [[#^59e303|just discussed]]. Technically, this simplification to $p(1-p)$ does not work in this situation. However, if the sample is large, the difference between $n$ and $n-1$ becomes very small and so, in most situations, the difference will not matter. As such, one can use $p(1-p)$ as the standard deviation of the Bernoulli random variable (and use that as an estimate of the population standard deviation).
+The standard deviation for a Bernoulli random variable is $\sqrt{p(1-p)}$. As discussed [[Bernoulli Trial#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance and Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation|here]], this is simplified from the regular standard deviation formula (getting the distances from the mean, squaring them, adding them together, dividing by $n$, and getting the square root). However, this assumes that we are dividing by $n$. In our situation, we are estimating the standard deviation of the population from the sample and so we have to use $n-1$ (Bessel's Correction) as [[#^59e303|just discussed]]. Technically, this simplification to $\sqrt{p(1-p)}$ does not work in this situation. However, if the sample is large, the difference between $n$ and $n-1$ becomes very small and so, in most situations, the difference will not matter. As such, one can use $\sqrt{p(1-p)}$ as the standard deviation of the Bernoulli random variable (and use that as an estimate of the population standard deviation).
+### Minimum Sample Size to Achieve a Desired Confidence Interval and Margin of Error for Bernoulli Trials
+Let's say you want to have a certain confidence interval, and you also want the margin of error to be under a certain size. To guarantee that this will happen, there is a minimum sample size that you will need.
+(Keep in mind that the larger the confidence interval and the smaller the margin of error, the larger the sample size will need to be.)
+
+This can be calculated based on the margin of error formula. As stated above, the formula for the margin of error is $\text{SE} \times z^*$. And for a Bernoulli Trial, we can say that the standard error is $\sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$ ($\hat{p}$ is the sample proportion, which is basically the same thing as the sample mean but specifically for Bernoulli Trials). The margin of error is $\sqrt{\frac{\hat{p}(1-\hat{p})}{n}} \times z^*$. So a way of thinking about this is:
+$$\text{Desired MoE} \le \sqrt{\frac{\hat{p}(1-\hat{p})}{n}} \times \text{Desired } Z^*$$
+We have to be concerned about the "worst case scenario", which would be the value for the sample proportion (or $\hat{p}$) that would make the MoE the maximum possible value it could be. This is going to be $\hat{p}=.5$.
+From this point, we just need to do algebra to find the value of $n$.
+It may come out that once we take out sample, we find that the sample proportion is less than or greater than .5 and so the MoE is actually less than the desired MoE. That is fine; the desired MoE was the maximum amount. It is fine if it is less.
+For example, let's say I wanted my MoE to be no more than 3% and I wanted to be 95% confident, this is what the formula would look like:
+$$.03 \ge \sqrt{\frac{.5*(1-.5)}{n}} * 1.96$$
+(As discussed above, we assume the "worst case scenario that $\hat{p}$ is .5. The z critical-value for a 95% confidence is 1.96)
+
+Dividing both sides by 1.96 and simplifying a bit we get:
+$$\frac{.03}{1.96} \ge \sqrt{\frac{.5*.5}{n}} \Rightarrow \frac{.03}{1.96} \ge \frac{.5}{\sqrt{n}}$$
+
+Multiplying both sides by 2 we get:
+$$2 \times \frac{.03}{1.96} \ge 2 \times \frac{.5}{\sqrt{n}} \Rightarrow \frac{.06}{1.96} \ge \frac{1}{\sqrt{n}}$$
+
+We then flip to the reciprocals. When we do this, the greater than/less than sign changes direction:
+$$\frac{.06}{1.96} \ge \frac{1}{\sqrt{n}} \Rightarrow \frac{1.96}{.06} \le \sqrt{n}$$
+
+Squaring both sides, we get:
+$$ n \ge \boxed{1067.111}$$
+
+So to guarantee that we will get no greater than $\pm3\%$ and we wanted to be 95% confident, we would need a minimum sample size of 1068 people.
+(As discussed above, this is assuming the worst-case scenario that the population proportion is .5. When you actually take the sample, if you discover that the population proportion is not .5, your margin or error will actually be lower.)
+#### Some Practical Points about Required Minimum Sample Size
+This formula only works for Bernoulli random variables because we know that the highest variance occurs at .5. For non-Bernoulli random variables, there is technically no maximum variance. However, in most real-life situations, either you can estimate a maximum variance, or you may have some sort of previous pilot study that you can use to give you a feel for what the max is.
+And even when it comes to Bernoulli random variables, you may know from your own estimates or from previous pilot studies that the population proportion is not .5. In that case, you can take a smaller sample.
 ### Sampling from a Finite Population (Finite Population Correction)
 When sampling something, we will usually be sampling from a population with finite size (for example, we may be sampling voting patterns in a certain population. There are a finite amount of people in that population) and we are not going to be replacing the people that we sample (in the above example, once we ask someone how they are voting, we are not going to ask them again). This allows us to get get even tighter confidence intervals.
 Intuitively, this makes sense. If there are 100 people in our population and we sample all 100 of them, we know with 100% certainty the exact distribution. There is no "range of values" or "degree of confidence".
@@ -430,11 +471,11 @@ We take a random sample of 100 people from a certain population and 75% say that
 ### Using the "Shortcut"
 *Note: We are only able to use the shortcut because this is a Bernoulli random variable. This does not work for non-Bernoulli random variables.*
 
-The sample proportion is .75, so the standard deviation of the sample is:
+The sample proportion is .75, so the variance of the sample is:
 
 $$.75 \times (1-.75)$$
 
-To calculate the standard error, we use this in place of the population standard deviation to calculate the standard deviation of the distribution of the means of samples. As [[#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance And Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation#formula|discussed above]], we just need to divide by $n$ (which is 100) and then take the square root, like so:
+To calculate the standard error, we use this in place of the population variance to calculate the standard deviation of the distribution of the means of samples. As [[#Mean Absolute Deviation (MAD), Variance, and Standard Deviation Variance Variance And Mean Absolute Deviation (MAD), Variance, and Standard Deviation Standard Deviation (σ or $s$) Standard Deviation#formula|discussed above]], we just need to divide by $n$ (which is 100) and then take the square root, like so:
 $$\sqrt{\frac{.75 \times (1-.75)}{100}} \Rightarrow \sqrt{\frac{.75 \times .25}{100}} \approx \boxed{.043}$$
 Now that we have our standard error, we need to calculate two standard errors above and below the sample proportion (our margin of error) and we will have a range of different values for the population proportion (with 95% certainty).
 This becomes:

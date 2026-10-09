@@ -57,11 +57,11 @@ Average of the *squared* distance of all of the numbers from the mean. (See [[#A
 2. <span style="display: block; text-align: justify;">Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.</span>
 3. <span style="display: block; text-align: justify;">Find the average of these squared distances. Add them all up together, then divide by the total number of values in the set.</span>
 ### Steps to Find Sample Variance (s^2)
-The exact same as finding the population variance, except instead of dividing the whole thing by the amount of numbers, we divide by the amount of numbers *minus 1*.
+The exact same as finding the population variance, except instead of dividing the whole thing by the amount of numbers, we divide by the amount of numbers *minus 1* (known as Bessel's Correction).
 So the steps are:
 1. <span style="display: block; text-align: justify;">Find the mean.</span>
 2. <span style="display: block; text-align: justify;">Find how far the squared distance every number is from the mean by subtracting the mean from each number and squaring it.</span>
-3. <span style="display: block; text-align: justify;">Add up all of these squared distances together, then divide by the total number of values in the sample.</span>
+3. <span style="display: block; text-align: justify;">Add up all of these squared distances together, then divide by the total number of values in the sample *minus one*.</span>
 ## Calculating Variance Example
 ### Population Variance Example
 Set of numbers: 4, 7, 13, 23, 18, -2
@@ -141,7 +141,7 @@ Divide by the amount of numbers *minus 1*:
 $$
 \frac{429.5}{(6-1)} \Rightarrow \frac{429.5}{5} = \textbf{85.9}
 $$
-## Why There is a Different Calculation for the Population Variance and the Sample Variance
+## Why There is a Different Calculation for the Population Variance and the Sample Variance (Reason for Bessel's Correction)
 {<span style="color:rgb(255, 0, 0)">This section is important and I think it can use more work</span>}
 The sample variance is obviously supposed to be an estimate of the population variance. However, it comes out lower.
 

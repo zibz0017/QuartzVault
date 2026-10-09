@@ -73,10 +73,11 @@
 # &lrm;ארון Flew over the People
 1. <span style="display: block; text-align: justify;">According to numerous מפרשים, the כהנים were standing with the ארון near the eastern coast of the ירדן.
    After כלל ישראל finished crossing, the כהנים carrying the ארון were instructed to leave on the eastern side. By doing so, they were now on the eastern side of the river.
-   Hashem made a נס and ארון, along with the כהנים, flew over the ירדן. (In general the ארון would make those who carried it fly \["נשא ארון את נושאיו"].)[^38]</span>
+   Hashem made a נס and the ארון, along with the כהנים, flew over the ירדן. (In general the ארון would make those who carried it fly \["נשא ארון את נושאיו"].)[^38]</span>
 2. <span style="display: block; text-align: justify;">Others disagree and say that the כהנים were carrying the ארון near the western bank of the ירדן and they simply got out on the western side after everyone had crossed.
-   According to these שיטות, if such a big מצוה of the ארון flying over the people had happened, it would have been explicitly discussed.[^39]</span>
+   According to these שיטות, if such a big נס of the ארון flying over the people had happened, it would have been explicitly discussed.[^39]</span>
 3. <span style="display: block; text-align: justify;">The מלבי"ם learns that the כהנים were on the eastern side. The כהנים crossed the riverbed with the ארון. The water stayed put until they got out on the western side.[^40]</span>
+4. <span style="display: block; text-align: justify;"><span style="color:rgb(255, 0, 0)">I think there is a שיטה that says that the ארון was got out on the western bank after everyone had crossed the ירדן and then flew over all of the people to get to the front. I need to go back over this.</span></span>
 # Water Returned to Normal
 1. <span style="display: block; text-align: justify;">When the כהנים left the riverbed, the water did not just splash down. Instead the water began flowing out of the pillar-like formation until the ירדן was back to normal.[^41]</span>
 # Traveled to גלגל
