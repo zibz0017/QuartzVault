@@ -1,0 +1,4 @@
+# מחבר
+1. <span style="display: block; text-align: justify;">Meat salted in a כלי שאינו מנוקב is subject to the דינים of כבוש in ציור (since ציור is coming out) and fills up the כלי.
+   Based off this, the food will become אסור in the time it takes for liquid to boil (as [[סימן קה הלכות#^706762|that is how long כבוש in brine takes]]). Additionally, only the food that is under the liquid will become אסור as well as a קליפה above the liquid.
+   <span style="color:rgb(255, 0, 0)">Need to come back to this. The ש"ך in ס"ק עג seems to say that the reason for this is that the בליעות from the blood in the salt get absorbed in the meat and then transfer a קליפה into the meat above the waterline. This is true whether the meat is fatty or lean. I don't know if this fits with my understanding of איסור בלוע.</span>

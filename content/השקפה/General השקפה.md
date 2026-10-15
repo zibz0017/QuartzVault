@@ -216,7 +216,7 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 
 ## Davening for Help with ניסיונות
 1. <span style="display: block; text-align: justify;">יעקב davened for Hashem to help Shimshon with his ניסיונות when יעקב saw that Shimshon was going to struggle in this area. Hashem answered יעקב's תפילות and did help Shimshon.[^39]<span style="color:rgb(255, 0, 0)"> Need to see בראשית מט יח</span></span>
-2. <span style="display: block; text-align: justify;">It seems that one can daven for Hashem to help one with their ניסיונות.[^5]</span>
+2. <span style="display: block; text-align: justify;">It seems that one can daven for Hashem to help one with their ניסיונות.&lrm;[^5]</span>
 ## Getting what One Asks For, even if it is not what They want
 1. <span style="display: block; text-align: justify;">There are חז"ל that discuss how people intend for one thing but accidentally use the wrong language when saying the תפילה and receive what they actually said rather than what they really wanted. For example:</span>
 	1. <span style="display: block; text-align: justify;">חנה was davening for a son but חז"ל tell us that because she davened for a long time, she accidentally caused שמואל to die young. She accidentally said that he would remain in the service of Hashem "עד עולם". However, this terminology is actually used to mean 50 years and so שמואל died at 52 years old. (See [[פרק א#Lengthy תפילה]] for more details.)</span>
@@ -305,8 +305,11 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 2. <span style="display: block; text-align: justify;">Being on the מדרגה of one who receives רוח הקודש is for those on the highest levels, like נביאים.&lrm;[^63]</span>
 # Protected from יצר הרע by One's Husband's Learning
 1. <span style="display: block; text-align: justify;">A wife is protected from the יצר הרע by her husband's learning, similarly to the way that he himself is protected by his own learning.[^64]</span>
+# The תורה Talks in לשון בני אדם
+1. <span style="display: block; text-align: justify;">The גמ'&rlm; in ברכות tries to explain a double לשון in the תורה in a way that doesn't fit with another שיטה. That other שיטה holds that you aren't supposed to learn anything from those words because the תורה talks in לשון בני אדם.&lrm;[^65]</span>
 # Things to come back to
 1. <span style="display: block; text-align: justify;">יהושע א ז חומת אנך שם</span>
+2. <span style="display: block; text-align: justify;">שמואל-א א טז מהר"י קרא שם (it seems that a the תפילות even of a נביא are quite likely to not be answered. However, there are many ראשונים there who learn that עלי did daven for חנה and she was happy with that, implying that the תפילות of someone like עלי were quite likely to be answered.)</span>
 # Footnotes
 
 [^1]: Based on Rav Aharon Lopiansky : Poland Trip Shiur #8 and Rav Aharon Lopiansky : Lithuania Trip Shiur #8
@@ -373,3 +376,4 @@ Perhaps it could be that Rav Aharon was trying to push his talmidim. Lihavdil, w
 [^62]: Based on חובות הלבבות שאר חשבון הנפש פרק ג paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז in blue ג פירושים version) <span style="color:rgb(255, 0, 0)">This really is all over the חובות הלבבות</span>
 [^63]: חובות הלבבות שאר חשבון הנפש פרק ג מרפא לנפש ד"ה ויהיה במדרגה paragraph beginning with "וכאשר יתמיד על זה" (on page רו-רז in blue ג פירושים version)
 [^64]: שמואל-א א ח חומת אנך שם
+[^65]: ברכות לא:&rlm;
